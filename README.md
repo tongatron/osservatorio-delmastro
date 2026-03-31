@@ -10,7 +10,6 @@ Mini progetto per raccogliere articoli recenti sul caso Delmastro, pubblicare un
 - espone nel masthead l'ultimo controllo automatico del workflow
 - include un template `launchd` per aggiornare il dataset ogni ora su macOS
 - include una GitHub Action schedulata per aggiornare automaticamente `data/articles.json`
-- invia pageview a Google Analytics 4
 
 ## Perche' questo approccio
 
@@ -69,10 +68,6 @@ Il workflow [update-data.yml](/Users/tonga/Documents/GitHub/osservatorio-delmast
 - commit automatico di `data/articles.json` e `data/status.json` solo se cambia qualcosa
 
 Il masthead mostra `Ultimo controllo ...` leggendo `data/status.json`.
-
-## Analytics
-
-Il sito usa Google Analytics 4 con lo stesso stream di `tongatron.github.io`. Per cambiare stream o disattivarlo, modifica il tag GA4 nel `<head>` di [index.html](/Users/tonga/Documents/GitHub/osservatorio-delmastro/index.html).
 
 ## Automazione oraria su macOS
 

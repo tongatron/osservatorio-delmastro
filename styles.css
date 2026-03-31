@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,700;6..72,800&display=swap");
+
 :root {
   --paper: #f7f3ea;
   --surface: #fffdf8;
@@ -12,6 +14,8 @@
   --chart-soft: #dce7f2;
   --tag-bg: #f3ede2;
   --shadow: 0 10px 30px rgba(28, 25, 19, 0.05);
+  --font-serif: "Newsreader", Georgia, "Times New Roman", serif;
+  --font-sans: "Libre Franklin", Arial, sans-serif;
 }
 
 * {
@@ -25,7 +29,7 @@ html {
 body {
   margin: 0;
   color: var(--ink);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-serif);
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.55), rgba(255, 255, 255, 0.55)),
     repeating-linear-gradient(
@@ -56,8 +60,35 @@ body {
   text-align: center;
 }
 
+.site-badge {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 9px;
+  border: 1px solid var(--rule-strong);
+  border-radius: 6px;
+  background: rgba(255, 253, 248, 0.92);
+  color: var(--accent);
+  text-decoration: none;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  box-shadow: var(--shadow);
+}
+
+.site-badge svg {
+  flex: 0 0 auto;
+  width: 13px;
+  height: 13px;
+}
+
 .edition-kicker {
   margin: 0 0 8px;
+  font-family: var(--font-sans);
   font-size: 0.72rem;
   letter-spacing: 0.18em;
   text-transform: uppercase;
@@ -81,6 +112,7 @@ body {
   top: 8px;
   right: 0;
   margin: 0;
+  font-family: var(--font-sans);
   font-size: 0.86rem;
   color: var(--muted);
   text-transform: lowercase;
@@ -93,6 +125,7 @@ body {
   flex-wrap: wrap;
   margin-top: 12px;
   color: var(--muted);
+  font-family: var(--font-sans);
   font-size: 0.88rem;
 }
 
@@ -127,6 +160,7 @@ h2 {
 }
 
 h3 {
+  font-family: var(--font-sans);
   font-size: 0.92rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -175,6 +209,7 @@ h3 {
   display: inline-flex;
   align-items: center;
   gap: 8px;
+  font-family: var(--font-sans);
   font-size: 0.92rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -267,6 +302,7 @@ h3 {
 
 .section-caption {
   margin: 0;
+  font-family: var(--font-sans);
   font-size: 0.92rem;
 }
 
@@ -281,6 +317,7 @@ h3 {
   align-content: stretch;
   justify-items: end;
   color: var(--accent-soft);
+  font-family: var(--font-sans);
   font-size: 0.8rem;
 }
 
@@ -318,6 +355,7 @@ h3 {
 .timeline-count {
   display: block;
   text-align: center;
+  font-family: var(--font-sans);
   font-size: 0.84rem;
   color: var(--accent);
 }
@@ -336,6 +374,7 @@ h3 {
 .timeline-date {
   display: block;
   text-align: center;
+  font-family: var(--font-sans);
   font-size: 0.8rem;
   color: var(--muted);
 }
@@ -363,6 +402,7 @@ h3 {
   justify-content: space-between;
   gap: 16px;
   margin-bottom: 10px;
+  font-family: var(--font-sans);
   font-size: 0.84rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
@@ -393,6 +433,7 @@ h3 {
 .empty-state {
   padding: 28px 0;
   text-align: center;
+  font-family: var(--font-sans);
   color: var(--muted);
 }
 
@@ -409,7 +450,7 @@ h3 {
   background: transparent;
   padding: 0;
   color: var(--accent);
-  font: inherit;
+  font-family: var(--font-sans);
   font-size: 0.9rem;
   cursor: pointer;
   text-decoration: underline;
@@ -425,6 +466,7 @@ h3 {
   display: flex;
   align-items: center;
   gap: 10px;
+  font-family: var(--font-sans);
   font-size: 0.95rem;
   color: var(--muted);
 }
@@ -462,6 +504,11 @@ h3 {
     position: static;
     margin-top: 8px;
     text-align: center;
+  }
+
+  .site-badge {
+    position: static;
+    margin: 0 auto 10px;
   }
 
   .meta-item + .meta-item::before {

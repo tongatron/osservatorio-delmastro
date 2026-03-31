@@ -59,7 +59,12 @@ for (const source of sourceUrls) {
 
     registerHit(queryStats, source.queryLabel, false);
 
-    const dedupeKey = `${title}__${link}`;
+    const dedupeKey = buildArticleFingerprint({
+      title,
+      sourceName,
+      sourceHost: source.label,
+      publishedAt: publishedAt.toISOString()
+    });
     if (seen.has(dedupeKey)) {
       continue;
     }
@@ -196,6 +201,22 @@ function buildTimeline(records, start, end) {
   }
 
   return [...counts.entries()].map(([date, count]) => ({ date, count }));
+}
+
+function buildArticleFingerprint({ title, sourceName, sourceHost, publishedAt }) {
+  return [
+    sourceHost,
+    sourceName.toLowerCase(),
+    normalizeTitle(title),
+    publishedAt
+  ].join("__");
+}
+
+function normalizeTitle(value) {
+  return String(value)
+    .toLowerCase()
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 function extractItems(xml) {

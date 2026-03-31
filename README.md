@@ -1,14 +1,16 @@
 # Osservatorio Caso Delmastro
 
-Mini progetto locale per raccogliere articoli recenti sul caso Delmastro, tenere aggiornata una pagina pubblicabile su GitHub Pages e conservare un dataset leggero di titoli, fonti e link.
+Mini progetto per raccogliere articoli recenti sul caso Delmastro, pubblicare una rassegna statica su GitHub Pages e mantenere un dataset leggero di titoli, fonti e link.
 
 ## Cosa fa
 
 - cerca articoli via RSS di ricerca di Google News filtrando per keyword e dominio
 - conserva titolo, estratto breve, testata, data e link originale
-- mostra tutto in una pagina statica leggera
+- mostra tutto in una pagina statica servita dalla root del repository
+- espone nel masthead l'ultimo controllo automatico del workflow
 - include un template `launchd` per aggiornare il dataset ogni ora su macOS
-- include una GitHub Action schedulata per aggiornare `data/articles.json` automaticamente
+- include una GitHub Action schedulata per aggiornare automaticamente `data/articles.json`
+- invia pageview a Google Analytics 4
 
 ## Perche' questo approccio
 
@@ -30,22 +32,47 @@ Modifica [config/watch.json](/Users/tonga/Documents/GitHub/osservatorio-delmastr
 
 La finestra temporale attuale e' di `8` giorni. Con la data di oggi, il progetto raccoglie articoli tra il `23 marzo 2026` e il `31 marzo 2026`.
 
-## Avvio
+## Struttura
+
+- [index.html](/Users/tonga/Documents/GitHub/osservatorio-delmastro/index.html), [app.js](/Users/tonga/Documents/GitHub/osservatorio-delmastro/app.js), [styles.css](/Users/tonga/Documents/GitHub/osservatorio-delmastro/styles.css): frontend pubblicato su GitHub Pages
+- [data/articles.json](/Users/tonga/Documents/GitHub/osservatorio-delmastro/data/articles.json): dataset articoli generato
+- [data/status.json](/Users/tonga/Documents/GitHub/osservatorio-delmastro/data/status.json): timestamp dell'ultimo controllo automatico
+- [scripts/update-news.mjs](/Users/tonga/Documents/GitHub/osservatorio-delmastro/scripts/update-news.mjs): generazione dataset
+- [config/watch.json](/Users/tonga/Documents/GitHub/osservatorio-delmastro/config/watch.json): keyword, query e fonti
+
+## Avvio locale
 
 ```bash
+cd /Users/tonga/Documents/GitHub/osservatorio-delmastro
 npm run update
 npm run serve
 ```
 
-Poi apri `http://localhost:4173`.
+Poi apri [http://localhost:4173](http://localhost:4173).
+
+## Pubblicazione
+
+La pagina live e':
+
+[https://tongatron.github.io/osservatorio-delmastro/](https://tongatron.github.io/osservatorio-delmastro/)
+
+GitHub Pages pubblica direttamente la root del branch `main`.
 
 ## Aggiornamento automatico su GitHub
 
 Il workflow [update-data.yml](/Users/tonga/Documents/GitHub/osservatorio-delmastro/.github/workflows/update-data.yml) esegue:
 
 - avvio manuale da Actions
-- aggiornamento schedulato ogni ora al minuto `17`
-- commit automatico del solo `data/articles.json` quando cambia
+- aggiornamento schedulato ogni 30 minuti
+- `npm run update`
+- aggiornamento di [data/status.json](/Users/tonga/Documents/GitHub/osservatorio-delmastro/data/status.json) a ogni check
+- commit automatico di `data/articles.json` e `data/status.json` solo se cambia qualcosa
+
+Il masthead mostra `Ultimo controllo ...` leggendo `data/status.json`.
+
+## Analytics
+
+Il sito usa Google Analytics 4 con lo stesso stream di `tongatron.github.io`. Per cambiare stream o disattivarlo, modifica il tag GA4 nel `<head>` di [index.html](/Users/tonga/Documents/GitHub/osservatorio-delmastro/index.html).
 
 ## Automazione oraria su macOS
 

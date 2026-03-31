@@ -87,10 +87,6 @@ body {
   box-shadow: var(--shadow);
 }
 
-.site-badge-secondary {
-  background: rgba(255, 253, 248, 0.82);
-}
-
 .site-badge svg {
   flex: 0 0 auto;
   width: 13px;
@@ -116,22 +112,6 @@ body {
   max-width: none;
   text-align: center;
   white-space: nowrap;
-}
-
-.status-badge {
-  position: absolute;
-  top: 8px;
-  right: 0;
-  display: flex;
-  align-items: flex-end;
-}
-
-.checked-relative {
-  margin: 0;
-  font-family: var(--font-sans);
-  font-size: 0.86rem;
-  color: var(--muted);
-  text-transform: lowercase;
 }
 
 .masthead-meta {
@@ -511,18 +491,9 @@ h3 {
 
   .site-badges {
     position: static;
+    justify-content: center;
     align-items: center;
     margin: 0 auto 12px;
-  }
-
-  .status-badge {
-    position: static;
-    justify-content: center;
-    margin: 8px 0 0;
-  }
-
-  .checked-relative {
-    text-align: center;
   }
 
   .layout {
@@ -544,20 +515,9 @@ h3 {
     width: min(100% - 22px, 1280px);
   }
 
-  .status-badge {
-    position: static;
-    margin-top: 8px;
-    align-items: center;
-  }
-
   .masthead-meta {
     gap: 10px;
     justify-content: center;
-  }
-
-  .updated-relative,
-  .checked-relative {
-    text-align: center;
   }
 
   .site-badges {

@@ -183,6 +183,19 @@ h3 {
   color: var(--muted);
 }
 
+.sources-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.sources-title svg,
+.panel-summary-label svg {
+  flex: 0 0 auto;
+  width: 14px;
+  height: 14px;
+}
+
 .section-caption,
 .article-excerpt {
   color: var(--muted);

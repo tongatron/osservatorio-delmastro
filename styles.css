@@ -107,10 +107,18 @@ body {
   white-space: nowrap;
 }
 
-.updated-relative {
+.status-badge {
   position: absolute;
   top: 8px;
   right: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+}
+
+.updated-relative,
+.checked-relative {
   margin: 0;
   font-family: var(--font-sans);
   font-size: 0.86rem;
@@ -495,14 +503,19 @@ h3 {
     width: min(100% - 22px, 1280px);
   }
 
+  .status-badge {
+    position: static;
+    margin-top: 8px;
+    align-items: center;
+  }
+
   .masthead-meta {
     gap: 10px;
     justify-content: center;
   }
 
-  .updated-relative {
-    position: static;
-    margin-top: 8px;
+  .updated-relative,
+  .checked-relative {
     text-align: center;
   }
 

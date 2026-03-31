@@ -1,9 +1,15 @@
-const data = await fetch("./data/articles.json").then((response) => response.json());
+const [data, status] = await Promise.all([
+  fetch("./data/articles.json").then((response) => response.json()),
+  fetch("./data/status.json")
+    .then((response) => (response.ok ? response.json() : { lastCheckedAt: null }))
+    .catch(() => ({ lastCheckedAt: null }))
+]);
 
 const dateWindow = document.querySelector("#date-window");
 const articleCount = document.querySelector("#article-count");
 const mastheadCount = document.querySelector("#masthead-count");
 const updatedRelative = document.querySelector("#updated-relative");
+const checkedRelative = document.querySelector("#checked-relative");
 const sources = document.querySelector("#sources");
 const toggleSourcesButton = document.querySelector("#toggle-sources");
 const sourcesPanel = document.querySelector(".sources-panel");
@@ -20,6 +26,9 @@ dateWindow.textContent = formatWindow(data.window?.from, data.window?.to);
 updatedRelative.textContent = data.generatedAt
   ? `Aggiornato ${formatRelativeTime(data.generatedAt)}`
   : "";
+checkedRelative.textContent = status.lastCheckedAt
+  ? `Ultimo controllo ${formatRelativeTime(status.lastCheckedAt)}`
+  : "Controllo automatico ogni 30 minuti";
 
 for (const source of data.sources ?? []) {
   const label = document.createElement("label");

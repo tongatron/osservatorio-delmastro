@@ -26,16 +26,29 @@ jobs:
       - name: Update articles dataset
         run: npm run update
 
+      - name: Record last check timestamp
+        run: |
+          TIMESTAMP="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+          printf '{\n  "lastCheckedAt": "%s"\n}\n' "$TIMESTAMP" > data/status.json
+
       - name: Commit and push if data changed
         run: |
-          if git diff --quiet -- data/articles.json; then
+          if git diff --quiet -- data/articles.json data/status.json; then
             echo "No data changes to commit."
             exit 0
           fi
 
           TIMESTAMP="$(date -u +"%Y-%m-%d %H:%M UTC")"
+          ARTICLES_CHANGED=0
+          if ! git diff --quiet -- data/articles.json; then
+            ARTICLES_CHANGED=1
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/articles.json
-          git commit -m "Update articles dataset (${TIMESTAMP})"
+          git add data/articles.json data/status.json
+          if [ "$ARTICLES_CHANGED" -eq 1 ]; then
+            git commit -m "Update articles dataset (${TIMESTAMP})"
+          else
+            git commit -m "Update check status (${TIMESTAMP})"
+          fi
           git push

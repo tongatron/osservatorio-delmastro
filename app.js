@@ -190,7 +190,8 @@ function updateToggleSourcesLabel() {
 function formatDateTime(value) {
   return new Intl.DateTimeFormat("it-IT", {
     timeZone: DISPLAY_TIME_ZONE,
-    dateStyle: "medium"
+    dateStyle: "medium",
+    timeStyle: "short"
   }).format(new Date(value));
 }
 

@@ -1,0 +1,151 @@
+{
+  "title": "Osservatorio Caso Delmastro",
+  "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
+  "description": "Dashboard locale per seguire il caso Delmastro con focus su soci, societa', attivita' commerciali, sviluppi giudiziari e reazioni politiche. Mostra titoli, estratti brevi e link alle fonti, lasciando a te le considerazioni e i riassunti originali.",
+  "topicLabel": "Delmastro, soci e bisteccheria",
+  "windowDays": 8,
+  "keywords": [
+    "Delmastro",
+    "Andrea Delmastro",
+    "Elena Chiorino",
+    "bisteccheria",
+    "Bisteccheria d'Italia",
+    "Bistecchiere d'Italia",
+    "Caroccia",
+    "Cristiano Franceschini",
+    "Davide Zappalà",
+    "5 forchette",
+    "soci Delmastro",
+    "soci bisteccheria",
+    "intestazione fittizia di beni"
+  ],
+  "excludedKeywords": [
+    "fratelli d'italia generico",
+    "caso politico generico"
+  ],
+  "googleNewsSites": [
+    "ansa.it",
+    "agi.it",
+    "repubblica.it",
+    "corriere.it",
+    "ilpost.it",
+    "fanpage.it",
+    "lastampa.it",
+    "open.online",
+    "today.it",
+    "huffingtonpost.it",
+    "tg24.sky.it",
+    "tgcom24.mediaset.it",
+    "ilfoglio.it",
+    "domani.it",
+    "ilgiornale.it",
+    "liberoquotidiano.it",
+    "rainews.it",
+    "ilfattoquotidiano.it",
+    "quotidiano.net",
+    "adnkronos.com",
+    "affaritaliani.it"
+  ],
+  "queryGroups": [
+    {
+      "label": "Delmastro generale",
+      "terms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ]
+    },
+    {
+      "label": "Bisteccheria",
+      "terms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ]
+    },
+    {
+      "label": "Soci e societa'",
+      "terms": [
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl"
+      ]
+    },
+    {
+      "label": "Persone collegate",
+      "terms": [
+        "Elena Chiorino",
+        "Cristiano Franceschini",
+        "Davide Zappalà"
+      ]
+    },
+    {
+      "label": "Filone giudiziario",
+      "terms": [
+        "intestazione fittizia di beni",
+        "antimafia",
+        "indagine Delmastro",
+        "pm Torino"
+      ]
+    },
+    {
+      "label": "Territorio",
+      "terms": [
+        "Biella Delmastro",
+        "Torino Delmastro"
+      ]
+    }
+  ],
+  "tagRules": {
+    "politica": [
+      "sottosegretario",
+      "governo",
+      "fratelli d'italia",
+      "fdi",
+      "dimissioni",
+      "regione"
+    ],
+    "giudiziaria": [
+      "procura",
+      "pm",
+      "indagine",
+      "indagano",
+      "antimafia",
+      "intestazione fittizia di beni"
+    ],
+    "societa'": [
+      "soci",
+      "srl",
+      "societa'",
+      "intestazione",
+      "beni"
+    ],
+    "bisteccheria": [
+      "bisteccheria",
+      "bisteccheria d'italia",
+      "bistecchiere d'italia",
+      "5 forchette",
+      "ristorante"
+    ],
+    "territorio": [
+      "biella",
+      "torino",
+      "piemonte"
+    ]
+  },
+  "manualNotes": [
+    {
+      "title": "Fuoco editoriale",
+      "body": "Concentra le note su tre filoni: il ruolo politico di Delmastro, i rapporti con i soci e la parte societaria o commerciale legata alla bisteccheria."
+    },
+    {
+      "title": "Regola editoriale",
+      "body": "La pagina conserva solo metadati, titolo, estratto breve e link. I riassunti estesi e le considerazioni dovrebbero essere originali e scritti da te."
+    },
+    {
+      "title": "Filtri utili",
+      "body": "Se il rumore cresce, possiamo restringere ancora con keyword come Biella, Torino, antimafia, srl o i nomi dei soci emersi negli articoli."
+    }
+  ]
+}

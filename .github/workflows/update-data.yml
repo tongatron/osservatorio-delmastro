@@ -3,7 +3,7 @@ name: Update dossier data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "*/30 * * * *"
 
 permissions:
   contents: write

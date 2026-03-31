@@ -5,6 +5,7 @@ import process from "node:process";
 const ROOT = process.cwd();
 const CONFIG_PATH = path.join(ROOT, "config", "watch.json");
 const OUTPUT_PATH = path.join(ROOT, "data", "articles.json");
+const ROME_TIME_ZONE = "Europe/Rome";
 
 const config = JSON.parse(await readFile(CONFIG_PATH, "utf8"));
 const now = new Date();
@@ -187,20 +188,44 @@ function buildTagSummary(records) {
 
 function buildTimeline(records, start, end) {
   const counts = new Map();
-  const cursor = new Date(start);
-  cursor.setUTCHours(0, 0, 0, 0);
+  const cursor = getRomeDayStart(start);
+  const finalDay = getRomeDayStart(end);
 
-  while (cursor <= end) {
-    counts.set(cursor.toISOString().slice(0, 10), 0);
+  while (cursor <= finalDay) {
+    counts.set(formatRomeDateKey(cursor), 0);
     cursor.setUTCDate(cursor.getUTCDate() + 1);
   }
 
   for (const article of records) {
-    const key = article.publishedAt.slice(0, 10);
+    const key = formatRomeDateKey(article.publishedAt);
     counts.set(key, (counts.get(key) ?? 0) + 1);
   }
 
   return [...counts.entries()].map(([date, count]) => ({ date, count }));
+}
+
+function formatRomeDateKey(value) {
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: ROME_TIME_ZONE,
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  }).format(new Date(value));
+}
+
+function getRomeDayStart(value) {
+  const date = new Date(value);
+  const parts = new Intl.DateTimeFormat("en-CA", {
+    timeZone: ROME_TIME_ZONE,
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  }).formatToParts(date);
+  const year = parts.find((part) => part.type === "year")?.value;
+  const month = parts.find((part) => part.type === "month")?.value;
+  const day = parts.find((part) => part.type === "day")?.value;
+
+  return new Date(`${year}-${month}-${day}T00:00:00Z`);
 }
 
 function buildArticleFingerprint({ title, sourceName, sourceHost, publishedAt }) {

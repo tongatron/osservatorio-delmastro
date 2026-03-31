@@ -18,6 +18,7 @@ const chartMid = document.querySelector("#chart-mid");
 const articlesRoot = document.querySelector("#articles");
 const template = document.querySelector("#article-template");
 const sourceSelection = new Set((data.sources ?? []).map((source) => source.label));
+const DISPLAY_TIME_ZONE = "Europe/Rome";
 
 initializeResponsivePanels();
 
@@ -188,6 +189,7 @@ function updateToggleSourcesLabel() {
 
 function formatDateTime(value) {
   return new Intl.DateTimeFormat("it-IT", {
+    timeZone: DISPLAY_TIME_ZONE,
     dateStyle: "medium",
     timeStyle: "short"
   }).format(new Date(value));
@@ -233,6 +235,7 @@ function formatWindow(from, to) {
   }
 
   const formatter = new Intl.DateTimeFormat("it-IT", {
+    timeZone: DISPLAY_TIME_ZONE,
     dateStyle: "medium"
   });
   return `${formatter.format(new Date(from))} - ${formatter.format(new Date(to))}`;
@@ -240,6 +243,7 @@ function formatWindow(from, to) {
 
 function formatShortDate(value) {
   return new Intl.DateTimeFormat("it-IT", {
+    timeZone: DISPLAY_TIME_ZONE,
     day: "2-digit",
     month: "2-digit"
   }).format(new Date(value));
@@ -247,6 +251,7 @@ function formatShortDate(value) {
 
 function formatLongDate(value) {
   return new Intl.DateTimeFormat("it-IT", {
+    timeZone: DISPLAY_TIME_ZONE,
     dateStyle: "medium"
   }).format(new Date(value));
 }

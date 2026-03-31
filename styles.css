@@ -505,6 +505,26 @@ h3 {
 }
 
 @media (max-width: 980px) {
+  .masthead {
+    padding-top: 14px;
+  }
+
+  .site-badges {
+    position: static;
+    align-items: center;
+    margin: 0 auto 12px;
+  }
+
+  .status-badge {
+    position: static;
+    justify-content: center;
+    margin: 8px 0 0;
+  }
+
+  .checked-relative {
+    text-align: center;
+  }
+
   .layout {
     grid-template-columns: 1fr;
   }
@@ -572,6 +592,14 @@ h3 {
 
   .panel-body {
     padding: 0 18px 18px;
+  }
+
+  .sources-title {
+    display: none;
+  }
+
+  .sources-head {
+    justify-content: flex-end;
   }
 
   .sources-panel:not([open]) {

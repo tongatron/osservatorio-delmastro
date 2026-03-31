@@ -21,7 +21,7 @@ Lo scraping diretto degli articoli dei giornali e' spesso fragile e puo' scontra
 
 ## Personalizzazione
 
-Modifica [config/watch.json](/Users/tonga/Documents/GitHub/osservatorio-delmastro/config/watch.json):
+Modifica [config/watch.json](./config/watch.json):
 
 - `title`, `subtitle`, `topicLabel`
 - `keywords`
@@ -33,11 +33,11 @@ La finestra temporale attuale e' di `8` giorni. Con la data di oggi, il progetto
 
 ## Struttura
 
-- [index.html](/Users/tonga/Documents/GitHub/osservatorio-delmastro/index.html), [app.js](/Users/tonga/Documents/GitHub/osservatorio-delmastro/app.js), [styles.css](/Users/tonga/Documents/GitHub/osservatorio-delmastro/styles.css): frontend pubblicato su GitHub Pages
-- [data/articles.json](/Users/tonga/Documents/GitHub/osservatorio-delmastro/data/articles.json): dataset articoli generato
-- [data/status.json](/Users/tonga/Documents/GitHub/osservatorio-delmastro/data/status.json): timestamp dell'ultimo controllo automatico
-- [scripts/update-news.mjs](/Users/tonga/Documents/GitHub/osservatorio-delmastro/scripts/update-news.mjs): generazione dataset
-- [config/watch.json](/Users/tonga/Documents/GitHub/osservatorio-delmastro/config/watch.json): keyword, query e fonti
+- [index.html](./index.html), [app.js](./app.js), [styles.css](./styles.css): frontend pubblicato su GitHub Pages
+- [data/articles.json](./data/articles.json): dataset articoli generato
+- [data/status.json](./data/status.json): timestamp dell'ultimo controllo automatico
+- [scripts/update-news.mjs](./scripts/update-news.mjs): generazione dataset
+- [config/watch.json](./config/watch.json): keyword, query e fonti
 
 ## Avvio locale
 
@@ -59,19 +59,19 @@ GitHub Pages pubblica direttamente la root del branch `main`.
 
 ## Aggiornamento automatico su GitHub
 
-Il workflow [update-data.yml](/Users/tonga/Documents/GitHub/osservatorio-delmastro/.github/workflows/update-data.yml) esegue:
+Il workflow [update-data.yml](./.github/workflows/update-data.yml) esegue:
 
 - avvio manuale da Actions
 - aggiornamento schedulato ogni 30 minuti
 - `npm run update`
-- aggiornamento di [data/status.json](/Users/tonga/Documents/GitHub/osservatorio-delmastro/data/status.json) a ogni check
+- aggiornamento di [data/status.json](./data/status.json) a ogni check
 - commit automatico di `data/articles.json` e `data/status.json` solo se cambia qualcosa
 
 Il masthead mostra `Ultimo controllo ...` leggendo `data/status.json`.
 
 ## Automazione oraria su macOS
 
-1. Copia [ops/com.delmastro.newswatch.plist](/Users/tonga/Documents/GitHub/osservatorio-delmastro/ops/com.delmastro.newswatch.plist) in `~/Library/LaunchAgents/`.
+1. Copia [ops/com.delmastro.newswatch.plist](./ops/com.delmastro.newswatch.plist) in `~/Library/LaunchAgents/`.
 2. Caricalo con:
 
 ```bash

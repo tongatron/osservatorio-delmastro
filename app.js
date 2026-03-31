@@ -8,7 +8,6 @@ const [data, status] = await Promise.all([
 const dateWindow = document.querySelector("#date-window");
 const articleCount = document.querySelector("#article-count");
 const mastheadCount = document.querySelector("#masthead-count");
-const updatedRelative = document.querySelector("#updated-relative");
 const checkedRelative = document.querySelector("#checked-relative");
 const sources = document.querySelector("#sources");
 const toggleSourcesButton = document.querySelector("#toggle-sources");
@@ -23,9 +22,6 @@ const sourceSelection = new Set((data.sources ?? []).map((source) => source.labe
 initializeResponsivePanels();
 
 dateWindow.textContent = formatWindow(data.window?.from, data.window?.to);
-updatedRelative.textContent = data.generatedAt
-  ? `Aggiornato ${formatRelativeTime(data.generatedAt)}`
-  : "";
 checkedRelative.textContent = status.lastCheckedAt
   ? `Ultimo controllo ${formatRelativeTime(status.lastCheckedAt)}`
   : "Controllo automatico ogni 30 minuti";

@@ -33,8 +33,9 @@ jobs:
             exit 0
           fi
 
+          TIMESTAMP="$(date -u +"%Y-%m-%d %H:%M UTC")"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/articles.json
-          git commit -m "Update articles dataset"
+          git commit -m "Update articles dataset (${TIMESTAMP})"
           git push

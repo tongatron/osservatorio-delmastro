@@ -225,6 +225,22 @@ h3 {
   color: var(--muted);
 }
 
+.timeline-summary-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 1.2rem;
+  line-height: 1.15;
+  color: var(--ink);
+}
+
+.timeline-summary-label svg {
+  flex: 0 0 auto;
+  width: 16px;
+  height: 16px;
+  color: var(--accent-soft);
+}
+
 .panel-summary-label::after {
   content: "+";
   font-size: 1rem;
@@ -515,6 +531,12 @@ h3 {
     width: min(100% - 22px, 1280px);
   }
 
+  .nameplate {
+    white-space: normal;
+    overflow-wrap: anywhere;
+    font-size: clamp(2rem, 10vw, 3rem);
+  }
+
   .masthead-meta {
     gap: 10px;
     justify-content: center;
@@ -545,13 +567,45 @@ h3 {
     padding: 0;
   }
 
+  .timeline-card {
+    padding: 0;
+  }
+
   .panel-summary {
     display: block;
     padding: 16px 18px;
   }
 
+  .timeline-summary {
+    display: block;
+    padding: 16px 18px;
+    border-bottom: 0;
+    margin: 0;
+  }
+
+  .timeline-card[open] .timeline-summary {
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .timeline-summary-label {
+    font-family: var(--font-sans);
+    font-size: 0.92rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  .timeline-summary-label svg {
+    width: 14px;
+    height: 14px;
+  }
+
   .panel-body {
     padding: 0 18px 18px;
+  }
+
+  .timeline-card .collapsible-body {
+    padding: 18px;
   }
 
   .sources-title {

@@ -1,4 +1,4 @@
-const data = await fetch("../data/articles.json").then((response) => response.json());
+const data = await fetch("./data/articles.json").then((response) => response.json());
 
 const dateWindow = document.querySelector("#date-window");
 const articleCount = document.querySelector("#article-count");

@@ -34,10 +34,12 @@ for (const source of sourceUrls) {
 
   const xml = await response.text();
   for (const item of extractItems(xml)) {
-    const title = decodeEntities(extractTag(item, "title"));
+    const title = normalizeDelmastroSpacing(decodeEntities(extractTag(item, "title")));
     const link = extractTag(item, "link").trim();
     const pubDateRaw = extractTag(item, "pubDate").trim();
-    const description = stripHtml(decodeEntities(extractTag(item, "description")));
+    const description = normalizeDelmastroSpacing(
+      stripHtml(decodeEntities(extractTag(item, "description")))
+    );
     const sourceName = decodeEntities(extractTag(item, "source")) || source.label;
     const publishedAt = new Date(pubDateRaw);
 
@@ -238,10 +240,14 @@ function buildArticleFingerprint({ title, sourceName, sourceHost, publishedAt })
 }
 
 function normalizeTitle(value) {
-  return String(value)
+  return normalizeDelmastroSpacing(String(value))
     .toLowerCase()
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function normalizeDelmastroSpacing(value) {
+  return String(value).replace(/\bdel\s+mastro\b/gi, "Delmastro");
 }
 
 function extractItems(xml) {

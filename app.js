@@ -137,6 +137,7 @@ function renderTimeline(items) {
 
 function cleanFeedText(value) {
   return String(value ?? "")
+    .replace(/\bdel\s+mastro\b/gi, "Delmastro")
     .replace(/\u00a0/g, " ")
     .replace(/&nbsp;/gi, " ")
     .replace(/\s+/g, " ")

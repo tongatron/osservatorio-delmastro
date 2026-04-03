@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T11:14:15.461Z",
+  "generatedAt": "2026-04-03T11:43:55.982Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -91,8 +91,8 @@
     ]
   },
   "window": {
-    "from": "2026-03-26T11:14:15.461Z",
-    "to": "2026-04-03T11:14:15.461Z",
+    "from": "2026-03-26T11:43:55.982Z",
+    "to": "2026-04-03T11:43:55.982Z",
     "days": 8
   },
   "sources": [
@@ -101,12 +101,12 @@
       "articleCount": 27
     },
     {
-      "label": "repubblica.it",
+      "label": "ansa.it",
       "articleCount": 23
     },
     {
-      "label": "ansa.it",
-      "articleCount": 22
+      "label": "repubblica.it",
+      "articleCount": 23
     },
     {
       "label": "corriere.it",
@@ -137,15 +137,15 @@
       "articleCount": 7
     },
     {
-      "label": "liberoquotidiano.it",
-      "articleCount": 6
-    },
-    {
       "label": "open.online",
       "articleCount": 5
     },
     {
       "label": "today.it",
+      "articleCount": 5
+    },
+    {
+      "label": "liberoquotidiano.it",
       "articleCount": 5
     },
     {
@@ -184,8 +184,8 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 346,
-      "uniqueArticles": 172
+      "fetchedArticles": 348,
+      "uniqueArticles": 173
     },
     {
       "label": "Bisteccheria",
@@ -194,8 +194,8 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 97,
-      "uniqueArticles": 6
+      "fetchedArticles": 95,
+      "uniqueArticles": 5
     },
     {
       "label": "Soci e societa'",
@@ -216,11 +216,11 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 61
+      "count": 62
     },
     {
       "tag": "giudiziaria",
-      "count": 54
+      "count": 53
     },
     {
       "tag": "territorio",
@@ -279,6 +279,23 @@
   ],
   "articles": [
     {
+      "id": "ansa.it__ansa__a ischia petizione per revoca cittadinanza a delmastro - ansa__2026-04-03T11:12:00.000Z",
+      "title": "A Ischia petizione per revoca cittadinanza a Delmastro - ANSA",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMWVBWTJXOTdhNDFoOEdTZXBwcnpoY3RHalZjRkdRUml1NUdwRkx2VEVVWTM5eHdWVml4dFNTS0ExU0xQd1YtdTBDSVNwTVdndzJpUTFKQ2dUR0lkOHpCZTBFZjUtZURxVHlweWdtTllZYUhIZzcwWFdqbHA0SjdZQ0N1SF92UW0tYm41ZzhTZmtLVGN3WmNaRlJfMXdwUm5pVFVSTjRtYkVhQ1loQk5YR21mOW9iYU5DQy1fVl9zRUJTOW9xeUpwM3h5UnowSmVMc3AtSHFyN1hRWHYxY2tYNjJ1TdIB6AFBVV95cUxPclpPcERDdHpkY3RlYU9hMFdBZ01Jcy1YMVJiUlZpYTJic19ELTZ2M0EtT2dyVHEza3ZmOTg4YWYyb3NjeThRS2lET0dSemg3UC12MUI4R2dKZE14M2dlSi1BVHNCWmhWQXkxNHRTcWQxYzhZd3JidmZ2VW5QazJ0X3gtMGxzZWxtZjVRbWxWNjZJYU02dHJaVzA5SGpJTGlKLVZsc1FRVVk2WFQ2dEVKbkxidEJMNE1ELThjSHFSWnNfdFBWenV3M1c5N19NNkprSjF2OWNjMF8yWnd5QzNVLWNoRDBUSU5r?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-03T11:12:00.000Z",
+      "excerpt": "A Ischia petizione per revoca cittadinanza a Delmastro ANSA"
+    },
+    {
       "id": "repubblica.it__la repubblica__caroccia in bancarotta l’avvocato: “delmastro sapeva dei problemi” - la repubblica__2026-04-03T06:20:03.000Z",
       "title": "Caroccia in bancarotta l’avvocato: “Delmastro sapeva dei problemi” - la Repubblica",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNblpjQVVaUi04SnRDTWloU0lDZTQxOVVQYlc0a0JXQ0JoRlo4bHZPWlppNWRmYTA0QWhVYlJJcHFTTWpibkRRcUE2ZXVvRkZkV0NSdE4tR3FyQ0FTMi11UDRDZ3hNZ1VMTU9FZHJzMUh2VG90VHRzQ2M1OHF3X1BWNk9HcXFtTmJPamlBTERWVXp2VmxGLXdoUjVJZlZ3dFnSAaQBQVVfeXFMT2RRQ0QxUlNKV2JieG5oYzhKQldhVEZmUTliNVdJcDRoNDFrYkN0b0RadDF1Sk9qME1qUm9PQ3RCdVNmYkdnaGZUa3RtRW56T2xyVEJYQ2NGeWEwaXhDR1NVaHJESWdvaWR5VXQ1S29jS01aV0dJZEVJZVFMQl9ZUUxHZzRCLURsbHUtYkxNRXFLakFRTDE2WHZJV1Q4ZE9Tc0RpQkM?oc=5",
@@ -311,25 +328,6 @@
       ],
       "publishedAt": "2026-04-02T22:48:22.000Z",
       "excerpt": "Andrea Delmastro, Carroccia ai Pm: \"Ma quale riciclaggio, i soldi erano suoi\" | Libero Quotidiano.it Libero Quotidiano"
-    },
-    {
-      "id": "liberoquotidiano.it__libero quotidiano__andrea delmastro, carroccia ai pm: \"ma quale riciclaggio, i soldi erano suoi\" - libero quotidiano__2026-04-02T22:48:22.000Z",
-      "title": "Andrea Delmastro, Carroccia ai Pm: \"Ma quale riciclaggio, i soldi erano suoi\" - Libero Quotidiano",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTDg1aUdVT2lyLVptUU1IS0J0WG9ha1RvNTBEb1RpSkZmUDl0V0VTN3d0cmRwM1gwc1NacWR3QS1NN21nM2h2REROaUpLNHRkZEY4dGw5OXpGWFRDS29wR0lZSHNodWtoSFBhZnlLcWJDb2piOFU2dExHTDd3MDRsRThnMFlIWWRuTGxPN0hNY0dtSWFSZXpkOXVUdGFDNGRWa2ljcWhEaXExOWc?oc=5",
-      "source": "Libero Quotidiano",
-      "sourceHost": "liberoquotidiano.it",
-      "queryLabel": "Filone giudiziario",
-      "matchedTerms": [
-        "intestazione fittizia di beni",
-        "antimafia",
-        "indagine Delmastro",
-        "pm Torino"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-04-02T22:48:22.000Z",
-      "excerpt": "Andrea Delmastro, Carroccia ai Pm: \"Ma quale riciclaggio, i soldi erano suoi\" Libero Quotidiano"
     },
     {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__“caroccia distrusse i documenti contabili dell’altra srl”. poi arrivò delmastro - il fatto quotidiano__2026-04-02T22:01:00.000Z",
@@ -2326,10 +2324,10 @@
       "excerpt": "Caso Bisteccheria, si dimette anche l'assessore di Biella Cristiano Franceschini: «Vado via a testa alta» Corriere Torino"
     },
     {
-      "id": "agi.it__agi.it__delmastro: chiorino si dimette da assessore del piemonte - agi.it__2026-03-30T19:47:10.000Z",
-      "title": "Delmastro: Chiorino si dimette da assessore del Piemonte - agi.it",
+      "id": "agi.it__agi__delmastro: chiorino si dimette da assessore del piemonte - agi__2026-03-30T19:47:10.000Z",
+      "title": "Delmastro: Chiorino si dimette da assessore del Piemonte - AGI",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWlORmZreVZnNWJscEZRT1lWdmdBYjd2UENKRVMtQ0lsXzdyX203UWEzUXUwajBwRkpLRVhfQzQ5MTRVMzVzWVY0Qi1CZDAxZ2haaXJScE5hWmNwdU9MVHp4QXIxQ3lGanpCcDJvUVdhTENFRWl5aFB4OTRGUkRoSDdWNlZQY3h2MUE?oc=5",
-      "source": "agi.it",
+      "source": "AGI",
       "sourceHost": "agi.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2340,7 +2338,7 @@
         "territorio"
       ],
       "publishedAt": "2026-03-30T19:47:10.000Z",
-      "excerpt": "Delmastro: Chiorino si dimette da assessore del Piemonte agi.it"
+      "excerpt": "Delmastro: Chiorino si dimette da assessore del Piemonte AGI"
     },
     {
       "id": "adnkronos.com__adnkronos__cristiano franceschini - adnkronos - adnkronos__2026-03-30T19:03:05.000Z",
@@ -2729,10 +2727,10 @@
       "excerpt": "Regione, Elena Chiorino rassegna le dimissioni da assessore della Giunta Newsbiella.it"
     },
     {
-      "id": "agi.it__agi.it__delmastro aggiorna lo stato patrimoniale con '5 forchette' e cessione - agi.it__2026-03-30T16:49:38.000Z",
-      "title": "Delmastro aggiorna lo stato patrimoniale con '5 Forchette' e cessione - agi.it",
+      "id": "agi.it__agi__delmastro aggiorna lo stato patrimoniale con '5 forchette' e cessione - agi__2026-03-30T16:49:38.000Z",
+      "title": "Delmastro aggiorna lo stato patrimoniale con '5 Forchette' e cessione - AGI",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR3ZJQWJUY0JxQ2Vjamt1SjMtR2hER0d6MThMMTJTX21yeklidmZJX1FGOGlvdnNleU1vbURrRFpTNDBhQno0RnFidEgzamJpclF3RkhldFQ3Y0w5T2xsWVZ2SzZFU3FYLTRqZ1ZobEppclBxTEY1VXhQaWZVYTcySjNHaUpLZGstRGZJcGNvajNZU1VBVV9V?oc=5",
-      "source": "agi.it",
+      "source": "AGI",
       "sourceHost": "agi.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2743,7 +2741,7 @@
         "bisteccheria"
       ],
       "publishedAt": "2026-03-30T16:49:38.000Z",
-      "excerpt": "Delmastro aggiorna lo stato patrimoniale con '5 Forchette' e cessione agi.it"
+      "excerpt": "Delmastro aggiorna lo stato patrimoniale con '5 Forchette' e cessione AGI"
     },
     {
       "id": "tgcom24.mediaset.it__tgcom24.mediaset.it__roma, ipotesi soldi del clan senese nella società dei caroccia: indaga la dda - tgcom24.mediaset.it__2026-03-30T16:47:00.000Z",

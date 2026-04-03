@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T19:14:37.075Z",
+  "generatedAt": "2026-04-03T19:43:33.935Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -91,21 +91,21 @@
     ]
   },
   "window": {
-    "from": "2026-03-26T19:14:37.075Z",
-    "to": "2026-04-03T19:14:37.075Z",
+    "from": "2026-03-26T19:43:33.935Z",
+    "to": "2026-04-03T19:43:33.935Z",
     "days": 8
   },
   "sources": [
+    {
+      "label": "repubblica.it",
+      "articleCount": 25
+    },
     {
       "label": "lastampa.it",
       "articleCount": 25
     },
     {
       "label": "ansa.it",
-      "articleCount": 24
-    },
-    {
-      "label": "repubblica.it",
       "articleCount": 24
     },
     {
@@ -126,7 +126,7 @@
     },
     {
       "label": "adnkronos.com",
-      "articleCount": 10
+      "articleCount": 9
     },
     {
       "label": "tg24.sky.it",
@@ -184,28 +184,28 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 345,
-      "uniqueArticles": 172
+      "fetchedArticles": 347,
+      "uniqueArticles": 173
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 111,
+      "fetchedArticles": 109,
       "uniqueArticles": 8
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 97,
+      "fetchedArticles": 98,
       "uniqueArticles": 6
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 137,
+      "fetchedArticles": 140,
       "uniqueArticles": 4
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 79,
-      "uniqueArticles": 3
+      "fetchedArticles": 78,
+      "uniqueArticles": 2
     },
     {
       "label": "Territorio",
@@ -258,7 +258,7 @@
     },
     {
       "date": "2026-03-30",
-      "count": 68
+      "count": 67
     },
     {
       "date": "2026-03-31",
@@ -274,7 +274,7 @@
     },
     {
       "date": "2026-04-03",
-      "count": 5
+      "count": 6
     }
   ],
   "articles": [
@@ -313,9 +313,26 @@
       "excerpt": "A Ischia petizione per revoca cittadinanza a Delmastro ANSA"
     },
     {
+      "id": "repubblica.it__la repubblica__caroccia in bancarotta, l’avvocato: “delmastro sapeva dei problemi” - la repubblica__2026-04-03T06:20:03.000Z",
+      "title": "Caroccia in bancarotta, l’avvocato: “Delmastro sapeva dei problemi” - la Repubblica",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNblpjQVVaUi04SnRDTWloU0lDZTQxOVVQYlc0a0JXQ0JoRlo4bHZPWlppNWRmYTA0QWhVYlJJcHFTTWpibkRRcUE2ZXVvRkZkV0NSdE4tR3FyQ0FTMi11UDRDZ3hNZ1VMTU9FZHJzMUh2VG90VHRzQ2M1OHF3X1BWNk9HcXFtTmJPamlBTERWVXp2VmxGLXdoUjVJZlZ3dFnSAaQBQVVfeXFMT2RRQ0QxUlNKV2JieG5oYzhKQldhVEZmUTliNVdJcDRoNDFrYkN0b0RadDF1Sk9qME1qUm9PQ3RCdVNmYkdnaGZUa3RtRW56T2xyVEJYQ2NGeWEwaXhDR1NVaHJESWdvaWR5VXQ1S29jS01aV0dJZEVJZVFMQl9ZUUxHZzRCLURsbHUtYkxNRXFLakFRTDE2WHZJV1Q4ZE9Tc0RpQkM?oc=5",
+      "source": "la Repubblica",
+      "sourceHost": "repubblica.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-03T06:20:03.000Z",
+      "excerpt": "Caroccia in bancarotta, l’avvocato: “Delmastro sapeva dei problemi” la Repubblica"
+    },
+    {
       "id": "repubblica.it__la repubblica__caroccia in bancarotta l’avvocato: “delmastro sapeva dei problemi” - la repubblica__2026-04-03T06:20:03.000Z",
       "title": "Caroccia in bancarotta l’avvocato: “Delmastro sapeva dei problemi” - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNblpjQVVaUi04SnRDTWloU0lDZTQxOVVQYlc0a0JXQ0JoRlo4bHZPWlppNWRmYTA0QWhVYlJJcHFTTWpibkRRcUE2ZXVvRkZkV0NSdE4tR3FyQ0FTMi11UDRDZ3hNZ1VMTU9FZHJzMUh2VG90VHRzQ2M1OHF3X1BWNk9HcXFtTmJPamlBTERWVXp2VmxGLXdoUjVJZlZ3dFnSAaQBQVVfeXFMT2RRQ0QxUlNKV2JieG5oYzhKQldhVEZmUTliNVdJcDRoNDFrYkN0b0RadDF1Sk9qME1qUm9PQ3RCdVNmYkdnaGZUa3RtRW56T2xyVEJYQ2NGeWEwaXhDR1NVaHJESWdvaWR5VXQ1S29jS01aV0dJZEVJZVFMQl9ZUUxHZzRCLURsbHUtYkxNRXFLakFRTDE2WHZJV1Q4ZE9Tc0RpQkM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRzdOcXZLclNGbThScTl3bzZIXzNLcnVLQzNaN29nWWtuVnRaaVlJQjlURGhVTEE0SkJpc2RBNGQ3QW9uOVN2aTNYelNacTkwT3VJdURJbzBaTmJnRDVKb3JhMmNLUGs5MnBhelNfby1ndlh3YjJKSEdFMFFoNlZrYS1US1FtbTNEVkM1WDREUWpyV0RuTm4xbFc2MGhfdTcyeHIwQndFek44OFFpWWFiWDRTQzVPSG9S?oc=5",
       "source": "la Repubblica",
       "sourceHost": "repubblica.it",
       "queryLabel": "Delmastro generale",
@@ -330,10 +347,10 @@
       "excerpt": "Caroccia in bancarotta l’avvocato: “Delmastro sapeva dei problemi” la Repubblica"
     },
     {
-      "id": "liberoquotidiano.it__libero quotidiano__andrea delmastro, carroccia ai pm: \"ma quale riciclaggio, i soldi erano suoi\" - libero quotidiano__2026-04-02T22:48:22.000Z",
-      "title": "Andrea Delmastro, Carroccia ai Pm: \"Ma quale riciclaggio, i soldi erano suoi\" - Libero Quotidiano",
+      "id": "liberoquotidiano.it__liberoquotidiano.it__andrea delmastro, carroccia ai pm: \"ma quale riciclaggio, i soldi erano suoi\" - liberoquotidiano.it__2026-04-02T22:48:22.000Z",
+      "title": "Andrea Delmastro, Carroccia ai Pm: \"Ma quale riciclaggio, i soldi erano suoi\" - liberoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTDg1aUdVT2lyLVptUU1IS0J0WG9ha1RvNTBEb1RpSkZmUDl0V0VTN3d0cmRwM1gwc1NacWR3QS1NN21nM2h2REROaUpLNHRkZEY4dGw5OXpGWFRDS29wR0lZSHNodWtoSFBhZnlLcWJDb2piOFU2dExHTDd3MDRsRThnMFlIWWRuTGxPN0hNY0dtSWFSZXpkOXVUdGFDNGRWa2ljcWhEaXExOWc?oc=5",
-      "source": "Libero Quotidiano",
+      "source": "liberoquotidiano.it",
       "sourceHost": "liberoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -344,7 +361,7 @@
         "giudiziaria"
       ],
       "publishedAt": "2026-04-02T22:48:22.000Z",
-      "excerpt": "Andrea Delmastro, Carroccia ai Pm: \"Ma quale riciclaggio, i soldi erano suoi\" Libero Quotidiano"
+      "excerpt": "Andrea Delmastro, Carroccia ai Pm: \"Ma quale riciclaggio, i soldi erano suoi\" liberoquotidiano.it"
     },
     {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__“caroccia distrusse i documenti contabili dell’altra srl”. poi arrivò delmastro - il fatto quotidiano__2026-04-02T22:01:00.000Z",
@@ -519,10 +536,10 @@
       "excerpt": "Mauro Caroccia ai Pm: \"Delmastro ci ha fatto della beneficenza. Ero incensurato\" RaiNews"
     },
     {
-      "id": "liberoquotidiano.it__libero quotidiano__roma, mauro caroccia ai pm: \"delmastro ci ha fatto della beneficenza\" - libero quotidiano__2026-04-01T19:16:25.000Z",
-      "title": "Roma, Mauro Caroccia ai pm: \"Delmastro ci ha fatto della beneficenza\" - Libero Quotidiano",
+      "id": "liberoquotidiano.it__liberoquotidiano.it__roma, mauro caroccia ai pm: \"delmastro ci ha fatto della beneficenza\" - liberoquotidiano.it__2026-04-01T19:16:25.000Z",
+      "title": "Roma, Mauro Caroccia ai pm: \"Delmastro ci ha fatto della beneficenza\" - liberoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQakVHU0ZMbjV0OVFyTFFHNVRfd1dueGdpOHg3b1ZyY3JvU1NYOG51LU8wczczZEo3QlZicjVWQXRtcEVzUEpFZlJ0em1xUVEzUDIxSVhHYnB6bWVETV9aWlM0X0h1cDBUZzZUODIxbVllU2pwZWpfa3BnQXFSVHRKWWN3dVlnd2FHTHQ4REhNdzhVUWc4bkVNdGlNV3g3Q3RqR1JnQWEzOGFFTi1Id3A1S0ZkMFVSQk8yZGEzZTR3?oc=5",
-      "source": "Libero Quotidiano",
+      "source": "liberoquotidiano.it",
       "sourceHost": "liberoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -533,7 +550,7 @@
         "giudiziaria"
       ],
       "publishedAt": "2026-04-01T19:16:25.000Z",
-      "excerpt": "Roma, Mauro Caroccia ai pm: \"Delmastro ci ha fatto della beneficenza\" Libero Quotidiano"
+      "excerpt": "Roma, Mauro Caroccia ai pm: \"Delmastro ci ha fatto della beneficenza\" liberoquotidiano.it"
     },
     {
       "id": "ansa.it__ansa__mauro caroccia ai pm: 'delmastro ci ha fatto beneficenza' - ansa__2026-04-01T17:59:01.000Z",
@@ -774,10 +791,10 @@
       "excerpt": "Notizie su caso delmastro today.it"
     },
     {
-      "id": "liberoquotidiano.it__libero quotidiano__andrea delmastro ingannato da un incendio: cosa accadde sei anni fa | libero quotidiano.it - libero quotidiano__2026-04-01T14:19:38.000Z",
-      "title": "Andrea Delmastro ingannato da un incendio: cosa accadde sei anni fa | Libero Quotidiano.it - Libero Quotidiano",
+      "id": "liberoquotidiano.it__liberoquotidiano.it__andrea delmastro ingannato da un incendio: cosa accadde sei anni fa | libero quotidiano.it - liberoquotidiano.it__2026-04-01T14:19:38.000Z",
+      "title": "Andrea Delmastro ingannato da un incendio: cosa accadde sei anni fa | Libero Quotidiano.it - liberoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2dyazB0Wkp6Ql9PaHdHWHZ4U05TblBob2did0xtZGs1UHVDckhqeURZMGFDUHpQUFRzdl9QdTFOR2dyRXNzc3hSZDQzbHBDUS1ROVZFX1BaNExSZkREeDMzSFpPeTNJUXZLTmlLcXlaS095OWR1bFBYMU0tQm95NlFxeTN5b3BkRmVwV0NMVTNuWC1VVjhQd1F3QV9TQ1IxY1dtS3MtXzVFZ25WRlHSAbIBQVVfeXFMT3NUY2pZdG41ZGEzQ0RLdzZ2SHExOFVldVZfTWx6Nm1obDFaa0FwaUgzQ0ZKaTNGX1pBRjBEN3gwcUJMcVNxdjJKS3A2RkFyZ2FxOXhySlNPQ0otNWJXeVlEQkJITTFmZzJaYTNCb3RGV3o4bXVxOXpYNEFJUTQxSWJGRGNQR2V5Mlc3SldDRzA4NVJaRDNrSG1ibWZmcTRBWXhvd09vUEZQbE5QNjVzNFQ4QQ?oc=5",
-      "source": "Libero Quotidiano",
+      "source": "liberoquotidiano.it",
       "sourceHost": "liberoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -788,7 +805,7 @@
         "altro"
       ],
       "publishedAt": "2026-04-01T14:19:38.000Z",
-      "excerpt": "Andrea Delmastro ingannato da un incendio: cosa accadde sei anni fa | Libero Quotidiano.it Libero Quotidiano"
+      "excerpt": "Andrea Delmastro ingannato da un incendio: cosa accadde sei anni fa | Libero Quotidiano.it liberoquotidiano.it"
     },
     {
       "id": "today.it__today.it__delmastro censurato dalla camera per il caso \"bisteccheria d'italia\". carroccia: \"ci ha fatto beneficenza\" - today.it__2026-04-01T14:16:41.000Z",
@@ -2273,10 +2290,10 @@
       "excerpt": "Caso 'Le 5 forchette', a Biella si dimette l'assessore Franceschini ANSA"
     },
     {
-      "id": "liberoquotidiano.it__libero quotidiano__piemonte, elena chiorino si dimette da assessora | libero quotidiano.it - libero quotidiano__2026-03-30T20:25:04.000Z",
-      "title": "Piemonte, Elena Chiorino si dimette da assessora | Libero Quotidiano.it - Libero Quotidiano",
+      "id": "liberoquotidiano.it__liberoquotidiano.it__piemonte, elena chiorino si dimette da assessora | libero quotidiano.it - liberoquotidiano.it__2026-03-30T20:25:04.000Z",
+      "title": "Piemonte, Elena Chiorino si dimette da assessora | Libero Quotidiano.it - liberoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM3diUldWdXRXeHAyUFVlZ1NheXZNcGFtZmpNUENJLWg2M08wYXloY0Zka2FsUmlmQklCWlI2WmRENTJ5XzNrdEItMTZqc0lUTEJ5Rm9JOGZlOVQ0RmI5YWFzRGRkSGMwdVJOYWlaMVoyaTRLOU01ei1HMXFRNmllOVlLNEtLaDluZVk1OHotbmZSRkw3aUEyS3M3VUNMTFZYNFRBS1BR0gGqAUFVX3lxTE4xaHVCU2lSSXZBNzFiTW1JUXlEVDhfNWp0ZXZpSTRIaTVrcHlxS1VEM1Z4X0xvcmRDZm80QVNyWC1yUHl1eEFlbk54clJCbVRIRjR0OUpidnZDREN0VEp2ZE5EZEd3ems1YUFlOEhIM012akRfVk9KNGhNdVJJbkhtWFdlbUNDQ0QyX3Nyb1JYRktnNlNtQ0FLVkhvUEFjSUlrenlzQ1M5cDJB?oc=5",
-      "source": "Libero Quotidiano",
+      "source": "liberoquotidiano.it",
       "sourceHost": "liberoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2287,7 +2304,7 @@
         "territorio"
       ],
       "publishedAt": "2026-03-30T20:25:04.000Z",
-      "excerpt": "Piemonte, Elena Chiorino si dimette da assessora | Libero Quotidiano.it Libero Quotidiano"
+      "excerpt": "Piemonte, Elena Chiorino si dimette da assessora | Libero Quotidiano.it liberoquotidiano.it"
     },
     {
       "id": "corriere.it__corriere torino__si è dimessa l'assessora piemontese elena chiorino. il caso «bisteccheria» travolge anche la titolare al lavoro della giunta cirio - corriere torino__2026-03-30T20:12:17.000Z",
@@ -2362,24 +2379,6 @@
       ],
       "publishedAt": "2026-03-30T19:03:05.000Z",
       "excerpt": "cristiano franceschini - Adnkronos Adnkronos"
-    },
-    {
-      "id": "adnkronos.com__adnkronos__elena chiorino - adnkronos - adnkronos__2026-03-30T19:03:05.000Z",
-      "title": "elena chiorino - Adnkronos - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1MlpLZ3BudnJCcm9mTEREOTZHcXB0VHJMbG15V2k4RTR6X3VrcFl4SjFsNVNrTWYxRmc3WDZRS1F3RWJ2Yy16QTRPcy1oMmRITUVldDlnWG4?oc=5",
-      "source": "Adnkronos",
-      "sourceHost": "adnkronos.com",
-      "queryLabel": "Persone collegate",
-      "matchedTerms": [
-        "Elena Chiorino",
-        "Cristiano Franceschini",
-        "Davide Zappalà"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-03-30T19:03:05.000Z",
-      "excerpt": "elena chiorino - Adnkronos Adnkronos"
     },
     {
       "id": "today.it__today.it__elena chiorino notizie e video - today.it__2026-03-30T18:50:08.000Z",
@@ -3575,10 +3574,10 @@
       "excerpt": "Andrea Delmastro Il Foglio"
     },
     {
-      "id": "liberoquotidiano.it__libero quotidiano__andrea delmastro, il nome del suo successore (e quel tam-tam sul piano b) | libero quotidiano.it - libero quotidiano__2026-03-27T19:08:47.000Z",
-      "title": "Andrea Delmastro, il nome del suo successore (e quel tam-tam sul piano B) | Libero Quotidiano.it - Libero Quotidiano",
+      "id": "liberoquotidiano.it__liberoquotidiano.it__andrea delmastro, il nome del suo successore (e quel tam-tam sul piano b) | libero quotidiano.it - liberoquotidiano.it__2026-03-27T19:08:47.000Z",
+      "title": "Andrea Delmastro, il nome del suo successore (e quel tam-tam sul piano B) | Libero Quotidiano.it - liberoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGQyWm1Xa0xEd0NydWhqOEEwZlFtWGJIT2xXZllIbTY2Rk12dHAtMFdlMDBwSk1VWHFIOGRFcTJfcUpsZ1RTWTllT1I4cXRyZ2hfTWFFUDRqU1BSeU51TkdxN2JRQkF3QWFtcEI1NHFYQU13SENDbDFPVVRwdWwxZUtZYXlTNGx0ME5QS0Z2Q183UlJmV2lWazRlekpBellIS29iX0xMVdIBqwFBVV95cUxNNXkzdDZSczZnOVNIM2czSWpGREhlczRBeWJ0QmNBdlZ1dG1DaDJMNm1BdDBwaFRWOG02ZEFXdDNHY1J2ak1tNjBLcXlYblplTFA3QzRSelEtSktnUGV5WkNpUjk1cjNUaVJ6WnNTYk9QMVpjSVVVZXBaTHM0X1VrM01YMkVMQXYzb3Q5T1dJdUlGT20tc3pCQmlxWlBtd3FOcmNjcm1EYktJZnM?oc=5",
-      "source": "Libero Quotidiano",
+      "source": "liberoquotidiano.it",
       "sourceHost": "liberoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -3589,7 +3588,7 @@
         "altro"
       ],
       "publishedAt": "2026-03-27T19:08:47.000Z",
-      "excerpt": "Andrea Delmastro, il nome del suo successore (e quel tam-tam sul piano B) | Libero Quotidiano.it Libero Quotidiano"
+      "excerpt": "Andrea Delmastro, il nome del suo successore (e quel tam-tam sul piano B) | Libero Quotidiano.it liberoquotidiano.it"
     },
     {
       "id": "ilfoglio.it__il foglio__pesce, carne o fusion? oltre delmastro, i politici si sono dati in massa alla ristorazione - il foglio__2026-03-27T03:01:00.000Z",

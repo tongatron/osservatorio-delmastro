@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T07:21:30.687Z",
+  "generatedAt": "2026-04-04T07:45:59.309Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -91,22 +91,22 @@
     ]
   },
   "window": {
-    "from": "2026-03-27T07:21:30.687Z",
-    "to": "2026-04-04T07:21:30.687Z",
+    "from": "2026-03-27T07:45:59.309Z",
+    "to": "2026-04-04T07:45:59.309Z",
     "days": 8
   },
   "sources": [
-    {
-      "label": "repubblica.it",
-      "articleCount": 25
-    },
     {
       "label": "ansa.it",
       "articleCount": 24
     },
     {
-      "label": "lastampa.it",
+      "label": "repubblica.it",
       "articleCount": 24
+    },
+    {
+      "label": "lastampa.it",
+      "articleCount": 23
     },
     {
       "label": "corriere.it",
@@ -125,19 +125,15 @@
       "articleCount": 12
     },
     {
-      "label": "adnkronos.com",
-      "articleCount": 9
-    },
-    {
       "label": "tg24.sky.it",
       "articleCount": 8
     },
     {
-      "label": "ilgiornale.it",
-      "articleCount": 7
+      "label": "adnkronos.com",
+      "articleCount": 8
     },
     {
-      "label": "liberoquotidiano.it",
+      "label": "ilgiornale.it",
       "articleCount": 7
     },
     {
@@ -146,6 +142,10 @@
     },
     {
       "label": "today.it",
+      "articleCount": 5
+    },
+    {
+      "label": "liberoquotidiano.it",
       "articleCount": 5
     },
     {
@@ -184,8 +184,8 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 342,
-      "uniqueArticles": 170
+      "fetchedArticles": 338,
+      "uniqueArticles": 168
     },
     {
       "label": "Bisteccheria",
@@ -193,14 +193,14 @@
       "uniqueArticles": 8
     },
     {
-      "label": "Soci e societa'",
-      "fetchedArticles": 139,
-      "uniqueArticles": 6
-    },
-    {
       "label": "Filone giudiziario",
       "fetchedArticles": 98,
       "uniqueArticles": 6
+    },
+    {
+      "label": "Soci e societa'",
+      "fetchedArticles": 135,
+      "uniqueArticles": 3
     },
     {
       "label": "Persone collegate",
@@ -216,11 +216,11 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 62
+      "count": 58
     },
     {
       "tag": "giudiziaria",
-      "count": 54
+      "count": 53
     },
     {
       "tag": "territorio",
@@ -246,7 +246,7 @@
     },
     {
       "date": "2026-03-28",
-      "count": 5
+      "count": 3
     },
     {
       "date": "2026-03-29",
@@ -254,7 +254,7 @@
     },
     {
       "date": "2026-03-30",
-      "count": 66
+      "count": 65
     },
     {
       "date": "2026-03-31",
@@ -262,7 +262,7 @@
     },
     {
       "date": "2026-04-01",
-      "count": 63
+      "count": 62
     },
     {
       "date": "2026-04-02",
@@ -270,7 +270,7 @@
     },
     {
       "date": "2026-04-03",
-      "count": 9
+      "count": 8
     },
     {
       "date": "2026-04-04",
@@ -400,27 +400,6 @@
       ],
       "publishedAt": "2026-04-02T22:48:22.000Z",
       "excerpt": "Andrea Delmastro, Carroccia ai Pm: \"Ma quale riciclaggio, i soldi erano suoi\" | Libero Quotidiano.it Libero Quotidiano"
-    },
-    {
-      "id": "liberoquotidiano.it__libero quotidiano__andrea delmastro, carroccia ai pm: \"ma quale riciclaggio, i soldi erano suoi\" - libero quotidiano__2026-04-02T22:48:22.000Z",
-      "title": "Andrea Delmastro, Carroccia ai Pm: \"Ma quale riciclaggio, i soldi erano suoi\" - Libero Quotidiano",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTDg1aUdVT2lyLVptUU1IS0J0WG9ha1RvNTBEb1RpSkZmUDl0V0VTN3d0cmRwM1gwc1NacWR3QS1NN21nM2h2REROaUpLNHRkZEY4dGw5OXpGWFRDS29wR0lZSHNodWtoSFBhZnlLcWJDb2piOFU2dExHTDd3MDRsRThnMFlIWWRuTGxPN0hNY0dtSWFSZXpkOXVUdGFDNGRWa2ljcWhEaXExOWc?oc=5",
-      "source": "Libero Quotidiano",
-      "sourceHost": "liberoquotidiano.it",
-      "queryLabel": "Soci e societa'",
-      "matchedTerms": [
-        "Caroccia",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-04-02T22:48:22.000Z",
-      "excerpt": "Andrea Delmastro, Carroccia ai Pm: \"Ma quale riciclaggio, i soldi erano suoi\" Libero Quotidiano"
     },
     {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__“caroccia distrusse i documenti contabili dell’altra srl”. poi arrivò delmastro - il fatto quotidiano__2026-04-02T22:01:00.000Z",
@@ -933,27 +912,6 @@
       ],
       "publishedAt": "2026-04-01T13:46:32.000Z",
       "excerpt": "Caroccia e Delmastro, quel vaffa che ha fatto nascere l’amicizia, poi i 40mila euro dell’esponente FdI per “ripartire” - Il video Open"
-    },
-    {
-      "id": "liberoquotidiano.it__libero quotidiano__andrea delmastro ingannato da un incendio: cosa accadde sei anni fa | libero quotidiano.it - libero quotidiano__2026-04-01T13:23:52.000Z",
-      "title": "Andrea Delmastro ingannato da un incendio: cosa accadde sei anni fa | Libero Quotidiano.it - Libero Quotidiano",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc1Rjall0bjVkYTNDREt3NnZIcTE4VWV1Vl9NbHo2bWhsMVprQXBpSDNDRkppM0ZfWkFGMEQ3eDBxQkxxU3F2MkpLcDZGQXJnYXE5eHJKU09DSi01Yld5WURCQkhNMWZnMlphM0JvdEZXejhtdXE5elg0QUlRNDFJYkZEY1BHZXkyVzdKV0NHMDg1UlpEM2tIbWJtZmZxNEFZeG93T29QRlBsTlA2NXM0VDhB0gGyAUFVX3lxTE9zVGNqWXRuNWRhM0NES3c2dkhxMThVZXVWX01sejZtaGwxWmtBcGlIM0NGSmkzRl9aQUYwRDd4MHFCTHFTcXYySktwNkZBcmdhcTl4ckpTT0NKLTViV3lZREJCSE0xZmcyWmEzQm90Rld6OG11cTl6WDRBSVE0MUliRkRjUEdleTJXN0pXQ0cwODVSWkQza0htYm1mZnE0QVl4b3dPb1BGUGxOUDY1czRUOEE?oc=5",
-      "source": "Libero Quotidiano",
-      "sourceHost": "liberoquotidiano.it",
-      "queryLabel": "Soci e societa'",
-      "matchedTerms": [
-        "Caroccia",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-01T13:23:52.000Z",
-      "excerpt": "Andrea Delmastro ingannato da un incendio: cosa accadde sei anni fa | Libero Quotidiano.it Libero Quotidiano"
     },
     {
       "id": "quotidiano.net__quotidiano nazionale__comitato condotta camera formalizza sanzione a delmastro - quotidiano nazionale__2026-04-01T13:14:05.000Z",
@@ -2440,27 +2398,6 @@
       "excerpt": "Delmastro: Chiorino si dimette da assessore del Piemonte AGI"
     },
     {
-      "id": "adnkronos.com__adnkronos__cristiano franceschini - adnkronos - adnkronos__2026-03-30T19:03:05.000Z",
-      "title": "cristiano franceschini - Adnkronos - Adnkronos",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqQld1NmNhU0RPQWs2N1R4R2MtM205UHMyc0Voa0pmQU9KaTdmTXhFY0UxVWw3cnNhTGU2TGdoNVlYd1RibGN5MnNUNV9UeEp4bjJfSFRpQzRFV3FoSUU1WUZyNA?oc=5",
-      "source": "Adnkronos",
-      "sourceHost": "adnkronos.com",
-      "queryLabel": "Soci e societa'",
-      "matchedTerms": [
-        "Caroccia",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-03-30T19:03:05.000Z",
-      "excerpt": "cristiano franceschini - Adnkronos Adnkronos"
-    },
-    {
       "id": "adnkronos.com__adnkronos__caso delmastro, elena chiorino si dimette anche da assessora giunta piemonte - adnkronos__2026-03-30T18:47:00.000Z",
       "title": "Caso Delmastro, Elena Chiorino si dimette anche da assessora giunta Piemonte - Adnkronos",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc3VhTy03YkJCamRCS0lpdWV1d19fekdIXzMwd1pfMHhFZ2R4TnZPNGpPdmlsOHI0ZW9LT3pGekZacWFmRUJZWFR2TFItYThteHdUUEU4ejdIZUJqMWNKX2VKV1R4QTlKdjVDaTdmWU5Rck5XZ1U0UE1Da3o5MGhrYUpiTjlHMExpdVpPOC1QVlFlbEllaU1jSFFvRjExdW1XcnlqdVpXSVVoU3Qxd2pDb2N3dGwxc214ZHJHSTNDUWVtb1psZThVS3E2ZmxZQQ?oc=5",
@@ -3365,10 +3302,10 @@
       "excerpt": "Caso Delmastro, indagini sulla famiglia Caroccia: “Nella Bisteccheria si riciclava il denaro del clan Senese” La Stampa"
     },
     {
-      "id": "corriere.it__video.corriere.it__luciana littizzetto e le \"letterine\" intercettate di meloni a delmastro e santanché: ironia a 'che tempo che fa' - video.corriere.it__2026-03-30T09:18:59.000Z",
-      "title": "Luciana Littizzetto e le \"letterine\" intercettate di Meloni a Delmastro e Santanché: ironia a 'Che tempo che fa' - video.corriere.it",
+      "id": "corriere.it__corriere tv__luciana littizzetto e le \"letterine\" intercettate di meloni a delmastro e santanché: ironia a 'che tempo che fa' - corriere tv__2026-03-30T09:18:59.000Z",
+      "title": "Luciana Littizzetto e le \"letterine\" intercettate di Meloni a Delmastro e Santanché: ironia a 'Che tempo che fa' - Corriere TV",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPVjRIR014SzZ1N0JabUg1TV9HamYySjNIMHhHT0xfb2Fpa2o0SVdPMDIyZjRhY19JNzhsRkxmY3RGekI3Y2F1YVdPVlpIa0dpQ3djSThXaDdZem8zZmpaRTUtX0lKSXk2cGlsUUE2REhPVHNLOGs0bWpUdVFwUDJtTEZIc3k5Nl9rVUFUcnAyRjBxbzBCV3RLRGVMR1pzNXJnWXpKWG13eHJkWXVIbXVVaExQWEdVWXVIWl9BeFZ4VnZqV2NMME9iYVJOMlRHOW50N2dqMG45d2J0X0k5TVNJelJHM01BMWZ0bkl1Ym10NHVRMkZKdWx6aF95ajY3SkhabHc4d2xCS2ZnUmkxbEHSAZMCQVVfeXFMTl9md2ZoZGRvbXYzTmt4aGNZNHNPZDNvUjR6WWpMYm5NLVFBTDFZVW80b1NCTjJTR2ZvMWQxc21VQXNSZlVaWnBqSGFXaXBReF8yNzU2OVNkcl9FdEk2ejZVOW9BNUZJaV91UGhBOFUzanNPXy1NaDAtWkRpRWx5ZnFiRWhqaTcyV0k5dEduQzBMMlFPR2c2OWg3OHY0UmFQS2JfSXRFdG95M0VMUEtCUmh5Q0dUQnlJUHVJVXRYcHByakJxeTIwb0M3aTByU3htQS1PMVBsVEpLcmhIOTUta3gzS1dtd2xKWThRQ0lkQkFjZ1FkdXdUZTE4RkdpbTVuVFU1QjNISkEzdll3UDRocGxxdG8?oc=5",
-      "source": "video.corriere.it",
+      "source": "Corriere TV",
       "sourceHost": "corriere.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -3379,7 +3316,7 @@
         "altro"
       ],
       "publishedAt": "2026-03-30T09:18:59.000Z",
-      "excerpt": "Luciana Littizzetto e le \"letterine\" intercettate di Meloni a Delmastro e Santanché: ironia a 'Che tempo che fa' video.corriere.it"
+      "excerpt": "Luciana Littizzetto e le \"letterine\" intercettate di Meloni a Delmastro e Santanché: ironia a 'Che tempo che fa' Corriere TV"
     },
     {
       "id": "lastampa.it__la stampa__l’ex pg saluzzo: “delmastro? storia molto opaca, incomprensibili le dimissioni a metà di chiorino” - la stampa__2026-03-30T09:08:00.000Z",
@@ -3567,40 +3504,6 @@
       ],
       "publishedAt": "2026-03-28T10:12:01.000Z",
       "excerpt": "Crozza-Meloni sbotta dopo il referendum: “Santanchè e Delmastro? Il problema vero sono quelli che restano” Il Fatto Quotidiano"
-    },
-    {
-      "id": "lastampa.it__la stampa__fratelli di crozza: i dolori del ministro nordio, tra delmastro e bartolozzi - la stampa__2026-03-28T07:40:00.000Z",
-      "title": "Fratelli di Crozza: i dolori del ministro Nordio, tra Delmastro e Bartolozzi - La Stampa",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMWtHUWhqTHBzUWJLMWVFbFFrTjd6OXZFS1BfZkRNUFFNaHpLS1Vja1EwMGI4dGxpUWZlbzIzemRLY3dheDVlUUVrUDNKX2tWVktvU1VOTVl4S1NUQzNJRWdRQUVOdjlwS2tWMjlWOWRoUnZwUlMxU2w4T0s1Y0gyT3ZvSFVhX0tKSlZmaFM1QmpXQV90cHkxMEl1TVZXbGtiQ3c1VlQzbU5oVFVKcXhnMnp6UGhFZGwyLUVUQ1BUa2pmMkdyRXdvMWYwUmxnbjE1Y3c?oc=5",
-      "source": "La Stampa",
-      "sourceHost": "lastampa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-03-28T07:40:00.000Z",
-      "excerpt": "Fratelli di Crozza: i dolori del ministro Nordio, tra Delmastro e Bartolozzi La Stampa"
-    },
-    {
-      "id": "repubblica.it__la repubblica__fratelli di crozza: i dolori del ministro nordio, tra delmastro e bartolozzi - la repubblica__2026-03-28T07:20:00.000Z",
-      "title": "Fratelli di Crozza: i dolori del ministro Nordio, tra Delmastro e Bartolozzi - la Repubblica",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVVNkeTgxTXZuWFNucG1NQnRmTWRXNEhGNkpET0VQZFlzbGlhdE93amlMSFYtS3JFbkdKTDJtR3Fxd2ZDMHVFbGtCb1BlVkU1V3VYS3hETWtzX0tIbmU4S1oxWldOLVFVZWhKYlRtcTEwTWpmZzdhUlVoMExYOC1jam5xWTRQeXZUM3NFSjhad0VjbEoxb3poR3V6YlBBNUkwNkVXNDlRYzE4M095WVZzOEswYTRlb1B6NTJSS1Z6UVBlYlVMRnBTUng5UmE2OGV4VEI4SGFn?oc=5",
-      "source": "la Repubblica",
-      "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-03-28T07:20:00.000Z",
-      "excerpt": "Fratelli di Crozza: i dolori del ministro Nordio, tra Delmastro e Bartolozzi la Repubblica"
     },
     {
       "id": "affaritaliani.it__affaritaliani__crozza-nordio difende delmastro: \"in ascensore mi ha detto che è contro la mafia\" - affaritaliani__2026-03-27T21:33:50.000Z",

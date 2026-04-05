@@ -108,6 +108,13 @@ sudo systemctl enable --now delmastro-newswatch.timer
 sudo systemctl start delmastro-newswatch.service
 ```
 
+Prima di attivare davvero il timer serve una credenziale GitHub non interattiva sulla Raspberry, altrimenti il `git push` fallisce. La strada piu' semplice e' usare una deploy key SSH con permesso di scrittura sul repository:
+
+1. genera una chiave dedicata sulla Raspberry
+2. aggiungi la chiave pubblica nelle impostazioni GitHub del repository come deploy key con `Allow write access`
+3. verifica il push manuale
+4. abilita il timer con `sudo systemctl enable --now delmastro-newswatch.timer`
+
 Verifica:
 
 ```bash

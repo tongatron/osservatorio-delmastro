@@ -7,7 +7,7 @@ Mini progetto per raccogliere articoli recenti sul caso Delmastro, pubblicare un
 - cerca articoli via RSS di ricerca di Google News filtrando per keyword e dominio
 - conserva titolo, estratto breve, testata, data e link originale
 - mostra tutto in una pagina statica servita dalla root del repository
-- genera una pagina separata con briefing per data usando Ollama in locale sul Mac
+- genera una pagina separata con briefing globale aggiornato usando Ollama in locale sul Mac
 - espone nel masthead l'ultimo controllo automatico del workflow
 - include un template `launchd` per aggiornare il dataset ogni ora su macOS
 - include una GitHub Action manuale di fallback per aggiornare `data/articles.json`
@@ -37,13 +37,14 @@ La finestra temporale attuale e' di `8` giorni. Con la data di oggi, il progetto
 ## Struttura
 
 - [index.html](./index.html), [app.js](./app.js), [styles.css](./styles.css): frontend pubblicato su GitHub Pages
-- [briefing.html](./briefing.html), [briefing.js](./briefing.js): pagina pubblica con briefing AI per data
+- [briefing.html](./briefing.html), [briefing.js](./briefing.js): pagina pubblica con briefing globale e timeline giornaliera
 - [data/articles.json](./data/articles.json): dataset articoli generato
 - [data/status.json](./data/status.json): timestamp dell'ultimo controllo automatico
-- [data/daily-briefs.json](./data/daily-briefs.json): briefing sintetici pubblicabili
+- [data/daily-briefs.json](./data/daily-briefs.json): briefing globale pubblicabile
 - [scripts/update-news.mjs](./scripts/update-news.mjs): generazione dataset
 - [scripts/fetch-article-bodies.mjs](./scripts/fetch-article-bodies.mjs): scraping locale dei corpi articolo
-- [scripts/build-ai-briefs.mjs](./scripts/build-ai-briefs.mjs): generazione briefing via Ollama
+- [scripts/build-ai-briefs.mjs](./scripts/build-ai-briefs.mjs): generazione briefing globale via Ollama
+- [scripts/lib/google-news-decoder.mjs](./scripts/lib/google-news-decoder.mjs): supporto alla decodifica dei link Google News
 - [config/watch.json](./config/watch.json): keyword, query, fonti e selector CSS
 - [.gitignore](./.gitignore): esclude `node_modules/` e `cache/`
 
@@ -65,6 +66,8 @@ Stack previsto:
 - modello `qwen2.5:7b`
 - scraping leggero via CSS selectors configurati in [config/watch.json](./config/watch.json)
 - output pubblico finale in [data/daily-briefs.json](./data/daily-briefs.json)
+- briefing unico su tutti gli articoli linkati
+- timeline giornaliera con riassunto, eventi e fonti piu' presenti
 
 Prima installazione:
 
@@ -74,14 +77,49 @@ npm install
 ollama pull qwen2.5:7b
 ```
 
-Generazione completa:
+Avvio Ollama:
 
 ```bash
-npm run update
-npm run ai:update
+ollama serve
 ```
 
-Comandi separati:
+Generazione completa del briefing:
+
+```bash
+cd /Users/tonga/Documents/GitHub/osservatorio-delmastro
+npm run update
+npm run build:briefs
+```
+
+Sequenza pratica consigliata:
+
+```bash
+cd /Users/tonga/Documents/GitHub/osservatorio-delmastro
+npm install
+ollama pull qwen2.5:7b
+ollama serve
+```
+
+In un secondo terminale:
+
+```bash
+cd /Users/tonga/Documents/GitHub/osservatorio-delmastro
+npm run update
+npm run build:briefs
+```
+
+Anteprima locale:
+
+```bash
+cd /Users/tonga/Documents/GitHub/osservatorio-delmastro
+python3 -m http.server 8001
+```
+
+Poi apri:
+
+[http://127.0.0.1:8001/briefing.html](http://127.0.0.1:8001/briefing.html)
+
+Comandi separati ancora disponibili:
 
 ```bash
 npm run fetch:bodies
@@ -93,8 +131,9 @@ Note operative:
 - i corpi articolo vengono salvati in `cache/article-bodies.json`
 - `cache/` non viene pubblicata su GitHub
 - se un dominio cambia markup, aggiorna `articleSelectors` in [config/watch.json](./config/watch.json)
-- il briefing e' pensato come sintesi originale per data, non come ripubblicazione del testo delle fonti
-- i briefing generati da Ollama vanno rivisti prima della pubblicazione: il flusso e' utile come bozza assistita, non come testo definitivo
+- il briefing e' pensato come sintesi originale globale, non come ripubblicazione del testo delle fonti
+- la timeline nel briefing e' costruita per giornata a partire da tutti gli articoli linkati del periodo monitorato
+- i briefing generati con il supporto di Ollama vanno rivisti prima della pubblicazione: il flusso e' utile come bozza assistita, non come testo definitivo
 
 ## Pubblicazione
 

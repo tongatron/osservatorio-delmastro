@@ -5,6 +5,12 @@
   "type": "module",
   "scripts": {
     "update": "node scripts/update-news.mjs",
+    "fetch:bodies": "node scripts/fetch-article-bodies.mjs",
+    "build:briefs": "node scripts/build-ai-briefs.mjs",
+    "ai:update": "npm run fetch:bodies && npm run build:briefs",
     "serve": "python3 -m http.server 4173"
+  },
+  "dependencies": {
+    "linkedom": "^0.18.12"
   }
 }

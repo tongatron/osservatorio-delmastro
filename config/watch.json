@@ -149,5 +149,62 @@
       "title": "Filtri utili",
       "body": "Se il rumore cresce, possiamo restringere ancora con keyword come Biella, Torino, antimafia, srl o i nomi dei soci emersi negli articoli."
     }
-  ]
+  ],
+  "articleSelectors": {
+    "default": [
+      "article [itemprop='articleBody']",
+      "article .entry-content",
+      "article .article-content",
+      "article .post-content",
+      "article .content",
+      "main article",
+      "article",
+      "main"
+    ],
+    "corriere.it": [
+      "article .native-summary-content",
+      "article .chapter-paragraph",
+      "article"
+    ],
+    "repubblica.it": [
+      "article [data-testid='article-body']",
+      "article .story__summary",
+      "article"
+    ],
+    "lastampa.it": [
+      "article .ArticleBody",
+      "article .entry-content",
+      "article"
+    ],
+    "open.online": [
+      "article .article-content",
+      "article"
+    ],
+    "fanpage.it": [
+      "article .article__content",
+      "article"
+    ],
+    "today.it": [
+      "article .o-article__body",
+      "article"
+    ],
+    "ansa.it": [
+      "article .news-txt",
+      "article"
+    ],
+    "tg24.sky.it": [
+      "article .c-article-body",
+      "article"
+    ],
+    "ilfattoquotidiano.it": [
+      "article .content-story",
+      "article"
+    ]
+  },
+  "ai": {
+    "model": "qwen2.5:7b",
+    "baseUrl": "http://127.0.0.1:11434",
+    "maxArticlesPerDay": 10,
+    "maxBodyCharsPerArticle": 3500
+  }
 }

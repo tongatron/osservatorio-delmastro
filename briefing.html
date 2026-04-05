@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Briefing AI | Osservatorio Caso Delmastro</title>
+    <meta
+      name="description"
+      content="Briefing giornaliero generato localmente con Ollama a partire dalle fonti monitorate sull'Osservatorio Caso Delmastro."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="top-rule"></div>
+    <div class="page-shell">
+      <header class="masthead">
+        <div class="site-badges">
+          <a class="site-badge" href="./index.html">
+            <span>Rassegna fonti</span>
+          </a>
+          <a class="site-badge" href="https://tongatron.github.io/" target="_blank" rel="noreferrer">
+            <span>tongatron.github.io</span>
+          </a>
+        </div>
+        <p class="edition-kicker">Briefing locale AI</p>
+        <h1 class="nameplate">Sintesi eventi e sviluppi</h1>
+        <div class="masthead-meta">
+          <span id="briefing-window" class="meta-item">Briefing giornaliero</span>
+          <span id="briefing-generated" class="meta-item"></span>
+          <span id="briefing-model" class="meta-item"></span>
+        </div>
+      </header>
+
+      <main class="content briefing-layout">
+        <section class="articles-section">
+          <div class="section-head">
+            <h2>Quadro per data</h2>
+            <p id="briefing-count" class="section-caption"></p>
+          </div>
+          <div id="briefing-root" class="briefing-list"></div>
+        </section>
+      </main>
+    </div>
+
+    <template id="brief-card-template">
+      <article class="brief-card">
+        <div class="brief-card-head">
+          <div>
+            <p class="brief-card-date"></p>
+            <h2 class="brief-card-title"></h2>
+          </div>
+          <p class="brief-card-count"></p>
+        </div>
+        <p class="brief-card-summary"></p>
+        <div class="brief-card-grid">
+          <section>
+            <h3>Eventi chiave</h3>
+            <ul class="brief-list brief-events"></ul>
+          </section>
+          <section>
+            <h3>Temi</h3>
+            <div class="tag-list brief-themes"></div>
+          </section>
+          <section>
+            <h3>Attori citati</h3>
+            <ul class="brief-list brief-actors"></ul>
+          </section>
+        </div>
+        <section class="brief-sources">
+          <h3>Articoli usati</h3>
+          <div class="brief-source-list"></div>
+        </section>
+      </article>
+    </template>
+
+    <script type="module" src="./briefing.js"></script>
+  </body>
+</html>

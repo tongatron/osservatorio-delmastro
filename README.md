@@ -7,9 +7,10 @@ Mini progetto per raccogliere articoli recenti sul caso Delmastro, pubblicare un
 - cerca articoli via RSS di ricerca di Google News filtrando per keyword e dominio
 - conserva titolo, estratto breve, testata, data e link originale
 - mostra tutto in una pagina statica servita dalla root del repository
+- genera una pagina separata con briefing per data usando Ollama in locale sul Mac
 - espone nel masthead l'ultimo controllo automatico del workflow
 - include un template `launchd` per aggiornare il dataset ogni ora su macOS
-- include una GitHub Action schedulata per aggiornare automaticamente `data/articles.json`
+- include una GitHub Action manuale di fallback per aggiornare `data/articles.json`
 
 ## Perche' questo approccio
 
@@ -18,6 +19,8 @@ Lo scraping diretto degli articoli dei giornali e' spesso fragile e puo' scontra
 - feed RSS di ricerca per intercettare nuovi articoli
 - metadati e link, non testo completo
 - riassunti e considerazioni scritti in modo originale da te
+
+Per il briefing AI il repository mantiene pubblici solo i riassunti finali in [data/daily-briefs.json](./data/daily-briefs.json). I corpi articolo estratti per la sintesi vengono salvati localmente in `cache/` e ignorati da Git.
 
 ## Personalizzazione
 
@@ -34,10 +37,15 @@ La finestra temporale attuale e' di `8` giorni. Con la data di oggi, il progetto
 ## Struttura
 
 - [index.html](./index.html), [app.js](./app.js), [styles.css](./styles.css): frontend pubblicato su GitHub Pages
+- [briefing.html](./briefing.html), [briefing.js](./briefing.js): pagina pubblica con briefing AI per data
 - [data/articles.json](./data/articles.json): dataset articoli generato
 - [data/status.json](./data/status.json): timestamp dell'ultimo controllo automatico
+- [data/daily-briefs.json](./data/daily-briefs.json): briefing sintetici pubblicabili
 - [scripts/update-news.mjs](./scripts/update-news.mjs): generazione dataset
-- [config/watch.json](./config/watch.json): keyword, query e fonti
+- [scripts/fetch-article-bodies.mjs](./scripts/fetch-article-bodies.mjs): scraping locale dei corpi articolo
+- [scripts/build-ai-briefs.mjs](./scripts/build-ai-briefs.mjs): generazione briefing via Ollama
+- [config/watch.json](./config/watch.json): keyword, query, fonti e selector CSS
+- [.gitignore](./.gitignore): esclude `node_modules/` e `cache/`
 
 ## Avvio locale
 
@@ -49,11 +57,54 @@ npm run serve
 
 Poi apri [http://localhost:4173](http://localhost:4173).
 
+## Briefing AI locale sul Mac
+
+Stack previsto:
+
+- Ollama in locale sul Mac
+- modello `qwen2.5:7b`
+- scraping leggero via CSS selectors configurati in [config/watch.json](./config/watch.json)
+- output pubblico finale in [data/daily-briefs.json](./data/daily-briefs.json)
+
+Prima installazione:
+
+```bash
+cd /Users/tonga/Documents/GitHub/osservatorio-delmastro
+npm install
+ollama pull qwen2.5:7b
+```
+
+Generazione completa:
+
+```bash
+npm run update
+npm run ai:update
+```
+
+Comandi separati:
+
+```bash
+npm run fetch:bodies
+npm run build:briefs
+```
+
+Note operative:
+
+- i corpi articolo vengono salvati in `cache/article-bodies.json`
+- `cache/` non viene pubblicata su GitHub
+- se un dominio cambia markup, aggiorna `articleSelectors` in [config/watch.json](./config/watch.json)
+- il briefing e' pensato come sintesi originale per data, non come ripubblicazione del testo delle fonti
+- i briefing generati da Ollama vanno rivisti prima della pubblicazione: il flusso e' utile come bozza assistita, non come testo definitivo
+
 ## Pubblicazione
 
 La pagina live e':
 
 [https://tongatron.github.io/osservatorio-delmastro/](https://tongatron.github.io/osservatorio-delmastro/)
+
+Briefing AI:
+
+[https://tongatron.github.io/osservatorio-delmastro/briefing.html](https://tongatron.github.io/osservatorio-delmastro/briefing.html)
 
 GitHub Pages pubblica direttamente la root del branch `main`.
 

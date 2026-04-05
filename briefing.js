@@ -1,62 +1,149 @@
-const briefsPayload = await fetch("./data/daily-briefs.json").then((response) => response.json());
+const payload = await fetch("./data/daily-briefs.json").then((response) => response.json());
 
 const generatedEl = document.querySelector("#briefing-generated");
 const modelEl = document.querySelector("#briefing-model");
 const countEl = document.querySelector("#briefing-count");
+const methodologyEl = document.querySelector("#briefing-methodology");
+const windowEl = document.querySelector("#briefing-window");
 const root = document.querySelector("#briefing-root");
 const template = document.querySelector("#brief-card-template");
 
-generatedEl.textContent = briefsPayload.generatedAt
-  ? `Generato ${formatRelativeTime(briefsPayload.generatedAt)}`
+const briefing = payload.briefing;
+
+generatedEl.textContent = payload.generatedAt
+  ? `Generato ${formatRelativeTime(payload.generatedAt)}`
   : "Briefing non ancora generato";
 
-modelEl.textContent = briefsPayload.model
-  ? `${briefsPayload.model} · ${formatOrigin(briefsPayload.generatedBy)}`
+modelEl.textContent = payload.model
+  ? `${payload.model} · ${formatOrigin(payload.generatedBy)}`
   : "Ollama locale";
 
-countEl.textContent = `${(briefsPayload.dailyBriefs ?? []).length} giornate sintetizzate`;
+methodologyEl.textContent =
+  payload.methodology?.note ||
+  "Briefing globale basato su titoli, estratti e, quando disponibile, sul corpo degli articoli.";
 
-renderBriefs(briefsPayload.dailyBriefs ?? []);
+if (!briefing) {
+  windowEl.textContent = "Finestra non disponibile";
+  countEl.textContent = "Nessun briefing disponibile";
+  renderEmptyState();
+} else {
+  windowEl.textContent = briefing.timeWindow?.label || "Finestra monitorata";
+  countEl.textContent = formatMetrics(briefing);
+  renderBriefing(briefing);
+}
 
-function renderBriefs(items) {
+function renderBriefing(item) {
   root.innerHTML = "";
 
-  if (items.length === 0) {
-    const empty = document.createElement("div");
-    empty.className = "empty-state";
-    empty.textContent = "Nessun briefing AI disponibile. Esegui `npm run ai:update` sul Mac.";
-    root.append(empty);
+  const node = template.content.cloneNode(true);
+  node.querySelector(".brief-card-date").textContent = item.timeWindow?.label || "Finestra monitorata";
+  node.querySelector(".brief-card-title").textContent = item.headline;
+  node.querySelector(".brief-card-count").textContent = formatMetrics(item);
+  node.querySelector(".brief-card-summary").textContent = item.summary;
+  node.querySelector(".brief-card-note").textContent = item.cautionNote || item.sourceBasis || "";
+
+  fillList(node.querySelector(".brief-events"), item.events);
+  fillTagList(node.querySelector(".brief-themes"), item.themes);
+  fillList(node.querySelector(".brief-actors"), item.notableActors);
+  renderCoverage(node, item);
+  renderTimeline(node, item.timeline);
+  renderSourceArticles(node, item.sourceArticles);
+
+  root.append(node);
+}
+
+function renderCoverage(node, item) {
+  node.querySelector(".brief-complete-summary").textContent = item.sourceBasis || "";
+
+  const sourcesRoot = node.querySelector(".brief-complete-sources");
+  sourcesRoot.innerHTML = "";
+
+  for (const source of item.topSources ?? []) {
+    const span = document.createElement("span");
+    span.className = "brief-source-pill";
+    span.textContent = `${source.label} (${source.count})`;
+    sourcesRoot.append(span);
+  }
+}
+
+function renderTimeline(node, items) {
+  const root = node.querySelector(".brief-timeline-list");
+  root.innerHTML = "";
+
+  if (!items?.length) {
+    node.querySelector(".brief-timeline").remove();
     return;
   }
 
   for (const item of items) {
-    const node = template.content.cloneNode(true);
-    node.querySelector(".brief-card-date").textContent = formatLongDate(item.date);
-    node.querySelector(".brief-card-title").textContent = item.headline;
-    node.querySelector(".brief-card-count").textContent = `${item.articleCount} articoli`;
-    node.querySelector(".brief-card-summary").textContent = item.summary;
+    const article = document.createElement("article");
+    article.className = "timeline-day";
 
-    fillList(node.querySelector(".brief-events"), item.keyEvents);
-    fillTagList(node.querySelector(".brief-themes"), item.themes);
-    fillList(node.querySelector(".brief-actors"), item.notableActors);
+    const head = document.createElement("div");
+    head.className = "timeline-day-head";
 
-    const sourcesRoot = node.querySelector(".brief-source-list");
-    for (const article of item.sourceArticles ?? []) {
-      const link = document.createElement("a");
-      link.className = "brief-source-link";
-      link.href = article.link;
-      link.target = "_blank";
-      link.rel = "noreferrer";
-      link.textContent = `${article.source} · ${article.title}`;
-      sourcesRoot.append(link);
+    const date = document.createElement("p");
+    date.className = "timeline-day-date";
+    date.textContent = item.label;
+    head.append(date);
+
+    const metrics = document.createElement("p");
+    metrics.className = "timeline-day-metrics";
+    metrics.textContent = `${item.linkedArticleCount} articoli · ${item.sourceCount} fonti`;
+    head.append(metrics);
+
+    article.append(head);
+
+    const summary = document.createElement("p");
+    summary.className = "timeline-day-summary";
+    summary.textContent = item.summary;
+    article.append(summary);
+
+    const list = document.createElement("ul");
+    list.className = "brief-list";
+    fillList(list, item.events);
+    article.append(list);
+
+    const sources = document.createElement("div");
+    sources.className = "brief-complete-sources";
+    for (const source of item.topSources ?? []) {
+      const span = document.createElement("span");
+      span.className = "brief-source-pill";
+      span.textContent = `${source.label} (${source.count})`;
+      sources.append(span);
     }
+    article.append(sources);
 
-    root.append(node);
+    root.append(article);
   }
+}
+
+function renderSourceArticles(node, items) {
+  const sourcesRoot = node.querySelector(".brief-source-list");
+  sourcesRoot.innerHTML = "";
+
+  for (const article of items ?? []) {
+    const link = document.createElement("a");
+    link.className = "brief-source-link";
+    link.href = article.link;
+    link.target = "_blank";
+    link.rel = "noreferrer";
+    link.textContent = `${article.source} · ${article.title}`;
+    sourcesRoot.append(link);
+  }
+}
+
+function renderEmptyState() {
+  root.innerHTML = "";
+  const empty = document.createElement("div");
+  empty.className = "empty-state";
+  empty.textContent = "Nessun briefing disponibile. Esegui `npm run build:briefs` sul Mac.";
+  root.append(empty);
 }
 
 function fillList(root, items) {
   root.innerHTML = "";
+
   for (const item of items ?? []) {
     const li = document.createElement("li");
     li.textContent = item;
@@ -66,22 +153,13 @@ function fillList(root, items) {
 
 function fillTagList(root, items) {
   root.innerHTML = "";
+
   for (const item of items ?? []) {
     const span = document.createElement("span");
     span.className = "tag";
     span.textContent = item;
     root.append(span);
   }
-}
-
-function formatLongDate(value) {
-  return new Intl.DateTimeFormat("it-IT", {
-    timeZone: "Europe/Rome",
-    weekday: "long",
-    day: "numeric",
-    month: "long",
-    year: "numeric"
-  }).format(new Date(value));
 }
 
 function formatRelativeTime(value) {
@@ -105,9 +183,27 @@ function formatOrigin(value) {
     return "locale";
   }
 
-  if (value === "ollama") {
-    return "briefing locale";
+  if (value === "ollama-hybrid") {
+    return "briefing locale ibrido";
   }
 
   return value;
+}
+
+function formatMetrics(item) {
+  const parts = [];
+
+  if (item.linkedArticleCount) {
+    parts.push(`${item.linkedArticleCount} articoli`);
+  }
+
+  if (item.clusterCount) {
+    parts.push(`${item.clusterCount} filoni`);
+  }
+
+  if (item.sourceCount) {
+    parts.push(`${item.sourceCount} fonti`);
+  }
+
+  return parts.join(" · ");
 }

@@ -22,10 +22,10 @@
             <span>tongatron.github.io</span>
           </a>
         </div>
-        <p class="edition-kicker">Briefing locale AI</p>
-        <h1 class="nameplate">Sintesi eventi e sviluppi</h1>
+        <p class="edition-kicker">Briefing completo</p>
+        <h1 class="nameplate">Sintesi aggiornata di tutte le fonti</h1>
         <div class="masthead-meta">
-          <span id="briefing-window" class="meta-item">Briefing giornaliero</span>
+          <span id="briefing-window" class="meta-item">Finestra monitorata</span>
           <span id="briefing-generated" class="meta-item"></span>
           <span id="briefing-model" class="meta-item"></span>
         </div>
@@ -34,9 +34,10 @@
       <main class="content briefing-layout">
         <section class="articles-section">
           <div class="section-head">
-            <h2>Quadro per data</h2>
+            <h2>Briefing unico</h2>
             <p id="briefing-count" class="section-caption"></p>
           </div>
+          <p id="briefing-methodology" class="briefing-note"></p>
           <div id="briefing-root" class="briefing-list"></div>
         </section>
       </main>
@@ -52,9 +53,10 @@
           <p class="brief-card-count"></p>
         </div>
         <p class="brief-card-summary"></p>
+        <p class="brief-card-note"></p>
         <div class="brief-card-grid">
           <section>
-            <h3>Eventi chiave</h3>
+            <h3>Eventi ricorrenti</h3>
             <ul class="brief-list brief-events"></ul>
           </section>
           <section>
@@ -66,8 +68,17 @@
             <ul class="brief-list brief-actors"></ul>
           </section>
         </div>
+        <section class="brief-complete">
+          <h3>Fonti più presenti</h3>
+          <p class="brief-complete-summary"></p>
+          <div class="brief-complete-sources"></div>
+        </section>
+        <section class="brief-timeline">
+          <h3>Timeline giornaliera</h3>
+          <div class="brief-timeline-list"></div>
+        </section>
         <section class="brief-sources">
-          <h3>Articoli usati</h3>
+          <h3>Tutti gli articoli linkati</h3>
           <div class="brief-source-list"></div>
         </section>
       </article>

@@ -1,11 +1,49 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";
+import { decodeGoogleNewsUrl, isGoogleNewsUrl } from "./lib/google-news-decoder.mjs";
 
 const ROOT = process.cwd();
 const CONFIG_PATH = path.join(ROOT, "config", "watch.json");
 const OUTPUT_PATH = path.join(ROOT, "data", "articles.json");
+const GOOGLE_NEWS_CACHE_PATH = path.join(ROOT, "cache", "google-news-decoder.json");
 const ROME_TIME_ZONE = "Europe/Rome";
+const ITALIAN_STOPWORDS = new Set([
+  "a",
+  "ad",
+  "agli",
+  "ai",
+  "al",
+  "alla",
+  "alle",
+  "allo",
+  "con",
+  "da",
+  "dal",
+  "dalla",
+  "delle",
+  "della",
+  "dello",
+  "dei",
+  "del",
+  "di",
+  "e",
+  "gli",
+  "i",
+  "il",
+  "in",
+  "la",
+  "le",
+  "lo",
+  "nel",
+  "nella",
+  "per",
+  "su",
+  "tra",
+  "un",
+  "una",
+  "uno"
+]);
 
 const config = JSON.parse(await readFile(CONFIG_PATH, "utf8"));
 const now = new Date();
@@ -19,6 +57,8 @@ const seen = new Set();
 const articles = [];
 const queryStats = new Map();
 const sourceStats = new Map();
+const decoderCache = await readJson(GOOGLE_NEWS_CACHE_PATH, { items: {} });
+const decoderCacheItems = decoderCache.items ?? {};
 
 for (const source of sourceUrls) {
   const response = await fetch(source.url, {
@@ -60,6 +100,10 @@ for (const source of sourceUrls) {
       continue;
     }
 
+    if (looksLikeIndexPage(title, description)) {
+      continue;
+    }
+
     registerHit(queryStats, source.queryLabel, false);
 
     const dedupeKey = buildArticleFingerprint({
@@ -78,20 +122,51 @@ for (const source of sourceUrls) {
 
     articles.push({
       id: dedupeKey,
-      title,
+      title: stripSourceSuffix(title, sourceName),
       link,
+      googleNewsLink: isGoogleNewsUrl(link) ? link : null,
       source: sourceName,
       sourceHost: source.label,
       queryLabel: source.queryLabel,
       matchedTerms: source.terms,
       tags: inferTags(`${title} ${description}`, config.tagRules ?? {}),
       publishedAt: publishedAt.toISOString(),
-      excerpt: description.slice(0, 280)
+      excerpt: stripSourceSuffix(description, sourceName).slice(0, 280)
     });
   }
 }
 
+for (const article of articles) {
+  if (!isGoogleNewsUrl(article.link)) {
+    continue;
+  }
+
+  const cached = decoderCacheItems[article.link];
+  if (cached?.decodedUrl) {
+    article.link = cached.decodedUrl;
+    article.originalLink = cached.decodedUrl;
+    continue;
+  }
+
+  try {
+    const decoded = await decodeGoogleNewsUrl(article.link);
+    article.link = decoded.decodedUrl;
+    article.originalLink = decoded.decodedUrl;
+    decoderCacheItems[article.googleNewsLink] = {
+      decodedUrl: decoded.decodedUrl,
+      timestamp: decoded.timestamp ?? null,
+      signature: decoded.signature ?? null,
+      updatedAt: new Date().toISOString()
+    };
+  } catch (error) {
+    article.originalLink = null;
+    article.decoderError = error instanceof Error ? error.message : String(error);
+  }
+}
+
 articles.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+
+const uniqueArticles = dedupeNearDuplicates(articles);
 
 const payload = {
   generatedAt: now.toISOString(),
@@ -110,7 +185,7 @@ const payload = {
     to: now.toISOString(),
     days: config.windowDays
   },
-  sources: [...sourceStats.entries()]
+  sources: [...countSources(uniqueArticles).entries()]
     .map(([label, articleCount]) => ({ label, articleCount }))
     .sort((a, b) => b.articleCount - a.articleCount),
   queries: [...queryStats.entries()]
@@ -120,15 +195,21 @@ const payload = {
       uniqueArticles: stats.uniqueArticles
     }))
     .sort((a, b) => b.uniqueArticles - a.uniqueArticles),
-  tagSummary: buildTagSummary(articles),
-  timeline: buildTimeline(articles, since, now),
-  articles
+  tagSummary: buildTagSummary(uniqueArticles),
+  timeline: buildTimeline(uniqueArticles, since, now),
+  articles: uniqueArticles
 };
 
 await mkdir(path.dirname(OUTPUT_PATH), { recursive: true });
+await mkdir(path.dirname(GOOGLE_NEWS_CACHE_PATH), { recursive: true });
 await writeFile(OUTPUT_PATH, `${JSON.stringify(payload, null, 2)}\n`, "utf8");
+await writeFile(
+  GOOGLE_NEWS_CACHE_PATH,
+  `${JSON.stringify({ updatedAt: new Date().toISOString(), items: decoderCacheItems }, null, 2)}\n`,
+  "utf8"
+);
 
-console.log(`Saved ${articles.length} articles to ${OUTPUT_PATH}`);
+console.log(`Saved ${uniqueArticles.length} articles to ${OUTPUT_PATH}`);
 
 function buildSourceUrls(activeConfig, groups) {
   return activeConfig.googleNewsSites.flatMap((site) =>
@@ -234,7 +315,7 @@ function buildArticleFingerprint({ title, sourceName, sourceHost, publishedAt })
   return [
     sourceHost,
     sourceName.toLowerCase(),
-    normalizeTitle(title),
+    normalizeTitleLoose(stripSourceSuffix(title, sourceName)),
     publishedAt
   ].join("__");
 }
@@ -244,6 +325,79 @@ function normalizeTitle(value) {
     .toLowerCase()
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function normalizeTitleLoose(value) {
+  return normalizeDelmastroSpacing(String(value))
+    .normalize("NFKD")
+    .replace(/[^\p{L}\p{N}\s]/gu, " ")
+    .toLowerCase()
+    .split(/\s+/)
+    .filter(Boolean)
+    .filter((token) => !ITALIAN_STOPWORDS.has(token))
+    .join(" ")
+    .trim();
+}
+
+function stripSourceSuffix(text, sourceName) {
+  const escapedSource = escapeRegExp(sourceName);
+  return String(text ?? "")
+    .replace(new RegExp(`\\s+[\\-|–—]\\s+${escapedSource}$`, "i"), "")
+    .replace(new RegExp(`\\s+${escapedSource}$`, "i"), "")
+    .trim();
+}
+
+function looksLikeIndexPage(title, excerpt) {
+  const haystack = `${title} ${excerpt}`.toLowerCase();
+  return [
+    "notizie e video",
+    "notizie su caso",
+    "ultime notizie",
+    "tutte le notizie",
+    "video e ultime notizie"
+  ].some((token) => haystack.includes(token));
+}
+
+function dedupeNearDuplicates(records) {
+  const seen = new Set();
+  const output = [];
+
+  for (const article of records) {
+    const dayKey = formatRomeDateKey(article.publishedAt);
+    const looseKey = `${article.sourceHost}__${dayKey}__${normalizeTitleLoose(article.title)}`;
+
+    if (seen.has(looseKey)) {
+      continue;
+    }
+
+    seen.add(looseKey);
+    output.push(article);
+  }
+
+  return output;
+}
+
+function escapeRegExp(value) {
+  return String(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+async function readJson(filePath, fallback = null) {
+  try {
+    return JSON.parse(await readFile(filePath, "utf8"));
+  } catch (error) {
+    if (fallback !== null) {
+      return fallback;
+    }
+    throw error;
+  }
+}
+
+function countSources(records) {
+  const counts = new Map();
+  for (const article of records) {
+    counts.set(article.sourceHost, (counts.get(article.sourceHost) ?? 0) + 1);
+  }
+  return counts;
 }
 
 function normalizeDelmastroSpacing(value) {

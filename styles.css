@@ -464,6 +464,16 @@ h3 {
   gap: 20px;
 }
 
+.briefing-note {
+  margin: 0 0 20px;
+  padding: 14px 16px;
+  border-left: 3px solid var(--accent);
+  background: rgba(255, 250, 242, 0.9);
+  color: var(--muted);
+  font-family: var(--font-sans);
+  line-height: 1.6;
+}
+
 .brief-card {
   padding: 24px;
   border: 1px solid var(--rule);
@@ -504,6 +514,14 @@ h3 {
   max-width: 78ch;
 }
 
+.brief-card-note {
+  margin: -6px 0 18px;
+  font-family: var(--font-sans);
+  color: var(--muted);
+  line-height: 1.6;
+  max-width: 78ch;
+}
+
 .brief-card-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -512,6 +530,8 @@ h3 {
 }
 
 .brief-card-grid section,
+.brief-complete,
+.brief-timeline,
 .brief-sources {
   padding-top: 14px;
   border-top: 1px solid var(--rule);
@@ -529,6 +549,76 @@ h3 {
 .brief-source-list {
   display: grid;
   gap: 8px;
+}
+
+.brief-complete-summary {
+  margin: 0 0 14px;
+  color: var(--muted);
+  line-height: 1.7;
+  max-width: 78ch;
+}
+
+.brief-complete-sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.brief-source-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 10px;
+  border: 1px solid var(--rule);
+  background: rgba(255, 255, 255, 0.68);
+  border-radius: 999px;
+  font-family: var(--font-sans);
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+
+.brief-timeline-list {
+  display: grid;
+  gap: 14px;
+}
+
+.timeline-day {
+  padding: 16px 18px;
+  border: 1px solid var(--rule);
+  background: rgba(255, 255, 255, 0.62);
+}
+
+.timeline-day-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: baseline;
+  margin-bottom: 10px;
+}
+
+.timeline-day-date,
+.timeline-day-metrics {
+  margin: 0;
+  font-family: var(--font-sans);
+}
+
+.timeline-day-date {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.timeline-day-metrics {
+  font-size: 0.84rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--accent-soft);
+}
+
+.timeline-day-summary {
+  margin: 0 0 12px;
+  color: var(--muted);
+  line-height: 1.7;
 }
 
 .brief-source-link {

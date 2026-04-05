@@ -62,12 +62,59 @@ GitHub Pages pubblica direttamente la root del branch `main`.
 Il workflow [update-data.yml](./.github/workflows/update-data.yml) esegue:
 
 - avvio manuale da Actions
-- aggiornamento schedulato ogni 30 minuti
 - `npm run update`
 - aggiornamento di [data/status.json](./data/status.json) a ogni check
 - commit automatico di `data/articles.json` e `data/status.json` solo se cambia qualcosa
 
 Il masthead mostra `Ultimo controllo ...` leggendo `data/status.json`.
+
+La schedulazione automatica da GitHub Actions e' stata disattivata per evitare due writer sul branch `main` quando il job periodico gira sulla Raspberry. La Action resta come fallback manuale.
+
+## Deploy su Raspberry
+
+Percorso previsto sulla Raspberry:
+
+```bash
+/srv/apps/osservatorio-delmastro
+```
+
+File aggiunti per l'automazione:
+
+- [ops/run-on-raspberry.sh](./ops/run-on-raspberry.sh): fa `git pull --rebase`, aggiorna il dataset, registra `data/status.json`, committa e prova il push
+- [ops/delmastro-newswatch.service](./ops/delmastro-newswatch.service): unita' `systemd`
+- [ops/delmastro-newswatch.timer](./ops/delmastro-newswatch.timer): timer `systemd` ogni 30 minuti
+
+Flusso previsto:
+
+1. la Raspberry sincronizza sempre `origin/main` prima dell'update
+2. esegue `npm run update`
+3. aggiorna `data/status.json`
+4. committa solo se `data/articles.json` o `data/status.json` sono cambiati
+5. esegue `git push`
+
+Questo copre anche eventuali articoli gia' caricati in remoto prima dell'esecuzione del job sulla Raspberry, perche' il repository viene riallineato a `origin/main` prima di generare il nuovo dataset.
+
+## Installazione del timer sulla Raspberry
+
+Dopo il clone del repository sulla Raspberry:
+
+```bash
+cd /srv/apps/osservatorio-delmastro
+chmod +x ops/run-on-raspberry.sh
+sudo cp ops/delmastro-newswatch.service /etc/systemd/system/
+sudo cp ops/delmastro-newswatch.timer /etc/systemd/system/
+sudo systemctl daemon-reload
+sudo systemctl enable --now delmastro-newswatch.timer
+sudo systemctl start delmastro-newswatch.service
+```
+
+Verifica:
+
+```bash
+systemctl status delmastro-newswatch.timer
+systemctl list-timers --all | grep delmastro
+journalctl -u delmastro-newswatch.service -f
+```
 
 ## Automazione oraria su macOS
 

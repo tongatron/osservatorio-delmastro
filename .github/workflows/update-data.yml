@@ -27,7 +27,7 @@ jobs:
       - name: Record last check timestamp
         run: |
           TIMESTAMP="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
-          printf '{\n  "lastCheckedAt": "%s"\n}\n' "$TIMESTAMP" > data/status.json
+          printf '{\n  "lastCheckedAt": "%s",\n  "lastCheckedBy": "github-actions"\n}\n' "$TIMESTAMP" > data/status.json
 
       - name: Commit and push if data changed
         run: |

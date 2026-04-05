@@ -88,7 +88,7 @@ Flusso previsto:
 
 1. la Raspberry sincronizza sempre `origin/main` prima dell'update
 2. esegue `npm run update`
-3. aggiorna `data/status.json`
+3. aggiorna `data/status.json` con timestamp e origine (`raspberry.local` o `github-actions`)
 4. committa solo se `data/articles.json` o `data/status.json` sono cambiati
 5. esegue `git push`
 

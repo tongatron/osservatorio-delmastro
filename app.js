@@ -24,7 +24,7 @@ initializeResponsivePanels();
 
 dateWindow.textContent = formatWindow(data.window?.from, data.window?.to);
 checkedRelative.textContent = status.lastCheckedAt
-  ? `Ultimo controllo ${formatRelativeTime(status.lastCheckedAt)}`
+  ? buildLastCheckLabel(status)
   : "Controllo automatico ogni 30 minuti";
 
 for (const source of data.sources ?? []) {
@@ -228,6 +228,30 @@ function formatRelativeTime(value) {
     return "1 giorno fa";
   }
   return `${days} giorni fa`;
+}
+
+function buildLastCheckLabel(status) {
+  const origin = formatCheckOrigin(status.lastCheckedBy);
+  const suffix = origin ? ` · ${origin}` : "";
+  return `Ultimo controllo ${formatRelativeTime(status.lastCheckedAt)}${suffix}`;
+}
+
+function formatCheckOrigin(value) {
+  if (!value) {
+    return "";
+  }
+
+  const normalized = String(value).trim().toLowerCase();
+
+  if (normalized === "raspberry.local") {
+    return "da raspberry.local";
+  }
+
+  if (normalized === "github-actions") {
+    return "da GitHub Actions";
+  }
+
+  return `da ${value}`;
 }
 
 function formatWindow(from, to) {

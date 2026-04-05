@@ -19,7 +19,7 @@ git pull --rebase --autostash "$REMOTE_NAME" "$BRANCH_NAME"
 npm run update
 
 TIMESTAMP="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
-printf '{\n  "lastCheckedAt": "%s"\n}\n' "$TIMESTAMP" > data/status.json
+printf '{\n  "lastCheckedAt": "%s",\n  "lastCheckedBy": "raspberry.local"\n}\n' "$TIMESTAMP" > data/status.json
 
 if git diff --quiet -- data/articles.json data/status.json; then
   echo "No dataset changes detected."

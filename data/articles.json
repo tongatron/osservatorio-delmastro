@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T08:09:50.519Z",
+  "generatedAt": "2026-04-05T08:44:45.905Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -91,11 +91,15 @@
     ]
   },
   "window": {
-    "from": "2026-03-28T08:09:50.519Z",
-    "to": "2026-04-05T08:09:50.519Z",
+    "from": "2026-03-28T08:44:45.905Z",
+    "to": "2026-04-05T08:44:45.905Z",
     "days": 8
   },
   "sources": [
+    {
+      "label": "rainews.it",
+      "articleCount": 32
+    },
     {
       "label": "repubblica.it",
       "articleCount": 25
@@ -110,10 +114,6 @@
     },
     {
       "label": "corriere.it",
-      "articleCount": 16
-    },
-    {
-      "label": "rainews.it",
       "articleCount": 16
     },
     {
@@ -142,7 +142,7 @@
     },
     {
       "label": "today.it",
-      "articleCount": 6
+      "articleCount": 5
     },
     {
       "label": "fanpage.it",
@@ -189,18 +189,18 @@
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 111,
-      "uniqueArticles": 9
+      "fetchedArticles": 121,
+      "uniqueArticles": 19
+    },
+    {
+      "label": "Soci e societa'",
+      "fetchedArticles": 144,
+      "uniqueArticles": 8
     },
     {
       "label": "Filone giudiziario",
       "fetchedArticles": 96,
       "uniqueArticles": 5
-    },
-    {
-      "label": "Soci e societa'",
-      "fetchedArticles": 139,
-      "uniqueArticles": 3
     },
     {
       "label": "Persone collegate",
@@ -216,27 +216,27 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 54
+      "count": 58
     },
     {
       "tag": "giudiziaria",
-      "count": 54
+      "count": 58
     },
     {
       "tag": "territorio",
-      "count": 43
+      "count": 48
     },
     {
       "tag": "bisteccheria",
-      "count": 42
+      "count": 46
     },
     {
       "tag": "politica",
-      "count": 29
+      "count": 31
     },
     {
       "tag": "societa'",
-      "count": 20
+      "count": 22
     }
   ],
   "timeline": [
@@ -250,15 +250,15 @@
     },
     {
       "date": "2026-03-30",
-      "count": 65
+      "count": 72
     },
     {
       "date": "2026-03-31",
-      "count": 36
+      "count": 38
     },
     {
       "date": "2026-04-01",
-      "count": 60
+      "count": 67
     },
     {
       "date": "2026-04-02",
@@ -270,7 +270,7 @@
     },
     {
       "date": "2026-04-04",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-04-05",
@@ -296,10 +296,10 @@
       "excerpt": "Notizie su caso delmastro today.it"
     },
     {
-      "id": "repubblica.it__la repubblica__un esposto segnala delmastro all’ordine degli avvocati: “scredita la categoria, va punito” - la repubblica__2026-04-04T23:00:00.000Z",
-      "title": "Un esposto segnala Delmastro all’ordine degli avvocati: “Scredita la categoria, va punito” - la Repubblica",
+      "id": "repubblica.it__torino.repubblica.it__un esposto segnala delmastro all’ordine degli avvocati: “scredita la categoria, va punito” - torino.repubblica.it__2026-04-04T23:00:00.000Z",
+      "title": "Un esposto segnala Delmastro all’ordine degli avvocati: “Scredita la categoria, va punito” - torino.repubblica.it",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMlViZXZVRkNONmtQMVViUFNmci03NWdwZ1E2Y3lTbzJkRFRoZDJzZFh1ODhnOWFVOW16RFdneWtNSVR0NkJORF8zbFJMaEI1R0FWNFpQZ2ozbGNRbGpoM1NJUEUyRl9wd29yZmFFOWxwb2oxcWlGY1ZyVHhrTE5fb3FsbmZJVGFSWDllTEFoWTNFeVI0ZUsycGQtMU5paE9FRmprNER2RmJyZ0Ry0gGsAUFVX3lxTE4yVWJldlVGQ042a1AxVWJQU2ZyLTc1Z3BnUTZjeVNvMmREVGhkMnNkWHU4OGc5YVU5bXpEV2d5a01JVHQ2Qk5EXzNsUkxoQjVHQVY0WlBnajNsY1FsamgzU0lQRTJGX3B3b3JmYUU5bHBvajFxaUZjVnJUeGtMTl9vcWxuZklUYVJYOWVMQWhZM0V5UjRlSzJwZC0xTmloT0VGams0RHZGYnJnRHI?oc=5",
-      "source": "la Repubblica",
+      "source": "torino.repubblica.it",
       "sourceHost": "repubblica.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -307,16 +307,16 @@
         "Andrea Delmastro"
       ],
       "tags": [
-        "altro"
+        "territorio"
       ],
       "publishedAt": "2026-04-04T23:00:00.000Z",
-      "excerpt": "Un esposto segnala Delmastro all’ordine degli avvocati: “Scredita la categoria, va punito” la Repubblica"
+      "excerpt": "Un esposto segnala Delmastro all’ordine degli avvocati: “Scredita la categoria, va punito” torino.repubblica.it"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__fdi dirotta delmastro: no alla commissione giustizia - il fatto quotidiano__2026-04-04T22:01:00.000Z",
-      "title": "FdI dirotta Delmastro: no alla commissione Giustizia - Il Fatto Quotidiano",
+      "id": "ilfattoquotidiano.it__ilfattoquotidiano.it__fdi dirotta delmastro: no alla commissione giustizia - ilfattoquotidiano.it__2026-04-04T22:01:00.000Z",
+      "title": "FdI dirotta Delmastro: no alla commissione Giustizia - ilfattoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc3lONTRzZGk5bmQxYXNBYUliMWxjekIwT3B6dTc4UGg1Y3dacUhGenpFLXBTSFpGQmw2S3lYOERUdzRQVkZUcEoxWXRYNzdWMlNRVktjM081aUowSnBhQUFRYzQycDNoOEFDSWlPV0tFNWRxd0U3VjFBa05RdnRXb3EwRmE4bUdqVUk2bmdPaDJtOU5odldDZnlKdW5rQUZaUTE3LVdXbWNDRnVlLTdiNXNuRkZjSDFzeGh0QTRuOXZqQQ?oc=5",
-      "source": "Il Fatto Quotidiano",
+      "source": "ilfattoquotidiano.it",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -327,24 +327,7 @@
         "politica"
       ],
       "publishedAt": "2026-04-04T22:01:00.000Z",
-      "excerpt": "FdI dirotta Delmastro: no alla commissione Giustizia Il Fatto Quotidiano"
-    },
-    {
-      "id": "today.it__today.it__notizie su caso delmastro - today.it__2026-04-04T14:49:46.000Z",
-      "title": "Notizie su caso delmastro - today.it",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yTkxhVkNRZDNlZVlNUkJ1by1jQ0VveWx1UWNZZ0RzWXQ1LS1LSjZtaEVFVmdKVXZESWxxU2Q4Y3FZWEJiTktwZEhGTmViTXRqSEE?oc=5",
-      "source": "today.it",
-      "sourceHost": "today.it",
-      "queryLabel": "Bisteccheria",
-      "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-04T14:49:46.000Z",
-      "excerpt": "Notizie su caso delmastro today.it"
+      "excerpt": "FdI dirotta Delmastro: no alla commissione Giustizia ilfattoquotidiano.it"
     },
     {
       "id": "today.it__today.it__elena chiorino notizie e video - today.it__2026-04-03T21:27:31.000Z",
@@ -402,10 +385,10 @@
       "excerpt": "Ischia, una petizione per revoca cittadinanza onoraria a Delmastro la Repubblica"
     },
     {
-      "id": "ansa.it__ansa__a ischia petizione per revoca cittadinanza a delmastro - ansa__2026-04-03T11:12:00.000Z",
-      "title": "A Ischia petizione per revoca cittadinanza a Delmastro - ANSA",
+      "id": "ansa.it__ansa.it__a ischia petizione per revoca cittadinanza a delmastro - ansa.it__2026-04-03T11:12:00.000Z",
+      "title": "A Ischia petizione per revoca cittadinanza a Delmastro - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMWVBWTJXOTdhNDFoOEdTZXBwcnpoY3RHalZjRkdRUml1NUdwRkx2VEVVWTM5eHdWVml4dFNTS0ExU0xQd1YtdTBDSVNwTVdndzJpUTFKQ2dUR0lkOHpCZTBFZjUtZURxVHlweWdtTllZYUhIZzcwWFdqbHA0SjdZQ0N1SF92UW0tYm41ZzhTZmtLVGN3WmNaRlJfMXdwUm5pVFVSTjRtYkVhQ1loQk5YR21mOW9iYU5DQy1fVl9zRUJTOW9xeUpwM3h5UnowSmVMc3AtSHFyN1hRWHYxY2tYNjJ1TdIB6AFBVV95cUxPclpPcERDdHpkY3RlYU9hMFdBZ01Jcy1YMVJiUlZpYTJic19ELTZ2M0EtT2dyVHEza3ZmOTg4YWYyb3NjeThRS2lET0dSemg3UC12MUI4R2dKZE14M2dlSi1BVHNCWmhWQXkxNHRTcWQxYzhZd3JidmZ2VW5QazJ0X3gtMGxzZWxtZjVRbWxWNjZJYU02dHJaVzA5SGpJTGlKLVZsc1FRVVk2WFQ2dEVKbkxidEJMNE1ELThjSHFSWnNfdFBWenV3M1c5N19NNkprSjF2OWNjMF8yWnd5QzNVLWNoRDBUSU5r?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -416,7 +399,7 @@
         "altro"
       ],
       "publishedAt": "2026-04-03T11:12:00.000Z",
-      "excerpt": "A Ischia petizione per revoca cittadinanza a Delmastro ANSA"
+      "excerpt": "A Ischia petizione per revoca cittadinanza a Delmastro ansa.it"
     },
     {
       "id": "repubblica.it__la repubblica__caroccia in bancarotta, l’avvocato: “delmastro sapeva dei problemi” - la repubblica__2026-04-03T06:20:03.000Z",
@@ -470,10 +453,10 @@
       "excerpt": "Andrea Delmastro, Carroccia ai Pm: \"Ma quale riciclaggio, i soldi erano suoi\" | Libero Quotidiano.it Libero Quotidiano"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__“caroccia distrusse i documenti contabili dell’altra srl”. poi arrivò delmastro - il fatto quotidiano__2026-04-02T22:01:00.000Z",
-      "title": "“Caroccia distrusse i documenti contabili dell’altra srl”. Poi arrivò Delmastro - Il Fatto Quotidiano",
+      "id": "ilfattoquotidiano.it__ilfattoquotidiano.it__“caroccia distrusse i documenti contabili dell’altra srl”. poi arrivò delmastro - ilfattoquotidiano.it__2026-04-02T22:01:00.000Z",
+      "title": "“Caroccia distrusse i documenti contabili dell’altra srl”. Poi arrivò Delmastro - ilfattoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOajVCT19RcHJJTzZpZzdtd2lxNDFyYTktX01WVFdzRW9yamxMMTc4R0Y3dWN6bk9uYTlmOEVvRFlpblFRdHp3dXZCakgxeGFvanNWSHJpQXZHbVR5Y3oxcDZWeS1ITjBqZ3llQWtUMlBNNERYcEsxdWFTUUE4bWVpSjFyYWwzTUdfQzhTclMyWHdUdUkyZ1lSQklFODhZTXdfbzFlRDhxeEppMW82WkRiZWFBd0ZFa1NNZnBtWThuSWRVdEp5cVhxM0d0RzZvUUU?oc=5",
-      "source": "Il Fatto Quotidiano",
+      "source": "ilfattoquotidiano.it",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -484,7 +467,7 @@
         "societa'"
       ],
       "publishedAt": "2026-04-02T22:01:00.000Z",
-      "excerpt": "“Caroccia distrusse i documenti contabili dell’altra srl”. Poi arrivò Delmastro Il Fatto Quotidiano"
+      "excerpt": "“Caroccia distrusse i documenti contabili dell’altra srl”. Poi arrivò Delmastro ilfattoquotidiano.it"
     },
     {
       "id": "ilgiornale.it__il giornale__caroccia e figlia interrogati dalla dda. e per delmastro arriva la censura - il giornale__2026-04-02T10:02:24.000Z",
@@ -625,10 +608,10 @@
       "excerpt": "Caroccia ai pm: “Delmastro è stato il mio benefattore. Eravamo in società insieme” la Repubblica"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__“caroccia insolvente mise la figlia nella srl e delmastro sapeva” - il fatto quotidiano__2026-04-01T22:01:00.000Z",
-      "title": "“Caroccia insolvente mise la figlia nella srl e Delmastro sapeva” - Il Fatto Quotidiano",
+      "id": "ilfattoquotidiano.it__ilfattoquotidiano.it__“caroccia insolvente mise la figlia nella srl e delmastro sapeva” - ilfattoquotidiano.it__2026-04-01T22:01:00.000Z",
+      "title": "“Caroccia insolvente mise la figlia nella srl e Delmastro sapeva” - ilfattoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdDZleUhRdWlhYko2bzRVLXF2dzEzcnVCakNjWU04Nms5d1NESnN1dVFBQkNRTjQyRWczQzZJMHo4SUV4eG5sa2ppOU05c09ZTGFfM056RWVmUFUwbHEyVjBhbFFiLVNSbVcyd1I4QWRjeDhYSm5YanlZdlZEOUhiajMzOFp0YVFJaU8yVExPT3hxYzJCOXp1XzR0N0tTdW1QZTF3OExKaERZa0xIQUNOVG1xWEhmU2RwRlJZSEdIUXRHbkw5UW9YWlJPS0dSRjZRVUE?oc=5",
-      "source": "Il Fatto Quotidiano",
+      "source": "ilfattoquotidiano.it",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -639,7 +622,7 @@
         "societa'"
       ],
       "publishedAt": "2026-04-01T22:01:00.000Z",
-      "excerpt": "“Caroccia insolvente mise la figlia nella srl e Delmastro sapeva” Il Fatto Quotidiano"
+      "excerpt": "“Caroccia insolvente mise la figlia nella srl e Delmastro sapeva” ilfattoquotidiano.it"
     },
     {
       "id": "rainews.it__rainews__mauro caroccia ai pm: \"delmastro ci ha fatto della beneficenza. ero incensurato\" - rainews__2026-04-01T19:46:00.000Z",
@@ -659,6 +642,23 @@
       "excerpt": "Mauro Caroccia ai Pm: \"Delmastro ci ha fatto della beneficenza. Ero incensurato\" RaiNews"
     },
     {
+      "id": "rainews.it__rainews.it__mauro caroccia ai pm: \"delmastro ci ha fatto della beneficenza. ero incensurato\" - rainews.it__2026-04-01T19:46:00.000Z",
+      "title": "Mauro Caroccia ai Pm: \"Delmastro ci ha fatto della beneficenza. Ero incensurato\" - rainews.it",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNFpBbDhSWVZWWHVHVndUaFdVaTZKemx5bnNLcmo1YWl5SWFTLWFxeDM5U2V2VTFzU3V2a3F3cHBXTkdCWjFuTHFpa2lWb3VzaWQ5QkxSNEhKWnRtMnJ2YXloclJldmE4LTlnZDA1djJOODRzLTNuOVN2RXpmaDNOX0UzMU5ucm4tSWVHeTR0TVROUEo3enpNX0k2SnFqQldnUV9kbHMxbzhqTW5JNnREYWZOR21sa19xZG5TeGd4V1g5SVRqVG4xSlp6SzJEanB4MDEtckVzLXpDeWowNExtYmNRTWJXNndUdmRnbjFMWHRyUdIB9wFBVV95cUxQYnptMUh1eUpaUzZ4b2g1bEFfbDhnWGtsNTZmVExvNXQwWmtYSHg5QWlvWHdhV1NfaEdyYmExb3JTdmtvb1NJTjNOYjNpRXZYMWtMSV9sYzN1TWpIbDNsd25WZ3hMT2hGdWd1akhsNmE1TzRwYTBJSzI4ZVJ5U3BxQnc3SlNQeDdkc0RvMUdycUhlcTY4SVVQVk5HdnppVXFMV1ZuQjI2UV9nODNkSHMwWWFVSlA2ZEVINlZnOUM5SkNuZkhlckpTYzBaZElQbzgyRnlHem1xY0NKZUNHWmhmd0RGSU1SeUduS2xTQ2MxeFZDR291cnNR?oc=5",
+      "source": "rainews.it",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-04-01T19:46:00.000Z",
+      "excerpt": "Mauro Caroccia ai Pm: \"Delmastro ci ha fatto della beneficenza. Ero incensurato\" rainews.it"
+    },
+    {
       "id": "liberoquotidiano.it__libero quotidiano__roma, mauro caroccia ai pm: \"delmastro ci ha fatto della beneficenza\" | libero quotidiano.it - libero quotidiano__2026-04-01T19:16:25.000Z",
       "title": "Roma, Mauro Caroccia ai pm: \"Delmastro ci ha fatto della beneficenza\" | Libero Quotidiano.it - Libero Quotidiano",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQakVHU0ZMbjV0OVFyTFFHNVRfd1dueGdpOHg3b1ZyY3JvU1NYOG51LU8wczczZEo3QlZicjVWQXRtcEVzUEpFZlJ0em1xUVEzUDIxSVhHYnB6bWVETV9aWlM0X0h1cDBUZzZUODIxbVllU2pwZWpfa3BnQXFSVHRKWWN3dVlnd2FHTHQ4REhNdzhVUWc4bkVNdGlNV3g3Q3RqR1JnQWEzOGFFTi1Id3A1S0ZkMFVSQk8yZGEzZTR30gHCAUFVX3lxTE1oczctN1h3Q3NKZFhZNXlKXzZDMEQ2MS0yT1BtTEJUMUVneklaWjA2NEQ2UWNkcW5fSzMzdmo2TVZ0SlNVMnphRU82dEhtcGlDUXM4RFB3cDZZYjlLWndzeU4tanBlZDBzY3djUE5qMU1pN19KemhYN2tib29FbHdkMUZmaE9MMlE0ZnVEVmhkOFlydG5XblhSZ2VUbko5MlFIRjJaVjdLZzJSYnczQ3JKc1ItOEQtVXNUY3E4M1dxd1dn?oc=5",
@@ -676,10 +676,10 @@
       "excerpt": "Roma, Mauro Caroccia ai pm: \"Delmastro ci ha fatto della beneficenza\" | Libero Quotidiano.it Libero Quotidiano"
     },
     {
-      "id": "ansa.it__ansa__mauro caroccia ai pm: 'delmastro ci ha fatto beneficenza' - ansa__2026-04-01T17:59:01.000Z",
-      "title": "Mauro Caroccia ai pm: 'Delmastro ci ha fatto beneficenza' - ANSA",
+      "id": "ansa.it__ansa.it__mauro caroccia ai pm: 'delmastro ci ha fatto beneficenza' - ansa.it__2026-04-01T17:59:01.000Z",
+      "title": "Mauro Caroccia ai pm: 'Delmastro ci ha fatto beneficenza' - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ0lac1lyai1WempocXpwMGc0LVdEaU5rSDZtMmlmWFZnSUs0TFBac3lDcUFTX0VPZ1kxX3RTWWFtOWprTlV4aWJHZE5uZEVJRGwyM2hIQlkxb2JfTWdSUWtQb2Q0OHV1OHlpY3BGYXVMTHFpVXBsTDlFZTRaR3Y2eUpHbUE4c0lpV1ZDa0swNTQwTTVSdmhUZG1jSHNKdUxRVDk1dFM4VlhzRXY1RVZEaGp4RVhrb0wwSDNwSFpIbUl5Z0hNUjRYZC0yVzlBbDhwQ3RfSDFlb0lPUlN5VFhnSEEteDg0emx00gHoAUFVX3lxTE1DSVpzWXJqLVZ6amhxenAwZzQtV0RpTmtINm0yaWZYVmdJSzRMUFpzeUNxQVNfRU9nWTFfdFNZYW05amtOVXhpYkdkTm5kRUlEbDIzaEhCWTFvYl9NZ1JRa1BvZDQ4dXU4eWljcEZhdUxMcWlVcGxMOUVlNFpHdjZ5SkdtQThzSWlXVkNrSzA1NDBNNVJ2aFRkbWNIc0p1TFFUOTV0UzhWWHNFdjVFVkRoanhFWGtvTDBIM3BIWkhtSXlnSE1SNFhkLTJXOUFsOHBDdF9IMWVvSU9SU3lUWGdIQS14ODR6bHQ?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Bisteccheria",
       "matchedTerms": [
@@ -690,13 +690,13 @@
         "giudiziaria"
       ],
       "publishedAt": "2026-04-01T17:59:01.000Z",
-      "excerpt": "Mauro Caroccia ai pm: 'Delmastro ci ha fatto beneficenza' ANSA"
+      "excerpt": "Mauro Caroccia ai pm: 'Delmastro ci ha fatto beneficenza' ansa.it"
     },
     {
-      "id": "ansa.it__ansa__redistribuite le deleghe di delmastro, il dap a ostellari - ansa__2026-04-01T17:53:00.000Z",
-      "title": "Redistribuite le deleghe di Delmastro, il Dap a Ostellari - ANSA",
+      "id": "ansa.it__ansa.it__redistribuite le deleghe di delmastro, il dap a ostellari - ansa.it__2026-04-01T17:53:00.000Z",
+      "title": "Redistribuite le deleghe di Delmastro, il Dap a Ostellari - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNWMzOGN6SkNjVGpOZ0J0ZUZiZVpCczFDZ3JMbndmRUU0UXBPbkR5WFBrOFpIVTBoLWl1ZldsYWxGZDJCTVpVWE1rNGNVUDRpM1RoZUp6V2lMR3hYUGNwMmNOMUdFTzBucFc0OVkteHFfNXJiZzE3bi10VEFMZWJsVXRrUWNxRGpZTExtSmszQjZDSFpBS3NfMGI3NlNfY1QtRXZkX0pQcGFlczZaeGY2Uy0td210Rk9Cc2JNSHhMYUtIVk5hbzBCWlJKZU11dWFDelZseUlvLXAyTktDRGRON2VweVjSAeoBQVVfeXFMTzVXLUxrVTgtQXlUWjdxRlVOMGJCX1FxY3ZpM29aOXlPZVBuTkhvRlBnazItemFKbEEyNHE1a1RyY1lOY1dxS2lpamhaOUVqZ29PSVJkZEZ0ZXBjRWczZVdPU1lJdFA1eUR2T0tVNm81bGZDMTZ3eUF0Wmt6WkIzYWpGY0ZGNHd0RnpQX3hhdEp3R1RpUkxlVjlUZjR2dE91Rms5SWdUQ2pXLUZnZnJXSEdVb25oVEVoNUpXdi1RYUJadGdDM0FpREdBcFBxU0psODVxUTdfZHBPT2dvdGtrb0JlYUNpd1pRNnVB?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -707,7 +707,7 @@
         "altro"
       ],
       "publishedAt": "2026-04-01T17:53:00.000Z",
-      "excerpt": "Redistribuite le deleghe di Delmastro, il Dap a Ostellari ANSA"
+      "excerpt": "Redistribuite le deleghe di Delmastro, il Dap a Ostellari ansa.it"
     },
     {
       "id": "rainews.it__rainews__caso \"5 forchette\", i caroccia negano il riciclaggio: \"i soldi da delmastro, come aiuto economico\" - rainews__2026-04-01T17:42:43.000Z",
@@ -727,10 +727,27 @@
       "excerpt": "Caso \"5 Forchette\", i Caroccia negano il riciclaggio: \"I soldi da Delmastro, come aiuto economico\" RaiNews"
     },
     {
-      "id": "ansa.it__ansa__mauro caroccia ai pm: 'delmastro ci ha fatto beneficenza' - ansa__2026-04-01T17:36:00.000Z",
-      "title": "Mauro Caroccia ai pm: 'Delmastro ci ha fatto beneficenza' - ANSA",
+      "id": "rainews.it__rainews.it__caso \"5 forchette\", i caroccia negano il riciclaggio: \"i soldi da delmastro, come aiuto economico\" - rainews.it__2026-04-01T17:42:43.000Z",
+      "title": "Caso \"5 Forchette\", i Caroccia negano il riciclaggio: \"I soldi da Delmastro, come aiuto economico\" - rainews.it",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRUdOOUN6akg2RlpnSmFXS2VzbmJzNW4tUXVqd3NDQU1RTVR2c1JMX05FNHFTZXE5bEtldC1ZLTlpSV9aRjl2QnhGRFZSTzlYTTQtTlFMbkpxZEpiblg2TGM3NmVocjgwMW16V3duWHpoUHNMaFVJTzZoV3dsd2p3LWFDdjZHUVE0VlhzZ24zSHBPSUVMMTRiblI1YWNtUjdyNWN6ckYyZGd6bjJ0MmpyYWVmNk04QjdWSzRqMVYwVmR6X1JFeS00clJRMmtWUWg4YWZkN2VMeG1yaXlIcjBn0gHkAUFVX3lxTE1LZWdqWXZ0NUNEOFFOYWc0Mk1JTHdPRi04dktPMXoxSEpiUm9VLU1wNHhLdHNfNjhLc2JmY1Qwek5VS3lfeWoxQXFtZW0zRjA4ZTFfNjFKcWZ0a0RMT2dhMTZNTnlyeWtWcW1XS3lhTEpxTjc0bUVOcHpSOWtDdlJTRHNubnZ3UVphUm8xYTJBc24zd1VJUTNCemt1dlFVSTRmc2ZVS0gxN0F1cVVIRjY5UWpJTEZQVVkwb1RGcjFtQngzY1FiSml5QmhTUDF1cTloWUp4Ukw1MXFUc2QzVWo0bGRUbw?oc=5",
+      "source": "rainews.it",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "bisteccheria"
+      ],
+      "publishedAt": "2026-04-01T17:42:43.000Z",
+      "excerpt": "Caso \"5 Forchette\", i Caroccia negano il riciclaggio: \"I soldi da Delmastro, come aiuto economico\" rainews.it"
+    },
+    {
+      "id": "ansa.it__ansa.it__mauro caroccia ai pm: 'delmastro ci ha fatto beneficenza' - ansa.it__2026-04-01T17:36:00.000Z",
+      "title": "Mauro Caroccia ai pm: 'Delmastro ci ha fatto beneficenza' - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdW5BdTA0dlJfYlZWR0NEUjVndDJQcVRnQkV6bkdWbGxRZlB1cW1uaEZSWUl1dDUtbTlHSlktbERQTlI0Y1FGalplMnpDVmF1SUM2dDItYlNvZXZiYzNLdjVRSlJ6VDZqN0VrY2tEelhiZGdCX0ZJMGJ2czRhNkdjaHFRM2gtWkM5dXNVblFDa3l0SzQzRThvZEdBbnltMkFUc2ZzeHlHcmhQSW1CU3JIRzV5MHItOHh0VWE1OTlyUDFRSGx6VmVzTGloSmhrVDlDbHVwdWlqSzV6c1FRdTJrUnFBWdIB6AFBVV95cUxNQ0lac1lyai1WempocXpwMGc0LVdEaU5rSDZtMmlmWFZnSUs0TFBac3lDcUFTX0VPZ1kxX3RTWWFtOWprTlV4aWJHZE5uZEVJRGwyM2hIQlkxb2JfTWdSUWtQb2Q0OHV1OHlpY3BGYXVMTHFpVXBsTDlFZTRaR3Y2eUpHbUE4c0lpV1ZDa0swNTQwTTVSdmhUZG1jSHNKdUxRVDk1dFM4VlhzRXY1RVZEaGp4RVhrb0wwSDNwSFpIbUl5Z0hNUjRYZC0yVzlBbDhwQ3RfSDFlb0lPUlN5VFhnSEEteDg0emx0?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -741,7 +758,7 @@
         "giudiziaria"
       ],
       "publishedAt": "2026-04-01T17:36:00.000Z",
-      "excerpt": "Mauro Caroccia ai pm: 'Delmastro ci ha fatto beneficenza' ANSA"
+      "excerpt": "Mauro Caroccia ai pm: 'Delmastro ci ha fatto beneficenza' ansa.it"
     },
     {
       "id": "quotidiano.net__quotidiano nazionale__roma, mauro caroccia ai pm: \"delmastro ci ha fatto della beneficenza\" - quotidiano nazionale__2026-04-01T17:25:20.000Z",
@@ -778,6 +795,23 @@
       "excerpt": "Mauro Caroccia: “Delmastro mi ha aiutato dopo che ero stato assolto” RaiNews"
     },
     {
+      "id": "rainews.it__rainews.it__mauro caroccia: “delmastro mi ha aiutato dopo che ero stato assolto” - rainews.it__2026-04-01T17:18:53.000Z",
+      "title": "Mauro Caroccia: “Delmastro mi ha aiutato dopo che ero stato assolto” - rainews.it",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNM0Jfemx5VS1nQmJVc3BZdjVoLTVGZ3NrYWJwQkxwRDdHTk84bG5zVTN3OEF4c2ZBUExUUnNmWmxQay1JX0JGTkNhMmliZ3ppNUtCRllhMTVNZjVERDJGbzJzZFAzUlZ1blpiSWVQWWQtOGhtTlZIMG41WWhoeWE5aU5wSi1HV0poeV9sbW5KWGNBb2RpMC1jSmp0OV9hUHAtU0xfOUFRak95RnZnWlNWX2pWeHVIRFhsNGF4NDllX2QxQTBKWVllb1FXbkVoMmlyOENzeFBkNTd6NkJZeEMzQUFBY3BwY3hxVTRHZGVZcTdaOHNLbW95VERIM0Z4VFJyREtFcXV4Nm1NTknSAZACQVVfeXFMTXJhRWZHeE5NWENHUVdhazd0U0ZvRmdOOC0xVjZOamcxX0QyODFaZjVaUDhxQWlxdlZldU52TTN2QmFUcDU5RzhZR21SSlhTNXE1UzNqT0tuaDFVYzg4VEU2RzBCNjlzVkY5QlRoTGw1RTFVX0FxYW9XdmFSSHM3MXpqa05RdldGV3lBVWdoRmx2d0ZnV1gyV0tLR01fS21rdW9GbnVXSE5mallfVnRCQXNGSEdUT3dObHhXSTVMZ2wzQ1BDc0RxUDl5U1RVUXZCN0FHRmxpazBnN3lLMkhWUGNfQzRqNjB1TnNkREU3dXo2R3pfdk03OFd5S0VZdjJjamFCdVgzX29IaGJmVUtHUW0?oc=5",
+      "source": "rainews.it",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-01T17:18:53.000Z",
+      "excerpt": "Mauro Caroccia: “Delmastro mi ha aiutato dopo che ero stato assolto” rainews.it"
+    },
+    {
       "id": "tg24.sky.it__sky tg24__caso delmastro, interrogati caroccia e la figlia miriam - sky tg24__2026-04-01T16:12:44.000Z",
       "title": "Caso Delmastro, interrogati Caroccia e la figlia Miriam - Sky TG24",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTWRrNk5teFYzVkhrNHRRNnNtaFYwd1Awc1lIR2JMb1RKWTAtRmtlelZzbGNPYkEyZnNXLVd5bnY4SktFWTUxR3dwaWRScDdHTDcwampBbG80NEVYS05mMUJ6aVFudDBiZFQ4QzJVVmd0QnlhSk9iSHA3eGFVWFhBdlNYQnRmYzBwNjg4UFFOYmRGXzk2RjdsV0ZkZw?oc=5",
@@ -812,10 +846,10 @@
       "excerpt": "Mauro Caroccia ai pm: \"Delmastro ci ha fatto beneficenza\" Quotidiano Nazionale"
     },
     {
-      "id": "ansa.it__ansa__mauro caroccia ai pm: \"delmastro ci ha fatto beneficenza\" - ansa__2026-04-01T15:40:00.000Z",
-      "title": "Mauro Caroccia ai pm: \"Delmastro ci ha fatto beneficenza\" - ANSA",
+      "id": "ansa.it__ansa.it__mauro caroccia ai pm: \"delmastro ci ha fatto beneficenza\" - ansa.it__2026-04-01T15:40:00.000Z",
+      "title": "Mauro Caroccia ai pm: \"Delmastro ci ha fatto beneficenza\" - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY1pLbzJybW9mVVV0bGV1bWJBWDRhRXV4ck52RlVNV012MUxXbmFYVUExQ2R3eFZSY09HRTh5aVU4LXJkV0JWcUE0X1VJSGN4ekF0WkZqdGM0QUJzajFxX1J4U1pKUlhTazM5dm9SQU5YN0RlbjhwU0ZmWGpYejctVWhETnh5NmtlSHd4d1JHYXItRjNpYWNYb2owU2dwSU44ajd3ZTNUSEdRdV95RWIwempqSzU0ZlpST2p2QjJ2UkE5VHhKeS1vdUJVeEZJbDlGVWFFTXNYQ204bHFWNXRpbjVCU3RZdjg?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -826,7 +860,7 @@
         "giudiziaria"
       ],
       "publishedAt": "2026-04-01T15:40:00.000Z",
-      "excerpt": "Mauro Caroccia ai pm: \"Delmastro ci ha fatto beneficenza\" ANSA"
+      "excerpt": "Mauro Caroccia ai pm: \"Delmastro ci ha fatto beneficenza\" ansa.it"
     },
     {
       "id": "ilgiornale.it__il giornale__caso delmastro, l'annuncio di avs: \"decisione unanime del comitato di condotta di sanzionarlo\" - il giornale__2026-04-01T15:21:55.000Z",
@@ -931,10 +965,10 @@
       "excerpt": "Delmastro censurato dalla Camera per il caso \"Bisteccheria d'Italia\". Caroccia: \"Ci ha fatto beneficenza\" today.it"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__“delmastro ci ha fatto beneficenza, ci siamo conosciuti tra il 2022 e il 2023”: le dichiarazioni di mauro caroccia ai pm - il fatto quotidiano__2026-04-01T13:53:01.000Z",
-      "title": "“Delmastro ci ha fatto beneficenza, ci siamo conosciuti tra il 2022 e il 2023”: le dichiarazioni di Mauro Caroccia ai pm - Il Fatto Quotidiano",
+      "id": "ilfattoquotidiano.it__ilfattoquotidiano.it__“delmastro ci ha fatto beneficenza, ci siamo conosciuti tra il 2022 e il 2023”: le dichiarazioni di mauro caroccia ai pm - ilfattoquotidiano.it__2026-04-01T13:53:01.000Z",
+      "title": "“Delmastro ci ha fatto beneficenza, ci siamo conosciuti tra il 2022 e il 2023”: le dichiarazioni di Mauro Caroccia ai pm - ilfattoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3lUR0R1Rjc1SHdNNE9EWGFqWHhfQ0pOQndnZTJDdVM5ZDJBUnA2d0xSUU03aDl6Wi1uYmg1WllvZ21ZeVNFVWdjem1VVEludlBoUHNYTVY4ZUhBZk4zVkRJNVd1NjlRX184TlYxSS1Qd0NGUW5FZ3FnbDVmdmh5Q2FISXMzV2tvWEo5YzMxclpnY2Y0eV9HbG5Ja1pRakU2QXBrUkkxRDVnaDA3V2ZZSg?oc=5",
-      "source": "Il Fatto Quotidiano",
+      "source": "ilfattoquotidiano.it",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -945,7 +979,7 @@
         "giudiziaria"
       ],
       "publishedAt": "2026-04-01T13:53:01.000Z",
-      "excerpt": "“Delmastro ci ha fatto beneficenza, ci siamo conosciuti tra il 2022 e il 2023”: le dichiarazioni di Mauro Caroccia ai pm Il Fatto Quotidiano"
+      "excerpt": "“Delmastro ci ha fatto beneficenza, ci siamo conosciuti tra il 2022 e il 2023”: le dichiarazioni di Mauro Caroccia ai pm ilfattoquotidiano.it"
     },
     {
       "id": "ilfoglio.it__il foglio__il comitato etico della camera sanziona delmastro per omessa dichiarazione - il foglio__2026-04-01T13:51:00.000Z",
@@ -1016,10 +1050,10 @@
       "excerpt": "Comitato condotta Camera formalizza sanzione a Delmastro Quotidiano Nazionale"
     },
     {
-      "id": "ansa.it__ansa__comitato condotta camera formalizza sanzione a delmastro - ansa__2026-04-01T13:03:00.000Z",
-      "title": "Comitato condotta Camera formalizza sanzione a Delmastro - ANSA",
+      "id": "ansa.it__ansa.it__comitato condotta camera formalizza sanzione a delmastro - ansa.it__2026-04-01T13:03:00.000Z",
+      "title": "Comitato condotta Camera formalizza sanzione a Delmastro - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZlJSbEhTaTY3ZmJSc1RIYnU4XzJyOFVVOWJ2OG02OXlieElCU0xtVDE2NHBIeWdrX01qaEJIeGZ1MTNWSUp0dUl1YUpZQUJjampFVDRiNEZnMVdxS2lRanhVSTRDRmt3dmZzU1NlZEV3VjU0NHRKc2g4YnAzeFpVZjBlRGRocllWM3BmVzNiWGZHbTJ2UXVsaGg1TTlTS1o1U1BFUG1uWUcwSHZWRDkxeGplQ01LTGRqaGhWMkZaeGU3Wk5XbnlSZ1VuVDd4X0doS1ppZWpIS0cwd1F5eFBZRnllNG5jd9IB6wFBVV95cUxPYzNIMnU5VXJ3T204b3FwQWd0OFlSb05GZWVsV0hBMlhpS3lhYTluZ3VDZmRacDEwVXJQWFpDYkpGb1NWZzR2RFptaWVSTFRuMnhjbEk3WE5WSEtZU19uYWZjYUpHazhjSGhtVjR4b1haNDA2SmQ3eFdSSHExVjI0VWR2MUU0WXFlMlZ1N2ZJVENvYzhrOFQ2OTBMY09vZ0N0QVVLSjJ5a3FMR3VYYkxTay0wSFVVSXNVSzNJM1NycEV5cG5VUHd1S192VEVObWc0TUZQblFIWmJCM1JKQ19lRjN3NGU5U202TjJj?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1030,7 +1064,7 @@
         "altro"
       ],
       "publishedAt": "2026-04-01T13:03:00.000Z",
-      "excerpt": "Comitato condotta Camera formalizza sanzione a Delmastro ANSA"
+      "excerpt": "Comitato condotta Camera formalizza sanzione a Delmastro ansa.it"
     },
     {
       "id": "lastampa.it__la stampa__caso delmastro, i nomi delle vittime di mafia davanti alle sedi di forza italia, fdi e lega a biella - la stampa__2026-04-01T12:21:00.000Z",
@@ -1068,6 +1102,27 @@
       "excerpt": "Miriam Caroccia ai Pm: \"Sono distrutta\" RaiNews"
     },
     {
+      "id": "rainews.it__rainews.it__miriam caroccia ai pm: \"sono distrutta\" - rainews.it__2026-04-01T12:20:00.000Z",
+      "title": "Miriam Caroccia ai Pm: \"Sono distrutta\" - rainews.it",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWFjdm5rOFdCckU5VF9PekVEMFZwSS05by0yX21RckRPRm9rRUtrSEtNVTFtQ0ZBeFBFYWJSb0VtV3NlVnBPWnlhMFpiNXhJcEhtWWxSblVxVG8tOXlVbWdvUVVLTURCY0dUVVd3N1F4ZmoweWtzSF8ya2pKMk1UQUxvd0dBX0U0MTlYMzlTMGNRcjFJN29IYUplM1Zldldub3dDdXpuMEhjdUVnM3pqNEhUV3FrNTNBdkxPedIBwgFBVV95cUxOWjVRVldYSGlpYkVfYjhYT0xBcW9wOEo1c2ZVci0xWkdadmRUVEJHeFJNZEp4V2NGdnlIdTd5Ri1MZjd0TXZwZ1VhRGNNckRJYkp0czJGLXhNUjc4V1BCNk54V1NSUWEySkVid1g2WkxCeU91VTNYMi1hQUJUbXdfRWIyQVI4VERFakhFdGxSbXoxNXYtanFGRXVzRS0xRFpkaUJZZHF4eDNHSmpRd1kzMjFTSTRJYzQtenZyWWkzZnZ1QQ?oc=5",
+      "source": "rainews.it",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Soci e societa'",
+      "matchedTerms": [
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-04-01T12:20:00.000Z",
+      "excerpt": "Miriam Caroccia ai Pm: \"Sono distrutta\" rainews.it"
+    },
+    {
       "id": "lastampa.it__la stampa__biella, la protesta contro delmastro e chiorino: sulle vie i nomi delle vittime di mafia - la stampa__2026-04-01T12:14:00.000Z",
       "title": "Biella, la protesta contro Delmastro e Chiorino: sulle vie i nomi delle vittime di mafia - La Stampa",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZWswcE9PVWFrTWktZXUwOFo2dVB0TkNYRXZZTDVweUJub1dCdWFpYVVmdXJaVXZiQ1FPRnhyTnc5eUgwREJtRHo1ai1kQzNWWXZJYlREakJSS1ZHZjNtbFpXTHJGQlk0YzNzU1RReUUwV2pNRU5zMlc2VF9NeEprREcxc0psVXE5a3l3a1NOVmJwSEUyMDBrNXVWbTdJNlE3XzJHeXBsdGJBZ3NPT0kzYmRrcVVZdloyZk8xa3pLRUdGOFoweHIwX0hCemgxTktuaUFFc0taRTBHWm5EYkl4cWhnbXRuc2xSWFE?oc=5",
@@ -1100,6 +1155,23 @@
       ],
       "publishedAt": "2026-04-01T12:13:00.000Z",
       "excerpt": "Oggi interrogatori di Mauro e Miriam Caroccia: \"Soldi consegnati da Delmastro\" RaiNews"
+    },
+    {
+      "id": "rainews.it__rainews.it__oggi interrogatori di mauro e miriam caroccia: \"soldi consegnati da delmastro\" - rainews.it__2026-04-01T12:13:00.000Z",
+      "title": "Oggi interrogatori di Mauro e Miriam Caroccia: \"Soldi consegnati da Delmastro\" - rainews.it",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNjNjajAydkNXc3VTWXdKcFBpVmlFWk9OMERRTmU3bWxPZ2luNUp0empSVThfNlU5dVE4d1ZFUWxGVmdDakotUU1JUWZPVFl0SG1NOWVhbm9RdUtoS2RnTElvZU55azJjQ1VZR3JOa0o1RHR1STNaZXNDeFpWUEozMllnTkdVOE1GV3UwR0FFbnZXb1dKbmJCT3o2VkdSSk1kdjRtNFpVbER5UXFhUXpGbk12SDF6anVJZXRIS0VLUVU1ZENpaFVZNkxOVS1hX19odWVKWmwtRlBOMnk0MFlVWUY1VFZEcm96ODA1dGpjSjQ1MU5CVzJFZ3d5TjdKcTDSAYQCQVVfeXFMT0xfWi1BU2xST1UwTjBFSk0xX0tScVk2YXNzT0RsdHpjOF9jMGp4TkplRVZCWHAzMTgyellqZjJuMHB1aURSdmJKai1aaXdpQTBZVFZiR2tmdFJXcC05U3I0UGswSng5NGZ4amRFWFRnUnpULThEUzlDbUZ0SUNYWVRwRjJ4U1VXMVlEY0dwSENiS1RCdzJNV29iVUpxVWtyT2hKM0lZbHJzejZqTWdVSVpMc1pxMDlqU1ZxaU81MkM0Z25PcFQ3VENXRXY5UWoyeGxEUjBsTHN4dlNhZ2ZDQVhUMl8yR0FITTFheHpwbUdZV3F6Rkt6THpFa2pDUXgyZWMzOC0?oc=5",
+      "source": "rainews.it",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-01T12:13:00.000Z",
+      "excerpt": "Oggi interrogatori di Mauro e Miriam Caroccia: \"Soldi consegnati da Delmastro\" rainews.it"
     },
     {
       "id": "corriere.it__corriere roma__il legale dei caroccia: «delmastro è stato l'unico ad aiutarli. sono vittime della criminalità organizzata» - corriere roma__2026-04-01T11:44:14.000Z",
@@ -1188,10 +1260,27 @@
       "excerpt": "Oggi l'interrogatorio dei Caroccia in procura a Roma. Erano indigenti e Delmastro li avrebbe aiutati RaiNews"
     },
     {
-      "id": "ansa.it__ansa__miriam caroccia ai pm, 'questa storia mi sta rovinando la vita' - ansa__2026-04-01T11:29:10.000Z",
-      "title": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita' - ANSA",
+      "id": "rainews.it__rainews.it__oggi l'interrogatorio dei caroccia in procura a roma. erano indigenti e delmastro li avrebbe aiutati - rainews.it__2026-04-01T11:29:29.000Z",
+      "title": "Oggi l'interrogatorio dei Caroccia in procura a Roma. Erano indigenti e Delmastro li avrebbe aiutati - rainews.it",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQZm95eDVFU0p0U2lQNnlDUDVqX3ZOLVY1c0NCNUg1Si1GXzZVZGdOOHUyMUtGbVlkYkF0ZmNxOVVhSGx4RkZ5OVk3RUI5RFN6ZHpOaVZTcFNFQjZ4UEdabnhNUGtLSjlMcjZna01QSmhzS1NvT0o4dkM4R3RWeDJGc3dFTWpIb1laakhxWGtqTmVHNk1OYVZZYzVLSDZzMjhVR1N2ZTVPbTFNS0M3WHJYZWh0LS1PM2lwd1dIZDlhOUhraW1lYW9DNmZSZU1hT3I3RFo2UEVNM0lzRHBWLWt2ckI4ZUhybWlDY1pGdGt5SXVrQ1g3R29SR0VNd2hRZ1A3aDBLYzJnT0dQWHpobTFZWlNocXVUSVdRY2fSAZoCQVVfeXFMUGZveXg1RVNKdFNpUDZ5Q1A1al92Ti1WNXNDQjVINUotRl82VWRnTjh1MjFLRm1ZZGJBdGZjcTlVYUhseEZGeTlZN0VCOURTemR6TmlWU3BTRUI2eFBHWm54TVBrS0o5THI2Z2tNUEpoc0tTb09KOHZDOEd0VngyRnN3RU1qSG9ZWmpIcVhrak5lRzZNTmFWWWM1S0g2czI4VUdTdmU1T20xTUtDN1hyWGVodC0tTzNpcHdXSGQ5YTlIa2ltZWFvQzZmUmVNYU9yN0RaNlBFTTNJc0RwVi1rdnJCOGVIcm1pQ2NaRnRreUl1a0NYN0dvUkdFTXdoUWdQN2gwS2MyZ09HUFh6aG0xWVpTaHF1VElXUWNn?oc=5",
+      "source": "rainews.it",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-04-01T11:29:29.000Z",
+      "excerpt": "Oggi l'interrogatorio dei Caroccia in procura a Roma. Erano indigenti e Delmastro li avrebbe aiutati rainews.it"
+    },
+    {
+      "id": "ansa.it__ansa.it__miriam caroccia ai pm, 'questa storia mi sta rovinando la vita' - ansa.it__2026-04-01T11:29:10.000Z",
+      "title": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita' - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWXA5cW5XY1VLMTVVZFcyT2xCWjZVV0VkRHZ1bUtmWmZnNDdMaHAwYUo3ck5yVnJsajA3MGE1NzlnOG9QZ01LVnBFYmhZeWw3YkZMX2NWc1NlTnhGMHdJcXZUZXhBcGVkU1RHOXJOYk9mZzJPX2ViYzNxWG5HUkc5VDB3Z1Fuc2dQZ1ZqMkZFalFwOHpINm9NTmdQRVFMQjVlYUFydE83SFJHczFmTGVpcVFCNUR4bHlCSW5jSkZwdmNxQ3BRTFdweUNXVzhOS0ZBRzFIWjNlVHAzODVkV0NNT1NvcjVfZFlPa1pLNDJkb9IB7wFBVV95cUxNWXA5cW5XY1VLMTVVZFcyT2xCWjZVV0VkRHZ1bUtmWmZnNDdMaHAwYUo3ck5yVnJsajA3MGE1NzlnOG9QZ01LVnBFYmhZeWw3YkZMX2NWc1NlTnhGMHdJcXZUZXhBcGVkU1RHOXJOYk9mZzJPX2ViYzNxWG5HUkc5VDB3Z1Fuc2dQZ1ZqMkZFalFwOHpINm9NTmdQRVFMQjVlYUFydE83SFJHczFmTGVpcVFCNUR4bHlCSW5jSkZwdmNxQ3BRTFdweUNXVzhOS0ZBRzFIWjNlVHAzODVkV0NNT1NvcjVfZFlPa1pLNDJkbw?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Filone giudiziario",
       "matchedTerms": [
@@ -1204,13 +1293,13 @@
         "giudiziaria"
       ],
       "publishedAt": "2026-04-01T11:29:10.000Z",
-      "excerpt": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita' ANSA"
+      "excerpt": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita' ansa.it"
     },
     {
-      "id": "ansa.it__ansa__miriam caroccia ai pm, 'questa storia mi sta rovinando la vita' - ansa__2026-04-01T11:29:09.000Z",
-      "title": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita' - ANSA",
+      "id": "ansa.it__ansa.it__miriam caroccia ai pm, 'questa storia mi sta rovinando la vita' - ansa.it__2026-04-01T11:29:09.000Z",
+      "title": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita' - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOR2VMTGp0eHRNeE5VUVh1MzhqM2tiZWtNTUZkQ21ual9SbllDMW1TQ0g5UnJGaklXdnVwY1MzTGZOU2swMVNvNWV6S0d6WHN5UTJBVHJ0aGRHQm13MTJ4NzRKRGxqZ1N0Q196Yk9hR0hhYVg4TFpEa0pKa3MtSG80SHJhNVE1SWM3enlfN0VWWVVGb0J3VDVmMlB6RzJIX21fakdQMnFsOGJSOEZURzlUd0tXbXF5ekx6SGtFQ2lQLXo1clJUYVN6TVRRT0k4UnFQRFpNY29PVDI3QjdrUDc0YThJRWVKZ9IB5gFBVV95cUxOR2VMTGp0eHRNeE5VUVh1MzhqM2tiZWtNTUZkQ21ual9SbllDMW1TQ0g5UnJGaklXdnVwY1MzTGZOU2swMVNvNWV6S0d6WHN5UTJBVHJ0aGRHQm13MTJ4NzRKRGxqZ1N0Q196Yk9hR0hhYVg4TFpEa0pKa3MtSG80SHJhNVE1SWM3enlfN0VWWVVGb0J3VDVmMlB6RzJIX21fakdQMnFsOGJSOEZURzlUd0tXbXF5ekx6SGtFQ2lQLXo1clJUYVN6TVRRT0k4UnFQRFpNY29PVDI3QjdrUDc0YThJRWVKZw?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Bisteccheria",
       "matchedTerms": [
@@ -1221,13 +1310,13 @@
         "giudiziaria"
       ],
       "publishedAt": "2026-04-01T11:29:09.000Z",
-      "excerpt": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita' ANSA"
+      "excerpt": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita' ansa.it"
     },
     {
-      "id": "ansa.it__ansa__miriam caroccia ai pm, 'questa storia mi sta rovinando la vita' - ansa__2026-04-01T11:18:00.000Z",
-      "title": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita' - ANSA",
+      "id": "ansa.it__ansa.it__miriam caroccia ai pm, 'questa storia mi sta rovinando la vita' - ansa.it__2026-04-01T11:18:00.000Z",
+      "title": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita' - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbno1LVJ2ZmY3cUxLTnJRNG0ybFlTQ3pId29lQ1NIZTBzc1ZfQnlwYk9tMDRsbDI5SkVKMjc4bFFVV1ZQMkd1NHhoMVA4eG5xX0VqOWxZd1pEZzlkWEMzT20wcHhiV3RobVAtQkxsWmNpeHY5OWRaSUViT1NMQ0k2WS1fVE1HX2pYNzk3ZEZUWWR2X0JBcUNUU2d5bExsc1lhcDd2VjRTTG1LWm5odVdYZ3luZWVLcUxSLTJOZ3FxVWVFMFFPLUZGRUhHS0wxbF9mVmN5YUlSeU1Kb1FQckpJaVFJSWZFQTBTM3fSAe8BQVVfeXFMTVlwOXFuV2NVSzE1VWRXMk9sQlo2VVdFZER2dW1LZlpmZzQ3TGhwMGFKN3JOclZybGowNzBhNTc5ZzhvUGdNS1ZwRWJoWXlsN2JGTF9jVnNTZU54RjB3SXF2VGV4QXBlZFNURzlyTmJPZmcyT19lYmMzcVhuR1JHOVQwd2dRbnNnUGdWajJGRWpRcDh6SDZvTU5nUEVRTEI1ZWFBcnRPN0hSR3MxZkxlaXFRQjVEeGx5QkluY0pGcHZjcUNwUUxXcHlDV1c4TktGQUcxSFozZVRwMzg1ZFdDTU9Tb3I1X2RZT2taSzQyZG8?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1238,13 +1327,13 @@
         "giudiziaria"
       ],
       "publishedAt": "2026-04-01T11:18:00.000Z",
-      "excerpt": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita' ANSA"
+      "excerpt": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita' ansa.it"
     },
     {
-      "id": "ansa.it__ansa__difensore caroccia, 'soldi messi da delmastro, è tutto tracciato' - ansa__2026-04-01T11:02:59.000Z",
-      "title": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato' - ANSA",
+      "id": "ansa.it__ansa.it__difensore caroccia, 'soldi messi da delmastro, è tutto tracciato' - ansa.it__2026-04-01T11:02:59.000Z",
+      "title": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato' - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTWxlVlY3aG1WZkNCNnRRMEY4YnA0VWZWTTIwMktHOGJZcmhDSmhScEZ0MGJNQ2FpOVRfT2h4TkNlQmRsOXBrNnJKUXBsQzJJdDJla3JhNEV0NldZVmR6Y1hVU2lKREM3OG51ay1nRFRtclRjQ3VYUEdnSUtJWDlXV180WXI5UFNsVmMweE1LaXhMZXJXeWVFX2xhT2ZJeDdmVE56cFRhQjQwR1NxSDRhM0ZSMDdRY1BETTU0Y2Q5MXZjdDU3UnJiRFgwRVJaak44OVowUE5rZFZBdWQ2Qmo5OWRqUnI5b3fSAecBQVVfeXFMTU1sZVZWN2htVmZDQjZ0UTBGOGJwNFVmVk0yMDJLRzhiWXJoQ0poUnBGdDBiTUNhaTlUX09oeE5DZUJkbDlwazZySlFwbEMySXQyZWtyYTRFdDZXWVZkemNYVVNpSkRDNzhudWstZ0RUbXJUY0N1WFBHZ0lLSVg5V1dfNFlyOVBTbFZjMHhNS2l4TGVyV3llRV9sYU9mSXg3ZlROenBUYUI0MEdTcUg0YTNGUjA3UWNQRE01NGNkOTF2Y3Q1N1JyYkRYMEVSWmpOODlaMFBOa2RWQXVkNkJqOTlkalJyOW93?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Filone giudiziario",
       "matchedTerms": [
@@ -1257,7 +1346,7 @@
         "altro"
       ],
       "publishedAt": "2026-04-01T11:02:59.000Z",
-      "excerpt": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato' ANSA"
+      "excerpt": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato' ansa.it"
     },
     {
       "id": "quotidiano.net__quotidiano nazionale__difensore caroccia, 'soldi messi da delmastro, è tutto tracciato' - quotidiano nazionale__2026-04-01T10:51:18.000Z",
@@ -1279,10 +1368,10 @@
       "excerpt": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato' Quotidiano Nazionale"
     },
     {
-      "id": "repubblica.it__la repubblica__caso delmastro, blitz a biella: le strade rinominate con le vittime della mafia - la repubblica__2026-04-01T10:51:17.000Z",
-      "title": "Caso Delmastro, blitz a Biella: le strade rinominate con le vittime della mafia - la Repubblica",
+      "id": "repubblica.it__torino.repubblica.it__caso delmastro, blitz a biella: le strade rinominate con le vittime della mafia - torino.repubblica.it__2026-04-01T10:51:17.000Z",
+      "title": "Caso Delmastro, blitz a Biella: le strade rinominate con le vittime della mafia - torino.repubblica.it",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa1gxRThGdUFOdEdTWWh1SDF4U2pubEtYX2hxbUd1amNuN1JGT1F2eWJyal9sMW9qT0RrM1drRVJ2dXhDOUt1VFR1emEwNW0wa2ZmdDk2QTFzUnpPUV8yMUpuckxURVM4WndpbTQtZ2U3T2ZlZml0S0NOT0cwWXYzdVdoeDJ5UEFNOWNSblRRNlB0WTBjU0FwVk1FdFZRNEc5SmRVX25tX1Vja0V1NHdIT1hJWTZsdkEw0gG-AUFVX3lxTE9MY00zMGZHZlExRnNRYmtzRjd3dEs2UjQtejBIQTF6N0o5RE9aYm0yZFFFakMyU2l2YWc1aVRkTmVxYUlUeUJpQjNyUHFyb29rdERnMlV0VG9lbDBIVzNvTTNieF93QVRDaXIwaUhSQXZpNFNpQ2xJY1p0N0hlWnFoUmlvNnhjdERxSnAwRThLS3ZKVDVDV1M3ZERMQnAyM3FadjdVOVdfRjZnMHQxZkZaaW4zbDhSeDhhY1JKNEE?oc=5",
-      "source": "la Repubblica",
+      "source": "torino.repubblica.it",
       "sourceHost": "repubblica.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1293,7 +1382,7 @@
         "territorio"
       ],
       "publishedAt": "2026-04-01T10:51:17.000Z",
-      "excerpt": "Caso Delmastro, blitz a Biella: le strade rinominate con le vittime della mafia la Repubblica"
+      "excerpt": "Caso Delmastro, blitz a Biella: le strade rinominate con le vittime della mafia torino.repubblica.it"
     },
     {
       "id": "quotidiano.net__quotidiano nazionale__commento all'articolo \"difensore caroccia soldi messi da delmastro tutto tracciato\" - quotidiano nazionale__2026-04-01T10:50:09.000Z",
@@ -1317,10 +1406,10 @@
       "excerpt": "Commento all'articolo \"Difensore Caroccia soldi messi da Delmastro tutto tracciato\" Quotidiano Nazionale"
     },
     {
-      "id": "ansa.it__ansa__difensore caroccia, 'soldi messi da delmastro, è tutto tracciato' - ansa__2026-04-01T10:45:00.000Z",
-      "title": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato' - ANSA",
+      "id": "ansa.it__ansa.it__difensore caroccia, 'soldi messi da delmastro, è tutto tracciato' - ansa.it__2026-04-01T10:45:00.000Z",
+      "title": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato' - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxON2RRNnY4TTE4Z0VKNTQzeDEyR0prQUdsZWlNSS1mZmJ5ZkFtTGdTc0h4d1poeGx1WXc2eGdPcWxUMm9kNlozU3FGSThkbmJhS1M2ejNkWmZackw1d1hoaHJvQU1qVzlkcFNGSE1IVGEzX2wwNElKcXJjaDF4YTI4X0FCLXlFYUI1UE01WU9YbGtGZG9MOWVrc1QwSmNHWUQ3R1hpR2NmOTlYVHZMc0poUTRCMWdTYlc2RFNKUGhLWHg3UGRJQUJILVVxb3d0cTVITkw0RVZKWV9TaUxVTkxuQVVn0gHnAUFVX3lxTE1NbGVWVjdobVZmQ0I2dFEwRjhicDRVZlZNMjAyS0c4YllyaENKaFJwRnQwYk1DYWk5VF9PaHhOQ2VCZGw5cGs2ckpRcGxDMkl0MmVrcmE0RXQ2V1lWZHpjWFVTaUpEQzc4bnVrLWdEVG1yVGNDdVhQR2dJS0lYOVdXXzRZcjlQU2xWYzB4TUtpeExlcld5ZUVfbGFPZkl4N2ZUTnpwVGFCNDBHU3FINGEzRlIwN1FjUERNNTRjZDkxdmN0NTdScmJEWDBFUlpqTjg5WjBQTmtkVkF1ZDZCajk5ZGpScjlvdw?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1331,7 +1420,7 @@
         "altro"
       ],
       "publishedAt": "2026-04-01T10:45:00.000Z",
-      "excerpt": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato' ANSA"
+      "excerpt": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato' ansa.it"
     },
     {
       "id": "ilgiornale.it__il giornale__i caroccia interrogati dai pm. \"delmastro? è estraneo\" - il giornale__2026-04-01T10:06:02.000Z",
@@ -1385,10 +1474,10 @@
       "excerpt": "La difesa dei Caroccia davanti ai pm: “I soldi sono di Delmastro, non della criminalità” La Stampa"
     },
     {
-      "id": "ansa.it__ansa__difensore caroccia, 'delmastro è l'unico che gli ha teso una mano' - ansa__2026-04-01T09:44:46.000Z",
-      "title": "Difensore Caroccia, 'Delmastro è l'unico che gli ha teso una mano' - ANSA",
+      "id": "ansa.it__ansa.it__difensore caroccia, 'delmastro è l'unico che gli ha teso una mano' - ansa.it__2026-04-01T09:44:46.000Z",
+      "title": "Difensore Caroccia, 'Delmastro è l'unico che gli ha teso una mano' - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRVJUZV9xTmsta2YwejB2d3dHQ3NCWWhFSHpjelVjZDZrM0t4SnVnNWpPYl9oMzRnYVFzZHVjWWpLeU1Eb1d2VWUycDg1M1hDanc5WVN1a0hmaUFZQUMzbnJxdnM5Ym03Tnk3OWIyVzhSZnI3djB6MUhrRUVEbXQ2a3k4UGEtSGRRN01GOUZ0WFc0TTVNeW5IY1B5TUZjT043YkcyVExPM3RKZGp2X3hiZTZraDU3MzZUMU9nLTNMbEV2Q1FmZVFsVC14cnBLSEpQa1F4YlJEX1BHaERTVEo0Skl4eXdzcmFTOVlKcVlrRUNPZ3FoY2x1TGZUZXrSAfwBQVVfeXFMTUVSVGVfcU5rLWtmMHowdnd3R0NzQlloRUh6Y3pVY2Q2azNLeEp1ZzVqT2JfaDM0Z2FRc2R1Y1lqS3lNRG9XdlVlMnA4NTNYQ2p3OVlTdWtIZmlBWUFDM25ycXZzOWJtN055NzliMlc4UmZyN3YwejFIa0VFRG10Nmt5OFBhLUhkUTdNRjlGdFhXNE01TXluSGNQeU1GY09ON2JHMlRMTzN0SmRqdl94YmU2a2g1NzM2VDFPZy0zTGxFdkNRZmVRbFQteHJwS0hKUGtReGJSRF9QR2hEU1RKNEpJeHl3c3JhUzlZSnFZa0VDT2dxaGNsdUxmVGV6?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1399,7 +1488,7 @@
         "altro"
       ],
       "publishedAt": "2026-04-01T09:44:46.000Z",
-      "excerpt": "Difensore Caroccia, 'Delmastro è l'unico che gli ha teso una mano' ANSA"
+      "excerpt": "Difensore Caroccia, 'Delmastro è l'unico che gli ha teso una mano' ansa.it"
     },
     {
       "id": "tg24.sky.it__sky tg24__legale caroccia: delmastro \"unico che ha teso una mano\" - sky tg24__2026-04-01T09:39:47.000Z",
@@ -1419,10 +1508,10 @@
       "excerpt": "Legale Caroccia: Delmastro \"unico che ha teso una mano\" Sky TG24"
     },
     {
-      "id": "ansa.it__ansa__difensore caroccia, 'delmastro è l'unico che gli ha teso una mano' - ansa__2026-04-01T09:29:00.000Z",
-      "title": "Difensore Caroccia, 'Delmastro è l'unico che gli ha teso una mano' - ANSA",
+      "id": "ansa.it__ansa.it__difensore caroccia, 'delmastro è l'unico che gli ha teso una mano' - ansa.it__2026-04-01T09:29:00.000Z",
+      "title": "Difensore Caroccia, 'Delmastro è l'unico che gli ha teso una mano' - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOR1JaWE0zMXNFOVNwRzJBTDFOOWduUmZoYUFJcmk5RUlMTE5BMm5nbGZ0ajZWYTRZbXJYNjJNRnN1VE8teTU4SWY0eUktQjVQRXl4UmRuNGliNDdSd3hOZ2pMWlZNbzEzNTcyV0RSUVU3SXFjYnRRcFhuSmV3V2Fzc184dEh3MGRyRU11VjB4VGxnOVNPWVdCUndLMUxVcEM2ODgyRFZiQzFzTjZvRzhsckVkbkVPRWJDelB2bjlxY2tnX1R0ajdsTG9IWTNSd0ZFMTZod3hOY0FaTWoxOWxhdGZBYW5VbjRUczNuYlNSOVNqMXFZWXJF0gH8AUFVX3lxTE1FUlRlX3FOay1rZjB6MHZ3d0dDc0JZaEVIemN6VWNkNmszS3hKdWc1ak9iX2gzNGdhUXNkdWNZakt5TURvV3ZVZTJwODUzWENqdzlZU3VrSGZpQVlBQzNucnF2czlibTdOeTc5YjJXOFJmcjd2MHoxSGtFRURtdDZreThQYS1IZFE3TUY5RnRYVzRNNU15bkhjUHlNRmNPTjdiRzJUTE8zdEpkanZfeGJlNmtoNTczNlQxT2ctM0xsRXZDUWZlUWxULXhycEtISlBrUXhiUkRfUEdoRFNUSjRKSXh5d3NyYVM5WUpxWWtFQ09ncWhjbHVMZlRleg?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Filone giudiziario",
       "matchedTerms": [
@@ -1435,7 +1524,7 @@
         "altro"
       ],
       "publishedAt": "2026-04-01T09:29:00.000Z",
-      "excerpt": "Difensore Caroccia, 'Delmastro è l'unico che gli ha teso una mano' ANSA"
+      "excerpt": "Difensore Caroccia, 'Delmastro è l'unico che gli ha teso una mano' ansa.it"
     },
     {
       "id": "adnkronos.com__adnkronos__intestazione fittizia di beni - adnkronos - adnkronos__2026-04-01T09:11:45.000Z",
@@ -1510,6 +1599,23 @@
       "excerpt": "L'avvocato di Caroccia: “Soldi messi da Delmastro, l'unico che gli ha teso una mano” RaiNews"
     },
     {
+      "id": "rainews.it__rainews.it__l'avvocato di caroccia: “soldi messi da delmastro, l'unico che gli ha teso una mano” - rainews.it__2026-04-01T08:04:00.000Z",
+      "title": "L'avvocato di Caroccia: “Soldi messi da Delmastro, l'unico che gli ha teso una mano” - rainews.it",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYnptMUh1eUpaUzZ4b2g1bEFfbDhnWGtsNTZmVExvNXQwWmtYSHg5QWlvWHdhV1NfaEdyYmExb3JTdmtvb1NJTjNOYjNpRXZYMWtMSV9sYzN1TWpIbDNsd25WZ3hMT2hGdWd1akhsNmE1TzRwYTBJSzI4ZVJ5U3BxQnc3SlNQeDdkc0RvMUdycUhlcTY4SVVQVk5HdnppVXFMV1ZuQjI2UV9nODNkSHMwWWFVSlA2ZEVINlZnOUM5SkNuZkhlckpTYzBaZElQbzgyRnlHem1xY0NKZUNHWmhmd0RGSU1SeUduS2xTQ2MxeFZDR291cnNR0gH3AUFVX3lxTFBiem0xSHV5SlpTNnhvaDVsQV9sOGdYa2w1NmZUTG81dDBaa1hIeDlBaW9Yd2FXU19oR3JiYTFvclN2a29vU0lOM05iM2lFdlgxa0xJX2xjM3VNakhsM2x3blZneExPaEZ1Z3VqSGw2YTVPNHBhMElLMjhlUnlTcHFCdzdKU1B4N2RzRG8xR3JxSGVxNjhJVVBWTkd2emlVcUxXVm5CMjZRX2c4M2RIczBZYVVKUDZkRUg2Vmc5QzlKQ25mSGVySlNjMFpkSVBvODJGeUd6bXFjQ0plQ0daaGZ3REZJTVJ5R25LbFNDYzF4VkNHb3Vyc1E?oc=5",
+      "source": "rainews.it",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-01T08:04:00.000Z",
+      "excerpt": "L'avvocato di Caroccia: “Soldi messi da Delmastro, l'unico che gli ha teso una mano” rainews.it"
+    },
+    {
       "id": "repubblica.it__la repubblica__interrogatorio caroccia, la difesa: “delmastro ha fatto beneficenza aiutando un oste in difficoltà” - la repubblica__2026-04-01T08:03:36.000Z",
       "title": "Interrogatorio Caroccia, la difesa: “Delmastro ha fatto beneficenza aiutando un oste in difficoltà” - la Repubblica",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQl9tNU9jSDd5d1JzNzlZRmxNcmdZSVpUWVM3RVpFZEZIWDBmS3I2QkNqbmpXdmd6MDZocWF3cGFNVDg5aUdSa3pNc2M3N1cteFc2LW1UWlFFVnNFYVpJbFg5X0E3NFpidXNPVVhLQUI1UTJQVjB2VlItZmhKLURqa0gzanl6Y29va0V5aENjaDZJVktxSEFSSV91MndfQlVqVkNQR1FmU0RUWFBx0gGyAUFVX3lxTE5yUHVRak01eWNMVkI1WldwSERFallrbWFTOGRHOTJGb2ZRYl84T2VaU1NRTnFlX25Wb1k5SFo2U3FqVW5iYXVEV05zYzdQY2hhNDgwVUNya1E4Qkd4WWZ0OHNINVNheHpxY3lwUzVESGpfeWt1ckxzbmVDVE9SRWx1SlEtLVhtT21sUjd2M3lDS1YzbDltQlZ0Tm80eE0xMl80VV9qNW1WamlUcEJ0ZUV3NUE?oc=5",
@@ -1578,10 +1684,10 @@
       "excerpt": "Di chi sono i 40 mila euro spesi dai Caroccia per il ristorante con Delmastro? Open"
     },
     {
-      "id": "repubblica.it__la repubblica__“noi soci di delmastro”: l’ex assessora e zappalà ora dichiarano le loro attività in regione - la repubblica__2026-04-01T03:00:00.000Z",
-      "title": "“Noi soci di Delmastro”: l’ex assessora e Zappalà ora dichiarano le loro attività in Regione - la Repubblica",
+      "id": "repubblica.it__torino.repubblica.it__“noi soci di delmastro”: l’ex assessora e zappalà ora dichiarano le loro attività in regione - torino.repubblica.it__2026-04-01T03:00:00.000Z",
+      "title": "“Noi soci di Delmastro”: l’ex assessora e Zappalà ora dichiarano le loro attività in Regione - torino.repubblica.it",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLWpKNlMzMlFPbVhHMVhOUW85OTJpTkRqb3VZenNpQ21CMHVPUl9KWklnbFRmeFdMbFVYMkNzS1M4TVFNclE3RlFFSHpYUXdnZTVNeUg5azZJSDZxaEJYN1pWMS1NUFZDNVJVSTNNdkVqTEtqT3EtMFVDUGlxazBGS2RsX1hnVnNWZGpNTEJRdmo4YUNfZk1nbWZjRHlfQWdmV0NES004NWVFSjdzeDRwQS1nSWthRXlheHRWaG4zd3Zsdk0yX2JBandvazLSAdIBQVVfeXFMT0IwRk5Wd3o3QV83Vjc2X3pHckJFSWVpUnNfdjBzdGw3clJVZXcxdjMzc3hpZkJOV3pFNHBoVWI5aFR2eW9JSkU3NV9sOG9TZm1HVTBvRkRlZnNKQk9tTEZNOF9sZW5mLVZTLUhwWXo0UEpMa1Y0WXJVeUZ5OWt3SEdJYWtLdzZ6S1RkVVdSdmlWM1hISC1pTkdVU0d3Zld3WXFqMDlYUmdjZlB4enVDOVBnaHJ5bXlZWEJ6eEUycVVyaENpSUNQR1dNRjNxQzVna1d3?oc=5",
-      "source": "la Repubblica",
+      "source": "torino.repubblica.it",
       "sourceHost": "repubblica.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1590,16 +1696,17 @@
       ],
       "tags": [
         "politica",
-        "societa'"
+        "societa'",
+        "territorio"
       ],
       "publishedAt": "2026-04-01T03:00:00.000Z",
-      "excerpt": "“Noi soci di Delmastro”: l’ex assessora e Zappalà ora dichiarano le loro attività in Regione la Repubblica"
+      "excerpt": "“Noi soci di Delmastro”: l’ex assessora e Zappalà ora dichiarano le loro attività in Regione torino.repubblica.it"
     },
     {
-      "id": "repubblica.it__la repubblica__al setaccio gli atti della “5 forchette”: faro della dda di torino sui professionisti coinvolti - la repubblica__2026-04-01T03:00:00.000Z",
-      "title": "Al setaccio gli atti della “5 Forchette”: faro della Dda di Torino sui professionisti coinvolti - la Repubblica",
+      "id": "repubblica.it__torino.repubblica.it__al setaccio gli atti della “5 forchette”: faro della dda di torino sui professionisti coinvolti - torino.repubblica.it__2026-04-01T03:00:00.000Z",
+      "title": "Al setaccio gli atti della “5 Forchette”: faro della Dda di Torino sui professionisti coinvolti - torino.repubblica.it",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNalZidHhvcUpSbFR3Wkw5ZVlvV1RDSFl5SDNjZTM5Q3dnNDJacUZqY2xhNlBXQlRtRXRCOGgwN21MR3V0aEExZUkwYzZpTWhtWHRISlFwMGRiU00zUWJrTUktbjV3NEdGWkJqZ29JazM5MGN3MWh0cWxSSm50VUU2TWNQV1lVdE9MS3Z0R0s5RkhqaDVxZUtFYXI2Ukt3SlpYMzFVN1dtaXJrV1M1dG5RZmxFdnprYkx2WHRPNdIBwgFBVV95cUxOTEM5OHNIX2ktSHBueGFRRmRHWjl5ajlQTm1ZcXpwSlZQSlpzNVhwa3NPZkZSOVNGOWJTMzhYTFNTNE95RmxKd2NxdFEtMGFKXzJVbEdBa0tnSHZDS1VjXzBOMkFyd1FHMjdHcWhULUU0emF2NE93VDZTUXpudVZFLWEzakkwdWRLYmxfSThlajNvaHNERl8xNG1JYzRSdVBkLVNxSGdaa3JNSTBtQXpyNkQ3bDNtUmdYYXF5STM0UHA2Zw?oc=5",
-      "source": "la Repubblica",
+      "source": "torino.repubblica.it",
       "sourceHost": "repubblica.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1611,7 +1718,7 @@
         "territorio"
       ],
       "publishedAt": "2026-04-01T03:00:00.000Z",
-      "excerpt": "Al setaccio gli atti della “5 Forchette”: faro della Dda di Torino sui professionisti coinvolti la Repubblica"
+      "excerpt": "Al setaccio gli atti della “5 Forchette”: faro della Dda di Torino sui professionisti coinvolti torino.repubblica.it"
     },
     {
       "id": "repubblica.it__la repubblica__cafiero de raho: “quella foto di delmastro nella bisteccheria devastante per la lotta alle mafie” - la repubblica__2026-03-31T23:00:00.000Z",
@@ -1665,10 +1772,10 @@
       "excerpt": "Bisteccheria, spesi 40 mila euro. Delmastro: “Soldi dai biellesi. Caroccia non ha messo niente” La Stampa"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__“da delmastro&c. 40mila i caroccia non ci misero soldi”. la difesa dei due indagati, mauro e miriam, che oggi saranno interrogati dai pm romani - il fatto quotidiano__2026-03-31T22:01:00.000Z",
-      "title": "“Da Delmastro&C. 40mila I Caroccia non ci misero soldi”. La difesa dei due indagati, Mauro e Miriam, che oggi saranno interrogati dai pm romani - Il Fatto Quotidiano",
+      "id": "ilfattoquotidiano.it__ilfattoquotidiano.it__“da delmastro&c. 40mila i caroccia non ci misero soldi”. la difesa dei due indagati, mauro e miriam, che oggi saranno interrogati dai pm romani - ilfattoquotidiano.it__2026-03-31T22:01:00.000Z",
+      "title": "“Da Delmastro&C. 40mila I Caroccia non ci misero soldi”. La difesa dei due indagati, Mauro e Miriam, che oggi saranno interrogati dai pm romani - ilfattoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPRUppSmFKR2RDeXFxSWlDRnhPbmZpdzA4VDVDQTIwamllb25iU3hFRmJPVlpxZUxUZm5UTm9LYlpzYTlXWm0wLXkxUTAwNThuMnM0VnhLbkc1UWIxd1ljeXl3b1huX3YxUGVsUlQtenBfZUF5UzhjWG0wUS15azRnSURrV3dlMDVfUUNGVXZXVGVtV1loZ1ZKT3VoekRwSzhaUWwxZE5lWVFmTGZCRkJCRE5qai1EcTB1SUJVVlYzLU9qVkhfZzRtcG8tc0oySEVVZUhYdk9ueVJqSE1lNEdSUEN3cGcwRG5SR05VQTRPQjdJQXRvVDdzcGZyT25XMDUzUG5yLVNMQzJfMElWS081MUJYRk05azlPZFJtTnpZTEZ4NGItSG9uaU45S05zZURtM19v?oc=5",
-      "source": "Il Fatto Quotidiano",
+      "source": "ilfattoquotidiano.it",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1679,13 +1786,13 @@
         "giudiziaria"
       ],
       "publishedAt": "2026-03-31T22:01:00.000Z",
-      "excerpt": "“Da Delmastro&C. 40mila I Caroccia non ci misero soldi”. La difesa dei due indagati, Mauro e Miriam, che oggi saranno interrogati dai pm romani Il Fatto Quotidiano"
+      "excerpt": "“Da Delmastro&C. 40mila I Caroccia non ci misero soldi”. La difesa dei due indagati, Mauro e Miriam, che oggi saranno interrogati dai pm romani ilfattoquotidiano.it"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__fdi chiede un'informativa su salis e l'opposizione si scatena. il m5s: \"parlateci della 'banda delle forchette' di delmastro\" - il fatto quotidiano__2026-03-31T17:42:19.000Z",
-      "title": "FdI chiede un'informativa su Salis e l'opposizione si scatena. Il M5s: \"Parlateci della 'banda delle forchette' di Delmastro\" - Il Fatto Quotidiano",
+      "id": "ilfattoquotidiano.it__ilfattoquotidiano.it__fdi chiede un'informativa su salis e l'opposizione si scatena. il m5s: \"parlateci della 'banda delle forchette' di delmastro\" - ilfattoquotidiano.it__2026-03-31T17:42:19.000Z",
+      "title": "FdI chiede un'informativa su Salis e l'opposizione si scatena. Il M5s: \"Parlateci della 'banda delle forchette' di Delmastro\" - ilfattoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenJFMERzU3hYQlBDSXVWclh4ajRSTGJ6T0twWi13M3VGSGh4RlZfaUNoLWhhU3hjTzBKSjIzN0hXOTNNcHJIR1BrS2IzSzlUa1ZIckFQaVU5LWJwRHJPaW5tSjJQV0JmSlVKM3B3TUpjUkhjQklHVEpwR1o3VnVZMEo3MlZ5SnRQd3FUSURUUXJQdU5kSndJbkJmOFpSTDV3YlJFd2lFYjhoRzR1WUNZSTJEcUNqYy1wTFN2bw?oc=5",
-      "source": "Il Fatto Quotidiano",
+      "source": "ilfattoquotidiano.it",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1696,7 +1803,7 @@
         "politica"
       ],
       "publishedAt": "2026-03-31T17:42:19.000Z",
-      "excerpt": "FdI chiede un'informativa su Salis e l'opposizione si scatena. Il M5s: \"Parlateci della 'banda delle forchette' di Delmastro\" Il Fatto Quotidiano"
+      "excerpt": "FdI chiede un'informativa su Salis e l'opposizione si scatena. Il M5s: \"Parlateci della 'banda delle forchette' di Delmastro\" ilfattoquotidiano.it"
     },
     {
       "id": "rainews.it__rainews__le 5 forchette, a biella l'assessore paraggio (fdi) resta al suo posto - rainews__2026-03-31T17:10:43.000Z",
@@ -1718,10 +1825,29 @@
       "excerpt": "Le 5 Forchette, a Biella l'assessore Paraggio (Fdi) resta al suo posto RaiNews"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro-chiorino: le dimissioni dopo lo scandalo bisteccheria - il fatto quotidiano__2026-03-31T17:03:55.000Z",
-      "title": "Caso Delmastro-Chiorino: le dimissioni dopo lo scandalo bisteccheria - Il Fatto Quotidiano",
+      "id": "rainews.it__rainews.it__le 5 forchette, a biella l'assessore paraggio (fdi) resta al suo posto - rainews.it__2026-03-31T17:10:43.000Z",
+      "title": "Le 5 Forchette, a Biella l'assessore Paraggio (Fdi) resta al suo posto - rainews.it",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTG5uSXJKcGY1QXY3WTBiSjJxbXNvZmxQYndmMUFNU2szeHp5cFY3eGV3Ukd6VXB2NG9XSTZsY1dlU0J2YzMxSUNMOE5BeTRlTTdlcU1pWmIwSHdtSnNBel92T2NBM0lOSGhoaVM3cjB5a2RoendPRFVMUVQxak9fY1I3OFA1cVRSanFsWEZFV3VTMW14eUM1eFVwMk9SU3I2WVNHeXhDVkYzVU5rUXZyTExDTHQwTHJvOUtCRi1Hdzk4MDNzRXdCeDc3Q0hHZzl3Y3NFZFlwd2pTSERhbklINUt0M0RYRnJDUmI4NjFITdIB9AFBVV95cUxOQkdZTXRwSjVweldzdnhsQTRVUUpOdmxSdkpuUXAzYUFOYnBLb0dMaHhaZ0VRSEI3QW53T1VCX1NOaG1QbzlFdDNPN3g1OGk0X19WbjZuSXM2VGs5T2NHQUdjbmtFUTRCNElwdHJod0UzSV9VamJXZzczMm9aQUVPcFJ0YzM0bVdZb3AtU0NjWW1jNmpjaUpqcTU5aXNhNFo3NE4wRU4wcnVhTDl6TmxQMDZFVWFTaFlWMU9SWkFmeFQ1QUlra0UxRkVDVnFidjNiWDd4R1Rta0d3eVFWYVBhY3pFTGhBcWJjZ3ZZajQtd1RaZEtj?oc=5",
+      "source": "rainews.it",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "politica",
+        "bisteccheria",
+        "territorio"
+      ],
+      "publishedAt": "2026-03-31T17:10:43.000Z",
+      "excerpt": "Le 5 Forchette, a Biella l'assessore Paraggio (Fdi) resta al suo posto rainews.it"
+    },
+    {
+      "id": "ilfattoquotidiano.it__ilfattoquotidiano.it__caso delmastro-chiorino: le dimissioni dopo lo scandalo bisteccheria - ilfattoquotidiano.it__2026-03-31T17:03:55.000Z",
+      "title": "Caso Delmastro-Chiorino: le dimissioni dopo lo scandalo bisteccheria - ilfattoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaTVoUTl1UXhYd2diUXMtbTZqc0d1ZDhBb211WndxS1RwR3FrLWJrdF9WZndQeVY4RkhKUUNFZkUxWmQ3VDJvOTZDM3UtSU1rekRUUHVKekhTdHdFTzFTdEdVOWx3N1R2Zm5RMVR0UFVjN2hvSHU0RlNLNTVScGEyaW44RERaU1QtS0o4V1hRZVQtVkNLMFh6Qm5VTE0yYllBYmc?oc=5",
-      "source": "Il Fatto Quotidiano",
+      "source": "ilfattoquotidiano.it",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1733,13 +1859,13 @@
         "bisteccheria"
       ],
       "publishedAt": "2026-03-31T17:03:55.000Z",
-      "excerpt": "Caso Delmastro-Chiorino: le dimissioni dopo lo scandalo bisteccheria Il Fatto Quotidiano"
+      "excerpt": "Caso Delmastro-Chiorino: le dimissioni dopo lo scandalo bisteccheria ilfattoquotidiano.it"
     },
     {
-      "id": "ansa.it__ansa__per la bisteccheria spesi 40 mila euro, i caroccia dai pm - ansa__2026-03-31T16:16:33.000Z",
-      "title": "Per la Bisteccheria spesi 40 mila euro, i Caroccia dai pm - ANSA",
+      "id": "ansa.it__ansa.it__per la bisteccheria spesi 40 mila euro, i caroccia dai pm - ansa.it__2026-03-31T16:16:33.000Z",
+      "title": "Per la Bisteccheria spesi 40 mila euro, i Caroccia dai pm - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNU19sakFreGh0TEY2cW90cFAxaHVOUjlMc2N4QkY5Q19FOUpaMmQ4MFNUQVo1RlBnRGsxRjFNdFdVMEhUamExTkd1MkFWWTFmUFJFTFprM0FQYTR4elRpQmNpNmtxUGJtV3oxMnp1Z1p6WjRqV0dGaGVScE5pLU5WVHU5dWJ3LXBlc1VESG42VWVoTDN4SU5Idm01Y0g0cmc0d2FkSTA4bzBVTEpHdzY2czdWanBhNGJvXzJvYWR3M0ZHSHVfLWFfYnRKU1lXbXV1VnlONko4TmZNaXRTX2JsWEVmLXZya0w1dDNnZ1FNSUdtOHVhdGdyZ2ZZaUNWRGRV0gGAAkFVX3lxTE1TX2xqQWt4aHRMRjZxb3RwUDFodU5SOUxzY3hCRjlDX0U5SloyZDgwU1RBWjVGUGdEazFGMU10V1UwSFRqYTFOR3UyQVZZMWZQUkVMWmszQVBhNHh6VGlCY2k2a3FQYm1XejEyenVnWnpaNGpXR0ZoZVJwTmktTlZUdTl1YnctcGVzVURIbjZVZWhMM3hJTkh2bTVjSDRyZzR3YWRJMDhvMFVMSkd3NjZzN1ZqcGE0Ym9fMm9hZHczRkdIdV8tYV9idEpTWVdtdXVWeU42SjhOZk1pdFNfYmxYRWYtdnJrTDV0M2dnUU1JR204dWF0Z3JnZllpQ1ZEZFU?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1751,7 +1877,7 @@
         "bisteccheria"
       ],
       "publishedAt": "2026-03-31T16:16:33.000Z",
-      "excerpt": "Per la Bisteccheria spesi 40 mila euro, i Caroccia dai pm ANSA"
+      "excerpt": "Per la Bisteccheria spesi 40 mila euro, i Caroccia dai pm ansa.it"
     },
     {
       "id": "ilgiornale.it__il giornale__\"informativa urgente sul caso ilaria salis\". \"allora anche su delmastro\": scontro di fuoco in aula tra fdi e m5s - il giornale__2026-03-31T16:14:27.000Z",
@@ -1771,10 +1897,10 @@
       "excerpt": "\"Informativa urgente sul caso Ilaria Salis\". \"Allora anche su Delmastro\": scontro di fuoco in Aula tra Fdi e M5S il Giornale"
     },
     {
-      "id": "ansa.it__ansa__'i caroccia usavano soldi dei senese'. delmastro in antimafia - ansa__2026-03-31T15:58:00.000Z",
-      "title": "'I Caroccia usavano soldi dei Senese'. Delmastro in Antimafia - ANSA",
+      "id": "ansa.it__ansa.it__'i caroccia usavano soldi dei senese'. delmastro in antimafia - ansa.it__2026-03-31T15:58:00.000Z",
+      "title": "'I Caroccia usavano soldi dei Senese'. Delmastro in Antimafia - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNE1ueE1rNXdUVTVpQXZWREktRUROMmhwUm1lenc4dEswSHdTRGh5U01Ia0ZJakR3SFJOX0JXaVJnelZsUFBscW9PeGxnX0tZejBhNy1VVjN6VmxPT3RJV2t1SURwQTJTR2VOWTdwcFNkLXlabG9Zb1UxSTZDSENsaHo2ZnNWQ01VR2R2S3hnTVUzazhuS1l0Y09pVFRJWmM3RkRYdkI1NkNxQ1g0bEwtVm5NX1AwM3pWLXB2RVptendWREJZVnZ4OGpsUnQyVTVfMDRKZW9abkZMTHNjWDZZRTBKUnB6VjhW0gHuAUFVX3lxTE5vZkZfengxM2VOanFjV0sxT0VuaDZVd19mZUhtN180R1kwVk1KTWd2M19udHBBX1djMDV4elR0bU1EYlgweTZGOTRfX3pBSTdKQzVtbFpBTl9rWkoxWk8yZlp4VzZsQ20tOW1iSWh0emliZ0EyWXFuLWw1dUtVS012RGN4YWRPOXN0ekZWLWlKaFhyd1JjZGRQaTVRelNmdFFLZXpqdGphN0VBSUVSZEREaDBRVEctT01JaENRYk90U0RjcmZBMFp0Q01yUHVpSEFxdUdyeXRETmJhQmhnUTRNU2lxTzdBcU9MZmxrLXc?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1785,7 +1911,7 @@
         "giudiziaria"
       ],
       "publishedAt": "2026-03-31T15:58:00.000Z",
-      "excerpt": "'I Caroccia usavano soldi dei Senese'. Delmastro in Antimafia ANSA"
+      "excerpt": "'I Caroccia usavano soldi dei Senese'. Delmastro in Antimafia ansa.it"
     },
     {
       "id": "corriere.it__corriere torino__caso delmastro e dimissioni chiorino, il presidente del piemonte cirio: «il bene della regione anteposto alle ambizioni personali, ora siamo più forti» - corriere torino__2026-03-31T15:09:16.000Z",
@@ -1897,10 +2023,10 @@
       "excerpt": "Delmastro, indagine sulla società della famiglia Caroccia. La difesa: \"Ai pm dimostreremo l'estraneità dell'ex sottosegretario alla Giustizia\" Affaritaliani"
     },
     {
-      "id": "ansa.it__ansa__per la bisteccheria spesi 40 mila euro, i caroccia dai pm - ansa__2026-03-31T12:11:00.000Z",
-      "title": "Per la Bisteccheria spesi 40 mila euro, i Caroccia dai pm - ANSA",
+      "id": "ansa.it__ansa.it__per la bisteccheria spesi 40 mila euro, i caroccia dai pm - ansa.it__2026-03-31T12:11:00.000Z",
+      "title": "Per la Bisteccheria spesi 40 mila euro, i Caroccia dai pm - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPOVdRV082OE9JY3VxcXFzTU1ZVkdjNjZLU29iYm40M25maU9GZnVZemNGOTM2VmIxeEFZNHl2VVQtMmRiU3F4N1owR0s0UnR2b3JhVGZGcVVxZ3NfbGNYTUF3TGw2MHpCeWhscE9obktnNVA1MEpjRTZ2ODJjMW13cExPeWoxbEt0cmdreE55TzVGNndvYURQb3U2NEpyN3BCdUUxY0gwVEtCcGFvdWNqMDk5RVVieTdMbERKUXowQl9JWW5PNmk2MzdIaUtCNHV3WFF6TGZ1MVhWUUhBUjVJazl1U2g1RFpuSzJCZkpnZDJmWUJQb1VXb1RCVdIBgAJBVV95cUxNU19sakFreGh0TEY2cW90cFAxaHVOUjlMc2N4QkY5Q19FOUpaMmQ4MFNUQVo1RlBnRGsxRjFNdFdVMEhUamExTkd1MkFWWTFmUFJFTFprM0FQYTR4elRpQmNpNmtxUGJtV3oxMnp1Z1p6WjRqV0dGaGVScE5pLU5WVHU5dWJ3LXBlc1VESG42VWVoTDN4SU5Idm01Y0g0cmc0d2FkSTA4bzBVTEpHdzY2czdWanBhNGJvXzJvYWR3M0ZHSHVfLWFfYnRKU1lXbXV1VnlONko4TmZNaXRTX2JsWEVmLXZya0w1dDNnZ1FNSUdtOHVhdGdyZ2ZZaUNWRGRV?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Bisteccheria",
       "matchedTerms": [
@@ -1912,13 +2038,13 @@
         "bisteccheria"
       ],
       "publishedAt": "2026-03-31T12:11:00.000Z",
-      "excerpt": "Per la Bisteccheria spesi 40 mila euro, i Caroccia dai pm ANSA"
+      "excerpt": "Per la Bisteccheria spesi 40 mila euro, i Caroccia dai pm ansa.it"
     },
     {
-      "id": "ansa.it__ansa__cirio, dopo il caso delmastro 'ora il piemonte è più forte' - ansa__2026-03-31T12:09:00.000Z",
-      "title": "Cirio, dopo il caso Delmastro 'ora il Piemonte è più forte' - ANSA",
+      "id": "ansa.it__ansa.it__cirio, dopo il caso delmastro 'ora il piemonte è più forte' - ansa.it__2026-03-31T12:09:00.000Z",
+      "title": "Cirio, dopo il caso Delmastro 'ora il Piemonte è più forte' - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSjVDdnNGVjVBYVlRVDRhM2IxVl9UQmdOR3FyTE1DSUo5WnNwT1NxTGprMXZjZGp0VVVTSkQtc3NKbUdlX2pNZEhILXg4STVWVFU2UWgzQWd4UEkyejFObW5iazVlaE8zaW9CMW5QYVNBUGxib054Q1RzUWZxbUNEWWN5WDFZbzF4d2t1cWNINUJwU2tyTVR2TGc1MXBzUlNhOHVfTWtPaUZ0MzQ0NDdDMndyeHZhRFU0MnpsTDF1dHdxdUJKVkVSdDdpTTRkcnNxemo1Y050YVlpOUNZZHl1Q1BuZWFHQdIB6wFBVV95cUxNcG4yd2x3RXNjalRYQjJOR2dTck9kRmdTZDZQQmc1VHBUUXZWU2R6OGtRWDcwdTdVNFBzSUNnbFRoRVVYUEx4dG95U3JxS2k3ZVNNQXVMZ0dHOGtWWjNTTmhET0s3Tlo3NkhDUTkyMWpDWFhvdlhLZEJOSnRsVGplazJBVWhkaFl4TV9fRkxTNE1YbGdVWHh4cndfdmVTZE0wWGtPc1ZtLXEwOXp3YUp1QmdoM1lMQlpxaXNRMFJUSEp0VmF2eVEtVVlWclJLcFJXR2s0UlFBRjIxRFR1N0Jia3pKbVZiYzlidXNF?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1929,7 +2055,7 @@
         "territorio"
       ],
       "publishedAt": "2026-03-31T12:09:00.000Z",
-      "excerpt": "Cirio, dopo il caso Delmastro 'ora il Piemonte è più forte' ANSA"
+      "excerpt": "Cirio, dopo il caso Delmastro 'ora il Piemonte è più forte' ansa.it"
     },
     {
       "id": "lastampa.it__la stampa__caso delmastro, cirio: “dimissioni di chiorino non scontate ma necessarie” - la stampa__2026-03-31T11:25:00.000Z",
@@ -2002,10 +2128,10 @@
       "excerpt": "Caso Delmastro, ex sottosegretario verrà sentito da Antimafia e comitato etico Camera Sky TG24"
     },
     {
-      "id": "repubblica.it__la repubblica__caso delmastro, bufera in comune a biella: si dimette anche l’assessore franceschini di fdi - la repubblica__2026-03-31T09:07:59.000Z",
-      "title": "Caso Delmastro, bufera in Comune a Biella: si dimette anche l’assessore Franceschini di FdI - la Repubblica",
+      "id": "repubblica.it__torino.repubblica.it__caso delmastro, bufera in comune a biella: si dimette anche l’assessore franceschini di fdi - torino.repubblica.it__2026-03-31T09:07:59.000Z",
+      "title": "Caso Delmastro, bufera in Comune a Biella: si dimette anche l’assessore Franceschini di FdI - torino.repubblica.it",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYUVTRUJEZ1d0WTNDdTN3YUxKb21HOGVUdUlpdTQ4MWplOXBIcTUybVR5MjJiU19wdEhRY0VWal96cnhpUnFsczROb04zNGRZc0E0aFZWSVAwaFpVSHBFcl93Qm5zSV9ldldKdWVhMXZYazg3cU5IcG8wMzBqLU00dXF6NlI1VnRrNGMyTF9PLVBaeHZUeUZDZW1hdVBiWU82XzN4MzQwUW9mYzhPdGZCWktKZzM4cGlhc0hiOXFtVmZScnVHb2xRV0RHSTFyeFdzcm9JQzY1VUJ3UWJjX0g5MjlpZXFGTENr0gHuAUFVX3lxTFBCRmlaUm5XM1ZTMDU0T1BRNEV1Y3I5UzlqWmtWVkx1RWFSd3BicXBFdUNhOVRVSlZiak5vNkc0ZERCa3RrcnlSSlVQRFBBR1hLRUtkTlB1VzJ0NTd0UHFRWVpmVnJ6Ym1BNmxhYl9ITzA5NFNmNjFiaEJNMHlsajZoTlRZRUwzUkR3RFY3TTFmMmRzdEI4bUQ4ajVhZHJNbGFfaXZkS2VheG9PWWFYYlNWRERCdzdQX3FkMGpmNU9qWDdjUjVjbVR5SkpyWXBBY3ZkOWR0dXg5Nm1Kb0VSMGtYU1FIZ1NqNi0tczF0amc?oc=5",
-      "source": "la Repubblica",
+      "source": "torino.repubblica.it",
       "sourceHost": "repubblica.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2017,7 +2143,7 @@
         "territorio"
       ],
       "publishedAt": "2026-03-31T09:07:59.000Z",
-      "excerpt": "Caso Delmastro, bufera in Comune a Biella: si dimette anche l’assessore Franceschini di FdI la Repubblica"
+      "excerpt": "Caso Delmastro, bufera in Comune a Biella: si dimette anche l’assessore Franceschini di FdI torino.repubblica.it"
     },
     {
       "id": "repubblica.it__la repubblica__meloni, delmastro e “l’immediatamente” secondo massimo giletti - la repubblica__2026-03-31T08:15:10.000Z",
@@ -2142,10 +2268,28 @@
       "excerpt": "Caso 5 Forchette, aperta un'inchiesta anche a Torino RaiNews"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__in direzione contraria - pena di morte, ma solo ai palestinesi: il diritto rovesciato di netanyahu e il mondo che sta a guardare. i pm: \"il locale di delmastro riciclava i soldi del clan senese\" - il fatto quotidiano__2026-03-31T04:50:12.000Z",
-      "title": "In direzione contraria - Pena di morte, ma solo ai palestinesi: il diritto rovesciato di Netanyahu e il mondo che sta a guardare. I pm: \"Il locale di Delmastro riciclava i soldi del clan Senese\" - Il Fatto Quotidiano",
+      "id": "rainews.it__rainews.it__caso 5 forchette, aperta un'inchiesta anche a torino - rainews.it__2026-03-31T04:53:00.000Z",
+      "title": "Caso 5 Forchette, aperta un'inchiesta anche a Torino - rainews.it",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV0VuZzFRS0lSRnU3WjRta2stSG9TQzdUNzRpcDVXSjE1dUUxcUpxcWVUMkM5Y1Z2NU9zRHhWQUVyWkV3WEl0V1NDaURNbFhVQUVmbzlRcEVaVzFhNnB3RGw4c1JlX1JqNmNpQlhLY1pPb1V0Sk56TzNyOHVwODlrSm5pWkxqMVY1VE1QV2x5QlJzQm90NWk3aW5UWWhZQUpoTVJRNDhmYTJhb0RzQTBIb3F1XzBSc0RFMXdSU3o3U2xOU3VLZjJlUUVFd29heUx0VExNT051RC1tSmFibmfSAeMBQVVfeXFMTXJxSG1raUZJYWJkUDIwaUdIbFV0NFphR1VZWVhtSGJsZTB0XzJFcVFPTlJEMUtZMXF0OElYaFRHLXI3aE40UGwxbVNzRnhYTE52X3paOFJ5a1JfOEtyZVdMcGZqdmRXMkpxRExOWWdCaUZGWElGaTRYVGQ3akZYY3BwWjA1OEVpbDNBQUNsYzZXay1nQVRWNjRnNzZkOHZXOXYtSjBKVHZiQnBFT3Z1ajJUSlVvdWVjRk9HUUxpQk5DZWJtdTJCU29OUF9Dd2xTOFR0VnVEQ1Ywamc3MlRhSzRFNGs?oc=5",
+      "source": "rainews.it",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "bisteccheria",
+        "territorio"
+      ],
+      "publishedAt": "2026-03-31T04:53:00.000Z",
+      "excerpt": "Caso 5 Forchette, aperta un'inchiesta anche a Torino rainews.it"
+    },
+    {
+      "id": "ilfattoquotidiano.it__ilfattoquotidiano.it__in direzione contraria - pena di morte, ma solo ai palestinesi: il diritto rovesciato di netanyahu e il mondo che sta a guardare. i pm: \"il locale di delmastro riciclava i soldi del clan senese\" - ilfattoquotidiano.it__2026-03-31T04:50:12.000Z",
+      "title": "In direzione contraria - Pena di morte, ma solo ai palestinesi: il diritto rovesciato di Netanyahu e il mondo che sta a guardare. I pm: \"Il locale di Delmastro riciclava i soldi del clan Senese\" - ilfattoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOOW5hMUJaOWQ1RVlaNEhrVkxqbXduTkpWWnhOQ0g5cm1EOEFiWlFzWW1VdkZ0THFMWDlKaWZzYVp0MUxyeXczLVZtdHo0VEhYUTZSd3pvblAwZFJJUGhpUkpyQjJtN09mbVpqQW54Q01Za3FXLWYxc1Q2cjNEUUppM0s2a2E0TDlBWlBUX0VlZ3FlSGVhek1hbzZncWo0TW9jRVhDN0hpM0ExUExsWW95RW4tc0prZ1lGSDZJd3RTUDczVU9fMHRGZFd6ZXNIbEFiM1RRVi1SQl9WMGFyWUtvT1RjSFJzT0hRNm9WallieXRrUS13cVk3NzFLR19zTzlPXzRLVzZKUGpfeFJxOHlGRlI5azVnV0JPYUhVUW51QlZvUHp4anhVVnBqUkRmQjU5ck0wV0xBeEtmUXJxREVSSUIyVWY0a2owMTQ1ekJSdUlGSHRLZmpHUmlnRElLQUdxYXZvaXFKcVh0TzBkSkpWa2VUdVE4QQ?oc=5",
-      "source": "Il Fatto Quotidiano",
+      "source": "ilfattoquotidiano.it",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2156,7 +2300,7 @@
         "giudiziaria"
       ],
       "publishedAt": "2026-03-31T04:50:12.000Z",
-      "excerpt": "In direzione contraria - Pena di morte, ma solo ai palestinesi: il diritto rovesciato di Netanyahu e il mondo che sta a guardare. I pm: \"Il locale di Delmastro riciclava i soldi del clan Senese\" Il Fatto Quotidiano"
+      "excerpt": "In direzione contraria - Pena di morte, ma solo ai palestinesi: il diritto rovesciato di Netanyahu e il mondo che sta a guardare. I pm: \"Il locale di Delmastro riciclava i soldi del clan Senese\" ilfattoquotidiano.it"
     },
     {
       "id": "ilpost.it__il post__elena chiorino si è dimessa anche da assessora al lavoro della regione piemonte - il post__2026-03-31T04:36:42.000Z",
@@ -2177,10 +2321,10 @@
       "excerpt": "Elena Chiorino si è dimessa anche da assessora al Lavoro della regione Piemonte Il Post"
     },
     {
-      "id": "repubblica.it__la repubblica__nuova inchiesta su delmastro e soci: l’antimafia di torino indaga per intestazione fittizia - la repubblica__2026-03-31T03:00:00.000Z",
-      "title": "Nuova inchiesta su Delmastro e soci: l’antimafia di Torino indaga per intestazione fittizia - la Repubblica",
+      "id": "repubblica.it__torino.repubblica.it__nuova inchiesta su delmastro e soci: l’antimafia di torino indaga per intestazione fittizia - torino.repubblica.it__2026-03-31T03:00:00.000Z",
+      "title": "Nuova inchiesta su Delmastro e soci: l’antimafia di Torino indaga per intestazione fittizia - torino.repubblica.it",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRjJvT2wyWV81b0VvZjdJWno1RlJpUjcydDQwVTI5WkVhYWVZazVEeE42TjZObnF5QTlvOVBlcGp1Tm9vTHlHWUZaeVY2M3pIclhzcEpYcjNHWGpWS0xjWkNfa2htSll3VFhmaUxlVDhSZ0dpa201d0FVRkZ1cENUQklPTXItVmxCd2l2d2VFeG9xclBLTVkxTmVLWk12N0o3X0tVT2hfYWRrWTFOcjlpaW1R0gG3AUFVX3lxTE1aUjliUi1qWGppMVlKeFFUSDVhS3I1elo2VDB3bzVpTmRFSVZLRnpXc1pYa3hJcnVfV3oybEx0NExyUjNyZWZuQm5lbGlZNmFrdE1CZTBHT3lScnZMT1FhS0VpVk5aaW9tZGxqWWdNTWhUWnc2ZEVNNlVYS3NvbXJwcnNNc2g1dE96MGRkUXd0b2ZveHBqcmlLSlhnV0MzTVktcG5WbW9rcDIzQThxdXZTSzhzZEZnZw?oc=5",
-      "source": "la Repubblica",
+      "source": "torino.repubblica.it",
       "sourceHost": "repubblica.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2193,7 +2337,7 @@
         "territorio"
       ],
       "publishedAt": "2026-03-31T03:00:00.000Z",
-      "excerpt": "Nuova inchiesta su Delmastro e soci: l’antimafia di Torino indaga per intestazione fittizia la Repubblica"
+      "excerpt": "Nuova inchiesta su Delmastro e soci: l’antimafia di Torino indaga per intestazione fittizia torino.repubblica.it"
     },
     {
       "id": "lastampa.it__la stampa__tra franchi tiratori e caso delmastro, così il centrosinistra riconquista la provincia di biella - la stampa__2026-03-31T03:00:00.000Z",
@@ -2284,10 +2428,10 @@
       "excerpt": "L’inchiesta su Delmastro: la vignetta di Ellekappa la Repubblica"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro, i pm di roma: “la bisteccheria d’italia riciclava i soldi del clan senese” aperta inchiesta anche a torino - il fatto quotidiano__2026-03-30T22:01:00.000Z",
-      "title": "Caso Delmastro, i pm di Roma: “La Bisteccheria d’Italia riciclava i soldi del clan Senese” Aperta inchiesta anche a Torino - Il Fatto Quotidiano",
+      "id": "ilfattoquotidiano.it__ilfattoquotidiano.it__caso delmastro, i pm di roma: “la bisteccheria d’italia riciclava i soldi del clan senese” aperta inchiesta anche a torino - ilfattoquotidiano.it__2026-03-30T22:01:00.000Z",
+      "title": "Caso Delmastro, i pm di Roma: “La Bisteccheria d’Italia riciclava i soldi del clan Senese” Aperta inchiesta anche a Torino - ilfattoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQR3lQZ3d1dHlETGUxRUNSUWhuV3dqdEUxejBuajhUVHZERlhkN05FTDN0ZUJtVFhIZ1RzOWxuZzRUMS1sMTV6U19XUkRMM0NESDl5Uy1uRWMwY3d0dGhiSGR4a0NFZ1ZSSEJVOHVpLXRxNmxNWjBha3hzNzUwcDBNR2JQU0JvdjhybzFsbzRHWm0tMHplU1gwRlY5Y0lwVHpKQlJ4S0V6TVN1TW81dDFHdVBVMVhMcFlxZEJ1eUdnRTRlWTloV0NwMnYyXzFXWWhmTHlSejNJN0M1ckg5Q2lBU3ZfTGRiRmExLUtLdktTSXd5VXBsVDNLYXk2OVJSLW1UbEZ1WG83VkR1ekZwaUtCeGJCYTEtMnZWa3c?oc=5",
-      "source": "Il Fatto Quotidiano",
+      "source": "ilfattoquotidiano.it",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2300,13 +2444,13 @@
         "territorio"
       ],
       "publishedAt": "2026-03-30T22:01:00.000Z",
-      "excerpt": "Caso Delmastro, i pm di Roma: “La Bisteccheria d’Italia riciclava i soldi del clan Senese” Aperta inchiesta anche a Torino Il Fatto Quotidiano"
+      "excerpt": "Caso Delmastro, i pm di Roma: “La Bisteccheria d’Italia riciclava i soldi del clan Senese” Aperta inchiesta anche a Torino ilfattoquotidiano.it"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__post-referendum. le colpe in rima di delmastro, santanchè e non solo - il fatto quotidiano__2026-03-30T22:01:00.000Z",
-      "title": "Post-referendum. Le colpe in rima di Delmastro, Santanchè e non solo - Il Fatto Quotidiano",
+      "id": "ilfattoquotidiano.it__ilfattoquotidiano.it__post-referendum. le colpe in rima di delmastro, santanchè e non solo - ilfattoquotidiano.it__2026-03-30T22:01:00.000Z",
+      "title": "Post-referendum. Le colpe in rima di Delmastro, Santanchè e non solo - ilfattoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0JTV3dQMzBGZEI5d1A5Z19hclJ2QkxCbW5mcGp4TXFYeTJXY3J6bEVHR1RIYUx5M1pfb0tSekdWbElNLS1RVlhyUVhNOXdiU20wa0UwWFlpd2VPQ0R6OXBYaGxTenJCdVFIWTlmd2czbnZDWF84cDZOVEJXUTNsenJqLUYtTnBlbm41VDZ5ZVV1NDRaRlI0OGN1SGQzOTlZZ0V2S0JkOFdkREd4c0NmcFRFMFFJYVhoc2RGak5XanpBM3VRWU95SmRGQ2ZPSFhMdTVnbg?oc=5",
-      "source": "Il Fatto Quotidiano",
+      "source": "ilfattoquotidiano.it",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2317,13 +2461,13 @@
         "altro"
       ],
       "publishedAt": "2026-03-30T22:01:00.000Z",
-      "excerpt": "Post-referendum. Le colpe in rima di Delmastro, Santanchè e non solo Il Fatto Quotidiano"
+      "excerpt": "Post-referendum. Le colpe in rima di Delmastro, Santanchè e non solo ilfattoquotidiano.it"
     },
     {
-      "id": "ansa.it__ansa__caso 'le 5 forchette', a biella si dimette l'assessore franceschini - ansa__2026-03-30T21:02:00.000Z",
-      "title": "Caso 'Le 5 forchette', a Biella si dimette l'assessore Franceschini - ANSA",
+      "id": "ansa.it__ansa.it__caso 'le 5 forchette', a biella si dimette l'assessore franceschini - ansa.it__2026-03-30T21:02:00.000Z",
+      "title": "Caso 'Le 5 forchette', a Biella si dimette l'assessore Franceschini - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOLVZ5dUJJYWxUTmFQQ1JQOElMb1pQR2hGUmYwRVZLZEJTOHBrRFgyYWNMSU1FY21lSzhQSmp0Mk9EcU5kNDhKdGd2cHpYUTJGeGQ3cXE3YVJaT1Vqb0xKMHZ2SEQtdXJHUXZHS0pzSkpMSkN6bzhEc1Aya1B0OGw4Y3YzOHBRbmMwaFNMSWhxMDIydEVvU3lLUzk2eDVSQnRhaGVmbVEtSjhraDNWMUFGT1lrbzhyN29QREp4Z3dNSFpNY2xhT3hMcTFlZTJWMFYyM0Y0azNHckwtalRmdGRHLTVaMzRzbVh5MzA0UkFNWdIB9AFBVV95cUxQLUZab3JLSFlFRUx1ejBnVE5OYm1IbE5GTDcyeVJMdTMxT3N3ZlBQbmdSNjkwWWZ2a0Z3VlRidEtXWDJHVWZKYXZlWU1WbFZWTGhXSC15RG5oQ0FubmlKN0RGWk5ad1RGQkZwa1ROZ01xVlcxLUhLNzRtZndkOUsteXNHMkVkOVRuREtBNTkxcU1YaGp5a0RQYTh2bVZWNjB5Y21ZZXBXdzFZc2JQNGRUaGR0TFhxNTg3MTdLWS00T3Q0MFE1SlY4NEp6YlhTXzR6UV9LQU1BcGRFVEtSTks4T1NuTklGTUZsa2FwN01zNC05QXF1?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Soci e societa'",
       "matchedTerms": [
@@ -2339,7 +2483,7 @@
         "territorio"
       ],
       "publishedAt": "2026-03-30T21:02:00.000Z",
-      "excerpt": "Caso 'Le 5 forchette', a Biella si dimette l'assessore Franceschini ANSA"
+      "excerpt": "Caso 'Le 5 forchette', a Biella si dimette l'assessore Franceschini ansa.it"
     },
     {
       "id": "liberoquotidiano.it__libero quotidiano__piemonte, elena chiorino si dimette da assessora | libero quotidiano.it - libero quotidiano__2026-03-30T20:25:04.000Z",
@@ -2465,10 +2609,32 @@
       "excerpt": "Caso Delmastro, Elena Chiorino si dimette anche da assessora alla Regione Piemonte RaiNews"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__don ciotti: “caso delmastro? mi crea sofferenza, la democrazia del nostro paese viene inquinata” - il fatto quotidiano__2026-03-30T18:02:10.000Z",
-      "title": "Don Ciotti: “Caso Delmastro? Mi crea sofferenza, la democrazia del nostro Paese viene inquinata” - Il Fatto Quotidiano",
+      "id": "rainews.it__rainews.it__caso delmastro, elena chiorino si dimette anche da assessora alla regione piemonte - rainews.it__2026-03-30T18:23:00.000Z",
+      "title": "Caso Delmastro, Elena Chiorino si dimette anche da assessora alla Regione Piemonte - rainews.it",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUVVZQlp6dzlXZnYyT1NuZEhndGJwMEJFbGhPeEozUXhjWTNETzkweElwWnZhbDMzVVhLQ0RoSVAtX3lrYnZfMDR0LVo0Zzd3dE9MTnJHS3hqNkF3WVNMZU1FMWU2V0pQYnZNUjA1d29jSVp1YVROc3N5LTN6YVFSTjhNeEM2UWgtNTdkdG00akw2bjBHLXhIZGFRdjhqeXpTOWtJbkczZXhyMkhaLVlpc3Y4LWFoaUlUcWVYZDBubHBUbTUyRWROejdYN3VKd1doYnhpWFBJalh3UdIB3wFBVV95cUxNR0ZUaFhNZnNBenc4TVN4ZjlsdmFMVTFoSU9UaTM3V3RvdTJZTFRReTJQVXFZQ29iYkJhN2FzNkEtNHNMOWE3RWRDLXdjM1RvT2U4a0d3ekVwMkFRZVRlTUl3Y1oxZ2IyT1ZaTXcyc1NYeUxMRnFiUmtZQ2hNUVhNY0w5V2NDN2JQSDR2Vmw2cU1lZTltaHlOWG5pN09XdVZGX0g1UEc0dUJsVm4xT2NKSDhMNllYTV9EdEsxZUlmNkhnTGlOYXFsTTFsMFFyOEJFemdMNnhOeElNdG0wV2Z3?oc=5",
+      "source": "rainews.it",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Soci e societa'",
+      "matchedTerms": [
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl"
+      ],
+      "tags": [
+        "politica",
+        "territorio"
+      ],
+      "publishedAt": "2026-03-30T18:23:00.000Z",
+      "excerpt": "Caso Delmastro, Elena Chiorino si dimette anche da assessora alla Regione Piemonte rainews.it"
+    },
+    {
+      "id": "ilfattoquotidiano.it__ilfattoquotidiano.it__don ciotti: “caso delmastro? mi crea sofferenza, la democrazia del nostro paese viene inquinata” - ilfattoquotidiano.it__2026-03-30T18:02:10.000Z",
+      "title": "Don Ciotti: “Caso Delmastro? Mi crea sofferenza, la democrazia del nostro Paese viene inquinata” - ilfattoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSjBTM1drMkM4aExJWGhEeDNXSjRJR09aaGFWb2o4dVg3cEZNVDJraTNLTmVpRXJacTdXdng0aTEzV0FUeGhHcjFiVktndHVfRGQxQVc2c1pxaEZzOW1Nc0ZJUFlpRUpVVTNkYlBnZXdLdDF2aUtUNlo5bE9NMDIxWVhHUzhCNDVFSXVtZVB3ODFGeGpqejZTX2ZvR0FzYmFNNzZPQlFNQVdac1kyZGZjQ0VEY0hsUnpUbEhDeDBVVXAzQTdHeGNFbnlockt4ZnV6dENqeXlRaE1kSzF3?oc=5",
-      "source": "Il Fatto Quotidiano",
+      "source": "ilfattoquotidiano.it",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2479,7 +2645,7 @@
         "altro"
       ],
       "publishedAt": "2026-03-30T18:02:10.000Z",
-      "excerpt": "Don Ciotti: “Caso Delmastro? Mi crea sofferenza, la democrazia del nostro Paese viene inquinata” Il Fatto Quotidiano"
+      "excerpt": "Don Ciotti: “Caso Delmastro? Mi crea sofferenza, la democrazia del nostro Paese viene inquinata” ilfattoquotidiano.it"
     },
     {
       "id": "open.online__open__si dimette chiorino, fedelissima di delmastro. il passo indietro da assessore in piemonte - open__2026-03-30T18:01:57.000Z",
@@ -2516,10 +2682,10 @@
       "excerpt": "Caso Delmastro, Elena Chiorino si dimette da assessora in Piemonte Sky TG24"
     },
     {
-      "id": "ansa.it__ansa__elena chiorino si è dimessa anche da assessora - ansa__2026-03-30T18:00:00.000Z",
-      "title": "Elena Chiorino si è dimessa anche da assessora - ANSA",
+      "id": "ansa.it__ansa.it__elena chiorino si è dimessa anche da assessora - ansa.it__2026-03-30T18:00:00.000Z",
+      "title": "Elena Chiorino si è dimessa anche da assessora - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX2dsUXJMMkdWdGtjd2ctYVFqcHZ2LW8wdTlHbGcyWTE3Mi1KQlFCWlBFQjMxVHotbkxGTDZZemdETG5XR2E5bDBYcS1FV1BCcWRZX1FGSUhfcUdnclc2aDJhNVpKUC1tZmRzTHZZRmlpbm1IbDRvQWpLV3VLNXg1c1BiR0R4LW1feDdiNXlyaXRhNzBlVkNsNW9CdkprWGNUTEhmX1FKNmY1VjdqdXl0Zy0tX3Q4dVQyTEM1dHhfb3N3amVRM1M3ZGJjR2pGYVdWSlHSAdcBQVVfeXFMTllJVG5Nd1pmZkdLUFdKb1VaNDhueE5IOUZtYmh3WlIzX014cXgxaHN4TXAxek1tNXc4cVdIaUZINzFXcFo5VUFTUi02T0E2R1ZSX2I2WFpCbDNMQ3NueFcwanJKWU4wNVlZOUt1ak42eF83WHhZY2p1SHBhdTlfQy1FeE5HNmxLT2VyekZTU2hBbmxoNmZFOHgyTGN2Q0NvaS01MVFhdTFYeGg5VjN4eEszS3M4MnFIenBVaWNvRUFWbG1IUHRPVjlDN3hxckdaM21wTUZRNWs?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Persone collegate",
       "matchedTerms": [
@@ -2531,13 +2697,13 @@
         "altro"
       ],
       "publishedAt": "2026-03-30T18:00:00.000Z",
-      "excerpt": "Elena Chiorino si è dimessa anche da assessora ANSA"
+      "excerpt": "Elena Chiorino si è dimessa anche da assessora ansa.it"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__caso bisteccheria d’italia, chiorino ora si dimette anche da assessora: era socia con delmastro - il fatto quotidiano__2026-03-30T17:59:43.000Z",
-      "title": "Caso Bisteccheria d’Italia, Chiorino ora si dimette anche da assessora: era socia con Delmastro - Il Fatto Quotidiano",
+      "id": "ilfattoquotidiano.it__ilfattoquotidiano.it__caso bisteccheria d’italia, chiorino ora si dimette anche da assessora: era socia con delmastro - ilfattoquotidiano.it__2026-03-30T17:59:43.000Z",
+      "title": "Caso Bisteccheria d’Italia, Chiorino ora si dimette anche da assessora: era socia con Delmastro - ilfattoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRWZPdDM0anZob1JtUjhuU3hGb0tEdXJ3OXdqWUNhVGNOYV9KVEZlQ3hIOUlpLVJtaG1kN0tsdWVqZDAzWmJYb1QtUHV2ek95b2oyOTJvaW5LT1V0a0FaVVY2SHJxVThWek94YnU2cmtGMDRpVGU4Yy14cG9jTU9tUGNkTTh5WVZYTW1jQ2NsQ0V1S2tqVW9kaFB0TmZaaGUxamc2WlVhNG00SENoZWZSZUJScXZpM2JJeVhTZ0xtZm9Odm9XQVpUM25kZTdRdGc?oc=5",
-      "source": "Il Fatto Quotidiano",
+      "source": "ilfattoquotidiano.it",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2549,7 +2715,7 @@
         "bisteccheria"
       ],
       "publishedAt": "2026-03-30T17:59:43.000Z",
-      "excerpt": "Caso Bisteccheria d’Italia, Chiorino ora si dimette anche da assessora: era socia con Delmastro Il Fatto Quotidiano"
+      "excerpt": "Caso Bisteccheria d’Italia, Chiorino ora si dimette anche da assessora: era socia con Delmastro ilfattoquotidiano.it"
     },
     {
       "id": "huffingtonpost.it__huffpost italia__bisteccheria delmastro, elena chiorino si dimette anche da assessore del piemonte - huffpost italia__2026-03-30T17:55:00.000Z",
@@ -2639,10 +2805,10 @@
       "excerpt": "Caso Delmastro, si dimette anche l’assessore di Biella Franceschini: “Lascio a testa alta” La Stampa"
     },
     {
-      "id": "ansa.it__ansa__piemonte, elena chiorino si dimette anche da assessora - ansa__2026-03-30T17:31:37.000Z",
-      "title": "Piemonte, Elena Chiorino si dimette anche da assessora - ANSA",
+      "id": "ansa.it__ansa.it__piemonte, elena chiorino si dimette anche da assessora - ansa.it__2026-03-30T17:31:37.000Z",
+      "title": "Piemonte, Elena Chiorino si dimette anche da assessora - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdEY2ZGlGcDZUbW4xbkhEWVpTcENISXF3NGVxblJraFZ0c05lWEpFRlh3TWRHOGRzT1NCYVBVb3RNN1hoQzM2TV84c3NWSFhDMHY1U1FIRXlJQlZuUkhhX2lwbWw4b1JkT19RM1RYbG9Ld2w0NVhWdnZSRVMyeS1hM0VDTnhfWFpIT0JnSlZncnl6NldXSFBSbzFkZ3p1dEFvSUtHUWpKalRiNldfNmRWTl9yM3gtVFRIMUc3MmRCekd1ejZaMWdCeHRzcjNjOFVCZ05jejhPOVZBQjY2VUF2VzVB0gHnAUFVX3lxTFBhMFBUWGNaRTYzUE94NGpjRUVKVThEemlla045VkNEcTRreE41SEpkSDFlLTBfeHRCSnZUazRRRy1iTDZjNVhxMXhfVHBtaVloXzVYX2xGMFc5VTM0QlFnMVAyWWpUMXRhV1hEQmRxLU82OUwwUG1kYmdKN094VnFIbjgtMEtfUnFtSVJtSnpaaWJGZk44TXcxWFNpYVA5ZXJjdkVNZjlrLVZ2VWdyRDJ2V1pPbVBycnB0ZkVRelZZOUZOWDU0U0JSRWZaa3NNSVVsWGUxV1FjN2FYSW01S2JBRDM5OHFUSQ?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2653,7 +2819,7 @@
         "territorio"
       ],
       "publishedAt": "2026-03-30T17:31:37.000Z",
-      "excerpt": "Piemonte, Elena Chiorino si dimette anche da assessora ANSA"
+      "excerpt": "Piemonte, Elena Chiorino si dimette anche da assessora ansa.it"
     },
     {
       "id": "newsbiella.it__newsbiella.it__biella, si dimette anche cristiano franceschini: “commesso una leggerezza, me ne assumo la responsabilità” - newsbiella.it__2026-03-30T17:30:00.000Z",
@@ -2722,6 +2888,23 @@
       ],
       "publishedAt": "2026-03-30T17:26:00.000Z",
       "excerpt": "Caso Bisteccheria d'Italia, Chiorino si dimette anche da assessore RaiNews"
+    },
+    {
+      "id": "rainews.it__rainews.it__caso bisteccheria d'italia, chiorino si dimette anche da assessore - rainews.it__2026-03-30T17:26:00.000Z",
+      "title": "Caso Bisteccheria d'Italia, Chiorino si dimette anche da assessore - rainews.it",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbjgyNWl5SUJ6eUJ0a1A4QlNkM2Q5dFA5MDQ2V1IxRlIxOEJHS0lFb09lVVg0Z09QWVdMSzJWSUxUaDBma3lzT0JBMkdibnhhT2Z5ZUZZY0xtNFpQcDVfNXpwV0l3RjZuTE4zY0ZjNG5ubFlYajhjaE5nRVpsc3M1TDB0cGhUS0c2eVZiSE1OY3hQMjFiNk5sNk5qVlZaZFViakgtd3lsd09JaDFyeVRPdUpXLXpVd3Bpd1dpOHB6YWlkZDBiNFE5MDZZTU9XV2dqczM1NEozSjAtQUNhSF9PRlVlS0VweWU5SUpHSmVZWkTSAfYBQVVfeXFMUE9nWVZhQ3BXZG94S2stS3JqQnFHMk9HZFpYMWUwSHpvNnNYLUQyajlIZEFQdktBZkxITERSRllnV2JMcnR1Y3BkOWNkY25HazdOMkkweE83V1EwVGRMSk9ITHFpRVFzLVJHbk11ME5qbVhveE85SVJvTi1pRnhkbV9IWGhqcnBiM2RaWHpyWktSUEljaEVWdlpvLURPWVhmZ25jbFo2OVFCYzIzN3dCQWl5ZFBYS0o4ZWFjZGsyZHNrcjEyUmFMU2tlc2kwd05rdVN4VFlmSV83Yk9tZHg0MkFwS1Z0c1dxcXB3Q1V2TDhuWlREYTVR?oc=5",
+      "source": "rainews.it",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "bisteccheria"
+      ],
+      "publishedAt": "2026-03-30T17:26:00.000Z",
+      "excerpt": "Caso Bisteccheria d'Italia, Chiorino si dimette anche da assessore rainews.it"
     },
     {
       "id": "newsbiella.it__newsbiella.it__regione, elena chiorino rassegna le dimissioni da assessore della giunta - newsbiella.it__2026-03-30T17:25:00.000Z",
@@ -2793,6 +2976,23 @@
       "excerpt": "Caso Delmastro, l'ombra della camorra dietro le attività dei Caroccia RaiNews"
     },
     {
+      "id": "rainews.it__rainews.it__caso delmastro, l'ombra della camorra dietro le attività dei caroccia - rainews.it__2026-03-30T16:44:07.000Z",
+      "title": "Caso Delmastro, l'ombra della camorra dietro le attività dei Caroccia - rainews.it",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb2NOM0VCLVRPQnBrWEtobm1ReUYxcDFxa0g0QWxjcTVHcHBBaUNxb29OdGt4eGNoQU9SNDJab0hXU3JaQTJnc054SG9ydDU5SWRYYUE1Z0lsUkE3SmJRR1BsSk1LUm1kNE1yTEZYSXVIbFJBV3d5c2pGZWppRlhPNmlLNFQ1ZmxCemZraXNtWXV1QzJBSW1LbjZzNFl4NDZjRzVFVFczUTR3MWxMcDJPREtqWHFaSjhQVXJoZ09iR3AtOXNPNHpqSkpLc1BGMHR1Wk5NRm9KdFQ3eUNCQjRzdWdOdkxDdG1u0gHuAUFVX3lxTFA3SDhRTG5Hc3RTN0lGZ09pTXVsbEd6SHJuQ1VRLW1NOHJ5Z25LUjNSeWtMdV9QTThTeW1EUnBjUGU1Y3lWN1p3STZ6ZVJ5dXcwOFViSVdxUXByN1BudGtfZ041ZWo1U1VyeGZiMmd5NUQtYkpyQzhRNlRESXlQM3hFYUlrQmQ5V2xpNW00OHBra2xGOTk5ZDVzcTNlQ2IxSkhvYjR6R1VfUlQ1RHhTZEZVV1dRYlBHTzR4RFdUbElFZEZwaGtRNG1BRWJaRnhnM1E3S1RDaEVZRGVoM21sOHFhZmx3c2g1LXF2R091SWc?oc=5",
+      "source": "rainews.it",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-03-30T16:44:07.000Z",
+      "excerpt": "Caso Delmastro, l'ombra della camorra dietro le attività dei Caroccia rainews.it"
+    },
+    {
       "id": "corriere.it__corriere torino__biella «scarica» delmastro: alle elezioni per la provincia vince il centrosinistra - corriere torino__2026-03-30T16:41:59.000Z",
       "title": "Biella «scarica» Delmastro: alle elezioni per la Provincia vince il centrosinistra - Corriere Torino",
       "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNdVVQcERpSy0wNzlybGFLQm1Fb0Z0NTZhZHFBWjBvWHB6UXBYMkhudEpIOUJmUXdscGEtU3h4TnB2M2xfQ2l5MmFCR29zNVNOeHlpcng1YUpacVFCV29uV0dwMnkwVHNtZkhKWUVqRTB2OEJaemlCWFl1X3dDX1Utd2pOd0VjQXBDMjg3RmF6T09oYlpmZk9sOGp6RzBHcGJkLTk0OU5mZy1weFYyeGpSeUhBaUNZMWh2WDNBWlhjcjVQS3h5N0prMlg3RzEyOV9jUmtMWjU4Y3RrX0hqMmxLZ3EwLTNRdUs4eExPd2J4X0N2Tk1hQS15V0EyNDdyUVRrV3lkS1E2YTVhS1d3VGxnbkFtVlpWVjFWbHQzTlNyUG9qcUNxcGgwY3JMdkdtTU9xRGF0SFdlZ0ZYbmg4U3hvX2dMaDVtQdIBywJBVV95cUxNOWpWSUpWRWJZNDV3N3pCa2hZZl9uWnk5cF9KR3BWNU5uYzM0UTU2c08yeklqb1pyR0JveVgtTHhTOTJkOC1HWFlUcENoa2dUeFFRczdQTHo3Qk5jaVNMSXBaQ21pcTMxTmNYeGVlS0dNM01JRjZ0dzdKRHBJZ2tVY3Zmckd2OHdVcDRDZVBmQldDM1F5VlA0czhSR1QzTlhRRTg1aU1qS2k0bDlIOXJUT1dtOW01Z3d3Zjh4ekZXbDBZdE9Qd0s3Z3BaLWk0OS1wcUpJbkQweV9BLXp1MndFaEVvdW1rN3B2N0xQbUwyQVM4bEQ3WUVMd29uNmR3dmxsN2U3UXpXN3NRNkdjUFJmcGZ3YzBsN2JHWXUxdDFaSEt0bFJFc3RyV3lCbG5oeS10UmE2LXNwaEZFNnRPdFVoblFZektScm4yLURF?oc=5",
@@ -2810,10 +3010,10 @@
       "excerpt": "Biella «scarica» Delmastro: alle elezioni per la Provincia vince il centrosinistra Corriere Torino"
     },
     {
-      "id": "ansa.it__ansa__delmastro aggiorna la dichiarazione patrimoniale, c'è la cessione di '5 forchette srl' - il documento - ansa__2026-03-30T16:41:51.000Z",
-      "title": "Delmastro aggiorna la dichiarazione patrimoniale, c'è la cessione di '5 Forchette srl' - IL DOCUMENTO - ANSA",
+      "id": "ansa.it__ansa.it__delmastro aggiorna la dichiarazione patrimoniale, c'è la cessione di '5 forchette srl' - il documento - ansa.it__2026-03-30T16:41:51.000Z",
+      "title": "Delmastro aggiorna la dichiarazione patrimoniale, c'è la cessione di '5 Forchette srl' - IL DOCUMENTO - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQYkJOU1JFdV9fdXFuVmRmeFlNZGdkcmhNRmlmUlRKR2hnQm1zZy0za04zWnB5amtDaXV4M3Zla0o0ZzU4bTdZMWc1Uk96OEdxMGJrbmtoWjBCMU9UV3kyclUyblVIQjRMdkJLa0hhUHhtQzlOVEc2RkhuclhhN2doUzdpYTcxY04wX2RtbTgzOEFXN1VYS0lOVFlyRTh1LWQtMWVDT3RFYlZ2eXRvU2ZBdjZ0QUFlNEtoMF9WdGF2Ym1xa1VjS0REWk9NalRlMFpiMFEydUdKMlJPZEZaVjNyTnA3SklWejZtNVhKS0ZiMGxJbjh6ZEhUWmhrLS02REhGUHdoWFZha9IBjAJBVV95cUxObE9temFQbnUwVnljS3gwZ1k2aGFSWTF1Sk15MXpwVWM5SmF2dG5oZy1QQWdTYUoyRUNuc1hFRDVRQ0VUV1VPWmF2Z3Q1amlJakRzdktmbW12N1Z3NnBDWXpfeFJtaEtNeHdFYlZibV8tT0ZFNmRWMmxucmI1TmtvYUtwREdWZ1FuaGRCOU51cHktQmhtc3ZMSU5mYmI5TkdYNk1QT1kwZ0YwM1FUREVLZWl0RmZ6QVFQMW42QTRuM3hWa1JzTklERFBRQmlYNVg2bmdodmpXLWhQdzdralU0STlhcUpYOWltNXVxRUdYXzdKS19oRENRUkdzQTF5cEtqUFdiWHBlQ2Z6QS1v?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2825,7 +3025,7 @@
         "bisteccheria"
       ],
       "publishedAt": "2026-03-30T16:41:51.000Z",
-      "excerpt": "Delmastro aggiorna la dichiarazione patrimoniale, c'è la cessione di '5 Forchette srl' - IL DOCUMENTO ANSA"
+      "excerpt": "Delmastro aggiorna la dichiarazione patrimoniale, c'è la cessione di '5 Forchette srl' - IL DOCUMENTO ansa.it"
     },
     {
       "id": "quotidiano.net__quotidiano nazionale__caso delmastro, la bisteccheria d’italia “riciclava soldi della mafia”. miriam e mauro carroccia saranno interrogati in settimana - quotidiano nazionale__2026-03-30T16:35:56.000Z",
@@ -2862,10 +3062,31 @@
       "excerpt": "Caso Delmastro, mercoledì Comitato etico RaiNews"
     },
     {
-      "id": "repubblica.it__la repubblica__don ciotti riceve il sigillo civico di torino: “il caso delmastro? soffro, calpestata la dignità” - la repubblica__2026-03-30T16:26:43.000Z",
-      "title": "Don Ciotti riceve il Sigillo civico di Torino: “Il caso Delmastro? Soffro, calpestata la dignità” - la Repubblica",
+      "id": "rainews.it__rainews.it__caso delmastro, mercoledì comitato etico - rainews.it__2026-03-30T16:35:00.000Z",
+      "title": "Caso Delmastro, mercoledì Comitato etico - rainews.it",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNanBnSER4em1QVnpnenUwQ3ZzYTBXUjRMVGRCa0RjUHV6RmxCY1pzMW9GSDl5Wmx2Z2VZV25VS19Ud1BsQjRxM1oyaE1RZkJhQWVETkpzdHJIMHNRVzQweHJ1MzFsWHJ2NjRFLUNzeXNKSEhTNzBXN3I2LXJFa0pqenp1ODYzaVRSNWljcGFSNDM2ZGk3aW14N21HWkxWZ0djNTVlUE92Qk1yeU1BOHJLQWpnWV9hWS1JN2VuNlk1TWPSAcYBQVVfeXFMTlVzcW9ieVB4dnhJRVUzYm5DWFFWN2p2dG9ld2pqTEU5a3J4bUFyMGJqa2VTOXN0NXhEVVZQSGZQOUVsRmswbzRPRV92SmF1bWJCLXB5R084bDExazF1VC15VGhWZWNXUzNsdW9EelNJR1Z6dnZYVDVIV1k0aVlGaUFNRy02U3E3c1p4Y0hVYnlHOEV1S19sb294Nm5EZ3VkcTJHZzdaQ0d3RGxvclZ4T29pcTRxeXl1aEFYZzJLaTZMZ3JoZEt3?oc=5",
+      "source": "rainews.it",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Soci e societa'",
+      "matchedTerms": [
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-03-30T16:35:00.000Z",
+      "excerpt": "Caso Delmastro, mercoledì Comitato etico rainews.it"
+    },
+    {
+      "id": "repubblica.it__torino.repubblica.it__don ciotti riceve il sigillo civico di torino: “il caso delmastro? soffro, calpestata la dignità” - torino.repubblica.it__2026-03-30T16:26:43.000Z",
+      "title": "Don Ciotti riceve il Sigillo civico di Torino: “Il caso Delmastro? Soffro, calpestata la dignità” - torino.repubblica.it",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcHZvSWh4YTlJNFc5cjJxVmlpWFBQTXA0eVFpalhVRnRjWnRpU0xnLS1ZdTI1LVBRTXJtNlMxc2NPcXJ4dkZvT20tQU8zNmpEM2ZocmU0dk9lOFFXb3NHZG5wdmdGM1ltbXpvWTFJREprUUgwLTF3LWswdnZLWTQzVnRSRzVFMldkQjRUbmVIMUpRTEHSAZgBQVVfeXFMTV90cGdwb29TVG53OWZjZmIzTW9FdGRSM0lfdUJ1eTdTQ1ZuWDNLdVZDbXI3U2k1TXFvNGZ1U3kxRlY5X3FNYTNsVFdQRFU2cDRLb0l5WkRzc1lZU3BTSGFOYm5uSnZWWmZVZlBHd0dFRW8tODJmWVRxaUtxVS1fSWtfQVJLRnNpMXBYOU03LUNJRmpoZTJ0ZEo?oc=5",
-      "source": "la Repubblica",
+      "source": "torino.repubblica.it",
       "sourceHost": "repubblica.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2876,13 +3097,13 @@
         "territorio"
       ],
       "publishedAt": "2026-03-30T16:26:43.000Z",
-      "excerpt": "Don Ciotti riceve il Sigillo civico di Torino: “Il caso Delmastro? Soffro, calpestata la dignità” la Repubblica"
+      "excerpt": "Don Ciotti riceve il Sigillo civico di Torino: “Il caso Delmastro? Soffro, calpestata la dignità” torino.repubblica.it"
     },
     {
-      "id": "repubblica.it__la repubblica__caso delmastro, la sua fedelissima chiorino si è dimessa dalla giunta del piemonte - la repubblica__2026-03-30T16:19:20.000Z",
-      "title": "Caso Delmastro, la sua fedelissima Chiorino si è dimessa dalla giunta del Piemonte - la Repubblica",
+      "id": "repubblica.it__torino.repubblica.it__caso delmastro, la sua fedelissima chiorino si è dimessa dalla giunta del piemonte - torino.repubblica.it__2026-03-30T16:19:20.000Z",
+      "title": "Caso Delmastro, la sua fedelissima Chiorino si è dimessa dalla giunta del Piemonte - torino.repubblica.it",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRzZJWF9BQ04wb0RhTF96M0JUXzVJekNjbmFEZmh2bGd0dkNOMTFGc043ZGlnWVJ4TVNCQnRneE5JWnN4WElueFRRY3YzbmdYcmhiUVd3MDFBTzJJSXFlQ0RxZExDSmE3QWhaZ1NuUE9LWnBwOHlDQlpqb0NvbFJhTVB5Qndud0xEcXNTRmJGYUlTVjc5SGR6WWNMdGxiXzU4ZF9waDhvN3c4WjY5cjVEaFNfT2lMZ9IBuwFBVV95cUxNalRoRjl1WnF1cFJqYk5TUDRDUDZoNUZ5SFljenE0Zkt5WGJLNVdGUnoxOXZXMng1TC05VlZwaDlGdUF1dXpOQktvLUx5RUZaZ1pWRmRvLUVXb0tPRWNpZE01dHh6bGFXTUlzYVAzcmRPdTg4dWxZNnV6RElXUUJ2RGJZdXdGNjN1TldYRlpnajNWbDRCRGdWRWFRRXZ2TWgzTk93UGNydEVpR09qeWNCQUI4LXpzR0tvU04w?oc=5",
-      "source": "la Repubblica",
+      "source": "torino.repubblica.it",
       "sourceHost": "repubblica.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2893,7 +3114,7 @@
         "territorio"
       ],
       "publishedAt": "2026-03-30T16:19:20.000Z",
-      "excerpt": "Caso Delmastro, la sua fedelissima Chiorino si è dimessa dalla giunta del Piemonte la Repubblica"
+      "excerpt": "Caso Delmastro, la sua fedelissima Chiorino si è dimessa dalla giunta del Piemonte torino.repubblica.it"
     },
     {
       "id": "affaritaliani.it__affaritaliani__delmastro sentito dall'antimafia, \"piena condivisione della maggioranza e di fdi\". al via le audizioni - affaritaliani__2026-03-30T16:06:33.000Z",
@@ -2931,6 +3152,23 @@
       "excerpt": "Caso Delmastro, per la Dda il denaro del clan Senese finiva nelle società dei Caroccia RaiNews"
     },
     {
+      "id": "rainews.it__rainews.it__caso delmastro, per la dda il denaro del clan senese finiva nelle società dei caroccia - rainews.it__2026-03-30T15:35:00.000Z",
+      "title": "Caso Delmastro, per la Dda il denaro del clan Senese finiva nelle società dei Caroccia - rainews.it",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcFhFanhTZUl3NTVnMGVPZE91UUNYZUdXQkRXSWZkYldyMTQ4YW1yQmRZa1RFVlFGRm5FS2hNYlBtT0x2b0lJR2R0VFBqLUlfMDJiQ2VJZFRkOFJzc2JrV0FOTEF5YW40VmJYVkUwYXlIT1Jab09OMWZhcEtqRGhUcURfcW5KSW9QV19Gdk1zcU5Vcy1sWW9FbHdBUUwwcHBRWkwxNkFCOF9udUFVOExaZHpQMmd5NFZ2SkIxRFlEWFVyOExWa2U2OV92ODJCaEdZa2k5R3hmdlFFNXB1UUd4NHBBSjJKbUN6cDd2UDdET3RkcEhZa0J6b0d2VW1rS2vSAYQCQVVfeXFMT2Yya1ppb0lRNl9ld0xSRHhnZFNBbWE3SEp6WVNUR3FLY2VCRnl6VU9iT2hZYWUydjlqT2MyNG1aN0ZzUWhIN0Jpa0NXUTM3RWY3d1JOelB5eUsxbGdzSkJPMXFIYjNqT0RKSlRmalRTd0xnZTlveWVYSnJYN09FNVRVSS16Qk1zMWRTdFo4ZkhXRkdXUFJFWDBYN2pqT24xcHhWdXNQRGR5bm04cENvS0VUSk5jTXFZRy1uZzk3elZid1QtUDJDZFNPT1M3ZFRQdTdRcUFMYlBGMkpHYy1BVFRtOU5xY19MSGtLdmhuQnpYMElDY01mc3NUeTdPZkJGR0NiNDM?oc=5",
+      "source": "rainews.it",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "societa'"
+      ],
+      "publishedAt": "2026-03-30T15:35:00.000Z",
+      "excerpt": "Caso Delmastro, per la Dda il denaro del clan Senese finiva nelle società dei Caroccia rainews.it"
+    },
+    {
       "id": "rainews.it__rainews__caso delmastro, le opposizioni \"inconcepibile che chiorino resti in giunta\" - rainews__2026-03-30T15:27:00.000Z",
       "title": "Caso Delmastro, le opposizioni \"Inconcepibile che Chiorino resti in Giunta\" - RaiNews",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU01TbDNKTHRqbW1lN1VUa250WGlFVDlKMzJtcnIyVld6ZnFhVmV3Q2gzU0lGWE5mVF9IUVFTSHRjV2ZUdWItem5Za25PY1pOUXdnMmxFdDlBbWV1NVhnUVFpSjQta1ZjSm5zRS1vWUJkUnVmSk95U3phSmpTQ19BdzQ4WkxINVdSaVFoQUpDbVNUdWVuSDMySFJ6QjR0blh1ay1nMENCeS1vSld0amNIT1lDN1p3TnJpemVJaTJ4VjdySW55cEYzc3lKSXhfSXVhaUtraks2dzk4RDNPWGtKRGpnajJjWEdHdXFFRk1sc3JGVllMYTV0WFJIc9IBgAJBVV95cUxPbl9DeFlCNG9WVEQ5OF9LZkZueTloOWlmc0RhSDhJRW1kZEFCdlRfUEZsNU9PR0wxZnNSVlljODFHSHNJOXpNd0FJbC0xdVM3cGhFU3g1MXc5QTNaaDRTNVpFbmdEc3pYNmU1aVZPNktobF9aRTdORDREVXR2cWVvNkNiUnowVHNQVGRhVXZQYTF4bzZfWWFBYndnblF6eFFtWHhkYTE0SG5QVGVfVWFzWDdxSDNtSTFXUXBoTjdzems1UTBQVDlwUktGdFRzZnFMYl9Ub21ZcGNsN2ZROG40MHpDakQ0ZnVXODZXMFhPNjZPcF9CUWJ1eG9oUF8yYWIt?oc=5",
@@ -2948,10 +3186,31 @@
       "excerpt": "Caso Delmastro, le opposizioni \"Inconcepibile che Chiorino resti in Giunta\" RaiNews"
     },
     {
-      "id": "ansa.it__ansa__delmastro aggiorna la dichiarazione patrimoniale, c'è la cessione di '5 forchette' - ansa__2026-03-30T15:26:51.000Z",
-      "title": "Delmastro aggiorna la dichiarazione patrimoniale, c'è la cessione di '5 Forchette' - ANSA",
+      "id": "rainews.it__rainews.it__caso delmastro, le opposizioni \"inconcepibile che chiorino resti in giunta\" - rainews.it__2026-03-30T15:27:00.000Z",
+      "title": "Caso Delmastro, le opposizioni \"Inconcepibile che Chiorino resti in Giunta\" - rainews.it",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU01TbDNKTHRqbW1lN1VUa250WGlFVDlKMzJtcnIyVld6ZnFhVmV3Q2gzU0lGWE5mVF9IUVFTSHRjV2ZUdWItem5Za25PY1pOUXdnMmxFdDlBbWV1NVhnUVFpSjQta1ZjSm5zRS1vWUJkUnVmSk95U3phSmpTQ19BdzQ4WkxINVdSaVFoQUpDbVNUdWVuSDMySFJ6QjR0blh1ay1nMENCeS1vSld0amNIT1lDN1p3TnJpemVJaTJ4VjdySW55cEYzc3lKSXhfSXVhaUtraks2dzk4RDNPWGtKRGpnajJjWEdHdXFFRk1sc3JGVllMYTV0WFJIc9IBgAJBVV95cUxPbl9DeFlCNG9WVEQ5OF9LZkZueTloOWlmc0RhSDhJRW1kZEFCdlRfUEZsNU9PR0wxZnNSVlljODFHSHNJOXpNd0FJbC0xdVM3cGhFU3g1MXc5QTNaaDRTNVpFbmdEc3pYNmU1aVZPNktobF9aRTdORDREVXR2cWVvNkNiUnowVHNQVGRhVXZQYTF4bzZfWWFBYndnblF6eFFtWHhkYTE0SG5QVGVfVWFzWDdxSDNtSTFXUXBoTjdzems1UTBQVDlwUktGdFRzZnFMYl9Ub21ZcGNsN2ZROG40MHpDakQ0ZnVXODZXMFhPNjZPcF9CUWJ1eG9oUF8yYWIt?oc=5",
+      "source": "rainews.it",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Soci e societa'",
+      "matchedTerms": [
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-03-30T15:27:00.000Z",
+      "excerpt": "Caso Delmastro, le opposizioni \"Inconcepibile che Chiorino resti in Giunta\" rainews.it"
+    },
+    {
+      "id": "ansa.it__ansa.it__delmastro aggiorna la dichiarazione patrimoniale, c'è la cessione di '5 forchette' - ansa.it__2026-03-30T15:26:51.000Z",
+      "title": "Delmastro aggiorna la dichiarazione patrimoniale, c'è la cessione di '5 Forchette' - ansa.it",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNLVoyVk5VemhGUGRiVUM0TkRMa29TcEx1bkVQb3M0UVNCQ3ZyUzA4MnJWbkd2OHVnc256LUgtVHM2NTh0c21ONUZaZnBheEtNMHQ1WXA5a1pyYW5oVi0ybVIxZklCd3Foc1VDZTc3bWJVdVpPQ1Zqcy11UVIwcHdlOEFhSDRHRDBFNlBTQmRYcnlDQXdjSF9QWk1udlNqLTdyYVdnbllfdVRBNkFnX19yVkVnbHpLNVhwal9tNXF1eFVZMUpYNlhXTF9XZExRRmxFdmFlYWJBb3ZBWHlzUnBIdno3bWJJYWxmTTZlVTVqOFgzbVRFR0dGOW9wWW1fZkhCU1dmajBIONIBhwJBVV95cUxNLVoyVk5VemhGUGRiVUM0TkRMa29TcEx1bkVQb3M0UVNCQ3ZyUzA4MnJWbkd2OHVnc256LUgtVHM2NTh0c21ONUZaZnBheEtNMHQ1WXA5a1pyYW5oVi0ybVIxZklCd3Foc1VDZTc3bWJVdVpPQ1Zqcy11UVIwcHdlOEFhSDRHRDBFNlBTQmRYcnlDQXdjSF9QWk1udlNqLTdyYVdnbllfdVRBNkFnX19yVkVnbHpLNVhwal9tNXF1eFVZMUpYNlhXTF9XZExRRmxFdmFlYWJBb3ZBWHlzUnBIdno3bWJJYWxmTTZlVTVqOFgzbVRFR0dGOW9wWW1fZkhCU1dmajBIOA?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2962,7 +3221,7 @@
         "bisteccheria"
       ],
       "publishedAt": "2026-03-30T15:26:51.000Z",
-      "excerpt": "Delmastro aggiorna la dichiarazione patrimoniale, c'è la cessione di '5 Forchette' ANSA"
+      "excerpt": "Delmastro aggiorna la dichiarazione patrimoniale, c'è la cessione di '5 Forchette' ansa.it"
     },
     {
       "id": "corriere.it__corriere roma__delmastro rischia la «censura»: mercoledì il voto del comitato etico di montecitorio sulla sua condotta. e intanto lui aggiorna la sua dichiarazione patrimoniale - corriere roma__2026-03-30T15:26:05.000Z",
@@ -3017,6 +3276,28 @@
       "excerpt": "I Caroccia indagati per riciclaggio e intestazione fittizia di beni per conto del clan Senese RaiNews"
     },
     {
+      "id": "rainews.it__rainews.it__i caroccia indagati per riciclaggio e intestazione fittizia di beni per conto del clan senese - rainews.it__2026-03-30T14:34:08.000Z",
+      "title": "I Caroccia indagati per riciclaggio e intestazione fittizia di beni per conto del clan Senese - rainews.it",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOLVR3ZHZ2VXRER2tRUFp4SjlOOGhuSS1fUG5pbG1ONzg2VlN6VGtEQ0pZT0ZnRG5kWE1YTkNTUUF3UDJ2UkN5aHVWMVd0S0JrNXVyTDdaTU8yUDFiN1d1TTFpNUhFNWdIRlZZb2w0cmNfdzVHNUxaYjREaXFnRU9kb0tEUVc4anAxeU1YeWZzMmdxRkFyWUY2WjM3LUUwNnZZT1Z1ZHVjQ005SzcwNUNnMHNmRTYxTDlEMUtHaFowQ0lrdXQteGNyTTQwWGlBdWpkd1FGNUhxQjhKSkpQZm1pMWpmeDZWcTcxbzRjYmZiRVhad1dwVTBxTlBobWZrNmRoMGtWaUlud0hSYjZfUG5QMlJBQdIBmAJBVV95cUxPclZySW96ekhfeVI4ZkdUV1VhbFlDenNRVFBCS1NnaUNFUUpFajM4SWx6SURSNXBWSXp3ZUZ2c1N3UU5lN25neFFDdkx5OWNRN1Z4TmNWS2xORmJjZWc0YmZLQjV3R3ctVEVGTDl6SEwwaHJCZjR2RkN6bll3UE9yYzdMZWxQRU9QbWV5di1odjRJb2w2ODhkd1M1ME9EVGVUdmx3Tm1WS2dUajllSmExZUM1YWZsS1dTY1Z1N1EybldYa2o2RkExUlhuTkdVQ1BIamNyZmx6V0k3YUxMMU42WVRfVkdaSDRNdG45Y1hWMWoxSzNHR0VqRjNoSVNlSzFqcnVlWGRQUi1FOGdzRHNkMEVOWmo2elNT?oc=5",
+      "source": "rainews.it",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Soci e societa'",
+      "matchedTerms": [
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl"
+      ],
+      "tags": [
+        "giudiziaria",
+        "societa'"
+      ],
+      "publishedAt": "2026-03-30T14:34:08.000Z",
+      "excerpt": "I Caroccia indagati per riciclaggio e intestazione fittizia di beni per conto del clan Senese rainews.it"
+    },
+    {
       "id": "open.online__open__«caroccia spiegherà ai pm quando e come ha conosciuto delmastro», l'avvocato del ristoratore a open - open__2026-03-30T14:11:25.000Z",
       "title": "«Caroccia spiegherà ai pm quando e come ha conosciuto Delmastro», l'avvocato del ristoratore a Open - Open",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSndELWpOQzNHX1RmYzNEQ0tZN1RKd045TzdSQmZCR3NiWWY0MExjRlFVNlVORVNubUFzRkVPYlRrVnIyREF1N1B1aGFFWkRnVmZaaUNfbTZheVB2bExPRW94NnBhZC1zV2toMGtTWEE0b3FnQ3NnR25CQm1QdEtfTEpxU2JtSHpyZE4wT1Byb1ZUb0pv?oc=5",
@@ -3051,10 +3332,10 @@
       "excerpt": "Ipotesi di riciclaggio dei soldi del clan Senese per la società di cui faceva parte Delmastro HuffPost Italia"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro, l’ex sottosegretario sarà sentito dalla commissione antimafia - il fatto quotidiano__2026-03-30T13:48:48.000Z",
-      "title": "Caso Delmastro, l’ex sottosegretario sarà sentito dalla commissione Antimafia - Il Fatto Quotidiano",
+      "id": "ilfattoquotidiano.it__ilfattoquotidiano.it__caso delmastro, l’ex sottosegretario sarà sentito dalla commissione antimafia - ilfattoquotidiano.it__2026-03-30T13:48:48.000Z",
+      "title": "Caso Delmastro, l’ex sottosegretario sarà sentito dalla commissione Antimafia - ilfattoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORktTaFplZ2dmUmtsM1BPRUxzYzA3REVFclZfRjQ1dGFqYjZYMkszbHJpRUJMVV9rTlZYblJ0dHlLMkl2Vl90WUlkVnliVmdhY1ZxMFE1Nk1FcUdyZnJvR1lVbEs3WUFEQzlUS3MzdUFKTlF0V28tYjVrQTZiRmpXcHoxTF81TUlDU2ZaZWdvY00xeEFPRkkwU1lZcTZDZw?oc=5",
-      "source": "Il Fatto Quotidiano",
+      "source": "ilfattoquotidiano.it",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -3066,7 +3347,7 @@
         "giudiziaria"
       ],
       "publishedAt": "2026-03-30T13:48:48.000Z",
-      "excerpt": "Caso Delmastro, l’ex sottosegretario sarà sentito dalla commissione Antimafia Il Fatto Quotidiano"
+      "excerpt": "Caso Delmastro, l’ex sottosegretario sarà sentito dalla commissione Antimafia ilfattoquotidiano.it"
     },
     {
       "id": "corriere.it__corriere roma__caso delmastro, indagine sulle società della famiglia caroccia: «così reinvestivano i soldi del clan senese nel locale bisteccheria d'italia» - corriere roma__2026-03-30T13:13:09.000Z",
@@ -3248,10 +3529,10 @@
       "excerpt": "Caso Delmastro, indagine società Caroccia: 'Usati soldi clan Senese' Sky TG24"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__luciana littizzetto \"intercetta\" le lettere di meloni a delmastro e santanché: \"persone incappate in trascurabili momenti di illegalità. non sono arrabbiata per la sconfitta, sono incazzata nera\" - il fatto quotidiano__2026-03-30T11:34:24.000Z",
-      "title": "Luciana Littizzetto \"intercetta\" le lettere di Meloni a Delmastro e Santanché: \"Persone incappate in trascurabili momenti di illegalità. Non sono arrabbiata per la sconfitta, sono incazzata nera\" - Il Fatto Quotidiano",
+      "id": "ilfattoquotidiano.it__ilfattoquotidiano.it__luciana littizzetto \"intercetta\" le lettere di meloni a delmastro e santanché: \"persone incappate in trascurabili momenti di illegalità. non sono arrabbiata per la sconfitta, sono incazzata nera\" - ilfattoquotidiano.it__2026-03-30T11:34:24.000Z",
+      "title": "Luciana Littizzetto \"intercetta\" le lettere di Meloni a Delmastro e Santanché: \"Persone incappate in trascurabili momenti di illegalità. Non sono arrabbiata per la sconfitta, sono incazzata nera\" - ilfattoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNOTdWbkNCbnN6YlBpb0RTSU10MFZ3bFNlVi1SN005TktiREtYWkJ3OXlkY1pPanpNNTJjZ3RCR1U3bDdQaUxsQWpVWXJGandiQ1JzOHE3V2VUNWFSWEtNbDNBWWc5ZzJzbmxEN2lpaXBaam50MHRzb0l0YmNIUE9CRlU1dnU3Qm9qdEdBN081VFhDZnVFS0RGWllTXzBacmxhNGhUM04xQkItTTdBX1B0c1JpU29UaXBQTWI0X3IwbENrNkZycmtDV29tcUZ6bE9yakJ5RlJMZ2hTbnh5c3NvQ3piaTRBaDNsclN0WElxQXlFTmFRWXFwalZubEVlWVhrZnNRV2ppZUlOTjdQR05aa080WkRORDFKenVzWmtJZWtnMmJqSTEteTFEdkg1QldZNll5cnpWbUZ1YnNtYzhYbmJfeWJ2WjM5b0RXVUdRV0FLZkxLd0wzU1lvUjZIUQ?oc=5",
-      "source": "Il Fatto Quotidiano",
+      "source": "ilfattoquotidiano.it",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -3262,7 +3543,7 @@
         "altro"
       ],
       "publishedAt": "2026-03-30T11:34:24.000Z",
-      "excerpt": "Luciana Littizzetto \"intercetta\" le lettere di Meloni a Delmastro e Santanché: \"Persone incappate in trascurabili momenti di illegalità. Non sono arrabbiata per la sconfitta, sono incazzata nera\" Il Fatto Quotidiano"
+      "excerpt": "Luciana Littizzetto \"intercetta\" le lettere di Meloni a Delmastro e Santanché: \"Persone incappate in trascurabili momenti di illegalità. Non sono arrabbiata per la sconfitta, sono incazzata nera\" ilfattoquotidiano.it"
     },
     {
       "id": "adnkronos.com__adnkronos__roma, indagine su società famiglia caroccia: in settimana primi interrogatori - adnkronos__2026-03-30T10:59:00.000Z",
@@ -3300,10 +3581,10 @@
       "excerpt": "Caso Delmastro, la Bisteccheria d’Italia dei Caroccia “riciclava soldi del clan Senese” la Repubblica"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro e il caso bisteccheria, “mauro e miriam caroccia hanno reinvestito nel ristorante i soldi del clan senese” - il fatto quotidiano__2026-03-30T10:08:53.000Z",
-      "title": "Delmastro e il caso bisteccheria, “Mauro e Miriam Caroccia hanno reinvestito nel ristorante i soldi del clan Senese” - Il Fatto Quotidiano",
+      "id": "ilfattoquotidiano.it__ilfattoquotidiano.it__delmastro e il caso bisteccheria, “mauro e miriam caroccia hanno reinvestito nel ristorante i soldi del clan senese” - ilfattoquotidiano.it__2026-03-30T10:08:53.000Z",
+      "title": "Delmastro e il caso bisteccheria, “Mauro e Miriam Caroccia hanno reinvestito nel ristorante i soldi del clan Senese” - ilfattoquotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb2ozc0Zlbnp5QnNkMWUyRXdiU1haWFFMWkhQbHI3ckQzWUliR2o0WlBuaTRTV21KLVFNZ3RzSWNnYzVGOHhCLWRNbkFiYTh2SHB4TjNUUlFEekNFa0tyZzl4RTNGWDZWQjNEM2dLUUdHZXI1OXd5XzhfdkxPWEctOWRBUmRDU1VwZTBNdVJzQnRKMVFQLUR3WXRTWlIyZUJpTGxaNkd0Vk9Qam5KbDVpbkRR?oc=5",
-      "source": "Il Fatto Quotidiano",
+      "source": "ilfattoquotidiano.it",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -3314,7 +3595,7 @@
         "bisteccheria"
       ],
       "publishedAt": "2026-03-30T10:08:53.000Z",
-      "excerpt": "Delmastro e il caso bisteccheria, “Mauro e Miriam Caroccia hanno reinvestito nel ristorante i soldi del clan Senese” Il Fatto Quotidiano"
+      "excerpt": "Delmastro e il caso bisteccheria, “Mauro e Miriam Caroccia hanno reinvestito nel ristorante i soldi del clan Senese” ilfattoquotidiano.it"
     },
     {
       "id": "lastampa.it__la stampa__caso delmastro, indagini sulla famiglia caroccia: “nella bisteccheria si riciclava il denaro del clan senese” - la stampa__2026-03-30T09:54:00.000Z",

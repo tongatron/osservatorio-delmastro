@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T23:30:09.421Z",
+  "generatedAt": "2026-04-06T00:00:08.214Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -91,8 +91,8 @@
     ]
   },
   "window": {
-    "from": "2026-03-28T23:30:09.421Z",
-    "to": "2026-04-05T23:30:09.421Z",
+    "from": "2026-03-29T00:00:08.214Z",
+    "to": "2026-04-06T00:00:08.214Z",
     "days": 8
   },
   "sources": [
@@ -184,28 +184,28 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 328,
+      "fetchedArticles": 327,
       "uniqueArticles": 162
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 104,
+      "fetchedArticles": 103,
       "uniqueArticles": 6
     },
     {
-      "label": "Filone giudiziario",
-      "fetchedArticles": 94,
-      "uniqueArticles": 5
+      "label": "Soci e societa'",
+      "fetchedArticles": 137,
+      "uniqueArticles": 4
     },
     {
-      "label": "Soci e societa'",
-      "fetchedArticles": 133,
-      "uniqueArticles": 2
+      "label": "Filone giudiziario",
+      "fetchedArticles": 93,
+      "uniqueArticles": 4
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 75,
-      "uniqueArticles": 2
+      "fetchedArticles": 73,
+      "uniqueArticles": 1
     },
     {
       "label": "Territorio",
@@ -1189,6 +1189,26 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWXA5cW5XY1VLMTVVZFcyT2xCWjZVV0VkRHZ1bUtmWmZnNDdMaHAwYUo3ck5yVnJsajA3MGE1NzlnOG9QZ01LVnBFYmhZeWw3YkZMX2NWc1NlTnhGMHdJcXZUZXhBcGVkU1RHOXJOYk9mZzJPX2ViYzNxWG5HUkc5VDB3Z1Fuc2dQZ1ZqMkZFalFwOHpINm9NTmdQRVFMQjVlYUFydE83SFJHczFmTGVpcVFCNUR4bHlCSW5jSkZwdmNxQ3BRTFdweUNXVzhOS0ZBRzFIWjNlVHAzODVkV0NNT1NvcjVfZFlPa1pLNDJkb9IB7wFBVV95cUxNWXA5cW5XY1VLMTVVZFcyT2xCWjZVV0VkRHZ1bUtmWmZnNDdMaHAwYUo3ck5yVnJsajA3MGE1NzlnOG9QZ01LVnBFYmhZeWw3YkZMX2NWc1NlTnhGMHdJcXZUZXhBcGVkU1RHOXJOYk9mZzJPX2ViYzNxWG5HUkc5VDB3Z1Fuc2dQZ1ZqMkZFalFwOHpINm9NTmdQRVFMQjVlYUFydE83SFJHczFmTGVpcVFCNUR4bHlCSW5jSkZwdmNxQ3BRTFdweUNXVzhOS0ZBRzFIWjNlVHAzODVkV0NNT1NvcjVfZFlPa1pLNDJkbw?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-04-01T11:29:10.000Z",
+      "excerpt": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita'",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ansa.it__ansa__difensore caroccia soldi messi delmastro tutto tracciato__2026-04-01T11:02:59.000Z",
+      "title": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato'",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTWxlVlY3aG1WZkNCNnRRMEY4YnA0VWZWTTIwMktHOGJZcmhDSmhScEZ0MGJNQ2FpOVRfT2h4TkNlQmRsOXBrNnJKUXBsQzJJdDJla3JhNEV0NldZVmR6Y1hVU2lKREM3OG51ay1nRFRtclRjQ3VYUEdnSUtJWDlXV180WXI5UFNsVmMweE1LaXhMZXJXeWVFX2xhT2ZJeDdmVE56cFRhQjQwR1NxSDRhM0ZSMDdRY1BETTU0Y2Q5MXZjdDU3UnJiRFgwRVJaak44OVowUE5rZFZBdWQ2Qmo5OWRqUnI5b3fSAecBQVVfeXFMTU1sZVZWN2htVmZDQjZ0UTBGOGJwNFVmVk0yMDJLRzhiWXJoQ0poUnBGdDBiTUNhaTlUX09oeE5DZUJkbDlwazZySlFwbEMySXQyZWtyYTRFdDZXWVZkemNYVVNpSkRDNzhudWstZ0RUbXJUY0N1WFBHZ0lLSVg5V1dfNFlyOVBTbFZjMHhNS2l4TGVyV3llRV9sYU9mSXg3ZlROenBUYUI0MEdTcUg0YTNGUjA3UWNQRE01NGNkOTF2Y3Q1N1JyYkRYMEVSWmpOODlaMFBOa2RWQXVkNkJqOTlkalJyOW93?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTWxlVlY3aG1WZkNCNnRRMEY4YnA0VWZWTTIwMktHOGJZcmhDSmhScEZ0MGJNQ2FpOVRfT2h4TkNlQmRsOXBrNnJKUXBsQzJJdDJla3JhNEV0NldZVmR6Y1hVU2lKREM3OG51ay1nRFRtclRjQ3VYUEdnSUtJWDlXV180WXI5UFNsVmMweE1LaXhMZXJXeWVFX2xhT2ZJeDdmVE56cFRhQjQwR1NxSDRhM0ZSMDdRY1BETTU0Y2Q5MXZjdDU3UnJiRFgwRVJaak44OVowUE5rZFZBdWQ2Qmo5OWRqUnI5b3fSAecBQVVfeXFMTU1sZVZWN2htVmZDQjZ0UTBGOGJwNFVmVk0yMDJLRzhiWXJoQ0poUnBGdDBiTUNhaTlUX09oeE5DZUJkbDlwazZySlFwbEMySXQyZWtyYTRFdDZXWVZkemNYVVNpSkRDNzhudWstZ0RUbXJUY0N1WFBHZ0lLSVg5V1dfNFlyOVBTbFZjMHhNS2l4TGVyV3llRV9sYU9mSXg3ZlROenBUYUI0MEdTcUg0YTNGUjA3UWNQRE01NGNkOTF2Y3Q1N1JyYkRYMEVSWmpOODlaMFBOa2RWQXVkNkJqOTlkalJyOW93?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
       "queryLabel": "Filone giudiziario",
       "matchedTerms": [
         "intestazione fittizia di beni",
@@ -1197,10 +1217,10 @@
         "pm Torino"
       ],
       "tags": [
-        "giudiziaria"
+        "altro"
       ],
-      "publishedAt": "2026-04-01T11:29:10.000Z",
-      "excerpt": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita'",
+      "publishedAt": "2026-04-01T11:02:59.000Z",
+      "excerpt": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato'",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1243,28 +1263,6 @@
       ],
       "publishedAt": "2026-04-01T10:51:17.000Z",
       "excerpt": "Caso Delmastro, blitz a Biella: le strade rinominate con le vittime della mafia",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ansa.it__ansa__difensore caroccia soldi messi delmastro tutto tracciato__2026-04-01T10:50:48.000Z",
-      "title": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato'",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOFFPS1RPUXp3eXJ6c0lkX1FLMUdhd2p0Z0JRZ254cXVJTm1HbE5IWE05dzFxM1hTZDRKdDZEZlppd1pCRnZiODFoWUVRVl9CU29oWlFBYVM5dUs0bFN4dzJ2Nm9HVDN6SExKMzlkenliTzVzVW41d0xIVWxsMEFJRXV0V2tPT3dzMU91X09MancxQnJjM0otb3FYX3JuVzdURmdlM29FdzFBajZ5YXRFSFpfV2xweVVSY3lFR21zaExpaU1NY3NNVUNhQWIzTllMeERaaGt1OXF2VElCbFhRMmo3RUNTeTZxa05wbTY5SzjSAfABQVVfeXFMUDhRT0tUT1F6d3lyenNJZF9RSzFHYXdqdGdCUWdueHF1SU5tR2xOSFhNOXcxcTNYU2Q0SnQ2RGZaaXdaQkZ2YjgxaFlFUVZfQlNvaFpRQWFTOXVLNGxTeHcydjZvR1QzekhMSjM5ZHp5Yk81c1VuNXdMSFVsbDBBSUV1dFdrT093czFPdV9PTGp3MUJyYzNKLW9xWF9yblc3VEZnZTNvRXcxQWo2eWF0RUhaX1dscHlVUmN5RUdtc2hMaWlNTWNzTVVDYUFiM05ZTHhEWmhrdTlxdlRJQmxYUTJqN0VDU3k2cWtOcG02OUs4?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOFFPS1RPUXp3eXJ6c0lkX1FLMUdhd2p0Z0JRZ254cXVJTm1HbE5IWE05dzFxM1hTZDRKdDZEZlppd1pCRnZiODFoWUVRVl9CU29oWlFBYVM5dUs0bFN4dzJ2Nm9HVDN6SExKMzlkenliTzVzVW41d0xIVWxsMEFJRXV0V2tPT3dzMU91X09MancxQnJjM0otb3FYX3JuVzdURmdlM29FdzFBajZ5YXRFSFpfV2xweVVSY3lFR21zaExpaU1NY3NNVUNhQWIzTllMeERaaGt1OXF2VElCbFhRMmo3RUNTeTZxa05wbTY5SzjSAfABQVVfeXFMUDhRT0tUT1F6d3lyenNJZF9RSzFHYXdqdGdCUWdueHF1SU5tR2xOSFhNOXcxcTNYU2Q0SnQ2RGZaaXdaQkZ2YjgxaFlFUVZfQlNvaFpRQWFTOXVLNGxTeHcydjZvR1QzekhMSjM5ZHp5Yk81c1VuNXdMSFVsbDBBSUV1dFdrT093czFPdV9PTGp3MUJyYzNKLW9xWF9yblc3VEZnZTNvRXcxQWo2eWF0RUhaX1dscHlVUmN5RUdtc2hMaWlNTWNzTVVDYUFiM05ZTHhEWmhrdTlxdlRJQmxYUTJqN0VDU3k2cWtOcG02OUs4?oc=5",
-      "source": "ANSA",
-      "sourceHost": "ansa.it",
-      "queryLabel": "Filone giudiziario",
-      "matchedTerms": [
-        "intestazione fittizia di beni",
-        "antimafia",
-        "indagine Delmastro",
-        "pm Torino"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-01T10:50:48.000Z",
-      "excerpt": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato'",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2721,11 +2719,14 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ2E4N05PUm9ucmRreEJ5Q0owczNKUDVkMzMtbFA2dHhMNXJfZS1zNUNTZzc3TXZvTy1LZ0JyRXlFNGxMLVRXSzBrSHhyeGpQRXVMWGlKeWFRYUI1aWZDdFRYc1hCaUtZNW1DWXhsRFY4d0FIazFWdC15ZWJpVi1ycEVXUkZNcnBYMlU1M1lMTlhMTWxfMmlWLWg0MU8wUWtpSVZuN1NpZVpJZGxxZDdockg0Z3ozWHktSTFwMXhmcF9TVXIzM1hpRlotVE9sQQ?oc=5",
       "source": "Quotidiano Nazionale",
       "sourceHost": "quotidiano.net",
-      "queryLabel": "Persone collegate",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Elena Chiorino",
+        "Caroccia",
         "Cristiano Franceschini",
-        "Davide Zappalà"
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl"
       ],
       "tags": [
         "territorio"
@@ -3451,8 +3452,8 @@
     {
       "id": "tg24.sky.it__sky tg24__caso delmastro indagine societa caroccia usati soldi clan senese__2026-03-30T11:44:34.000Z",
       "title": "Caso Delmastro, indagine società Caroccia: 'Usati soldi clan Senese'",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0hSMlpJMEl6Q2J2NGhTUFg2S1oxZEJhWjVNd2RObEdTUExmVXBWYmZkNXhWNGRpVlNseWo3TjJjTGtxQ0FfWHo5U2hYbVd2eUpCb2p2NzlJUFJXVFBwQkVRYWIya2tXY0duRHAzQTJTWHdCbnRIX0JDbnh0MzNxV3RudmtscHM?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0hSMlpJMEl6Q2J2NGhTUFg2S1oxZEJhWjVNd2RObEdTUExmVXBWYmZkNXhWNGRpVlNseWo3TjJjTGtxQ0FfWHo5U2hYbVd2eUpCb2p2NzlJUFJXVFBwQkVRYWIya2tXY0duRHAzQTJTWHdCbnRIX0JDbnh0MzNxV3RudmtscHM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeGxWSERXb1dMSFdkbjFVejc2bjF3LUM5VVJjSzdRUV9pZnNCU0FpSmhWWEwtbFBxZmhwdWNic3dCa1NKODhZVF9uTVdfSkVEMlhDUUNqMVVjS3djZUhPSHJCazhBUTA3RW1jdDFlYjZoNGNqTVZLUDFxWkllckpKOHVR?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeGxWSERXb1dMSFdkbjFVejc2bjF3LUM5VVJjSzdRUV9pZnNCU0FpSmhWWEwtbFBxZmhwdWNic3dCa1NKODhZVF9uTVdfSkVEMlhDUUNqMVVjS3djZUhPSHJCazhBUTA3RW1jdDFlYjZoNGNqTVZLUDFxWkllckpKOHVR?oc=5",
       "source": "Sky TG24",
       "sourceHost": "tg24.sky.it",
       "queryLabel": "Delmastro generale",

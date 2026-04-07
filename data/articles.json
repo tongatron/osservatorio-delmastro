@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T10:00:09.042Z",
+  "generatedAt": "2026-04-07T10:30:07.261Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -91,18 +91,14 @@
     ]
   },
   "window": {
-    "from": "2026-03-30T10:00:09.042Z",
-    "to": "2026-04-07T10:00:09.042Z",
+    "from": "2026-03-30T10:30:07.261Z",
+    "to": "2026-04-07T10:30:07.261Z",
     "days": 8
   },
   "sources": [
     {
       "label": "repubblica.it",
-      "articleCount": 22
-    },
-    {
-      "label": "ilfattoquotidiano.it",
-      "articleCount": 15
+      "articleCount": 21
     },
     {
       "label": "lastampa.it",
@@ -111,6 +107,10 @@
     {
       "label": "rainews.it",
       "articleCount": 15
+    },
+    {
+      "label": "ilfattoquotidiano.it",
+      "articleCount": 14
     },
     {
       "label": "ansa.it",
@@ -184,28 +184,28 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 286,
-      "uniqueArticles": 142
+      "fetchedArticles": 280,
+      "uniqueArticles": 139
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 91,
-      "uniqueArticles": 6
+      "fetchedArticles": 90,
+      "uniqueArticles": 7
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 69,
+      "fetchedArticles": 68,
       "uniqueArticles": 4
     },
     {
-      "label": "Filone giudiziario",
-      "fetchedArticles": 84,
+      "label": "Soci e societa'",
+      "fetchedArticles": 111,
       "uniqueArticles": 2
     },
     {
-      "label": "Soci e societa'",
-      "fetchedArticles": 112,
-      "uniqueArticles": 1
+      "label": "Filone giudiziario",
+      "fetchedArticles": 83,
+      "uniqueArticles": 2
     },
     {
       "label": "Territorio",
@@ -228,7 +228,7 @@
     },
     {
       "tag": "bisteccheria",
-      "count": 37
+      "count": 35
     },
     {
       "tag": "politica",
@@ -242,7 +242,7 @@
   "timeline": [
     {
       "date": "2026-03-30",
-      "count": 52
+      "count": 50
     },
     {
       "date": "2026-03-31",
@@ -520,11 +520,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__lastampa.it__versione caroccia delmastro benefattore senese clienti 30 anni__2026-04-02T06:04:00.000Z",
+      "id": "lastampa.it__la stampa__versione caroccia delmastro benefattore senese clienti 30 anni__2026-04-02T06:04:00.000Z",
       "title": "La versione dei Caroccia: “Delmastro? Un benefattore. I Senese clienti da 30 anni”",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUGFMUkVoY0lmOE5pUXZVbDdQR1paaG5HMDdiM19EY1lwR2pzVkZJRHdjRTFic3V0T3NVNlBBZTVMdllIdTk4QWRBaWdZb2xUcmNPbWF0cGhBRVZqRkJPZ2NXN251emNIWU9yMU16cTZNNWM0SXlIcmxnZ3RFdVNrVGxScWlnUzl2a0RUYWk1V0NsaFBfS3dYMWpxUmQ5UzlXX1hKa1hLNWNqUVVxTTR5R3RBX1QwWUN0WjFSTkswdnVSLW5ub0VmaHMzdXo1bVAz0gHWAUFVX3lxTE5IQXJaWWlLcUtFOWRJa1ZFWS1KMlF6NUllWGMtSnlldDlSUm9YLXkxd3ZZUUZRb2t6SnBBeElQaFpMMWxiTHJKS0dNX1hvYmlXRDlRTG1oQUFYaVNSM3NvN21mYVFya3FuQW9qaXVaOHYwemJ0RzVLM1NucHZhMVZhWEZMVzdmTTRBdmkxYjlQSzRnUGFVcW94enpVSzJnSTRmTEtGekpCTEM0LUw3NHc0U1hmanF3ZnRlaWpyTXBiX2g5bjlTNW1NdVYwbWJFMWtRcHdSOFE?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUGFMUkVoY0lmOE5pUXZVbDdQR1paaG5HMDdiM19EY1lwR2pzVkZJRHdjRTFic3V0T3NVNlBBZTVMdllIdTk4QWRBaWdZb2xUcmNPbWF0cGhBRVZqRkJPZ2NXN251emNIWU9yMU16cTZNNWM0SXlIcmxnZ3RFdVNrVGxScWlnUzl2a0RUYWk1V0NsaFBfS3dYMWpxUmQ5UzlXX1hKa1hLNWNqUVVxTTR5R3RBX1QwWUN0WjFSTkswdnVSLW5ub0VmaHMzdXo1bVAz0gHWAUFVX3lxTE5IQXJaWWlLcUtFOWRJa1ZFWS1KMlF6NUllWGMtSnlldDlSUm9YLXkxd3ZZUUZRb2t6SnBBeElQaFpMMWxiTHJKS0dNX1hvYmlXRDlRTG1oQUFYaVNSM3NvN21mYVFya3FuQW9qaXVaOHYwemJ0RzVLM1NucHZhMVZhWEZMVzdmTTRBdmkxYjlQSzRnUGFVcW94enpVSzJnSTRmTEtGekpCTEM0LUw3NHc0U1hmanF3ZnRlaWpyTXBiX2g5bjlTNW1NdVYwbWJFMWtRcHdSOFE?oc=5",
-      "source": "lastampa.it",
+      "source": "La Stampa",
       "sourceHost": "lastampa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -560,11 +560,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__lastampa.it__caso delmastro paraggio collezione incarichi assomed l asl chiarisca sulla sua nomina__2026-04-02T03:00:00.000Z",
+      "id": "lastampa.it__la stampa__caso delmastro paraggio collezione incarichi assomed l asl chiarisca sulla sua nomina__2026-04-02T03:00:00.000Z",
       "title": "Caso Delmastro, Paraggio e la collezione di incarichi. Assomed: “L’Asl chiarisca sulla sua nomina”",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRkd6NGRacUVKYU9maVFNX1pRX1V3bldfUW5hQ3hKNTVqTGU5bU9TclN3cmJKX3Jjb2dhb2E3czRNNzI5Ui1rTUxrb0lsQ2lVdWVuYklKbVJ3ZVlqc3Q5MlcwWktEMFVDZjlHSzQzVzZodW00dVU0UzRRWXRic250VjcxdkFXWW1FOXNjeVRTRVlrSThPMWo0ejBTcjhGRE45YnBNVWtoZFRreGJpekVzYWxtUDZKVmVuTUJHb3lPQWE0ZGRzT2g1aWJ0VlJDMzUzWDNhRjFaMWFwbnRyYVpoT2pJRUPSAeoBQVVfeXFMT0FVdjBmRVVVZ3hNSmtEX2VWbGZHWDBVdzh4U1R1VWx2bmVzSjJuU3hsTGdKc09oWG5QeUpvSUgweVRuRk1aUE1QQ1RIOVFyNExjLVg1YnZNZUUxcGxJTTJCS0J1NTdvbHE2WVRtSlpfY3BPWXJaWTFtMlJZbl9heVRCaXA1UEZGMGJIdzR5d3VIbnMyWkNWbDRnNGZXT015N1FiZ29SZDBGclFkSUYxQ1F6dG9DQUVGZ3dyUWJQR1dsY1REOFVBRy1EQTgwNHJ6QkdwVThQSnhrNlNqRUU4YUVNS0JXSlN5MDJn?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRkd6NGRacUVKYU9maVFNX1pRX1V3bldfUW5hQ3hKNTVqTGU5bU9TclN3cmJKX3Jjb2dhb2E3czRNNzI5Ui1rTUxrb0lsQ2lVdWVuYklKbVJ3ZVlqc3Q5MlcwWktEMFVDZjlHSzQzVzZodW00dVU0UzRRWXRic250VjcxdkFXWW1FOXNjeVRTRVlrSThPMWo0ejBTcjhGRE45YnBNVWtoZFRreGJpekVzYWxtUDZKVmVuTUJHb3lPQWE0ZGRzT2g1aWJ0VlJDMzUzWDNhRjFaMWFwbnRyYVpoT2pJRUPSAeoBQVVfeXFMT0FVdjBmRVVVZ3hNSmtEX2VWbGZHWDBVdzh4U1R1VWx2bmVzSjJuU3hsTGdKc09oWG5QeUpvSUgweVRuRk1aUE1QQ1RIOVFyNExjLVg1YnZNZUUxcGxJTTJCS0J1NTdvbHE2WVRtSlpfY3BPWXJaWTFtMlJZbl9heVRCaXA1UEZGMGJIdzR5d3VIbnMyWkNWbDRnNGZXT015N1FiZ29SZDBGclFkSUYxQ1F6dG9DQUVGZ3dyUWJQR1dsY1REOFVBRy1EQTgwNHJ6QkdwVThQSnhrNlNqRUU4YUVNS0JXSlN5MDJn?oc=5",
-      "source": "lastampa.it",
+      "source": "La Stampa",
       "sourceHost": "lastampa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -841,11 +841,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__lastampa.it__caso delmastro legale caroccia fu l unico tendergli mano__2026-04-01T15:13:00.000Z",
+      "id": "lastampa.it__la stampa__caso delmastro legale caroccia fu l unico tendergli mano__2026-04-01T15:13:00.000Z",
       "title": "Caso Delmastro, legale Caroccia: \"Fu l'unico a tendergli una mano\"",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaV9hOXZHR1c4UGw1Tm42OHluV2Zoa3FvR1JLMThKd2NDaDdqZGNKRkxZQl9rTHpTMG5hX0F2bzZVNVFjMzJ3QjItOXdBdlFSU0V6dkVTSG4tSlE4akxlUUdjTS0xaXlReXR0bTlORXNGekhmQUktZ0FWd1ZVRjRaNW0yQUszR1hDanc3LThmZ3FGZDYtWFhsQlMxbHY2akhtTEdGNHByQlZIZGpnVEplaHhQTVhIQjFvOVdxUQ?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaV9hOXZHR1c4UGw1Tm42OHluV2Zoa3FvR1JLMThKd2NDaDdqZGNKRkxZQl9rTHpTMG5hX0F2bzZVNVFjMzJ3QjItOXdBdlFSU0V6dkVTSG4tSlE4akxlUUdjTS0xaXlReXR0bTlORXNGekhmQUktZ0FWd1ZVRjRaNW0yQUszR1hDanc3LThmZ3FGZDYtWFhsQlMxbHY2akhtTEdGNHByQlZIZGpnVEplaHhQTVhIQjFvOVdxUQ?oc=5",
-      "source": "lastampa.it",
+      "source": "La Stampa",
       "sourceHost": "lastampa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1041,11 +1041,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__lastampa.it__caso delmastro nomi vittime mafia davanti sedi forza italia fdi lega biella__2026-04-01T12:21:00.000Z",
+      "id": "lastampa.it__la stampa__caso delmastro nomi vittime mafia davanti sedi forza italia fdi lega biella__2026-04-01T12:21:00.000Z",
       "title": "Caso Delmastro, i nomi delle vittime di mafia davanti alle sedi di Forza Italia, FdI e Lega a Biella",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOeDJHUW04NWpxb1ZIam5OWW1sRGFyR1ZwZ2o1OWVGd2Y4SEQ2eGE3YWY1YnZ0N1lEbVpuSmJqd2ZXZzRhY2QwQktPWGwtMldJb2lJZmtoaVo1Yml6LVVOMk5hNDYwZGNKV2lKR0pjdkh4ZkZnTnZ5dndVU3RObHNIM0RPaS1FeXpkczFwclZqV2NnbnZOekhUWi0zeGFaalBJbEdVbF9Hd2NJeTZ1NWIzb3RhenNNeVhSNnViS0ZXR1haR2ljN19Pcjg3azBaZmFSU3ZTa2tIYWpFaW1NTmxvYVVBWkFZbFFRek93V2VwY3VrUVNPbDZMVUdDQTNSejBzbWduY0xmZ9IBjAJBVV95cUxNbTM0LVhNOW9xZUxLX1lFcEhSZW8zR2xqS21RUTIwZk1aNG11dkZvQmwzUy1rbGo1MkpEREc2NThDdF9RU2cwdll2WlJWcnNWZVpfU2daNkhHQTh3UjE3WFk3RUhxeE9WYTJGMlVPRjZpdkxMelZZSEFkM292N24wWVRJRmRZZERidVB0OC1pMmMzV0JST25LN08xdUNwYWp5SGhzVk5JOVFXTE14YndqRV9BTTFpRnczY1BHU1dEY0RtdjZ2bFdSVUtkVXpab0FndEdNUGdEODNaX0xnNHVWQmtDRnFmX2JTWEZzM29rcEcxd2tPaG00SDVUcDJ1UE5XRFFwb2cxU0M0OGds?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOeDJHUW04NWpxb1ZIam5OWW1sRGFyR1ZwZ2o1OWVGd2Y4SEQ2eGE3YWY1YnZ0N1lEbVpuSmJqd2ZXZzRhY2QwQktPWGwtMldJb2lJZmtoaVo1Yml6LVVOMk5hNDYwZGNKV2lKR0pjdkh4ZkZnTnZ5dndVU3RObHNIM0RPaS1FeXpkczFwclZqV2NnbnZOekhUWi0zeGFaalBJbEdVbF9Hd2NJeTZ1NWIzb3RhenNNeVhSNnViS0ZXR1haR2ljN19Pcjg3azBaZmFSU3ZTa2tIYWpFaW1NTmxvYVVBWkFZbFFRek93V2VwY3VrUVNPbDZMVUdDQTNSejBzbWduY0xmZ9IBjAJBVV95cUxNbTM0LVhNOW9xZUxLX1lFcEhSZW8zR2xqS21RUTIwZk1aNG11dkZvQmwzUy1rbGo1MkpEREc2NThDdF9RU2cwdll2WlJWcnNWZVpfU2daNkhHQTh3UjE3WFk3RUhxeE9WYTJGMlVPRjZpdkxMelZZSEFkM292N24wWVRJRmRZZERidVB0OC1pMmMzV0JST25LN08xdUNwYWp5SGhzVk5JOVFXTE14YndqRV9BTTFpRnczY1BHU1dEY0RtdjZ2bFdSVUtkVXpab0FndEdNUGdEODNaX0xnNHVWQmtDRnFmX2JTWEZzM29rcEcxd2tPaG00SDVUcDJ1UE5XRFFwb2cxU0M0OGds?oc=5",
-      "source": "lastampa.it",
+      "source": "La Stampa",
       "sourceHost": "lastampa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1082,11 +1082,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__lastampa.it__biella protesta contro delmastro chiorino sulle vie nomi vittime mafia__2026-04-01T12:14:00.000Z",
+      "id": "lastampa.it__la stampa__biella protesta contro delmastro chiorino sulle vie nomi vittime mafia__2026-04-01T12:14:00.000Z",
       "title": "Biella, la protesta contro Delmastro e Chiorino: sulle vie i nomi delle vittime di mafia",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZWswcE9PVWFrTWktZXUwOFo2dVB0TkNYRXZZTDVweUJub1dCdWFpYVVmdXJaVXZiQ1FPRnhyTnc5eUgwREJtRHo1ai1kQzNWWXZJYlREakJSS1ZHZjNtbFpXTHJGQlk0YzNzU1RReUUwV2pNRU5zMlc2VF9NeEprREcxc0psVXE5a3l3a1NOVmJwSEUyMDBrNXVWbTdJNlE3XzJHeXBsdGJBZ3NPT0kzYmRrcVVZdloyZk8xa3pLRUdGOFoweHIwX0hCemgxTktuaUFFc0taRTBHWm5EYkl4cWhnbXRuc2xSWFHSAe8BQVVfeXFMT0JQdmhhaG1JbDNobGFtUV9WT1BKZ3NqMV9uWjZjd1F0US1Od3p4dmxReE8yUDZuN3k4MExyTEY3U29YVG5KcjJ1NE5PNTExbFpxaDlUX1NMajczei1CNFFzaUtoNVNuNS16RnNhT2thTXpSTnNDUlZoakhERE5ZbU1OcHRabkhsT0dFTy1iVWJSclB6YVNvNERrRGpHSnpPbFV0V3h0YzdqSDNRUkFhQlN0RFBheC1HVm1nWk5RMF9UQUUxNU5qQnQ0cHhqa09uc29FdHZsNkJEYTdTNmhPM2xDUk1yRlhYZU1ubG1IeVE?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZWswcE9PVWFrTWktZXUwOFo2dVB0TkNYRXZZTDVweUJub1dCdWFpYVVmdXJaVXZiQ1FPRnhyTnc5eUgwREJtRHo1ai1kQzNWWXZJYlREakJSS1ZHZjNtbFpXTHJGQlk0YzNzU1RReUUwV2pNRU5zMlc2VF9NeEprREcxc0psVXE5a3l3a1NOVmJwSEUyMDBrNXVWbTdJNlE3XzJHeXBsdGJBZ3NPT0kzYmRrcVVZdloyZk8xa3pLRUdGOFoweHIwX0hCemgxTktuaUFFc0taRTBHWm5EYkl4cWhnbXRuc2xSWFHSAe8BQVVfeXFMT0JQdmhhaG1JbDNobGFtUV9WT1BKZ3NqMV9uWjZjd1F0US1Od3p4dmxReE8yUDZuN3k4MExyTEY3U29YVG5KcjJ1NE5PNTExbFpxaDlUX1NMajczei1CNFFzaUtoNVNuNS16RnNhT2thTXpSTnNDUlZoakhERE5ZbU1OcHRabkhsT0dFTy1iVWJSclB6YVNvNERrRGpHSnpPbFV0V3h0YzdqSDNRUkFhQlN0RFBheC1HVm1nWk5RMF9UQUUxNU5qQnQ0cHhqa09uc29FdHZsNkJEYTdTNmhPM2xDUk1yRlhYZU1ubG1IeVE?oc=5",
-      "source": "lastampa.it",
+      "source": "La Stampa",
       "sourceHost": "lastampa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1325,11 +1325,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__lastampa.it__difesa caroccia davanti pm soldi sono delmastro non criminalita__2026-04-01T09:57:00.000Z",
+      "id": "lastampa.it__la stampa__difesa caroccia davanti pm soldi sono delmastro non criminalita__2026-04-01T09:57:00.000Z",
       "title": "La difesa dei Caroccia davanti ai pm: “I soldi sono di Delmastro, non della criminalità”",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOXdNMW4wZ2lsSWRwSV9mREFab3F5NDJZZFE1bnNkdTJ5c1IwZVJ2Ni1uUmZlNmQ4Sk9zSXdnTkJyQWJwWUZvWHl1b3drc3JLSHE2OTREc2w0Y3h6aHU5ZDhwbEJQaDktOE9LUHNXa1hHUW1SaFRWSEp0TDdNeVRlc0xHNVV6UmtUZnpEd19yNkMzQUNEdWtZSU9Zd0FabFhJbjQ3OGZ5N3VNQVZPZTNybXBxbWFWbUc3TC1HNGpreC1kNmhueU5hZkIzcTZzcXZJXzRyVWgtbDFLQkXSAeABQVVfeXFMTTRVWTY2WFQ0cEZzbUcxaE5ZMlItOTA3UktLVEplajgyWlA0Z1N4U2UtVVM0SU9YSDYwODhxaTlKb21XaTNQTzVsdjhkd1hSR29kSzc4aGx5N05USlpBZXFndXQ0eC1EVWREZ3p3ZFN6VlZpclhWWllkdzRhcDNaWmVtcGVvTXRValJ1bEhnZElVZklkdTRnYUM4aXFibktNdGwzc2lrcGpsbEVZR1EtWV8zQzJ0QzJnNnFjb2RMb1NiRl9mSW50ZTgxQTctYnBEcHVhOTVxNVZ1OGZnZ0FRZWw?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOXdNMW4wZ2lsSWRwSV9mREFab3F5NDJZZFE1bnNkdTJ5c1IwZVJ2Ni1uUmZlNmQ4Sk9zSXdnTkJyQWJwWUZvWHl1b3drc3JLSHE2OTREc2w0Y3h6aHU5ZDhwbEJQaDktOE9LUHNXa1hHUW1SaFRWSEp0TDdNeVRlc0xHNVV6UmtUZnpEd19yNkMzQUNEdWtZSU9Zd0FabFhJbjQ3OGZ5N3VNQVZPZTNybXBxbWFWbUc3TC1HNGpreC1kNmhueU5hZkIzcTZzcXZJXzRyVWgtbDFLQkXSAeABQVVfeXFMTTRVWTY2WFQ0cEZzbUcxaE5ZMlItOTA3UktLVEplajgyWlA0Z1N4U2UtVVM0SU9YSDYwODhxaTlKb21XaTNQTzVsdjhkd1hSR29kSzc4aGx5N05USlpBZXFndXQ0eC1EVWREZ3p3ZFN6VlZpclhWWllkdzRhcDNaWmVtcGVvTXRValJ1bEhnZElVZklkdTRnYUM4aXFibktNdGwzc2lrcGpsbEVZR1EtWV8zQzJ0QzJnNnFjb2RMb1NiRl9mSW50ZTgxQTctYnBEcHVhOTVxNVZ1OGZnZ0FRZWw?oc=5",
-      "source": "lastampa.it",
+      "source": "La Stampa",
       "sourceHost": "lastampa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1351,10 +1351,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRVJUZV9xTmsta2YwejB2d3dHQ3NCWWhFSHpjelVjZDZrM0t4SnVnNWpPYl9oMzRnYVFzZHVjWWpLeU1Eb1d2VWUycDg1M1hDanc5WVN1a0hmaUFZQUMzbnJxdnM5Ym03Tnk3OWIyVzhSZnI3djB6MUhrRUVEbXQ2a3k4UGEtSGRRN01GOUZ0WFc0TTVNeW5IY1B5TUZjT043YkcyVExPM3RKZGp2X3hiZTZraDU3MzZUMU9nLTNMbEV2Q1FmZVFsVC14cnBLSEpQa1F4YlJEX1BHaERTVEo0Skl4eXdzcmFTOVlKcVlrRUNPZ3FoY2x1TGZUZXrSAfwBQVVfeXFMTUVSVGVfcU5rLWtmMHowdnd3R0NzQlloRUh6Y3pVY2Q2azNLeEp1ZzVqT2JfaDM0Z2FRc2R1Y1lqS3lNRG9XdlVlMnA4NTNYQ2p3OVlTdWtIZmlBWUFDM25ycXZzOWJtN055NzliMlc4UmZyN3YwejFIa0VFRG10Nmt5OFBhLUhkUTdNRjlGdFhXNE01TXluSGNQeU1GY09ON2JHMlRMTzN0SmRqdl94YmU2a2g1NzM2VDFPZy0zTGxFdkNRZmVRbFQteHJwS0hKUGtReGJSRF9QR2hEU1RKNEpJeHl3c3JhUzlZSnFZa0VDT2dxaGNsdUxmVGV6?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "altro"
@@ -1611,11 +1611,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__lastampa.it__bisteccheria spesi 40 mila euro delmastro soldi dai biellesi caroccia non ha messo niente__2026-03-31T23:00:00.000Z",
+      "id": "lastampa.it__la stampa__bisteccheria spesi 40 mila euro delmastro soldi dai biellesi caroccia non ha messo niente__2026-03-31T23:00:00.000Z",
       "title": "Bisteccheria, spesi 40 mila euro. Delmastro: “Soldi dai biellesi. Caroccia non ha messo niente”",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVFRwRDNQQlQzWXMyWHRXQmVTRmtJWXBxUVc3eHM5bUltV0YxZkU5dlhMcVhDczdTbG84VU9HNmZCV0ZZR2d4ZFVUektldTN4ckhabDFNT3JYblBSSHdXLWpjaEdGYURUc0FtajJpeDUzSVYxOVlueUJsczNycEpDM2pab3I4dDhaUGJZdHN2Q0IyTWVKckY1OGk3QlNXVUxKZjFrd3dhUFV0UGhR0gGyAUFVX3lxTE9TMXIzWHB1QkYxc2k1QmRvbllVUTJLbkJ2VUQwYjZDTTdnS2ZTSXRWam12OUFTenc4bVg0LUd6bVMzOVhycU5kamFwVkdsMElON2NuNFllNlZ5enJCLUY3Ym9XQmkxZmtmMTJfN2RBUlQxRUFwcjVjb3RfMjlsTXl2QUx3TFFoX1VxeEdJaWk4WTRiOTF5dWVxd195MlE5MTNmQW1IMy1OV1BOVjE1dHM0eGc?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVFRwRDNQQlQzWXMyWHRXQmVTRmtJWXBxUVc3eHM5bUltV0YxZkU5dlhMcVhDczdTbG84VU9HNmZCV0ZZR2d4ZFVUektldTN4ckhabDFNT3JYblBSSHdXLWpjaEdGYURUc0FtajJpeDUzSVYxOVlueUJsczNycEpDM2pab3I4dDhaUGJZdHN2Q0IyTWVKckY1OGk3QlNXVUxKZjFrd3dhUFV0UGhR0gGyAUFVX3lxTE9TMXIzWHB1QkYxc2k1QmRvbllVUTJLbkJ2VUQwYjZDTTdnS2ZTSXRWam12OUFTenc4bVg0LUd6bVMzOVhycU5kamFwVkdsMElON2NuNFllNlZ5enJCLUY3Ym9XQmkxZmtmMTJfN2RBUlQxRUFwcjVjb3RfMjlsTXl2QUx3TFFoX1VxeEdJaWk4WTRiOTF5dWVxd195MlE5MTNmQW1IMy1OV1BOVjE1dHM0eGc?oc=5",
-      "source": "lastampa.it",
+      "source": "La Stampa",
       "sourceHost": "lastampa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1775,11 +1775,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__lastampa.it__caso bisteccheria l assessore paraggio resta suo posto attacca l opposizione__2026-03-31T14:02:00.000Z",
+      "id": "lastampa.it__la stampa__caso bisteccheria l assessore paraggio resta suo posto attacca l opposizione__2026-03-31T14:02:00.000Z",
       "title": "Caso Bisteccheria, l’assessore Paraggio resta al suo posto e attacca l’opposizione",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWTlLLTdMZjVLWHYwZzlpc1dOMklJczFwcGhyWldKWl9CVjdib28ydEpBQXN4bmRUbF9YZWRBLTVOQTBQandOVHExMHpEaFc5M3lONXZMX2xXVVo3VXlKcXJqX0FhdGh4T051ZlhNdHlGN3ZsQ2NYb2NyeldIanJDNnVlOXZ1TWdjUzIteEpWVkdYc0R5eHZkU1BMNkNoRUZ4eU9hY3I5LUI3VC1jWDhUaVNVX2NtMHM3S0hCUUhFR3A5MHBjSEYyV2xNVUYydUhOSnQ5MllGcEtnWVBMelBOOUZrd2d4Mm4xYzk5Nllxb24tcXVQcnI2N9IB_gFBVV95cUxQaGpwRkY5anBuMFN2VVdJQm1MaDhhczVVSWRTYXIyUjliS1BMWXdjVTNtbE9acUc3eGlyNGhFNWhqSWl2T0E4Ni1tT2l1YVRoeF80T1haeGdrR2hDcGZiQWN4ZkZXaGwxZFhnQzQzaXVRbzE0ZEJnbDBXQVZ6M054bHdDVmxuR2dJNnhKcHR4ek9XRDJyaHNVQXNDbG9aMElTWGg1RDBpVHVmTnB0WDBLVThmbFIxTGNnTDVZWi15REkwbER3LTJPZ1hURHpjRUUyZXlTNTFTelhuMEpoOThPX0l2ZjI4c0JkQ2s0RkVXSmdvMi1SVHhUVnJ6WGU0Zw?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWTlLLTdMZjVLWHYwZzlpc1dOMklJczFwcGhyWldKWl9CVjdib28ydEpBQXN4bmRUbF9YZWRBLTVOQTBQandOVHExMHpEaFc5M3lONXZMX2xXVVo3VXlKcXJqX0FhdGh4T051ZlhNdHlGN3ZsQ2NYb2NyeldIanJDNnVlOXZ1TWdjUzIteEpWVkdYc0R5eHZkU1BMNkNoRUZ4eU9hY3I5LUI3VC1jWDhUaVNVX2NtMHM3S0hCUUhFR3A5MHBjSEYyV2xNVUYydUhOSnQ5MllGcEtnWVBMelBOOUZrd2d4Mm4xYzk5Nllxb24tcXVQcnI2N9IB_gFBVV95cUxQaGpwRkY5anBuMFN2VVdJQm1MaDhhczVVSWRTYXIyUjliS1BMWXdjVTNtbE9acUc3eGlyNGhFNWhqSWl2T0E4Ni1tT2l1YVRoeF80T1haeGdrR2hDcGZiQWN4ZkZXaGwxZFhnQzQzaXVRbzE0ZEJnbDBXQVZ6M054bHdDVmxuR2dJNnhKcHR4ek9XRDJyaHNVQXNDbG9aMElTWGg1RDBpVHVmTnB0WDBLVThmbFIxTGNnTDVZWi15REkwbER3LTJPZ1hURHpjRUUyZXlTNTFTelhuMEpoOThPX0l2ZjI4c0JkQ2s0RkVXSmdvMi1SVHhUVnJ6WGU0Zw?oc=5",
-      "source": "lastampa.it",
+      "source": "La Stampa",
       "sourceHost": "lastampa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1879,11 +1879,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__lastampa.it__caso delmastro cirio dimissioni chiorino non scontate ma necessarie__2026-03-31T11:25:00.000Z",
+      "id": "lastampa.it__la stampa__caso delmastro cirio dimissioni chiorino non scontate ma necessarie__2026-03-31T11:25:00.000Z",
       "title": "Caso Delmastro, Cirio: “Dimissioni di Chiorino non scontate ma necessarie”",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFBiOS1KYXhZSm5hcENLMzNjczE1eHpVX2xxZWI1U1ZLNjBvcS1nbmMzeE9QY0ZuWmdhTTRWZ0U4aWZxQ3k5NVZDQmVuTWFXMEJyMmZYU3JJSkFKRm5GTHFKQ21MQ2xlaUh3OEhKVHJGRUpJN1A1YUVUM3ZGUTg5ZlVvVW1ld3YtR3FTajI4YmFUQURyV3Q1Q3JsemVYOE800gGmAUFVX3lxTFBGbVZXa050dEpRSFVidEhhejdqc3A5eVBHUVB5eU03MGlrb0pJaWR1MktRWDVlcFF0MDZLd01BbWVVR2s1dWczQWJ3ZDB4aGtNejJIeGhMY1lqQUxzbkVWdFgwM0FNQjdKU2UxUEVwM1dxWFVVdllFOWlVcm9qclUzM19sc1JiVGQxWFN5Zzl1NkNnT3VDM2c5T3B6dEFTNlMwdDhBanc?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFBiOS1KYXhZSm5hcENLMzNjczE1eHpVX2xxZWI1U1ZLNjBvcS1nbmMzeE9QY0ZuWmdhTTRWZ0U4aWZxQ3k5NVZDQmVuTWFXMEJyMmZYU3JJSkFKRm5GTHFKQ21MQ2xlaUh3OEhKVHJGRUpJN1A1YUVUM3ZGUTg5ZlVvVW1ld3YtR3FTajI4YmFUQURyV3Q1Q3JsemVYOE800gGmAUFVX3lxTFBGbVZXa050dEpRSFVidEhhejdqc3A5eVBHUVB5eU03MGlrb0pJaWR1MktRWDVlcFF0MDZLd01BbWVVR2s1dWczQWJ3ZDB4aGtNejJIeGhMY1lqQUxzbkVWdFgwM0FNQjdKU2UxUEVwM1dxWFVVdllFOWlVcm9qclUzM19sc1JiVGQxWFN5Zzl1NkNnT3VDM2c5T3B6dEFTNlMwdDhBanc?oc=5",
-      "source": "lastampa.it",
+      "source": "La Stampa",
       "sourceHost": "lastampa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2022,11 +2022,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__lastampa.it__riciclavano denaro clan l antimafia sentira delmastro__2026-03-31T06:57:00.000Z",
+      "id": "lastampa.it__la stampa__riciclavano denaro clan l antimafia sentira delmastro__2026-03-31T06:57:00.000Z",
       "title": "“Riciclavano il denaro del clan”, l’Antimafia sentirà Delmastro",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcWF0TDZFTnJSMzlMWFpOQnFlWWVHMjVkdldCdTFja3dzc1BuVG9Ybi1heF8xeWhJb0hlUUMyYld6TVg5OWk5eHQtS2JiYUotQWxPbXNWRXNJWFFpaDdOM1NWUFdTQUVGSXh0OTQwdlc5STNjUVNvREROVGVkMzkwcU1OVDEzTlgxdkxJNk5QTTlUR3JYYVp5R0sycmdBR0tFaVdtYWJB0gGrAUFVX3lxTE5sYVBFWXd4RmpHazBBWU9PRFlGMFNpcnZtQ1lxNVJZX1huUGRXc2FjdzBSNG1NUlZKT19FbUdJV2xScG4yTjRTRUhpbHowMHJPOG1tcWdFN0Mxc3E5TThEVkRXbW5IX3FGYURQTUJDcXhuSndlckNnTWFabDhBWGdTUEN0djJrV01janBfVnlZZmlfZUlOQmlKZi1EaldybXR0ZGU2NjlaRDNFVQ?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcWF0TDZFTnJSMzlMWFpOQnFlWWVHMjVkdldCdTFja3dzc1BuVG9Ybi1heF8xeWhJb0hlUUMyYld6TVg5OWk5eHQtS2JiYUotQWxPbXNWRXNJWFFpaDdOM1NWUFdTQUVGSXh0OTQwdlc5STNjUVNvREROVGVkMzkwcU1OVDEzTlgxdkxJNk5QTTlUR3JYYVp5R0sycmdBR0tFaVdtYWJB0gGrAUFVX3lxTE5sYVBFWXd4RmpHazBBWU9PRFlGMFNpcnZtQ1lxNVJZX1huUGRXc2FjdzBSNG1NUlZKT19FbUdJV2xScG4yTjRTRUhpbHowMHJPOG1tcWdFN0Mxc3E5TThEVkRXbW5IX3FGYURQTUJDcXhuSndlckNnTWFabDhBWGdTUEN0djJrV01janBfVnlZZmlfZUlOQmlKZi1EaldybXR0ZGU2NjlaRDNFVQ?oc=5",
-      "source": "lastampa.it",
+      "source": "La Stampa",
       "sourceHost": "lastampa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2062,11 +2062,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__lastampa.it__caroccia delmastro torino inchiesta bis sulla srl biella__2026-03-31T05:51:00.000Z",
+      "id": "lastampa.it__la stampa__caroccia delmastro torino inchiesta bis sulla srl biella__2026-03-31T05:51:00.000Z",
       "title": "Caroccia-Delmastro, a Torino inchiesta bis sulla Srl di Biella",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORU84elZuYTkzQm1JM2dPVHlJak8tOVFqcDdtS2tueTBWLXBHRkZFaTkzNTBLRzdjZ1Fac28wbHVESVB6VXJhXzdpUlRwWmZCZ29nZWEyNWt5VmxWVk1kQ2dwZDROSmkweHoycWI5eXRyR0Q2bGxzUV9Ua1pYd3lLem5JMEJubk8xYzR5ajI4NldxTlZ3bTR4YVhVbWZ6V2NOaXpvemtsd3RwQnfSAbABQVVfeXFMUEJ2Q3BwcVFuZVRsQzc2b2d5NGNiQVBTUVhVak05dks1OXFaelFyX1lCM0tqZktWOXFUZGgwUGdtUk5nc2piX1UwV09JcEd3dE5kbllhWURxNzZ6VHlOMFlFbDVrYmhhSVh5OWdFSHVlQU96YmEzOFJwS3JMT3prT1RrQk5TaWZaaEhJRVdRNFVsdlhGazBMVHpGUzVmSTBpZzZTcVcxWFVNc0dRRTlsTEs?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORU84elZuYTkzQm1JM2dPVHlJak8tOVFqcDdtS2tueTBWLXBHRkZFaTkzNTBLRzdjZ1Fac28wbHVESVB6VXJhXzdpUlRwWmZCZ29nZWEyNWt5VmxWVk1kQ2dwZDROSmkweHoycWI5eXRyR0Q2bGxzUV9Ua1pYd3lLem5JMEJubk8xYzR5ajI4NldxTlZ3bTR4YVhVbWZ6V2NOaXpvemtsd3RwQnfSAbABQVVfeXFMUEJ2Q3BwcVFuZVRsQzc2b2d5NGNiQVBTUVhVak05dks1OXFaelFyX1lCM0tqZktWOXFUZGgwUGdtUk5nc2piX1UwV09JcEd3dE5kbllhWURxNzZ6VHlOMFlFbDVrYmhhSVh5OWdFSHVlQU96YmEzOFJwS3JMT3prT1RrQk5TaWZaaEhJRVdRNFVsdlhGazBMVHpGUzVmSTBpZzZTcVcxWFVNc0dRRTlsTEs?oc=5",
-      "source": "lastampa.it",
+      "source": "La Stampa",
       "sourceHost": "lastampa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2188,11 +2188,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__lastampa.it__franchi tiratori caso delmastro cosi centrosinistra riconquista provincia biella__2026-03-31T03:00:00.000Z",
+      "id": "lastampa.it__la stampa__franchi tiratori caso delmastro cosi centrosinistra riconquista provincia biella__2026-03-31T03:00:00.000Z",
       "title": "Tra franchi tiratori e caso Delmastro, così il centrosinistra riconquista la Provincia di Biella",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYUE0cWkwNEg4OS0tdmlsMUZGb1NVeHZ4WnlPVmcxdUdtNkVFM2N5YjZWcUo3V1F6U1laQlBrbmlmeUNmclVqWnEteXppckM0Z0VBZEFDYUVFeS1pVWxvM0dyeFp3X21DQTFTVnJrb3JEWEZzUDhPMUpvTnR4QlBkZ0h6ODdxVTRmbmhEc3dBejdOc3NBUUQzV2MyWDNqM1NYdGVvenNPNEprSWtCSTdkVVR6X0RLaXFMalVET19Fb2RrMUhrMVFwRNIBzgFBVV95cUxPbzJqY2g4enA1SkdkemlXcF9IQWcxTGVZNXhqYk9ibWNNcGh2MFpWSFF0Y2VrVU5VN2pmdjBpSkhVRWZNb1c5Mm5tR1ktVW1JempQQ245LTQ5cnZmemNqOEJiOTFZaEZPT1hZdGVyTkhsS3JBcG9sUnVEa29kYm5peWNETlEyMUo5OFBpeHJrMGtBZXViTndROEl2NTUtcGJtaGhzckJFSFl4cnlkZE9IcUZOUkxiVzR2d2RTTGxtNGRJRnFGT2JmWURQcmVCZw?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYUE0cWkwNEg4OS0tdmlsMUZGb1NVeHZ4WnlPVmcxdUdtNkVFM2N5YjZWcUo3V1F6U1laQlBrbmlmeUNmclVqWnEteXppckM0Z0VBZEFDYUVFeS1pVWxvM0dyeFp3X21DQTFTVnJrb3JEWEZzUDhPMUpvTnR4QlBkZ0h6ODdxVTRmbmhEc3dBejdOc3NBUUQzV2MyWDNqM1NYdGVvenNPNEprSWtCSTdkVVR6X0RLaXFMalVET19Fb2RrMUhrMVFwRNIBzgFBVV95cUxPbzJqY2g4enA1SkdkemlXcF9IQWcxTGVZNXhqYk9ibWNNcGh2MFpWSFF0Y2VrVU5VN2pmdjBpSkhVRWZNb1c5Mm5tR1ktVW1JempQQ245LTQ5cnZmemNqOEJiOTFZaEZPT1hZdGVyTkhsS3JBcG9sUnVEa29kYm5peWNETlEyMUo5OFBpeHJrMGtBZXViTndROEl2NTUtcGJtaGhzckJFSFl4cnlkZE9IcUZOUkxiVzR2d2RTTGxtNGRJRnFGT2JmWURQcmVCZw?oc=5",
-      "source": "lastampa.it",
+      "source": "La Stampa",
       "sourceHost": "lastampa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2251,11 +2251,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__lastampa.it__caso delmastro passa linea cirio chiorino si dimette__2026-03-30T23:00:00.000Z",
+      "id": "lastampa.it__la stampa__caso delmastro passa linea cirio chiorino si dimette__2026-03-30T23:00:00.000Z",
       "title": "Caso Delmastro, passa la linea Cirio: Chiorino si dimette",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWVJ3YndqUkhoYlFKLTNmRlBuOHpjOWFuX2RjeVc2dXBYbFZ3TUlZMmtfelg1VHdNSGJfUlZRMDJKSGc2N1NqNy1JTUN2YWV4Nk9wNkVxalRVZjE5eTZtQkJQcFJjSGdzaXN1d2RfdlEwdTRXNExpUTFDR3hWLVA3a0Z6N1RYV245a3ZvVmU2UGdzR2lQcU9xMUNJb0xyVEdQR0pFZ25DckRBNmIxYm9hYlRvcjBFd9IBuwFBVV95cUxPS3RRcVFrandPNllfNW9jVFNaZEtneERHdm9vWXk1MmtlOU1xTG9IWlEwTDRYTG9KSTRSczBYcGZvLXdLeTJmUG9SWF9uOVN2eFdDSXlBSFhRLVg2MDBjOVgwTjJlajZObEZudERBVWtZU2ZPVGk2MU92OVRfb191T09UYmFjV3lSU3k5ZjdodXZqc1Y0clBwTHUydDg4N2VJQlFRcEliWjRDT3VYVjZjM3htY3lIRUJ2WUZF?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWVJ3YndqUkhoYlFKLTNmRlBuOHpjOWFuX2RjeVc2dXBYbFZ3TUlZMmtfelg1VHdNSGJfUlZRMDJKSGc2N1NqNy1JTUN2YWV4Nk9wNkVxalRVZjE5eTZtQkJQcFJjSGdzaXN1d2RfdlEwdTRXNExpUTFDR3hWLVA3a0Z6N1RYV245a3ZvVmU2UGdzR2lQcU9xMUNJb0xyVEdQR0pFZ25DckRBNmIxYm9hYlRvcjBFd9IBuwFBVV95cUxPS3RRcVFrandPNllfNW9jVFNaZEtneERHdm9vWXk1MmtlOU1xTG9IWlEwTDRYTG9KSTRSczBYcGZvLXdLeTJmUG9SWF9uOVN2eFdDSXlBSFhRLVg2MDBjOVgwTjJlajZObEZudERBVWtZU2ZPVGk2MU92OVRfb191T09UYmFjV3lSU3k5ZjdodXZqc1Y0clBwTHUydDg4N2VJQlFRcEliWjRDT3VYVjZjM3htY3lIRUJ2WUZF?oc=5",
-      "source": "lastampa.it",
+      "source": "La Stampa",
       "sourceHost": "lastampa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2663,11 +2663,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__lastampa.it__caso delmastro si dimette anche l assessore biella franceschini lascio testa alta__2026-03-30T17:41:00.000Z",
+      "id": "lastampa.it__la stampa__caso delmastro si dimette anche l assessore biella franceschini lascio testa alta__2026-03-30T17:41:00.000Z",
       "title": "Caso Delmastro, si dimette anche l’assessore di Biella Franceschini: “Lascio a testa alta”",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTEItejBqa2l0NWNxZWVybFM0LWswUzBhUnZpdGI5N25ja1N4ZzdVZTBLb2thUzV0NlYwVHIwaWpfWm1DM09VU25yX081OGx5ZWV2azFIUWc1RzhQN1hKWVdLeF9Sc3E5ZE15R0kzUlBPQ3JrdW5wVmhucXlId2wtN3NNVkYtT2VXRVBRUzNGVE9meEVoejNDYU1sbXV6VF9hUVBnak5WMHBTb3VsME83T3pUNnRFLXctZGVfd29KSlBsY2VTWFcyeE9veFQwOXR2SGoyWUcyNkluM2JXTjFUTmtUWTFqd9IB6wFBVV95cUxQN3MxcVU4MEtxYjJqTGZFelZ3aU9mSXc2MVAxQlZfZGgtVkRfcUE1bjRzV0laNDNmWnp0amc4dFJxa1czcnVBT2ZWb2Z5aHpIbHZCQUdjUWN1dXBqb01XNkFaQl9KSGY1ZnlPMVVZN3UxVEhzcXdHaXB0bndSOE54MzdDVnR0WU5Fb2xZaEhmS25vbGFQaVdoTHJpd3J5UnVQZEJUc0s3eTVKUFFaZW55ajZxOXZBODhBNlZXYWc4N2RaM3hfUHBHclJGeDY0eUdPRmpMN1hFeXdxU2hDNHo3ME1GTW9EaGZQZl9R?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTEItejBqa2l0NWNxZWVybFM0LWswUzBhUnZpdGI5N25ja1N4ZzdVZTBLb2thUzV0NlYwVHIwaWpfWm1DM09VU25yX081OGx5ZWV2azFIUWc1RzhQN1hKWVdLeF9Sc3E5ZE15R0kzUlBPQ3JrdW5wVmhucXlId2wtN3NNVkYtT2VXRVBRUzNGVE9meEVoejNDYU1sbXV6VF9hUVBnak5WMHBTb3VsME83T3pUNnRFLXctZGVfd29KSlBsY2VTWFcyeE9veFQwOXR2SGoyWUcyNkluM2JXTjFUTmtUWTFqd9IB6wFBVV95cUxQN3MxcVU4MEtxYjJqTGZFelZ3aU9mSXc2MVAxQlZfZGgtVkRfcUE1bjRzV0laNDNmWnp0amc4dFJxa1czcnVBT2ZWb2Z5aHpIbHZCQUdjUWN1dXBqb01XNkFaQl9KSGY1ZnlPMVVZN3UxVEhzcXdHaXB0bndSOE54MzdDVnR0WU5Fb2xZaEhmS25vbGFQaVdoTHJpd3J5UnVQZEJUc0s3eTVKUFFaZW55ajZxOXZBODhBNlZXYWc4N2RaM3hfUHBHclJGeDY0eUdPRmpMN1hFeXdxU2hDNHo3ME1GTW9EaGZQZl9R?oc=5",
-      "source": "lastampa.it",
+      "source": "La Stampa",
       "sourceHost": "lastampa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2744,11 +2744,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__lastampa.it__si dimette l assessora regionale chiorino travolta bufera delmastro sono persona bene__2026-03-30T17:27:00.000Z",
+      "id": "lastampa.it__la stampa__si dimette l assessora regionale chiorino travolta bufera delmastro sono persona bene__2026-03-30T17:27:00.000Z",
       "title": "Si dimette l’assessora regionale Chiorino travolta dalla bufera Delmastro: “Sono persona per bene”",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ3F6cFVad3lSdDg3SlpTbVNqemlpWVU4TDV2djhZWXRPSU43VjNLMEttWTRaejk5ZzNWWUE5clB6QVRzSWd3OVZxdFBvM0JGMUlaNGhRa1h6akNoTzNEdlVhOEJPV0xMYTlBaTBOdnpmSU5KNGtsOUQ1c1YwdHdEd0lYTmdEajhJWGRfUkc5TktNdi1IZHBRQ20wMWJ6cUxu0gGmAUFVX3lxTE92VDlRcWt3N0pnMEpLLTVnekZBemlUSXBTUEowYUg4UkxpRnVEYXpxT1VPbmJrTzRFWnNpSWZWRDNJWUFWM1FvRnNhQWpEREdNWFhfanVwRG81VFQ2V2NHT2xUUk1aeG95R2pJY2sxZlBQSWNxZFVFeUJSN0xzZUhDd2pDZUJhLVZCVnowc0ZaTDBXR0Y5Y09vbU1jNks1Y2JBMURVRXc?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ3F6cFVad3lSdDg3SlpTbVNqemlpWVU4TDV2djhZWXRPSU43VjNLMEttWTRaejk5ZzNWWUE5clB6QVRzSWd3OVZxdFBvM0JGMUlaNGhRa1h6akNoTzNEdlVhOEJPV0xMYTlBaTBOdnpmSU5KNGtsOUQ1c1YwdHdEd0lYTmdEajhJWGRfUkc5TktNdi1IZHBRQ20wMWJ6cUxu0gGmAUFVX3lxTE92VDlRcWt3N0pnMEpLLTVnekZBemlUSXBTUEowYUg4UkxpRnVEYXpxT1VPbmJrTzRFWnNpSWZWRDNJWUFWM1FvRnNhQWpEREdNWFhfanVwRG81VFQ2V2NHT2xUUk1aeG95R2pJY2sxZlBQSWNxZFVFeUJSN0xzZUhDd2pDZUJhLVZCVnowc0ZaTDBXR0Y5Y09vbU1jNks1Y2JBMURVRXc?oc=5",
-      "source": "lastampa.it",
+      "source": "La Stampa",
       "sourceHost": "lastampa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -3238,10 +3238,14 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPLXpUS2tveEI5VnJGREZIN2FjajE1Sl8tbktJR2w5ell2LUdHTkJfTHR0QkIzX1N3M09xUDZKTjZqZXptc2RsZW5nMjQzb0gyVVFEeWZNUS1iS08wY0NON3lCNUxVWjRKbnN2WTZJMmMxWjl6dnRib2JkTzVMSmZmemVPLWdRQTJ2NTZVUHFwaDJiNHFLV3FxWVJDdmFmZkluUjJRdW9BOU8yOXY4Zkp2SHVVZnN6RVAxRXdIODR2SUJERUNEQVBmcU10N2pBNXJoeXI5Yi1HLTMxSEhxLVhjYWVyYXpBNkk2bjVZ?oc=5",
       "source": "Adnkronos",
       "sourceHost": "adnkronos.com",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl"
       ],
       "tags": [
         "politica",
@@ -3352,46 +3356,6 @@
       ],
       "publishedAt": "2026-03-30T10:59:00.000Z",
       "excerpt": "Roma, indagine su società famiglia Caroccia: in settimana primi interrogatori",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "repubblica.it__la repubblica__caso delmastro bisteccheria d italia caroccia riciclava soldi clan senese__2026-03-30T10:18:32.000Z",
-      "title": "Caso Delmastro, la Bisteccheria d’Italia dei Caroccia “riciclava soldi del clan Senese”",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUdnb2RsR001T0lTWnpjWG93d3NuYXNLazliZU50TlFnN1ZRT2l5eVpRZlJaaE91eG42Y3k4T0EyR2Jabng5c1RtR0UxdE5saEpTN0xQVklCTEFCT0xyTnBMS3lhRG9GcUh2ODdza2hzdktyLUxJVlRYU3BRM1M3M3RKNGZOVEJmSVozdlktOXlvQjltSXpUSEk2Tm13NTdsZUZnb1dMTDVhb2V5T0ZYNS0wbk9jVk8t0gG-AUFVX3lxTE9TS3pLZkxMT3Z1ajdTWlliQWNxMS1ZZ0JoSWQwb2wtRnZQWkpzd1h2TEU1clUxMVk1ZlB4d3A3b2c4NGZ4dUdpRVJrX3NQR0dVVER0MHZ4R05sRWwtY2hrel9wUVhyWmhlZUY4U1hRaXdKMDFFTzBzU0NjRzM5ZDNZMTFMdUNzaUNhY3lQQXB5cEdpdW9Tc2NLN0prU0t2S2xyVTBkMGZLWjVYRzhLaFpSQTdrLXp2YkVURlZIOFE?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUdnb2RsR001T0lTWnpjWG93d3NuYXNLazliZU50TlFnN1ZRT2l5eVpRZlJaaE91eG42Y3k4T0EyR2Jabng5c1RtR0UxdE5saEpTN0xQVklCTEFCT0xyTnBMS3lhRG9GcUh2ODdza2hzdktyLUxJVlRYU3BRM1M3M3RKNGZOVEJmSVozdlktOXlvQjltSXpUSEk2Tm13NTdsZUZnb1dMTDVhb2V5T0ZYNS0wbk9jVk8t0gG-AUFVX3lxTE9TS3pLZkxMT3Z1ajdTWlliQWNxMS1ZZ0JoSWQwb2wtRnZQWkpzd1h2TEU1clUxMVk1ZlB4d3A3b2c4NGZ4dUdpRVJrX3NQR0dVVER0MHZ4R05sRWwtY2hrel9wUVhyWmhlZUY4U1hRaXdKMDFFTzBzU0NjRzM5ZDNZMTFMdUNzaUNhY3lQQXB5cEdpdW9Tc2NLN0prU0t2S2xyVTBkMGZLWjVYRzhLaFpSQTdrLXp2YkVURlZIOFE?oc=5",
-      "source": "la Repubblica",
-      "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "bisteccheria"
-      ],
-      "publishedAt": "2026-03-30T10:18:32.000Z",
-      "excerpt": "Caso Delmastro, la Bisteccheria d’Italia dei Caroccia “riciclava soldi del clan Senese”",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro bisteccheria caroccia accusati riciclaggio clan senese__2026-03-30T10:08:53.000Z",
-      "title": "Delmastro e la bisteccheria: i Caroccia accusati di riciclaggio per il clan Senese",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb2ozc0Zlbnp5QnNkMWUyRXdiU1haWFFMWkhQbHI3ckQzWUliR2o0WlBuaTRTV21KLVFNZ3RzSWNnYzVGOHhCLWRNbkFiYTh2SHB4TjNUUlFEekNFa0tyZzl4RTNGWDZWQjNEM2dLUUdHZXI1OXd5XzhfdkxPWEctOWRBUmRDU1VwZTBNdVJzQnRKMVFQLUR3WXRTWlIyZUJpTGxaNkd0Vk9Qam5KbDVpbkRR?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb2ozc0Zlbnp5QnNkMWUyRXdiU1haWFFMWkhQbHI3ckQzWUliR2o0WlBuaTRTV21KLVFNZ3RzSWNnYzVGOHhCLWRNbkFiYTh2SHB4TjNUUlFEekNFa0tyZzl4RTNGWDZWQjNEM2dLUUdHZXI1OXd5XzhfdkxPWEctOWRBUmRDU1VwZTBNdVJzQnRKMVFQLUR3WXRTWlIyZUJpTGxaNkd0Vk9Qam5KbDVpbkRR?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "bisteccheria"
-      ],
-      "publishedAt": "2026-03-30T10:08:53.000Z",
-      "excerpt": "Delmastro e la bisteccheria: i Caroccia accusati di riciclaggio per il clan Senese",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     }

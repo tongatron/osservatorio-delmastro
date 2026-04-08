@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T02:30:10.253Z",
+  "generatedAt": "2026-04-08T03:00:10.478Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -91,14 +91,14 @@
     ]
   },
   "window": {
-    "from": "2026-03-31T02:30:10.253Z",
-    "to": "2026-04-08T02:30:10.253Z",
+    "from": "2026-03-31T03:00:10.478Z",
+    "to": "2026-04-08T03:00:10.478Z",
     "days": 8
   },
   "sources": [
     {
       "label": "repubblica.it",
-      "articleCount": 18
+      "articleCount": 17
     },
     {
       "label": "ansa.it",
@@ -106,7 +106,7 @@
     },
     {
       "label": "lastampa.it",
-      "articleCount": 12
+      "articleCount": 11
     },
     {
       "label": "ilfattoquotidiano.it",
@@ -168,27 +168,27 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 208,
-      "uniqueArticles": 103
+      "fetchedArticles": 204,
+      "uniqueArticles": 101
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 78,
-      "uniqueArticles": 6
+      "fetchedArticles": 77,
+      "uniqueArticles": 7
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 96,
+      "fetchedArticles": 94,
       "uniqueArticles": 6
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 34,
+      "fetchedArticles": 32,
       "uniqueArticles": 1
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 67,
+      "fetchedArticles": 66,
       "uniqueArticles": 1
     },
     {
@@ -204,29 +204,29 @@
     },
     {
       "tag": "giudiziaria",
-      "count": 33
+      "count": 32
     },
     {
       "tag": "bisteccheria",
       "count": 21
     },
     {
-      "tag": "territorio",
-      "count": 16
-    },
-    {
       "tag": "politica",
       "count": 14
     },
     {
+      "tag": "territorio",
+      "count": 14
+    },
+    {
       "tag": "societa'",
-      "count": 12
+      "count": 11
     }
   ],
   "timeline": [
     {
       "date": "2026-03-31",
-      "count": 24
+      "count": 22
     },
     {
       "date": "2026-04-01",
@@ -1750,6 +1750,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "ansa.it__ansa__difensore caroccia delmastro l unico che ha teso mano__2026-04-01T09:44:46.000Z",
+      "title": "Difensore Caroccia, 'Delmastro è l'unico che gli ha teso una mano'",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRVJUZV9xTmsta2YwejB2d3dHQ3NCWWhFSHpjelVjZDZrM0t4SnVnNWpPYl9oMzRnYVFzZHVjWWpLeU1Eb1d2VWUycDg1M1hDanc5WVN1a0hmaUFZQUMzbnJxdnM5Ym03Tnk3OWIyVzhSZnI3djB6MUhrRUVEbXQ2a3k4UGEtSGRRN01GOUZ0WFc0TTVNeW5IY1B5TUZjT043YkcyVExPM3RKZGp2X3hiZTZraDU3MzZUMU9nLTNMbEV2Q1FmZVFsVC14cnBLSEpQa1F4YlJEX1BHaERTVEo0Skl4eXdzcmFTOVlKcVlrRUNPZ3FoY2x1TGZUZXrSAfwBQVVfeXFMTUVSVGVfcU5rLWtmMHowdnd3R0NzQlloRUh6Y3pVY2Q2azNLeEp1ZzVqT2JfaDM0Z2FRc2R1Y1lqS3lNRG9XdlVlMnA4NTNYQ2p3OVlTdWtIZmlBWUFDM25ycXZzOWJtN055NzliMlc4UmZyN3YwejFIa0VFRG10Nmt5OFBhLUhkUTdNRjlGdFhXNE01TXluSGNQeU1GY09ON2JHMlRMTzN0SmRqdl94YmU2a2g1NzM2VDFPZy0zTGxFdkNRZmVRbFQteHJwS0hKUGtReGJSRF9QR2hEU1RKNEpJeHl3c3JhUzlZSnFZa0VDT2dxaGNsdUxmVGV6?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRVJUZV9xTmsta2YwejB2d3dHQ3NCWWhFSHpjelVjZDZrM0t4SnVnNWpPYl9oMzRnYVFzZHVjWWpLeU1Eb1d2VWUycDg1M1hDanc5WVN1a0hmaUFZQUMzbnJxdnM5Ym03Tnk3OWIyVzhSZnI3djB6MUhrRUVEbXQ2a3k4UGEtSGRRN01GOUZ0WFc0TTVNeW5IY1B5TUZjT043YkcyVExPM3RKZGp2X3hiZTZraDU3MzZUMU9nLTNMbEV2Q1FmZVFsVC14cnBLSEpQa1F4YlJEX1BHaERTVEo0Skl4eXdzcmFTOVlKcVlrRUNPZ3FoY2x1TGZUZXrSAfwBQVVfeXFMTUVSVGVfcU5rLWtmMHowdnd3R0NzQlloRUh6Y3pVY2Q2azNLeEp1ZzVqT2JfaDM0Z2FRc2R1Y1lqS3lNRG9XdlVlMnA4NTNYQ2p3OVlTdWtIZmlBWUFDM25ycXZzOWJtN055NzliMlc4UmZyN3YwejFIa0VFRG10Nmt5OFBhLUhkUTdNRjlGdFhXNE01TXluSGNQeU1GY09ON2JHMlRMTzN0SmRqdl94YmU2a2g1NzM2VDFPZy0zTGxFdkNRZmVRbFQteHJwS0hKUGtReGJSRF9QR2hEU1RKNEpJeHl3c3JhUzlZSnFZa0VDT2dxaGNsdUxmVGV6?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-01T09:44:46.000Z",
+      "excerpt": "Difensore Caroccia, 'Delmastro è l'unico che gli ha teso una mano'",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "tg24.sky.it__sky tg24__legale caroccia delmastro unico che ha teso mano__2026-04-01T09:39:47.000Z",
       "title": "Legale Caroccia: Delmastro \"unico che ha teso una mano\"",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMEhOWk40R2oyb0xydkNqMG1jbVBfRk5IZ2hpOU9QNHRWOGNzVTJTeHZPajVLNlZHTWZJOG92OGJuWjZrb2xjX05oY3NBSmpseUotOFM3Q2o3SlQzalZibzJ6SjY4TEJCRjNkQlNiaGJaVF91cHpPZ1dxR3V0WjBvZUlTQjZnV1RRUGloR2dpdGdFUHprdGNDOVBKeTM2aTdUSkw4aVFlS1M?oc=5",
@@ -1766,26 +1786,6 @@
       ],
       "publishedAt": "2026-04-01T09:39:47.000Z",
       "excerpt": "Legale Caroccia: Delmastro \"unico che ha teso una mano\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ansa.it__ansa__difensore caroccia delmastro l unico che ha teso mano__2026-04-01T09:29:00.000Z",
-      "title": "Difensore Caroccia, 'Delmastro è l'unico che gli ha teso una mano'",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOR1JaWE0zMXNFOVNwRzJBTDFOOWduUmZoYUFJcmk5RUlMTE5BMm5nbGZ0ajZWYTRZbXJYNjJNRnN1VE8teTU4SWY0eUktQjVQRXl4UmRuNGliNDdSd3hOZ2pMWlZNbzEzNTcyV0RSUVU3SXFjYnRRcFhuSmV3V2Fzc184dEh3MGRyRU11VjB4VGxnOVNPWVdCUndLMUxVcEM2ODgyRFZiQzFzTjZvRzhsckVkbkVPRWJDelB2bjlxY2tnX1R0ajdsTG9IWTNSd0ZFMTZod3hOY0FaTWoxOWxhdGZBYW5VbjRUczNuYlNSOVNqMXFZWXJF0gH8AUFVX3lxTE1FUlRlX3FOay1rZjB6MHZ3d0dDc0JZaEVIemN6VWNkNmszS3hKdWc1ak9iX2gzNGdhUXNkdWNZakt5TURvV3ZVZTJwODUzWENqdzlZU3VrSGZpQVlBQzNucnF2czlibTdOeTc5YjJXOFJmcjd2MHoxSGtFRURtdDZreThQYS1IZFE3TUY5RnRYVzRNNU15bkhjUHlNRmNPTjdiRzJUTE8zdEpkanZfeGJlNmtoNTczNlQxT2ctM0xsRXZDUWZlUWxULXhycEtISlBrUXhiUkRfUEdoRFNUSjRKSXh5d3NyYVM5WUpxWWtFQ09ncWhjbHVMZlRleg?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOR1JaWE0zMXNFOVNwRzJBTDFOOWduUmZoYUFJcmk5RUlMTE5BMm5nbGZ0ajZWYTRZbXJYNjJNRnN1VE8teTU4SWY0eUktQjVQRXl4UmRuNGliNDdSd3hOZ2pMWlZNbzEzNTcyV0RSUVU3SXFjYnRRcFhuSmV3V2Fzc184dEh3MGRyRU11VjB4VGxnOVNPWVdCUndLMUxVcEM2ODgyRFZiQzFzTjZvRzhsckVkbkVPRWJDelB2bjlxY2tnX1R0ajdsTG9IWTNSd0ZFMTZod3hOY0FaTWoxOWxhdGZBYW5VbjRUczNuYlNSOVNqMXFZWXJF0gH8AUFVX3lxTE1FUlRlX3FOay1rZjB6MHZ3d0dDc0JZaEVIemN6VWNkNmszS3hKdWc1ak9iX2gzNGdhUXNkdWNZakt5TURvV3ZVZTJwODUzWENqdzlZU3VrSGZpQVlBQzNucnF2czlibTdOeTc5YjJXOFJmcjd2MHoxSGtFRURtdDZreThQYS1IZFE3TUY5RnRYVzRNNU15bkhjUHlNRmNPTjdiRzJUTE8zdEpkanZfeGJlNmtoNTczNlQxT2ctM0xsRXZDUWZlUWxULXhycEtISlBrUXhiUkRfUEdoRFNUSjRKSXh5d3NyYVM5WUpxWWtFQ09ncWhjbHVMZlRleg?oc=5",
-      "source": "ANSA",
-      "sourceHost": "ansa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-01T09:29:00.000Z",
-      "excerpt": "Difensore Caroccia, 'Delmastro è l'unico che gli ha teso una mano'",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2482,48 +2482,6 @@
       ],
       "publishedAt": "2026-03-31T04:50:12.000Z",
       "excerpt": "In direzione contraria - Pena di morte, ma solo ai palestinesi: il diritto rovesciato di Netanyahu e il mondo che sta a guardare. I pm: \"Il locale di Delmastro riciclava i soldi del clan Senese\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "repubblica.it__la repubblica__nuova inchiesta delmastro soci l antimafia torino indaga intestazione fittizia__2026-03-31T03:00:00.000Z",
-      "title": "Nuova inchiesta su Delmastro e soci: l’antimafia di Torino indaga per intestazione fittizia",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRjJvT2wyWV81b0VvZjdJWno1RlJpUjcydDQwVTI5WkVhYWVZazVEeE42TjZObnF5QTlvOVBlcGp1Tm9vTHlHWUZaeVY2M3pIclhzcEpYcjNHWGpWS0xjWkNfa2htSll3VFhmaUxlVDhSZ0dpa201d0FVRkZ1cENUQklPTXItVmxCd2l2d2VFeG9xclBLTVkxTmVLWk12N0o3X0tVT2hfYWRrWTFOcjlpaW1R0gG3AUFVX3lxTE1aUjliUi1qWGppMVlKeFFUSDVhS3I1elo2VDB3bzVpTmRFSVZLRnpXc1pYa3hJcnVfV3oybEx0NExyUjNyZWZuQm5lbGlZNmFrdE1CZTBHT3lScnZMT1FhS0VpVk5aaW9tZGxqWWdNTWhUWnc2ZEVNNlVYS3NvbXJwcnNNc2g1dE96MGRkUXd0b2ZveHBqcmlLSlhnV0MzTVktcG5WbW9rcDIzQThxdXZTSzhzZEZnZw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRjJvT2wyWV81b0VvZjdJWno1RlJpUjcydDQwVTI5WkVhYWVZazVEeE42TjZObnF5QTlvOVBlcGp1Tm9vTHlHWUZaeVY2M3pIclhzcEpYcjNHWGpWS0xjWkNfa2htSll3VFhmaUxlVDhSZ0dpa201d0FVRkZ1cENUQklPTXItVmxCd2l2d2VFeG9xclBLTVkxTmVLWk12N0o3X0tVT2hfYWRrWTFOcjlpaW1R0gG3AUFVX3lxTE1aUjliUi1qWGppMVlKeFFUSDVhS3I1elo2VDB3bzVpTmRFSVZLRnpXc1pYa3hJcnVfV3oybEx0NExyUjNyZWZuQm5lbGlZNmFrdE1CZTBHT3lScnZMT1FhS0VpVk5aaW9tZGxqWWdNTWhUWnc2ZEVNNlVYS3NvbXJwcnNNc2g1dE96MGRkUXd0b2ZveHBqcmlLSlhnV0MzTVktcG5WbW9rcDIzQThxdXZTSzhzZEZnZw?oc=5",
-      "source": "la Repubblica",
-      "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria",
-        "societa'",
-        "territorio"
-      ],
-      "publishedAt": "2026-03-31T03:00:00.000Z",
-      "excerpt": "Nuova inchiesta su Delmastro e soci: l’antimafia di Torino indaga per intestazione fittizia",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "lastampa.it__la stampa__franchi tiratori caso delmastro cosi centrosinistra riconquista provincia biella__2026-03-31T03:00:00.000Z",
-      "title": "Tra franchi tiratori e caso Delmastro, così il centrosinistra riconquista la Provincia di Biella",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYUE0cWkwNEg4OS0tdmlsMUZGb1NVeHZ4WnlPVmcxdUdtNkVFM2N5YjZWcUo3V1F6U1laQlBrbmlmeUNmclVqWnEteXppckM0Z0VBZEFDYUVFeS1pVWxvM0dyeFp3X21DQTFTVnJrb3JEWEZzUDhPMUpvTnR4QlBkZ0h6ODdxVTRmbmhEc3dBejdOc3NBUUQzV2MyWDNqM1NYdGVvenNPNEprSWtCSTdkVVR6X0RLaXFMalVET19Fb2RrMUhrMVFwRNIBzgFBVV95cUxPbzJqY2g4enA1SkdkemlXcF9IQWcxTGVZNXhqYk9ibWNNcGh2MFpWSFF0Y2VrVU5VN2pmdjBpSkhVRWZNb1c5Mm5tR1ktVW1JempQQ245LTQ5cnZmemNqOEJiOTFZaEZPT1hZdGVyTkhsS3JBcG9sUnVEa29kYm5peWNETlEyMUo5OFBpeHJrMGtBZXViTndROEl2NTUtcGJtaGhzckJFSFl4cnlkZE9IcUZOUkxiVzR2d2RTTGxtNGRJRnFGT2JmWURQcmVCZw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYUE0cWkwNEg4OS0tdmlsMUZGb1NVeHZ4WnlPVmcxdUdtNkVFM2N5YjZWcUo3V1F6U1laQlBrbmlmeUNmclVqWnEteXppckM0Z0VBZEFDYUVFeS1pVWxvM0dyeFp3X21DQTFTVnJrb3JEWEZzUDhPMUpvTnR4QlBkZ0h6ODdxVTRmbmhEc3dBejdOc3NBUUQzV2MyWDNqM1NYdGVvenNPNEprSWtCSTdkVVR6X0RLaXFMalVET19Fb2RrMUhrMVFwRNIBzgFBVV95cUxPbzJqY2g4enA1SkdkemlXcF9IQWcxTGVZNXhqYk9ibWNNcGh2MFpWSFF0Y2VrVU5VN2pmdjBpSkhVRWZNb1c5Mm5tR1ktVW1JempQQ245LTQ5cnZmemNqOEJiOTFZaEZPT1hZdGVyTkhsS3JBcG9sUnVEa29kYm5peWNETlEyMUo5OFBpeHJrMGtBZXViTndROEl2NTUtcGJtaGhzckJFSFl4cnlkZE9IcUZOUkxiVzR2d2RTTGxtNGRJRnFGT2JmWURQcmVCZw?oc=5",
-      "source": "La Stampa",
-      "sourceHost": "lastampa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "territorio"
-      ],
-      "publishedAt": "2026-03-31T03:00:00.000Z",
-      "excerpt": "Tra franchi tiratori e caso Delmastro, così il centrosinistra riconquista la Provincia di Biella",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     }

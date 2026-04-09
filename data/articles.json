@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T14:00:08.965Z",
+  "generatedAt": "2026-04-09T14:30:08.357Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -91,8 +91,8 @@
     ]
   },
   "window": {
-    "from": "2026-04-01T14:00:08.965Z",
-    "to": "2026-04-09T14:00:08.965Z",
+    "from": "2026-04-01T14:30:08.357Z",
+    "to": "2026-04-09T14:30:08.357Z",
     "days": 8
   },
   "sources": [
@@ -125,10 +125,6 @@
       "articleCount": 5
     },
     {
-      "label": "liberoquotidiano.it",
-      "articleCount": 4
-    },
-    {
       "label": "quotidiano.net",
       "articleCount": 4
     },
@@ -137,8 +133,12 @@
       "articleCount": 3
     },
     {
-      "label": "today.it",
+      "label": "liberoquotidiano.it",
       "articleCount": 3
+    },
+    {
+      "label": "today.it",
+      "articleCount": 2
     },
     {
       "label": "tgcom24.mediaset.it",
@@ -160,12 +160,12 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 126,
-      "uniqueArticles": 63
+      "fetchedArticles": 122,
+      "uniqueArticles": 61
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 42,
+      "fetchedArticles": 41,
       "uniqueArticles": 3
     },
     {
@@ -175,12 +175,12 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 35,
+      "fetchedArticles": 33,
       "uniqueArticles": 1
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 14,
+      "fetchedArticles": 12,
       "uniqueArticles": 0
     },
     {
@@ -192,7 +192,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 33
+      "count": 32
     },
     {
       "tag": "giudiziaria",
@@ -204,7 +204,7 @@
     },
     {
       "tag": "bisteccheria",
-      "count": 8
+      "count": 7
     },
     {
       "tag": "politica",
@@ -218,7 +218,7 @@
   "timeline": [
     {
       "date": "2026-04-01",
-      "count": 15
+      "count": 13
     },
     {
       "date": "2026-04-02",
@@ -1505,46 +1505,6 @@
       ],
       "publishedAt": "2026-04-01T15:04:00.000Z",
       "excerpt": "Interrogatorio Caroccia, la difesa: \"Delmastro ha fatto beneficenza\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "liberoquotidiano.it__libero quotidiano__andrea delmastro ingannato incendio cosa accadde sei anni fa libero quotidiano it__2026-04-01T14:19:38.000Z",
-      "title": "Andrea Delmastro ingannato da un incendio: cosa accadde sei anni fa | Libero Quotidiano.it",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2dyazB0Wkp6Ql9PaHdHWHZ4U05TblBob2did0xtZGs1UHVDckhqeURZMGFDUHpQUFRzdl9QdTFOR2dyRXNzc3hSZDQzbHBDUS1ROVZFX1BaNExSZkREeDMzSFpPeTNJUXZLTmlLcXlaS095OWR1bFBYMU0tQm95NlFxeTN5b3BkRmVwV0NMVTNuWC1VVjhQd1F3QV9TQ1IxY1dtS3MtXzVFZ25WRlHSAbIBQVVfeXFMT3NUY2pZdG41ZGEzQ0RLdzZ2SHExOFVldVZfTWx6Nm1obDFaa0FwaUgzQ0ZKaTNGX1pBRjBEN3gwcUJMcVNxdjJKS3A2RkFyZ2FxOXhySlNPQ0otNWJXeVlEQkJITTFmZzJaYTNCb3RGV3o4bXVxOXpYNEFJUTQxSWJGRGNQR2V5Mlc3SldDRzA4NVJaRDNrSG1ibWZmcTRBWXhvd09vUEZQbE5QNjVzNFQ4QQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2dyazB0Wkp6Ql9PaHdHWHZ4U05TblBob2did0xtZGs1UHVDckhqeURZMGFDUHpQUFRzdl9QdTFOR2dyRXNzc3hSZDQzbHBDUS1ROVZFX1BaNExSZkREeDMzSFpPeTNJUXZLTmlLcXlaS095OWR1bFBYMU0tQm95NlFxeTN5b3BkRmVwV0NMVTNuWC1VVjhQd1F3QV9TQ1IxY1dtS3MtXzVFZ25WRlHSAbIBQVVfeXFMT3NUY2pZdG41ZGEzQ0RLdzZ2SHExOFVldVZfTWx6Nm1obDFaa0FwaUgzQ0ZKaTNGX1pBRjBEN3gwcUJMcVNxdjJKS3A2RkFyZ2FxOXhySlNPQ0otNWJXeVlEQkJITTFmZzJaYTNCb3RGV3o4bXVxOXpYNEFJUTQxSWJGRGNQR2V5Mlc3SldDRzA4NVJaRDNrSG1ibWZmcTRBWXhvd09vUEZQbE5QNjVzNFQ4QQ?oc=5",
-      "source": "Libero Quotidiano",
-      "sourceHost": "liberoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-01T14:19:38.000Z",
-      "excerpt": "Andrea Delmastro ingannato da un incendio: cosa accadde sei anni fa | Libero Quotidiano.it",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "today.it__today.it__delmastro censurato camera caso bisteccheria d italia caroccia ci ha fatto beneficenza__2026-04-01T14:16:41.000Z",
-      "title": "Delmastro censurato dalla Camera per il caso \"Bisteccheria d'Italia\". Caroccia: \"Ci ha fatto beneficenza\"",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBocFhib2FXRUliQ0Vldkt3VDR4NDdOdm1aeXJkWkdiZUlLbmN6NGNHMlRTVk9fZzlPZWFTSGtFRDNzdmFoRWlwdmxPYmxyLVVxeUV4MklmQmpYSEZJeWlLY2FRRDhzTmtsZ1lZXzl30gFuQVVfeXFMT2hBN09yQW5fZHVwcEpaTlRJM3B3clVPSC1DOE5uVnYyWWlMNjRMbXBZTWpnTFQ2Mk9JeUJQeEE4WDRidm1JSmVuNTlpSnlPdkNIOVJFUUVkWklQQkhkeVo3TWpsMFVSaVpuc2tvZkE?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBocFhib2FXRUliQ0Vldkt3VDR4NDdOdm1aeXJkWkdiZUlLbmN6NGNHMlRTVk9fZzlPZWFTSGtFRDNzdmFoRWlwdmxPYmxyLVVxeUV4MklmQmpYSEZJeWlLY2FRRDhzTmtsZ1lZXzl30gFuQVVfeXFMT2hBN09yQW5fZHVwcEpaTlRJM3B3clVPSC1DOE5uVnYyWWlMNjRMbXBZTWpnTFQ2Mk9JeUJQeEE4WDRidm1JSmVuNTlpSnlPdkNIOVJFUUVkWklQQkhkeVo3TWpsMFVSaVpuc2tvZkE?oc=5",
-      "source": "today.it",
-      "sourceHost": "today.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "bisteccheria"
-      ],
-      "publishedAt": "2026-04-01T14:16:41.000Z",
-      "excerpt": "Delmastro censurato dalla Camera per il caso \"Bisteccheria d'Italia\". Caroccia: \"Ci ha fatto beneficenza\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T22:00:07.593Z",
+  "generatedAt": "2026-04-09T22:30:10.476Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -91,8 +91,8 @@
     ]
   },
   "window": {
-    "from": "2026-04-01T22:00:07.593Z",
-    "to": "2026-04-09T22:00:07.593Z",
+    "from": "2026-04-01T22:30:10.476Z",
+    "to": "2026-04-09T22:30:10.476Z",
     "days": 8
   },
   "sources": [
@@ -101,11 +101,11 @@
       "articleCount": 9
     },
     {
-      "label": "corriere.it",
-      "articleCount": 6
+      "label": "ilfattoquotidiano.it",
+      "articleCount": 7
     },
     {
-      "label": "ilfattoquotidiano.it",
+      "label": "corriere.it",
       "articleCount": 6
     },
     {
@@ -164,22 +164,22 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 100,
-      "uniqueArticles": 50
+      "fetchedArticles": 102,
+      "uniqueArticles": 51
+    },
+    {
+      "label": "Soci e societa'",
+      "fetchedArticles": 46,
+      "uniqueArticles": 3
     },
     {
       "label": "Bisteccheria",
       "fetchedArticles": 37,
-      "uniqueArticles": 3
-    },
-    {
-      "label": "Soci e societa'",
-      "fetchedArticles": 45,
-      "uniqueArticles": 3
+      "uniqueArticles": 2
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 27,
+      "fetchedArticles": 28,
       "uniqueArticles": 1
     },
     {
@@ -199,12 +199,12 @@
       "count": 28
     },
     {
-      "tag": "societa'",
-      "count": 10
+      "tag": "giudiziaria",
+      "count": 9
     },
     {
-      "tag": "giudiziaria",
-      "count": 7
+      "tag": "societa'",
+      "count": 9
     },
     {
       "tag": "bisteccheria",
@@ -212,7 +212,7 @@
     },
     {
       "tag": "politica",
-      "count": 4
+      "count": 5
     },
     {
       "tag": "territorio",
@@ -222,7 +222,7 @@
   "timeline": [
     {
       "date": "2026-04-02",
-      "count": 9
+      "count": 8
     },
     {
       "date": "2026-04-03",
@@ -254,15 +254,56 @@
     },
     {
       "date": "2026-04-10",
-      "count": 0
+      "count": 2
     }
   ],
   "articles": [
     {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro pm indagano sui rapporti fratelli caroccia__2026-04-09T22:01:00.000Z",
+      "title": "Caso Delmastro, i pm indagano sui rapporti tra i fratelli Caroccia",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSEpMQXFHNU9pZ0xjVllIVE5DTjQxV3ZGWE5mdkQzbm5GWWx3M05NcGxtVUQyTzZGb2l1Rm5QdVExXzZmU3BORUFEODBTaTJFY0lucGZ4RXNPdkZLUTlSYl9raVVaV295eUdSSHgwQ0c2NmctUXRuTVBwbnVrbHVUM2Y4S0dUWlEyZmN6RnZRSlpfVGREcjllVmRLVlRsbWFfazI1T2xpMnpVREhYOW50QWpGcXg4TWNBdXZyN0xZUzNTbWNpMEtSaHBrTndTTllBeFJTOA?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSEpMQXFHNU9pZ0xjVllIVE5DTjQxV3ZGWE5mdkQzbm5GWWx3M05NcGxtVUQyTzZGb2l1Rm5QdVExXzZmU3BORUFEODBTaTJFY0lucGZ4RXNPdkZLUTlSYl9raVVaV295eUdSSHgwQ0c2NmctUXRuTVBwbnVrbHVUM2Y4S0dUWlEyZmN6RnZRSlpfVGREcjllVmRLVlRsbWFfazI1T2xpMnpVREhYOW50QWpGcXg4TWNBdXZyN0xZUzNTbWNpMEtSaHBrTndTTllBeFJTOA?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-04-09T22:01:00.000Z",
+      "excerpt": "Caso Delmastro, i pm indagano sui rapporti tra i fratelli Caroccia",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__l antimafia indaghi anche fdi mossa meloni uscire dall angolo partito vuol processare delmastro__2026-04-09T22:01:00.000Z",
+      "title": "“L’Antimafia indaghi anche su Fdi”. La mossa di Meloni per uscire dall’angolo. E il partito vuol “processare” Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQLVFJbEFUUnZaOHlsTF84SEptSV9taUNLWkx3WUZuMjNZVi0tN1doNWtTcjR3LWdyNi00ZDlKMWd4MUFQaVFxcFV0cWpQbldaVmphVVhWLXVhY29rTXVSZ2FuVGg2ZHU2UjBBZVZDLUE0OVVrVHdWLUlXSE9SV2tWNFl0WTBxSW5QS2VXdy0zOWZKOFJKTTF1NUtQZDlCYzlBekNQMEJCbzNta2hrbThLVkQxdllfX0hTdTZGYl9oZ0sxcUQ5cVg0WS1LTDJNNmh1cmpMeGxXSWtnT1VmNjByUFRaUHlFWlpob0J0RmZPZ3lWbXF6NTJkSEl3WFRFYzN0aDNKeVJKY3ZpMy1WdjJwanN3?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQLVFJbEFUUnZaOHlsTF84SEptSV9taUNLWkx3WUZuMjNZVi0tN1doNWtTcjR3LWdyNi00ZDlKMWd4MUFQaVFxcFV0cWpQbldaVmphVVhWLXVhY29rTXVSZ2FuVGg2ZHU2UjBBZVZDLUE0OVVrVHdWLUlXSE9SV2tWNFl0WTBxSW5QS2VXdy0zOWZKOFJKTTF1NUtQZDlCYzlBekNQMEJCbzNta2hrbThLVkQxdllfX0hTdTZGYl9oZ0sxcUQ5cVg0WS1LTDJNNmh1cmpMeGxXSWtnT1VmNjByUFRaUHlFWlpob0J0RmZPZ3lWbXF6NTJkSEl3WFRFYzN0aDNKeVJKY3ZpMy1WdjJwanN3?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica",
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-04-09T22:01:00.000Z",
+      "excerpt": "“L’Antimafia indaghi anche su Fdi”. La mossa di Meloni per uscire dall’angolo. E il partito vuol “processare” Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "corriere.it__corriere roma__caso delmastro verifiche si allargano tutti caroccia__2026-04-09T20:36:37.000Z",
       "title": "Caso Delmastro, le verifiche si allargano a tutti i Caroccia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaUhTdEw3YWRfOGxlZW4yQlBHYm9Nd1REZzRoNXZmeUE4MWg2czZLMmNweFhsdk40cXlYM2pxMjRxLU5CU1F5eGNzX09TX2dxb0xvTU9sTkRZckZzN0MtdkxOVFF0aW5oWFhZT1M5RWl6OVBJZUF3cnRlVVdKUnlfTjRaSlFIOXBPYWtOYWlGZmcxc0ZFS3BveTRWWXgzNGVGRUpWSzJPT185azh4dGtFcmdfdmxUM1FxYnhJY0pjbE5VVXJ2LXhtRDhB0gHPAUFVX3lxTE1JVGJsV1ZTN1RPRVNpQnF1dW4yLVNDRVJWLWhJS0MyZ1JNcHlYTWhXVlI5X2pyZnphMVp3R1pRWElPRFk0Nm9xRVcwY3doV0puRUl4S1pnd3k2NG1DVldzeWttWHdQUTVES05iY25JZWJCOHBCaF9XVUZLNDlXekFMUEduQS1GU3h0NXlKUDZLbzhxT3libXN1bnJHOGkxOG14Q3J1UFdKVXJPZzBWY1J1ekoxWmFDVXhQLVNmYVVZR0NTajN0Z216aWE4bW1nSQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaUhTdEw3YWRfOGxlZW4yQlBHYm9Nd1REZzRoNXZmeUE4MWg2czZLMmNweFhsdk40cXlYM2pxMjRxLU5CU1F5eGNzX09TX2dxb0xvTU9sTkRZckZzN0MtdkxOVFF0aW5oWFhZT1M5RWl6OVBJZUF3cnRlVVdKUnlfTjRaSlFIOXBPYWtOYWlGZmcxc0ZFS3BveTRWWXgzNGVGRUpWSzJPT185azh4dGtFcmdfdmxUM1FxYnhJY0pjbE5VVXJ2LXhtRDhB0gHPAUFVX3lxTE1JVGJsV1ZTN1RPRVNpQnF1dW4yLVNDRVJWLWhJS0MyZ1JNcHlYTWhXVlI5X2pyZnphMVp3R1pRWElPRFk0Nm9xRVcwY3doV0puRUl4S1pnd3k2NG1DVldzeWttWHdQUTVES05iY25JZWJCOHBCaF9XVUZLNDlXekFMUEduQS1GU3h0NXlKUDZLbzhxT3libXN1bnJHOGkxOG14Q3J1UFdKVXJPZzBWY1J1ekoxWmFDVXhQLVNmYVVZR0NTajN0Z216aWE4bW1nSQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSVRibFdWUzdUT0VTaUJxdXVuMi1TQ0VSVi1oSUtDMmdSTXB5WE1oV1ZSOV9qcmZ6YTFad0daUVhJT0RZNDZvcUVXMGN3aFdKbkVJeEtaZ3d5NjRtQ1ZXc3lrbVh3UFE1REtOYmNuSWViQjhwQmhfV1VGSzQ5V3pBTFBHbkEtRlN4dDV5SlA2S284cU95Ym1zdW5yRzhpMThteENydVBXSlVyT2cwVmNSdXpKMVphQ1V4UC1TZmFVWUdDU2ozdGdtemlhOG1tZ0nSAc8BQVVfeXFMTUlUYmxXVlM3VE9FU2lCcXV1bjItU0NFUlYtaElLQzJnUk1weVhNaFdWUjlfanJmemExWndHWlFYSU9EWTQ2b3FFVzBjd2hXSm5FSXhLWmd3eTY0bUNWV3N5a21Yd1BRNURLTmJjbkllYkI4cEJoX1dVRks0OVd6QUxQR25BLUZTeHQ1eUpQNktvOHFPeWJtc3Vuckc4aTE4bXhDcnVQV0pVck9nMFZjUnV6SjFaYUNVeFAtU2ZhVVlHQ1NqM3RnbXppYThtbWdJ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSVRibFdWUzdUT0VTaUJxdXVuMi1TQ0VSVi1oSUtDMmdSTXB5WE1oV1ZSOV9qcmZ6YTFad0daUVhJT0RZNDZvcUVXMGN3aFdKbkVJeEtaZ3d5NjRtQ1ZXc3lrbVh3UFE1REtOYmNuSWViQjhwQmhfV1VGSzQ5V3pBTFBHbkEtRlN4dDV5SlA2S284cU95Ym1zdW5yRzhpMThteENydVBXSlVyT2cwVmNSdXpKMVphQ1V4UC1TZmFVWUdDU2ozdGdtemlhOG1tZ0nSAc8BQVVfeXFMTUlUYmxXVlM3VE9FU2lCcXV1bjItU0NFUlYtaElLQzJnUk1weVhNaFdWUjlfanJmemExWndHWlFYSU9EWTQ2b3FFVzBjd2hXSm5FSXhLWmd3eTY0bUNWV3N5a21Yd1BRNURLTmJjbkllYkI4cEJoX1dVRks0OVd6QUxQR25BLUZTeHQ1eUpQNktvOHFPeWJtc3Vuckc4aTE4bXhDcnVQV0pVck9nMFZjUnV6SjFaYUNVeFAtU2ZhVVlHQ1NqM3RnbXppYThtbWdJ?oc=5",
       "source": "Corriere Roma",
       "sourceHost": "corriere.it",
       "queryLabel": "Delmastro generale",
@@ -626,10 +667,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOT0ducm5VTTBLX3pOTDVjVDBBYWxYXzlZMWNtdXJBT2Q1OU1lQ1luQkFxVFBaNm1uR3dYUF9qSlprTWpadW15OUlMVWZIS3FnRm1ETDQyVTEwV2w0RHQzeHo3QXlfU0pzcDN3V1ROOHVDMlM1N1NjanhEQUtvQTVFajM4SS1Xal8wdjk2NlU0cVVvVUZZYm5lY19SV00tRnlFR1ZMZ2c0bk40dXI3RUQ1ckRjWDdtZEhzRkFLZ3VmTlZBOWcxa3NFUFAzeXJaTEV2Z3lkNENfRDVnYnhoQ3BKLVdCMXJMVzZwNHIzVTdPcDlsdGFacWI2aGl2SmYtdFdtMDhWYmIyZFJDNjZ3eF9MVE5oUURONTZfRUtnRXB2bzhWNVRKbl9xLU9zS21JWkRLdFpBVmxSelk2U2gxZmfSAcMCQVVfeXFMT0s0eDJfaDFicXlSbHRiUXpQUy0yREp0UGx2dGk3SVpQclk5aGc1RHMzMkt5VEVtTnlUcDk4SVZmX3V1aXRtSHpnRVhvb3F4ek84QjB1dmZWR2I3anRSMUM0bGpLUk14U0FvZG0yTzl5WktzWlFUQXg0NjRvSkNiODVTZlRQOEN1OG1uOHBSVWM3eEk1MnlVNEowNVZZQWxtNW9hTDR0MWJRZzlHUVZkZG9KNGNoU2E5RFlWdlJSOXdWeTFTX0o3d08wUWNpWE8xSDdUQUk5ZmVudWdEcE1BeFdMWDN2WmdsdWlDWmNPSTBzZXFNcWtvUUljUWRrNmhKUzNKTFBhOHF6OWFhdFh6N0dOM05JV1JNa0htM3FXSEJyQW9OdVNhSndRbTVGbUxGTGNXc1V6Rjd3TjJMQ2RZdjVxNFk?oc=5",
       "source": "Corriere della Sera",
       "sourceHost": "corriere.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "bisteccheria"
@@ -1289,26 +1330,6 @@
       ],
       "publishedAt": "2026-04-01T23:00:00.000Z",
       "excerpt": "Caroccia ai pm: “Delmastro è stato il mio benefattore. Eravamo in società insieme”",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__caroccia insolvente mise figlia srl delmastro sapeva__2026-04-01T22:01:00.000Z",
-      "title": "“Caroccia insolvente mise la figlia nella srl e Delmastro sapeva”",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdDZleUhRdWlhYko2bzRVLXF2dzEzcnVCakNjWU04Nms5d1NESnN1dVFBQkNRTjQyRWczQzZJMHo4SUV4eG5sa2ppOU05c09ZTGFfM056RWVmUFUwbHEyVjBhbFFiLVNSbVcyd1I4QWRjeDhYSm5YanlZdlZEOUhiajMzOFp0YVFJaU8yVExPT3hxYzJCOXp1XzR0N0tTdW1QZTF3OExKaERZa0xIQUNOVG1xWEhmU2RwRlJZSEdIUXRHbkw5UW9YWlJPS0dSRjZRVUE?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdDZleUhRdWlhYko2bzRVLXF2dzEzcnVCakNjWU04Nms5d1NESnN1dVFBQkNRTjQyRWczQzZJMHo4SUV4eG5sa2ppOU05c09ZTGFfM056RWVmUFUwbHEyVjBhbFFiLVNSbVcyd1I4QWRjeDhYSm5YanlZdlZEOUhiajMzOFp0YVFJaU8yVExPT3hxYzJCOXp1XzR0N0tTdW1QZTF3OExKaERZa0xIQUNOVG1xWEhmU2RwRlJZSEdIUXRHbkw5UW9YWlJPS0dSRjZRVUE?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "societa'"
-      ],
-      "publishedAt": "2026-04-01T22:01:00.000Z",
-      "excerpt": "“Caroccia insolvente mise la figlia nella srl e Delmastro sapeva”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     }

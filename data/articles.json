@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T09:30:07.972Z",
+  "generatedAt": "2026-04-09T10:00:07.622Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -91,8 +91,8 @@
     ]
   },
   "window": {
-    "from": "2026-04-01T09:30:07.972Z",
-    "to": "2026-04-09T09:30:07.972Z",
+    "from": "2026-04-01T10:00:07.622Z",
+    "to": "2026-04-09T10:00:07.622Z",
     "days": 8
   },
   "sources": [
@@ -105,12 +105,12 @@
       "articleCount": 10
     },
     {
-      "label": "lastampa.it",
+      "label": "ansa.it",
       "articleCount": 9
     },
     {
-      "label": "ansa.it",
-      "articleCount": 9
+      "label": "lastampa.it",
+      "articleCount": 8
     },
     {
       "label": "quotidiano.net",
@@ -133,10 +133,6 @@
       "articleCount": 4
     },
     {
-      "label": "tg24.sky.it",
-      "articleCount": 4
-    },
-    {
       "label": "fanpage.it",
       "articleCount": 3
     },
@@ -147,6 +143,10 @@
     {
       "label": "tgcom24.mediaset.it",
       "articleCount": 3
+    },
+    {
+      "label": "tg24.sky.it",
+      "articleCount": 2
     },
     {
       "label": "huffingtonpost.it",
@@ -168,22 +168,22 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 165,
-      "uniqueArticles": 81
+      "fetchedArticles": 159,
+      "uniqueArticles": 78
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 58,
+      "fetchedArticles": 56,
       "uniqueArticles": 6
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 65,
+      "fetchedArticles": 64,
       "uniqueArticles": 5
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 47,
+      "fetchedArticles": 45,
       "uniqueArticles": 2
     },
     {
@@ -200,11 +200,11 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 41
+      "count": 40
     },
     {
       "tag": "giudiziaria",
-      "count": 21
+      "count": 19
     },
     {
       "tag": "societa'",
@@ -226,7 +226,7 @@
   "timeline": [
     {
       "date": "2026-04-01",
-      "count": 38
+      "count": 35
     },
     {
       "date": "2026-04-02",
@@ -1945,66 +1945,6 @@
       ],
       "publishedAt": "2026-04-01T10:06:02.000Z",
       "excerpt": "I Caroccia interrogati dai pm. \"Delmastro? È estraneo\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "tg24.sky.it__sky tg24__mauro caroccia interrogato dai pm delmastro ci ha fatto beneficenza ero incensurato__2026-04-01T09:58:05.000Z",
-      "title": "Mauro Caroccia interrogato dai pm: \"Delmastro ci ha fatto beneficenza. Ero incensurato\"",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1BEcW53TkZHQ09ZU1dxWFU3V2hhRHRIaXJzdG9naG42MElLMEw0MjJQZ0NfVE5hWkxRNzhYVWFOM2NBa1hWMHBVdWNDWUZTMVYyRnRlMlk0VUlUMW56TVh1QVItbjhhWWN4dnhvN0RVMDkzSUpwcnBrTURKSllVZnlrdjBKbVBNN2dYWWlwbWpXdlZh?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1BEcW53TkZHQ09ZU1dxWFU3V2hhRHRIaXJzdG9naG42MElLMEw0MjJQZ0NfVE5hWkxRNzhYVWFOM2NBa1hWMHBVdWNDWUZTMVYyRnRlMlk0VUlUMW56TVh1QVItbjhhWWN4dnhvN0RVMDkzSUpwcnBrTURKSllVZnlrdjBKbVBNN2dYWWlwbWpXdlZh?oc=5",
-      "source": "Sky TG24",
-      "sourceHost": "tg24.sky.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-04-01T09:58:05.000Z",
-      "excerpt": "Mauro Caroccia interrogato dai pm: \"Delmastro ci ha fatto beneficenza. Ero incensurato\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "lastampa.it__la stampa__difesa caroccia davanti pm soldi sono delmastro non criminalita__2026-04-01T09:57:00.000Z",
-      "title": "La difesa dei Caroccia davanti ai pm: “I soldi sono di Delmastro, non della criminalità”",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOXdNMW4wZ2lsSWRwSV9mREFab3F5NDJZZFE1bnNkdTJ5c1IwZVJ2Ni1uUmZlNmQ4Sk9zSXdnTkJyQWJwWUZvWHl1b3drc3JLSHE2OTREc2w0Y3h6aHU5ZDhwbEJQaDktOE9LUHNXa1hHUW1SaFRWSEp0TDdNeVRlc0xHNVV6UmtUZnpEd19yNkMzQUNEdWtZSU9Zd0FabFhJbjQ3OGZ5N3VNQVZPZTNybXBxbWFWbUc3TC1HNGpreC1kNmhueU5hZkIzcTZzcXZJXzRyVWgtbDFLQkXSAeABQVVfeXFMTTRVWTY2WFQ0cEZzbUcxaE5ZMlItOTA3UktLVEplajgyWlA0Z1N4U2UtVVM0SU9YSDYwODhxaTlKb21XaTNQTzVsdjhkd1hSR29kSzc4aGx5N05USlpBZXFndXQ0eC1EVWREZ3p3ZFN6VlZpclhWWllkdzRhcDNaWmVtcGVvTXRValJ1bEhnZElVZklkdTRnYUM4aXFibktNdGwzc2lrcGpsbEVZR1EtWV8zQzJ0QzJnNnFjb2RMb1NiRl9mSW50ZTgxQTctYnBEcHVhOTVxNVZ1OGZnZ0FRZWw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOXdNMW4wZ2lsSWRwSV9mREFab3F5NDJZZFE1bnNkdTJ5c1IwZVJ2Ni1uUmZlNmQ4Sk9zSXdnTkJyQWJwWUZvWHl1b3drc3JLSHE2OTREc2w0Y3h6aHU5ZDhwbEJQaDktOE9LUHNXa1hHUW1SaFRWSEp0TDdNeVRlc0xHNVV6UmtUZnpEd19yNkMzQUNEdWtZSU9Zd0FabFhJbjQ3OGZ5N3VNQVZPZTNybXBxbWFWbUc3TC1HNGpreC1kNmhueU5hZkIzcTZzcXZJXzRyVWgtbDFLQkXSAeABQVVfeXFMTTRVWTY2WFQ0cEZzbUcxaE5ZMlItOTA3UktLVEplajgyWlA0Z1N4U2UtVVM0SU9YSDYwODhxaTlKb21XaTNQTzVsdjhkd1hSR29kSzc4aGx5N05USlpBZXFndXQ0eC1EVWREZ3p3ZFN6VlZpclhWWllkdzRhcDNaWmVtcGVvTXRValJ1bEhnZElVZklkdTRnYUM4aXFibktNdGwzc2lrcGpsbEVZR1EtWV8zQzJ0QzJnNnFjb2RMb1NiRl9mSW50ZTgxQTctYnBEcHVhOTVxNVZ1OGZnZ0FRZWw?oc=5",
-      "source": "La Stampa",
-      "sourceHost": "lastampa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-04-01T09:57:00.000Z",
-      "excerpt": "La difesa dei Caroccia davanti ai pm: “I soldi sono di Delmastro, non della criminalità”",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "tg24.sky.it__sky tg24__legale caroccia delmastro unico che ha teso mano__2026-04-01T09:39:47.000Z",
-      "title": "Legale Caroccia: Delmastro \"unico che ha teso una mano\"",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMEhOWk40R2oyb0xydkNqMG1jbVBfRk5IZ2hpOU9QNHRWOGNzVTJTeHZPajVLNlZHTWZJOG92OGJuWjZrb2xjX05oY3NBSmpseUotOFM3Q2o3SlQzalZibzJ6SjY4TEJCRjNkQlNiaGJaVF91cHpPZ1dxR3V0WjBvZUlTQjZnV1RRUGloR2dpdGdFUHprdGNDOVBKeTM2aTdUSkw4aVFlS1M?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMEhOWk40R2oyb0xydkNqMG1jbVBfRk5IZ2hpOU9QNHRWOGNzVTJTeHZPajVLNlZHTWZJOG92OGJuWjZrb2xjX05oY3NBSmpseUotOFM3Q2o3SlQzalZibzJ6SjY4TEJCRjNkQlNiaGJaVF91cHpPZ1dxR3V0WjBvZUlTQjZnV1RRUGloR2dpdGdFUHprdGNDOVBKeTM2aTdUSkw4aVFlS1M?oc=5",
-      "source": "Sky TG24",
-      "sourceHost": "tg24.sky.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-01T09:39:47.000Z",
-      "excerpt": "Legale Caroccia: Delmastro \"unico che ha teso una mano\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     }

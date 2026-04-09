@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T10:00:07.622Z",
+  "generatedAt": "2026-04-09T10:30:07.852Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -91,8 +91,8 @@
     ]
   },
   "window": {
-    "from": "2026-04-01T10:00:07.622Z",
-    "to": "2026-04-09T10:00:07.622Z",
+    "from": "2026-04-01T10:30:07.852Z",
+    "to": "2026-04-09T10:30:07.852Z",
     "days": 8
   },
   "sources": [
@@ -168,8 +168,8 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 159,
-      "uniqueArticles": 78
+      "fetchedArticles": 157,
+      "uniqueArticles": 77
     },
     {
       "label": "Bisteccheria",
@@ -183,12 +183,12 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 45,
+      "fetchedArticles": 44,
       "uniqueArticles": 2
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 19,
+      "fetchedArticles": 18,
       "uniqueArticles": 0
     },
     {
@@ -200,11 +200,11 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "giudiziaria",
-      "count": 19
+      "count": 18
     },
     {
       "tag": "societa'",
@@ -226,7 +226,7 @@
   "timeline": [
     {
       "date": "2026-04-01",
-      "count": 35
+      "count": 34
     },
     {
       "date": "2026-04-02",
@@ -258,10 +258,30 @@
     },
     {
       "date": "2026-04-09",
-      "count": 6
+      "count": 7
     }
   ],
   "articles": [
+    {
+      "id": "ilgiornale.it__il giornale__versione moglie caroccia nulla che fare senese__2026-04-09T10:04:14.000Z",
+      "title": "La versione della moglie di Caroccia. \"Nulla a che fare con i Senese\"",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOW9wSDNoUTRaVEZRY0luVFN5dzJEU2tmOFU4TDFpdlNkVERBRm9kNWdMQVNwZER0WnUxOUNJUFo0WkRTcDBmVGtaMmhZOWRKOUJvS3R3cnY0ZXlUMXpzS1F0VmNfdU1PM3ZvaDJfNU5BdVZMSEJ1bW5qc082a29ZMm4tNGdUSXhtZ21Yd2ZFcEVoU29OcEdtNnpTX210ZVJWbEJBclVEbUg?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOW9wSDNoUTRaVEZRY0luVFN5dzJEU2tmOFU4TDFpdlNkVERBRm9kNWdMQVNwZER0WnUxOUNJUFo0WkRTcDBmVGtaMmhZOWRKOUJvS3R3cnY0ZXlUMXpzS1F0VmNfdU1PM3ZvaDJfNU5BdVZMSEJ1bW5qc082a29ZMm4tNGdUSXhtZ21Yd2ZFcEVoU29OcEdtNnpTX210ZVJWbEJBclVEbUg?oc=5",
+      "source": "il Giornale",
+      "sourceHost": "ilgiornale.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-09T10:04:14.000Z",
+      "excerpt": "La versione della moglie di Caroccia. \"Nulla a che fare con i Senese\"",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
     {
       "id": "lastampa.it__la stampa__delmastro chat gestire bisteccheria gruppo fedelissimi prestanome boss__2026-04-09T07:32:00.000Z",
       "title": "Delmastro e la chat per gestire la Bisteccheria. Nel gruppo i fedelissimi e il prestanome del boss",
@@ -751,26 +771,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ansa.it__ansa__sequestrato cellulare caroccia setaccio chat messaggi__2026-04-07T11:03:11.000Z",
-      "title": "Sequestrato cellulare a Caroccia, a setaccio chat e messaggi",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX0xJRVN4OG9WMjMxTHAtTjNrWGxFNUZkLUVZRTJiNER2Z2ZXY0tpaFpuV1pYbnlVZkN4SmRkanIwS2U3RmM4RENpQVNZUENzR3R2d2U4SEJHRkVfeXhmN1pLMnpZTzNzdjA5MVlhY203UjZXOUVrV3B0Ym9qc0FXN2JaRG5ERHl6WmYzLWxrVzVmZkJ0Wll5Uk9GdjBld3k4NXBZME52NWtZYVJ3ZmtUTDZzQU1RSGk4dFZUdDZWcWNlSWQyN0FDaUF0RjBKdWNSeWhrUVJSUHJiMEJrajlSejJmcHbSAeQBQVVfeXFMTl9MSUVTeDhvVjIzMUxwLU4za1hsRTVGZC1FWUUyYjREdmdmV2NLaWhabldaWG55VWZDeEpkZGpyMEtlN0ZjOERDaUFTWVBDc0d0dndlOEhCR0ZFX3l4ZjdaSzJ6WU8zc3YwOTFZYWNtN1I2VzlFa1dwdGJvanNBVzdiWkRuRER5elpmMy1sa1c1ZmZCdFpZeVJPRnYwZXd5ODVwWTBOdjVrWWFSd2ZrVEw2c0FNUUhpOHRWVHQ2VnFjZUlkMjdBQ2lBdEYwSnVjUnloa1FSUlByYjBCa2o5UnoyZnB2?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX0xJRVN4OG9WMjMxTHAtTjNrWGxFNUZkLUVZRTJiNER2Z2ZXY0tpaFpuV1pYbnlVZkN4SmRkanIwS2U3RmM4RENpQVNZUENzR3R2d2U4SEJHRkVfeXhmN1pLMnpZTzNzdjA5MVlhY203UjZXOUVrV3B0Ym9qc0FXN2JaRG5ERHl6WmYzLWxrVzVmZkJ0Wll5Uk9GdjBld3k4NXBZME52NWtZYVJ3ZmtUTDZzQU1RSGk4dFZUdDZWcWNlSWQyN0FDaUF0RjBKdWNSeWhrUVJSUHJiMEJrajlSejJmcHbSAeQBQVVfeXFMTl9MSUVTeDhvVjIzMUxwLU4za1hsRTVGZC1FWUUyYjREdmdmV2NLaWhabldaWG55VWZDeEpkZGpyMEtlN0ZjOERDaUFTWVBDc0d0dndlOEhCR0ZFX3l4ZjdaSzJ6WU8zc3YwOTFZYWNtN1I2VzlFa1dwdGJvanNBVzdiWkRuRER5elpmMy1sa1c1ZmZCdFpZeVJPRnYwZXd5ODVwWTBOdjVrWWFSd2ZrVEw2c0FNUUhpOHRWVHQ2VnFjZUlkMjdBQ2lBdEYwSnVjUnloa1FSUlByYjBCa2o5UnoyZnB2?oc=5",
-      "source": "ANSA",
-      "sourceHost": "ansa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-07T11:03:11.000Z",
-      "excerpt": "Sequestrato cellulare a Caroccia, a setaccio chat e messaggi",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "quotidiano.net__quotidiano nazionale__sequestrato cellulare caroccia setaccio chat messaggi__2026-04-07T11:02:25.000Z",
       "title": "Sequestrato cellulare a Caroccia, a setaccio chat e messaggi",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRXFnbFNQRU9feUJTdTdxY0pCbG94d1FvME5MSmFEM2QzcjlMTzh2dEhYM3ZfRDA5anNERUZSNGptbHo5Q1otdGhSWmtfU0w2bWJOdk5TdDVWb0xMUTNRMmlEcUFTdmxfbHJYOUN4YnhCeFoyVUI1ZF83R2RHVnh1RldUVXdVb0U?oc=5",
@@ -847,6 +847,26 @@
       ],
       "publishedAt": "2026-04-07T10:53:53.000Z",
       "excerpt": "Caso Delmastro, sequestrato cellulare a Caroccia: al setaccio le chat",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ansa.it__ansa__sequestrato cellulare caroccia setaccio chat messaggi__2026-04-07T10:52:00.000Z",
+      "title": "Sequestrato cellulare a Caroccia, a setaccio chat e messaggi",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSWxuSkk4VVRtRGllcW94SkprTmF1LUladzUtSlZmX1dQblBNN1I0WnY5aFlpcm83MmNEaHgwbmU1aVd3bkxaNXJLcGhLMUJRdUpIZHlrQXE1bjczR3dUTnFVVlo4ejZwdmc5TE9weWoydFRUbHh4UTFfTWZoQWFNRW9CZUFGNS1zaU9xZV8xaWM0VTdhYmdlWHlKaDFNVXQtelBOVVdSYjR4MnZMOGFFSVY0ZU9jNGdmQTF3a3VxNkVIV0xQR2NjV1ZDNm9QejNNMndKaVQ4ZW9CTC0ybXFLc05tNWRCcWoy0gHuAUFVX3lxTFB3TTBLTlMxS2JEbEtGTVhhaGJnVC1tQXozZ1N5QjB2eW5mbTNOR1JzQkx1LVFaWURRbmFlRGRsU3MxQ05YR3E0di1zckNNb3pTVkdHNlNraGRlQlg3UWZJZ0RGWXVJc19aR2hLMEdOTzJiU2JvOE5qS2RGX1Z0OUhtZXlhMC0xNlExOWdMU2x5U2VlTjdlSC1xQmRrQU9YN2pkWTc1LXB5MFBoWmlxZEJEcFpZZXZWQXZmNEUyY19Ha0NnX3RDY0ZBaGphUkRzY2FuVjhCdmFXU2xlTTRHTmtMS3AteXQzQ0czNDFDY0E?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSWxuSkk4VVRtRGllcW94SkprTmF1LUladzUtSlZmX1dQblBNN1I0WnY5aFlpcm83MmNEaHgwbmU1aVd3bkxaNXJLcGhLMUJRdUpIZHlrQXE1bjczR3dUTnFVVlo4ejZwdmc5TE9weWoydFRUbHh4UTFfTWZoQWFNRW9CZUFGNS1zaU9xZV8xaWM0VTdhYmdlWHlKaDFNVXQtelBOVVdSYjR4MnZMOGFFSVY0ZU9jNGdmQTF3a3VxNkVIV0xQR2NjV1ZDNm9QejNNMndKaVQ4ZW9CTC0ybXFLc05tNWRCcWoy0gHuAUFVX3lxTFB3TTBLTlMxS2JEbEtGTVhhaGJnVC1tQXozZ1N5QjB2eW5mbTNOR1JzQkx1LVFaWURRbmFlRGRsU3MxQ05YR3E0di1zckNNb3pTVkdHNlNraGRlQlg3UWZJZ0RGWXVJc19aR2hLMEdOTzJiU2JvOE5qS2RGX1Z0OUhtZXlhMC0xNlExOWdMU2x5U2VlTjdlSC1xQmRrQU9YN2pkWTc1LXB5MFBoWmlxZEJEcFpZZXZWQXZmNEUyY19Ha0NnX3RDY0ZBaGphUkRzY2FuVjhCdmFXU2xlTTRHTmtMS3AteXQzQ0czNDFDY0E?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-07T10:52:00.000Z",
+      "excerpt": "Sequestrato cellulare a Caroccia, a setaccio chat e messaggi",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1925,26 +1945,6 @@
       ],
       "publishedAt": "2026-04-01T10:45:00.000Z",
       "excerpt": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato'",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilgiornale.it__il giornale__caroccia interrogati dai pm delmastro estraneo__2026-04-01T10:06:02.000Z",
-      "title": "I Caroccia interrogati dai pm. \"Delmastro? È estraneo\"",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2VBU3VZd2ZGY2I3ckhqNlJocTJFTXRLZWptTkwzb0thMlZnRWFYZHJicExiTjJmdUdrUThoMmowaWd3MzZqS2RldTJaMUE1Um9BYnZxUHRlZXNmU2hReEctR3FjZTYyOHJ1NVNQcnlESUMzU2dfTFV5UE5KS3NoZE5IMlhEVk56dHhsSUR3b3pLcG5mcnFYZU45bkUxbm9tZjRPUFdZT0U?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2VBU3VZd2ZGY2I3ckhqNlJocTJFTXRLZWptTkwzb0thMlZnRWFYZHJicExiTjJmdUdrUThoMmowaWd3MzZqS2RldTJaMUE1Um9BYnZxUHRlZXNmU2hReEctR3FjZTYyOHJ1NVNQcnlESUMzU2dfTFV5UE5KS3NoZE5IMlhEVk56dHhsSUR3b3pLcG5mcnFYZU45bkUxbm9tZjRPUFdZT0U?oc=5",
-      "source": "il Giornale",
-      "sourceHost": "ilgiornale.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-04-01T10:06:02.000Z",
-      "excerpt": "I Caroccia interrogati dai pm. \"Delmastro? È estraneo\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     }

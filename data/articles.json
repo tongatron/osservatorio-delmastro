@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T00:30:08.231Z",
+  "generatedAt": "2026-04-09T01:00:09.968Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -91,8 +91,8 @@
     ]
   },
   "window": {
-    "from": "2026-04-01T00:30:08.231Z",
-    "to": "2026-04-09T00:30:08.231Z",
+    "from": "2026-04-01T01:00:09.968Z",
+    "to": "2026-04-09T01:00:09.968Z",
     "days": 8
   },
   "sources": [
@@ -133,10 +133,6 @@
       "articleCount": 4
     },
     {
-      "label": "tg24.sky.it",
-      "articleCount": 4
-    },
-    {
       "label": "fanpage.it",
       "articleCount": 3
     },
@@ -146,6 +142,10 @@
     },
     {
       "label": "tgcom24.mediaset.it",
+      "articleCount": 3
+    },
+    {
+      "label": "tg24.sky.it",
       "articleCount": 3
     },
     {
@@ -172,18 +172,18 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 176,
-      "uniqueArticles": 86
+      "fetchedArticles": 172,
+      "uniqueArticles": 84
+    },
+    {
+      "label": "Bisteccheria",
+      "fetchedArticles": 60,
+      "uniqueArticles": 5
     },
     {
       "label": "Soci e societa'",
       "fetchedArticles": 68,
       "uniqueArticles": 5
-    },
-    {
-      "label": "Bisteccheria",
-      "fetchedArticles": 59,
-      "uniqueArticles": 4
     },
     {
       "label": "Filone giudiziario",
@@ -204,7 +204,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 41
+      "count": 40
     },
     {
       "tag": "giudiziaria",
@@ -230,7 +230,7 @@
   "timeline": [
     {
       "date": "2026-04-01",
-      "count": 47
+      "count": 46
     },
     {
       "date": "2026-04-02",
@@ -1280,26 +1280,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "tg24.sky.it__sky tg24__caso delmastro interrogati caroccia figlia miriam__2026-04-01T16:12:44.000Z",
-      "title": "Caso Delmastro, interrogati Caroccia e la figlia Miriam",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTWRrNk5teFYzVkhrNHRRNnNtaFYwd1Awc1lIR2JMb1RKWTAtRmtlelZzbGNPYkEyZnNXLVd5bnY4SktFWTUxR3dwaWRScDdHTDcwampBbG80NEVYS05mMUJ6aVFudDBiZFQ4QzJVVmd0QnlhSk9iSHA3eGFVWFhBdlNYQnRmYzBwNjg4UFFOYmRGXzk2RjdsV0ZkZw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTWRrNk5teFYzVkhrNHRRNnNtaFYwd1Awc1lIR2JMb1RKWTAtRmtlelZzbGNPYkEyZnNXLVd5bnY4SktFWTUxR3dwaWRScDdHTDcwampBbG80NEVYS05mMUJ6aVFudDBiZFQ4QzJVVmd0QnlhSk9iSHA3eGFVWFhBdlNYQnRmYzBwNjg4UFFOYmRGXzk2RjdsV0ZkZw?oc=5",
-      "source": "Sky TG24",
-      "sourceHost": "tg24.sky.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-01T16:12:44.000Z",
-      "excerpt": "Caso Delmastro, interrogati Caroccia e la figlia Miriam",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ilgiornale.it__il giornale__caso delmastro l annuncio avs decisione unanime comitato condotta sanzionarlo__2026-04-01T15:21:55.000Z",
       "title": "Caso Delmastro, l'annuncio di Avs: \"Decisione unanime del Comitato di condotta di sanzionarlo\"",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMzUteGMwUWhWYWVEOHZWTTVXM1VlOXc0ZmRTMDFsMHFIa0VJSlBxM2U5ZzVfSWMtYjZIc0xROHZlM0tvTlhoUWNsYlYyUS1USGRmSnd0eWRvV1dVNlZjQ2RVWVFsa0pVRWRuNzRyUm9lQXhJbmpOTkJ0cUpPS2xkS3hETmdXVEd4WUFqSC1zSElONHdJUzNRV1p5a2tVd0VUR012RVpTWGdZd1U?oc=5",
@@ -1858,10 +1838,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1BEcW53TkZHQ09ZU1dxWFU3V2hhRHRIaXJzdG9naG42MElLMEw0MjJQZ0NfVE5hWkxRNzhYVWFOM2NBa1hWMHBVdWNDWUZTMVYyRnRlMlk0VUlUMW56TVh1QVItbjhhWWN4dnhvN0RVMDkzSUpwcnBrTURKSllVZnlrdjBKbVBNN2dYWWlwbWpXdlZh?oc=5",
       "source": "Sky TG24",
       "sourceHost": "tg24.sky.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "giudiziaria"

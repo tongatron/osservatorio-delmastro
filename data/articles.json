@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T02:30:09.797Z",
+  "generatedAt": "2026-04-10T03:00:09.915Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -91,8 +91,8 @@
     ]
   },
   "window": {
-    "from": "2026-04-02T02:30:09.797Z",
-    "to": "2026-04-10T02:30:09.797Z",
+    "from": "2026-04-02T03:00:09.915Z",
+    "to": "2026-04-10T03:00:09.915Z",
     "days": 8
   },
   "sources": [
@@ -109,11 +109,11 @@
       "articleCount": 6
     },
     {
-      "label": "lastampa.it",
-      "articleCount": 5
+      "label": "ilgiornale.it",
+      "articleCount": 4
     },
     {
-      "label": "ilgiornale.it",
+      "label": "lastampa.it",
       "articleCount": 4
     },
     {
@@ -164,17 +164,17 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 102,
-      "uniqueArticles": 51
-    },
-    {
-      "label": "Soci e societa'",
-      "fetchedArticles": 44,
-      "uniqueArticles": 3
+      "fetchedArticles": 100,
+      "uniqueArticles": 50
     },
     {
       "label": "Bisteccheria",
       "fetchedArticles": 36,
+      "uniqueArticles": 3
+    },
+    {
+      "label": "Soci e societa'",
+      "fetchedArticles": 42,
       "uniqueArticles": 2
     },
     {
@@ -184,7 +184,7 @@
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 11,
+      "fetchedArticles": 10,
       "uniqueArticles": 0
     },
     {
@@ -196,7 +196,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 29
+      "count": 28
     },
     {
       "tag": "giudiziaria",
@@ -222,7 +222,7 @@
   "timeline": [
     {
       "date": "2026-04-02",
-      "count": 7
+      "count": 6
     },
     {
       "date": "2026-04-03",
@@ -768,14 +768,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNb1lpdmVvU1d5eTZ5eWlWc2p2QTh5aVFMdXc2TXo5b0RTbDhtMmVhRE5xTjF1aGlraVEtMHZsTlpBV3d6TElnUnVVdmtTTGs1cUlKYnlCajFFbXU2SW5jTWEyZ0hQNUJOb2lkT2taamFNdDNhc2dSM2xVOXgxUUw1dEZTSDRVSlpHbXBpczhBVks5dzh2TC01YmowcUUzYy1Rb2FmRXVyOHFlQXhNNHh4MkRlSjU1T2hIdzVSSHpNTFFYVUdSWHJacGRFazI5WkZpZmNiRHl2YUw4RlUzQnZpcjZtQkVxa19JZDlIR21aMlJyb0ZP0gH6AUFVX3lxTE4yWWFrLUZXVnl2T192VGQzREpCMXlzWk91cFUzcm9XcE4xYVR1ajljSkpILXBNdmVocGM1Y0QybFlsb0NGRkI4Y2V1US1LV05pY0RRSHdXaDRScFZnNjNJcXQ2ZW5RaDVlM0VaSERIS2pybk5JRkd5MnRxLW9vVGFtVUdxVmViV3pDUXJMS1l5RTRoQnJCRzN1VlM1Ri1mcHRza0dKRmZ2RjFxcFRYbU00c3Rha1UySHRjQWt1THBxTmJKQWhrQ2FPeG5KZmpBZ0xnT2pTOWFPRlhIRkE0N3FoTXpUMTNCUDhXZktEVzhCRThrQTR3QzNHa0E?oc=5",
       "source": "RaiNews",
       "sourceHost": "rainews.it",
-      "queryLabel": "Soci e societa'",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Caroccia",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "altro"
@@ -1309,26 +1305,6 @@
       ],
       "publishedAt": "2026-04-02T04:32:11.000Z",
       "excerpt": "L’interrogatorio di Mauro Caroccia: \"L’ex sottosegretario ci ha fatto beneficenza\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "lastampa.it__la stampa__caso delmastro paraggio collezione incarichi assomed l asl chiarisca sulla sua nomina__2026-04-02T03:00:00.000Z",
-      "title": "Caso Delmastro, Paraggio e la collezione di incarichi. Assomed: “L’Asl chiarisca sulla sua nomina”",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRkd6NGRacUVKYU9maVFNX1pRX1V3bldfUW5hQ3hKNTVqTGU5bU9TclN3cmJKX3Jjb2dhb2E3czRNNzI5Ui1rTUxrb0lsQ2lVdWVuYklKbVJ3ZVlqc3Q5MlcwWktEMFVDZjlHSzQzVzZodW00dVU0UzRRWXRic250VjcxdkFXWW1FOXNjeVRTRVlrSThPMWo0ejBTcjhGRE45YnBNVWtoZFRreGJpekVzYWxtUDZKVmVuTUJHb3lPQWE0ZGRzT2g1aWJ0VlJDMzUzWDNhRjFaMWFwbnRyYVpoT2pJRUPSAeoBQVVfeXFMT0FVdjBmRVVVZ3hNSmtEX2VWbGZHWDBVdzh4U1R1VWx2bmVzSjJuU3hsTGdKc09oWG5QeUpvSUgweVRuRk1aUE1QQ1RIOVFyNExjLVg1YnZNZUUxcGxJTTJCS0J1NTdvbHE2WVRtSlpfY3BPWXJaWTFtMlJZbl9heVRCaXA1UEZGMGJIdzR5d3VIbnMyWkNWbDRnNGZXT015N1FiZ29SZDBGclFkSUYxQ1F6dG9DQUVGZ3dyUWJQR1dsY1REOFVBRy1EQTgwNHJ6QkdwVThQSnhrNlNqRUU4YUVNS0JXSlN5MDJn?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRkd6NGRacUVKYU9maVFNX1pRX1V3bldfUW5hQ3hKNTVqTGU5bU9TclN3cmJKX3Jjb2dhb2E3czRNNzI5Ui1rTUxrb0lsQ2lVdWVuYklKbVJ3ZVlqc3Q5MlcwWktEMFVDZjlHSzQzVzZodW00dVU0UzRRWXRic250VjcxdkFXWW1FOXNjeVRTRVlrSThPMWo0ejBTcjhGRE45YnBNVWtoZFRreGJpekVzYWxtUDZKVmVuTUJHb3lPQWE0ZGRzT2g1aWJ0VlJDMzUzWDNhRjFaMWFwbnRyYVpoT2pJRUPSAeoBQVVfeXFMT0FVdjBmRVVVZ3hNSmtEX2VWbGZHWDBVdzh4U1R1VWx2bmVzSjJuU3hsTGdKc09oWG5QeUpvSUgweVRuRk1aUE1QQ1RIOVFyNExjLVg1YnZNZUUxcGxJTTJCS0J1NTdvbHE2WVRtSlpfY3BPWXJaWTFtMlJZbl9heVRCaXA1UEZGMGJIdzR5d3VIbnMyWkNWbDRnNGZXT015N1FiZ29SZDBGclFkSUYxQ1F6dG9DQUVGZ3dyUWJQR1dsY1REOFVBRy1EQTgwNHJ6QkdwVThQSnhrNlNqRUU4YUVNS0JXSlN5MDJn?oc=5",
-      "source": "La Stampa",
-      "sourceHost": "lastampa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-02T03:00:00.000Z",
-      "excerpt": "Caso Delmastro, Paraggio e la collezione di incarichi. Assomed: “L’Asl chiarisca sulla sua nomina”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     }

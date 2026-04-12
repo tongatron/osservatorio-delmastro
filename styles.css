@@ -839,28 +839,24 @@ h3 {
 
 /* Telegram badge */
 .telegram-badge {
-  position: absolute;
-  top: 6px;
-  right: 0;
   display: inline-flex;
   align-items: center;
   gap: 7px;
-  padding: 6px 11px 6px 8px;
+  margin: 10px auto 0;
+  padding: 7px 14px 7px 10px;
   border: 1px solid rgba(34,158,217,.4);
-  border-radius: 6px;
-  background: rgba(255,253,248,.95);
+  border-radius: 20px;
+  background: rgba(42,171,238,.08);
   color: #1a8fc1;
   text-decoration: none;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 0.72rem;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.76rem;
   font-weight: 700;
   letter-spacing: 0.02em;
-  box-shadow: var(--shadow);
-  white-space: nowrap;
   transition: background .15s, border-color .15s;
 }
 .telegram-badge:hover {
-  background: rgba(42,171,238,.10);
+  background: rgba(42,171,238,.18);
   border-color: rgba(34,158,217,.7);
 }
 .telegram-badge svg {
@@ -868,8 +864,4 @@ h3 {
   width: 18px;
   height: 18px;
   border-radius: 50%;
-}
-@media (max-width: 600px) {
-  .telegram-badge span { display: none; }
-  .telegram-badge { padding: 6px 8px; }
 }

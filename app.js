@@ -97,42 +97,103 @@ function renderArticles(articles) {
 }
 
 function applyFilters() {
-  const filtered = data.articles.filter((article) => sourceSelection.has(article.sourceHost));
+  let filtered = data.articles.filter((article) => sourceSelection.has(article.sourceHost));
+
+  if (activeDateFilter) {
+    filtered = filtered.filter((article) => {
+      const d = new Date(article.publishedAt);
+      const dateStr = d.toLocaleDateString("sv-SE", { timeZone: DISPLAY_TIME_ZONE });
+      return dateStr === activeDateFilter;
+    });
+  }
 
   articleCount.textContent = `${filtered.length} articoli`;
   mastheadCount.textContent = `${filtered.length} articoli`;
   renderArticles(filtered);
 }
 
+let activeDateFilter = null;
+
 function renderTimeline(items) {
   timelineRoot.innerHTML = "";
   const maxCount = Math.max(...items.map((item) => item.count), 0);
   const midCount = Math.round(maxCount / 2);
+  const todayStr = new Date().toLocaleDateString("sv-SE", { timeZone: DISPLAY_TIME_ZONE });
 
-  chartMax.textContent = String(maxCount);
-  chartMid.textContent = String(midCount);
+  chartMax.textContent = maxCount > 0 ? String(maxCount) : "";
+  chartMid.textContent = maxCount > 1 ? String(midCount) : "";
+
+  // tooltip condiviso
+  const tooltip = document.createElement("div");
+  tooltip.className = "chart-tooltip";
+  tooltip.setAttribute("aria-hidden", "true");
+  timelineRoot.append(tooltip);
 
   for (const item of items) {
-    const bar = document.createElement("div");
-    bar.className = "timeline-bar";
-    const height = maxCount === 0 ? 16 : Math.max(16, Math.round((item.count / maxCount) * 180));
+    const isToday = item.date === todayStr;
+    const hasArticles = item.count > 0;
+    const heightPct = maxCount === 0 ? 4 : Math.max(4, Math.round((item.count / maxCount) * 100));
 
-    const count = document.createElement("span");
-    count.className = "timeline-count";
-    count.textContent = String(item.count);
+    const bar = document.createElement("button");
+    bar.className = "timeline-bar" + (isToday ? " timeline-bar--today" : "") + (hasArticles ? " timeline-bar--active" : "");
+    bar.type = "button";
+    bar.disabled = !hasArticles;
+    bar.dataset.date = item.date;
+    bar.setAttribute("aria-label", `${item.count} articoli il ${formatLongDate(item.date)}`);
 
     const column = document.createElement("span");
     column.className = "timeline-column";
-    column.style.height = `${height}px`;
-    column.title = `${item.count} articoli il ${formatLongDate(item.date)}`;
+    column.style.setProperty("--bar-height", `${heightPct}%`);
 
-    const date = document.createElement("span");
-    date.className = "timeline-date";
-    date.textContent = formatShortDate(item.date);
+    const dateLabel = document.createElement("span");
+    dateLabel.className = "timeline-date";
 
-    bar.append(count, column, date);
+    // mostra solo alcune etichette per non sovraffollare
+    const d = new Date(item.date + "T12:00:00");
+    const dayOfWeek = d.getDay(); // 0=dom, 1=lun...
+    const dayOfMonth = d.getDate();
+    if (isToday) {
+      dateLabel.textContent = "oggi";
+      dateLabel.classList.add("timeline-date--today");
+    } else if (dayOfMonth === 1 || dayOfWeek === 1) {
+      // primo del mese o lunedì
+      dateLabel.textContent = formatShortDate(item.date);
+    } else {
+      dateLabel.textContent = "";
+    }
+
+    // tooltip al hover
+    bar.addEventListener("mouseenter", (e) => {
+      tooltip.textContent = `${formatLongDate(item.date)}: ${item.count} ${item.count === 1 ? "articolo" : "articoli"}`;
+      tooltip.classList.add("chart-tooltip--visible");
+      const barRect = bar.getBoundingClientRect();
+      const rootRect = timelineRoot.getBoundingClientRect();
+      tooltip.style.left = `${barRect.left - rootRect.left + barRect.width / 2}px`;
+    });
+    bar.addEventListener("mouseleave", () => {
+      tooltip.classList.remove("chart-tooltip--visible");
+    });
+
+    // click: filtra articoli per data
+    bar.addEventListener("click", () => {
+      if (activeDateFilter === item.date) {
+        activeDateFilter = null;
+        timelineRoot.querySelectorAll(".timeline-bar--selected").forEach((el) => el.classList.remove("timeline-bar--selected"));
+        applyFilters();
+      } else {
+        activeDateFilter = item.date;
+        timelineRoot.querySelectorAll(".timeline-bar--selected").forEach((el) => el.classList.remove("timeline-bar--selected"));
+        bar.classList.add("timeline-bar--selected");
+        applyFilters();
+      }
+    });
+
+    bar.append(column, dateLabel);
     timelineRoot.append(bar);
   }
+
+  // animazione entrata
+  requestAnimationFrame(() => timelineRoot.classList.add("timeline--loaded"));
 }
 
 function cleanFeedText(value) {

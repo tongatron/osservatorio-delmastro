@@ -3,7 +3,7 @@ name: Update dossier data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */3 * * *"   # ogni 3 ore
+    - cron: "*/30 * * * *"  # ogni 30 minuti
 
 permissions:
   contents: write

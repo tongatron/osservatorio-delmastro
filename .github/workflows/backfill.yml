@@ -1,0 +1,98 @@
+name: Backfill articoli storici
+
+on:
+  workflow_dispatch:
+    inputs:
+      from_date:
+        description: "Data di inizio (YYYY-MM-DD)"
+        required: true
+        default: "2026-03-01"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Calcola windowDays dalla data di inizio
+        id: calc
+        run: |
+          FROM_DATE="${{ github.event.inputs.from_date }}"
+          TODAY=$(date -u +"%Y-%m-%d")
+          DAYS=$(( ( $(date -d "$TODAY" +%s) - $(date -d "$FROM_DATE" +%s) ) / 86400 + 1 ))
+          echo "windowDays=$DAYS" >> $GITHUB_OUTPUT
+          echo "Backfill da $FROM_DATE ($DAYS giorni)"
+
+      - name: Override windowDays nel config
+        run: |
+          DAYS=${{ steps.calc.outputs.windowDays }}
+          node -e "
+            const fs = require('fs');
+            const cfg = JSON.parse(fs.readFileSync('config/watch.json', 'utf8'));
+            cfg.windowDays = $DAYS;
+            fs.writeFileSync('config/watch.json', JSON.stringify(cfg, null, 2) + '\n');
+            console.log('windowDays impostato a', $DAYS);
+          "
+
+      - name: Fetch articoli storici
+        run: npm run update
+
+      - name: Ripristina windowDays originale nel config
+        run: |
+          node -e "
+            const fs = require('fs');
+            const cfg = JSON.parse(fs.readFileSync('config/watch.json', 'utf8'));
+            cfg.windowDays = 45;
+            fs.writeFileSync('config/watch.json', JSON.stringify(cfg, null, 2) + '\n');
+          "
+
+      - name: Record timestamp
+        run: |
+          TIMESTAMP="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+          printf '{\n  "lastCheckedAt": "%s",\n  "lastCheckedBy": "github-actions/backfill"\n}\n' "$TIMESTAMP" > data/status.json
+
+      - name: Commit e push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/articles.json data/status.json
+          if git diff --staged --quiet; then
+            echo "Nessuna modifica da committare."
+            exit 0
+          fi
+          TIMESTAMP="$(date -u +"%Y-%m-%d %H:%M UTC")"
+          git commit -m "Backfill articoli dal ${{ github.event.inputs.from_date }} (${TIMESTAMP})"
+          git push
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    needs: backfill
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

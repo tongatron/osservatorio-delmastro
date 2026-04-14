@@ -243,12 +243,8 @@ function formatCheckOrigin(value) {
 
   const normalized = String(value).trim().toLowerCase();
 
-  if (normalized === "raspberry.local") {
-    return "da raspberry.local";
-  }
-
-  if (normalized === "github-actions") {
-    return "da GitHub Actions";
+  if (normalized === "raspberry.local" || normalized === "github-actions" || normalized.startsWith("github-actions/")) {
+    return "";
   }
 
   return `da ${value}`;

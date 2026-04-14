@@ -19,6 +19,7 @@ const articlesRoot = document.querySelector("#articles");
 const template = document.querySelector("#article-template");
 const sourceSelection = new Set((data.sources ?? []).map((source) => source.label));
 const DISPLAY_TIME_ZONE = "Europe/Rome";
+let activeDateFilter = null;
 
 initializeResponsivePanels();
 
@@ -111,8 +112,6 @@ function applyFilters() {
   mastheadCount.textContent = `${filtered.length} articoli`;
   renderArticles(filtered);
 }
-
-let activeDateFilter = null;
 
 function renderTimeline(items) {
   timelineRoot.innerHTML = "";

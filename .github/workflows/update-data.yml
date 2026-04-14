@@ -13,6 +13,8 @@ permissions:
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
 
     steps:
       - name: Check out repository
@@ -37,34 +39,31 @@ jobs:
           printf '{\n  "lastCheckedAt": "%s",\n  "lastCheckedBy": "github-actions"\n}\n' "$TIMESTAMP" > data/status.json
 
       - name: Commit and push if data changed
+        id: commit
         run: |
-          if git diff --quiet -- data/articles.json data/status.json; then
-            echo "No data changes to commit."
+          if git diff --quiet -- data/articles.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No article changes to commit."
             exit 0
           fi
 
           TIMESTAMP="$(date -u +"%Y-%m-%d %H:%M UTC")"
-          ARTICLES_CHANGED=0
-          if ! git diff --quiet -- data/articles.json; then
-            ARTICLES_CHANGED=1
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/articles.json data/status.json
-          if [ "$ARTICLES_CHANGED" -eq 1 ]; then
-            git commit -m "Update articles dataset (${TIMESTAMP})"
-          else
-            git commit -m "Update check status (${TIMESTAMP})"
-          fi
+          git commit -m "Update articles dataset (${TIMESTAMP})"
           git push
+          echo "changed=true" >> $GITHUB_OUTPUT
 
       - name: Upload Pages artifact
+        if: steps.commit.outputs.changed == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: .
 
   deploy:
     needs: update-data
+    if: needs.update-data.outputs.changed == 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages

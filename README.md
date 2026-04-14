@@ -1,234 +1,29 @@
 # Osservatorio Caso Delmastro
 
-Mini progetto per raccogliere articoli recenti sul caso Delmastro, pubblicare una rassegna statica su GitHub Pages e mantenere un dataset leggero di titoli, fonti e link.
+**[→ tongatron.github.io/osservatorio-delmastro](https://tongatron.github.io/osservatorio-delmastro/)**
 
-## Cosa fa
+Raccoglie articoli recenti sul caso Delmastro da Google News RSS, li pubblica in una pagina statica su GitHub Pages e li aggiorna automaticamente ogni 30 minuti tramite GitHub Actions.
 
-- cerca articoli via RSS di ricerca di Google News filtrando per keyword e dominio
-- conserva titolo, estratto breve, testata, data e link originale
-- mostra tutto in una pagina statica servita dalla root del repository
-- genera una pagina separata con briefing globale aggiornato usando Ollama in locale sul Mac
-- espone nel masthead l'ultimo controllo automatico del workflow
-- include un template `launchd` per aggiornare il dataset ogni ora su macOS
-- include una GitHub Action manuale di fallback per aggiornare `data/articles.json`
+## Come funziona
 
-## Perche' questo approccio
+- GitHub Actions interroga Google News RSS ogni 30 minuti
+- salva titolo, estratto, testata, data e link in `data/articles.json`
+- fa il deploy su GitHub Pages solo se ci sono articoli nuovi
 
-Lo scraping diretto degli articoli dei giornali e' spesso fragile e puo' scontrarsi con robots, paywall o termini di utilizzo. Qui usiamo un monitoraggio piu' leggero:
+## Configurazione
 
-- feed RSS di ricerca per intercettare nuovi articoli
-- metadati e link, non testo completo
-- riassunti e considerazioni scritti in modo originale da te
+Modifica [`config/watch.json`](./config/watch.json) per cambiare keyword, fonti e finestra temporale.
 
-Per il briefing AI il repository mantiene pubblici solo i riassunti finali in [data/daily-briefs.json](./data/daily-briefs.json). I corpi articolo estratti per la sintesi vengono salvati localmente in `cache/` e ignorati da Git.
+## Workflow
 
-## Personalizzazione
+| File | Funzione |
+|---|---|
+| [`.github/workflows/update-data.yml`](./.github/workflows/update-data.yml) | aggiornamento automatico ogni 30 minuti |
+| [`.github/workflows/backfill.yml`](./.github/workflows/backfill.yml) | recupero articoli storici da una data specifica |
 
-Modifica [config/watch.json](./config/watch.json):
-
-- `title`, `subtitle`, `topicLabel`
-- `keywords`
-- `excludedKeywords`
-- `googleNewsSites`
-- `manualNotes`
-
-La finestra temporale attuale e' di `8` giorni. Con la data di oggi, il progetto raccoglie articoli tra il `23 marzo 2026` e il `31 marzo 2026`.
-
-## Struttura
-
-- [index.html](./index.html), [app.js](./app.js), [styles.css](./styles.css): frontend pubblicato su GitHub Pages
-- [briefing.html](./briefing.html), [briefing.js](./briefing.js): pagina pubblica con briefing globale e timeline giornaliera
-- [data/articles.json](./data/articles.json): dataset articoli generato
-- [data/status.json](./data/status.json): timestamp dell'ultimo controllo automatico
-- [data/daily-briefs.json](./data/daily-briefs.json): briefing globale pubblicabile
-- [scripts/update-news.mjs](./scripts/update-news.mjs): generazione dataset
-- [scripts/fetch-article-bodies.mjs](./scripts/fetch-article-bodies.mjs): scraping locale dei corpi articolo
-- [scripts/build-ai-briefs.mjs](./scripts/build-ai-briefs.mjs): generazione briefing globale via Ollama
-- [scripts/lib/google-news-decoder.mjs](./scripts/lib/google-news-decoder.mjs): supporto alla decodifica dei link Google News
-- [config/watch.json](./config/watch.json): keyword, query, fonti e selector CSS
-- [.gitignore](./.gitignore): esclude `node_modules/` e `cache/`
-
-## Avvio locale
+## Anteprima locale
 
 ```bash
-cd /Users/tonga/Documents/GitHub/osservatorio-delmastro
-npm run update
-npm run serve
+npm run update   # aggiorna articles.json
+npm run serve    # avvia server su localhost:4173
 ```
-
-Poi apri [http://localhost:4173](http://localhost:4173).
-
-## Briefing AI locale sul Mac
-
-Stack previsto:
-
-- Ollama in locale sul Mac
-- modello `qwen2.5:7b`
-- scraping leggero via CSS selectors configurati in [config/watch.json](./config/watch.json)
-- output pubblico finale in [data/daily-briefs.json](./data/daily-briefs.json)
-- briefing unico su tutti gli articoli linkati
-- timeline giornaliera con riassunto, eventi e fonti piu' presenti
-
-Prima installazione:
-
-```bash
-cd /Users/tonga/Documents/GitHub/osservatorio-delmastro
-npm install
-ollama pull qwen2.5:7b
-```
-
-Avvio Ollama:
-
-```bash
-ollama serve
-```
-
-Generazione completa del briefing:
-
-```bash
-cd /Users/tonga/Documents/GitHub/osservatorio-delmastro
-npm run update
-npm run build:briefs
-```
-
-Sequenza pratica consigliata:
-
-```bash
-cd /Users/tonga/Documents/GitHub/osservatorio-delmastro
-npm install
-ollama pull qwen2.5:7b
-ollama serve
-```
-
-In un secondo terminale:
-
-```bash
-cd /Users/tonga/Documents/GitHub/osservatorio-delmastro
-npm run update
-npm run build:briefs
-```
-
-Anteprima locale:
-
-```bash
-cd /Users/tonga/Documents/GitHub/osservatorio-delmastro
-python3 -m http.server 8001
-```
-
-Poi apri:
-
-[http://127.0.0.1:8001/briefing.html](http://127.0.0.1:8001/briefing.html)
-
-Comandi separati ancora disponibili:
-
-```bash
-npm run fetch:bodies
-npm run build:briefs
-```
-
-Note operative:
-
-- i corpi articolo vengono salvati in `cache/article-bodies.json`
-- `cache/` non viene pubblicata su GitHub
-- se un dominio cambia markup, aggiorna `articleSelectors` in [config/watch.json](./config/watch.json)
-- il briefing e' pensato come sintesi originale globale, non come ripubblicazione del testo delle fonti
-- la timeline nel briefing e' costruita per giornata a partire da tutti gli articoli linkati del periodo monitorato
-- i briefing generati con il supporto di Ollama vanno rivisti prima della pubblicazione: il flusso e' utile come bozza assistita, non come testo definitivo
-
-## Pubblicazione
-
-La pagina live e':
-
-[https://tongatron.github.io/osservatorio-delmastro/](https://tongatron.github.io/osservatorio-delmastro/)
-
-Briefing AI:
-
-[https://tongatron.github.io/osservatorio-delmastro/briefing.html](https://tongatron.github.io/osservatorio-delmastro/briefing.html)
-
-GitHub Pages pubblica direttamente la root del branch `main`.
-
-## Aggiornamento automatico su GitHub
-
-Il workflow [update-data.yml](./.github/workflows/update-data.yml) esegue:
-
-- avvio manuale da Actions
-- `npm run update`
-- aggiornamento di [data/status.json](./data/status.json) a ogni check
-- commit automatico di `data/articles.json` e `data/status.json` solo se cambia qualcosa
-
-Il masthead mostra `Ultimo controllo ...` leggendo `data/status.json`.
-
-La schedulazione automatica da GitHub Actions e' stata disattivata per evitare due writer sul branch `main` quando il job periodico gira sulla Raspberry. La Action resta come fallback manuale.
-
-## Deploy su Raspberry
-
-Percorso previsto sulla Raspberry:
-
-```bash
-/srv/apps/osservatorio-delmastro
-```
-
-File aggiunti per l'automazione:
-
-- [ops/run-on-raspberry.sh](./ops/run-on-raspberry.sh): fa `git pull --rebase`, aggiorna il dataset, registra `data/status.json`, committa e prova il push
-- [ops/delmastro-newswatch.service](./ops/delmastro-newswatch.service): unita' `systemd`
-- [ops/delmastro-newswatch.timer](./ops/delmastro-newswatch.timer): timer `systemd` ogni 30 minuti
-
-Flusso previsto:
-
-1. la Raspberry sincronizza sempre `origin/main` prima dell'update
-2. esegue `npm run update`
-3. aggiorna `data/status.json` con timestamp e origine (`raspberry.local` o `github-actions`)
-4. committa solo se `data/articles.json` o `data/status.json` sono cambiati
-5. esegue `git push`
-
-Questo copre anche eventuali articoli gia' caricati in remoto prima dell'esecuzione del job sulla Raspberry, perche' il repository viene riallineato a `origin/main` prima di generare il nuovo dataset.
-
-## Installazione del timer sulla Raspberry
-
-Dopo il clone del repository sulla Raspberry:
-
-```bash
-cd /srv/apps/osservatorio-delmastro
-chmod +x ops/run-on-raspberry.sh
-sudo cp ops/delmastro-newswatch.service /etc/systemd/system/
-sudo cp ops/delmastro-newswatch.timer /etc/systemd/system/
-sudo systemctl daemon-reload
-sudo systemctl enable --now delmastro-newswatch.timer
-sudo systemctl start delmastro-newswatch.service
-```
-
-Prima di attivare davvero il timer serve una credenziale GitHub non interattiva sulla Raspberry, altrimenti il `git push` fallisce. La strada piu' semplice e' usare una deploy key SSH con permesso di scrittura sul repository:
-
-1. genera una chiave dedicata sulla Raspberry
-2. aggiungi la chiave pubblica nelle impostazioni GitHub del repository come deploy key con `Allow write access`
-3. verifica il push manuale
-4. abilita il timer con `sudo systemctl enable --now delmastro-newswatch.timer`
-
-Verifica:
-
-```bash
-systemctl status delmastro-newswatch.timer
-systemctl list-timers --all | grep delmastro
-journalctl -u delmastro-newswatch.service -f
-```
-
-## Automazione oraria su macOS
-
-1. Copia [ops/com.delmastro.newswatch.plist](./ops/com.delmastro.newswatch.plist) in `~/Library/LaunchAgents/`.
-2. Caricalo con:
-
-```bash
-launchctl load ~/Library/LaunchAgents/com.delmastro.newswatch.plist
-```
-
-3. Per riavviare dopo modifiche:
-
-```bash
-launchctl unload ~/Library/LaunchAgents/com.delmastro.newswatch.plist
-launchctl load ~/Library/LaunchAgents/com.delmastro.newswatch.plist
-```
-
-## Nota importante
-
-Per una pagina pubblica e' prudente non ripubblicare testo integrale degli articoli. Usa titolo, estratto breve e link, poi aggiungi i tuoi riassunti originali.

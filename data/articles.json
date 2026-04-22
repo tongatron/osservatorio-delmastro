@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T16:32:22.972Z",
+  "generatedAt": "2026-04-22T17:27:51.138Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,22 +94,22 @@
     ]
   },
   "window": {
-    "from": "2026-03-08T16:32:22.972Z",
-    "to": "2026-04-22T16:32:22.972Z",
+    "from": "2026-03-08T17:27:51.138Z",
+    "to": "2026-04-22T17:27:51.138Z",
     "days": 45
   },
   "sources": [
-    {
-      "label": "lastampa.it",
-      "articleCount": 82
-    },
     {
       "label": "repubblica.it",
       "articleCount": 81
     },
     {
+      "label": "lastampa.it",
+      "articleCount": 81
+    },
+    {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 65
+      "articleCount": 69
     },
     {
       "label": "rainews.it",
@@ -121,11 +121,11 @@
     },
     {
       "label": "quotidiano.net",
-      "articleCount": 34
+      "articleCount": 35
     },
     {
       "label": "ansa.it",
-      "articleCount": 29
+      "articleCount": 30
     },
     {
       "label": "tg24.sky.it",
@@ -137,7 +137,7 @@
     },
     {
       "label": "open.online",
-      "articleCount": 23
+      "articleCount": 22
     },
     {
       "label": "fanpage.it",
@@ -149,19 +149,15 @@
     },
     {
       "label": "tgcom24.mediaset.it",
-      "articleCount": 14
+      "articleCount": 13
+    },
+    {
+      "label": "liberoquotidiano.it",
+      "articleCount": 12
     },
     {
       "label": "huffingtonpost.it",
       "articleCount": 12
-    },
-    {
-      "label": "liberoquotidiano.it",
-      "articleCount": 11
-    },
-    {
-      "label": "adnkronos.com",
-      "articleCount": 9
     },
     {
       "label": "ilfoglio.it",
@@ -174,6 +170,10 @@
     {
       "label": "ilpost.it",
       "articleCount": 8
+    },
+    {
+      "label": "adnkronos.com",
+      "articleCount": 7
     },
     {
       "label": "newsbiella.it",
@@ -191,28 +191,28 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 909,
-      "uniqueArticles": 452
+      "fetchedArticles": 902,
+      "uniqueArticles": 448
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 327,
-      "uniqueArticles": 62
+      "fetchedArticles": 330,
+      "uniqueArticles": 64
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 316,
-      "uniqueArticles": 36
+      "fetchedArticles": 319,
+      "uniqueArticles": 38
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 349,
-      "uniqueArticles": 25
+      "fetchedArticles": 350,
+      "uniqueArticles": 26
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 166,
-      "uniqueArticles": 3
+      "fetchedArticles": 175,
+      "uniqueArticles": 2
     },
     {
       "label": "Territorio",
@@ -223,19 +223,19 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 222
+      "count": 224
     },
     {
       "tag": "politica",
-      "count": 155
+      "count": 154
     },
     {
       "tag": "bisteccheria",
-      "count": 97
+      "count": 98
     },
     {
       "tag": "giudiziaria",
-      "count": 84
+      "count": 83
     },
     {
       "tag": "territorio",
@@ -243,7 +243,7 @@
     },
     {
       "tag": "societa'",
-      "count": 53
+      "count": 54
     }
   ],
   "timeline": [
@@ -293,15 +293,15 @@
     },
     {
       "date": "2026-03-19",
-      "count": 30
+      "count": 31
     },
     {
       "date": "2026-03-20",
-      "count": 65
+      "count": 66
     },
     {
       "date": "2026-03-21",
-      "count": 28
+      "count": 30
     },
     {
       "date": "2026-03-22",
@@ -313,7 +313,7 @@
     },
     {
       "date": "2026-03-24",
-      "count": 91
+      "count": 90
     },
     {
       "date": "2026-03-25",
@@ -321,7 +321,7 @@
     },
     {
       "date": "2026-03-26",
-      "count": 24
+      "count": 23
     },
     {
       "date": "2026-03-27",
@@ -369,7 +369,7 @@
     },
     {
       "date": "2026-04-07",
-      "count": 25
+      "count": 24
     },
     {
       "date": "2026-04-08",
@@ -393,11 +393,11 @@
     },
     {
       "date": "2026-04-13",
-      "count": 5
+      "count": 4
     },
     {
       "date": "2026-04-14",
-      "count": 6
+      "count": 7
     },
     {
       "date": "2026-04-15",
@@ -429,7 +429,7 @@
     },
     {
       "date": "2026-04-22",
-      "count": 21
+      "count": 22
     }
   ],
   "articles": [
@@ -650,6 +650,26 @@
       ],
       "publishedAt": "2026-04-22T13:21:19.000Z",
       "excerpt": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ansa.it__ansa__caso cospito pg chiede l assoluzione delmastro__2026-04-22T13:14:54.000Z",
+      "title": "Il caso Cospito, il pg chiede l'assoluzione per Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcmVrVkRMWDlic1g0dkExXzNsbjFZOXlhYjU0cHItLWFybnAyQlVxbks5eklCd05EVEZ6d1JNSGd6cVZLd0plRWVwRHF3U0Z2bzJhblZQa0pXLW85QUlYaHpoVXZhWUlIMVVmWkpncXRZNmM5eFBvVGxfNHN5YnMtNHV6SHZHUFhsVzRoaVJPeWVoYmRKZFk2bmtqVU9XWU5kQ1lHbWxOTzNaZXZKeExmVzdYeUlWbEZaN0llMHpqT3gxdWU5c2pYQ1lUT09WYnU3VUI3eGxTLVNXSklM0gHiAUFVX3lxTFA1UjBQWmJUN240Mk13MEV4c0owYWF1cDU1ZGNqQ0d2YWNmYmZEZDdnRWdUdEU3NnV5UVpGak9rQVpzbzhfRWhkNUlybEdRNHBCUExWSnNDQkppU09UNEl4NmV2NFVCMkJ3WWtDVVlfQlNKWjd3UUNuRHBFcHFpVkNFZndJaEFiVUQ4aTVGMGtHY001X2xwbHB5MUF5WjhaMTNVd1ZyVmw4S3FWNGNENzJjeEFhcVYxcXJwTlNEdElXd293aEJ1aE1TMnVQSEFBVHJ2WEJyNHBNYl9CM2F1ZjN5Rnc?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcmVrVkRMWDlic1g0dkExXzNsbjFZOXlhYjU0cHItLWFybnAyQlVxbks5eklCd05EVEZ6d1JNSGd6cVZLd0plRWVwRHF3U0Z2bzJhblZQa0pXLW85QUlYaHpoVXZhWUlIMVVmWkpncXRZNmM5eFBvVGxfNHN5YnMtNHV6SHZHUFhsVzRoaVJPeWVoYmRKZFk2bmtqVU9XWU5kQ1lHbWxOTzNaZXZKeExmVzdYeUlWbEZaN0llMHpqT3gxdWU5c2pYQ1lUT09WYnU3VUI3eGxTLVNXSklM0gHiAUFVX3lxTFA1UjBQWmJUN240Mk13MEV4c0owYWF1cDU1ZGNqQ0d2YWNmYmZEZDdnRWdUdEU3NnV5UVpGak9rQVpzbzhfRWhkNUlybEdRNHBCUExWSnNDQkppU09UNEl4NmV2NFVCMkJ3WWtDVVlfQlNKWjd3UUNuRHBFcHFpVkNFZndJaEFiVUQ4aTVGMGtHY001X2xwbHB5MUF5WjhaMTNVd1ZyVmw4S3FWNGNENzJjeEFhcVYxcXJwTlNEdElXd293aEJ1aE1TMnVQSEFBVHJ2WEJyNHBNYl9CM2F1ZjN5Rnc?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-22T13:14:54.000Z",
+      "excerpt": "Il caso Cospito, il pg chiede l'assoluzione per Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1223,22 +1243,22 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "open.online__open__l antimafia verso l audizione delmastro l ipotesi comitato sulle infiltrazioni mafiose nei partiti__2026-04-13T17:31:42.000Z",
-      "title": "L’Antimafia verso l’audizione di Delmastro. L’ipotesi di un comitato sulle infiltrazioni mafiose nei partiti",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzEtZjRKQWJqVjM0clNHRkNIbDJ1ZjFmOVRFTW0xdzRWY3U2eHFKeEZ3MDctbmlsdTRuc0E1RGVhaG5kSE44aUZIWDBVU2MtMW94cTNTZlhtcFdwMXFGRTM0RVdMbFNEVERiOEdJdEF0UWNBaVBBN296N0VBaTNYZzZZMGJkRkZ0SUVMbTE5dw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSzEtZjRKQWJqVjM0clNHRkNIbDJ1ZjFmOVRFTW0xdzRWY3U2eHFKeEZ3MDctbmlsdTRuc0E1RGVhaG5kSE44aUZIWDBVU2MtMW94cTNTZlhtcFdwMXFGRTM0RVdMbFNEVERiOEdJdEF0UWNBaVBBN296N0VBaTNYZzZZMGJkRkZ0SUVMbTE5dw?oc=5",
-      "source": "Open",
-      "sourceHost": "open.online",
-      "queryLabel": "Bisteccheria",
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__grazia minetti perche non vespa delmastro salvini__2026-04-13T22:01:00.000Z",
+      "title": "Una grazia a Minetti: perché non a Vespa, Delmastro e Salvini?",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNzJsMTIyRVJra1lFZ3E0ME81M0R2cTdCbDkxUTlyZTgyOU9kRlM3cXN2blp5bFJ6MnRjaTJUMkxUV0lQSXZLb1NyNERlSXQwdlkxMzBtLWgzaWtUQ3gwNUMwMGNUQ0prX1QyNHdUU2xEU2pVcVpfMk1RWXhsc3E1OFZ0aVRTVWhfVTVLTWJmc09TMTdCLTFKWHhKQVBrZmhlX2Nqc2VlZDQyQ3N3bDh5MVFjUkozMEZrRlRWT2ZFaWpxQ25EMVAyQ3U1cEk?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNzJsMTIyRVJra1lFZ3E0ME81M0R2cTdCbDkxUTlyZTgyOU9kRlM3cXN2blp5bFJ6MnRjaTJUMkxUV0lQSXZLb1NyNERlSXQwdlkxMzBtLWgzaWtUQ3gwNUMwMGNUQ0prX1QyNHdUU2xEU2pVcVpfMk1RWXhsc3E1OFZ0aVRTVWhfVTVLTWJmc09TMTdCLTFKWHhKQVBrZmhlX2Nqc2VlZDQyQ3N3bDh5MVFjUkozMEZrRlRWT2ZFaWpxQ25EMVAyQ3U1cEk?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
-        "giudiziaria"
+        "altro"
       ],
-      "publishedAt": "2026-04-13T17:31:42.000Z",
-      "excerpt": "L’Antimafia verso l’audizione di Delmastro. L’ipotesi di un comitato sulle infiltrazioni mafiose nei partiti",
+      "publishedAt": "2026-04-13T22:01:00.000Z",
+      "excerpt": "Una grazia a Minetti: perché non a Vespa, Delmastro e Salvini?",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1309,10 +1329,15 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQWdzRDFQeTlyazk2eUlWOFZZeUVSOXNob3l3dVVyYkgzNEJlcFIwazBYOFhRbG94cFlOQ2Frdy11c2dTbUJCaFo0aFFZTHFtOEUtTXRMUFdSWVpNNnJJeDQ3MndZd2lRdFdaMzlUVjMtSFphTlNQNVdaTUxkUW5GVTNMOTY2UFpISEpKZ3lJNjFIeXhUc3lzMWtjRENCb2RHZFN5UlJZamptTjR3M1NlY04telBGNFp1SndNYm5lU2pZeGFxZjRsNlB4NmJGODgtdENqb3EyRER0V0lENDVxUDUwZk5GbFBtdlNPNkRwczU?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
       ],
       "tags": [
         "altro"
@@ -2325,28 +2350,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "tgcom24.mediaset.it__tgcom24__mauro caroccia__2026-04-07T07:00:00.000Z",
-      "title": "mauro caroccia",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpZjJVcXlPOEpYa01mWnpSSFVhTTlNLWh2NmxWMFFtU01leXRtNDVocW1DMnI4ZGFSbFdJUHJydEJDc3ZUbnZkcXYyWHltMXMyMmMtUGF5dktiMGFTdGc0bWNXUlNLTGc?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpZjJVcXlPOEpYa01mWnpSSFVhTTlNLWh2NmxWMFFtU01leXRtNDVocW1DMnI4ZGFSbFdJUHJydEJDc3ZUbnZkcXYyWHltMXMyMmMtUGF5dktiMGFTdGc0bWNXUlNLTGc?oc=5",
-      "source": "Tgcom24",
-      "sourceHost": "tgcom24.mediaset.it",
-      "queryLabel": "Filone giudiziario",
-      "matchedTerms": [
-        "intestazione fittizia di beni",
-        "antimafia",
-        "indagine Delmastro",
-        "pm Torino"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-07T07:00:00.000Z",
-      "excerpt": "mauro caroccia",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ilgiornale.it__il giornale__caso 5 forchette sequestrato telefono mauro caroccia setaccio chat messaggi sulla gestione societa delmastro__2026-04-07T07:00:00.000Z",
       "title": "Caso “Le 5 Forchette”, sequestrato il telefono di Mauro Caroccia: al setaccio chat e messaggi sulla gestione della società con Delmastro",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaUlxcGtuSmIzR0U4eGxoYTZYbTl6Q1dwMWxoNjlOaE1MNTNGbVFVOUtlZVloNHBKdzNSU2k2REZyc2lBS3FQNmxFeV9IWWQwdWRGSGp2ZV9TT2tHRlpQOFN5bXB3MkZzazBYTE5VYVlmTExpMEY4MURKRGYxeGNhYmJfdmhfVDdNV0RJVFVZNG8tUGtPQkV3d29zN1NZVmlpdG50azU3YVVncFR3TVZkWlo3SEJ5SmM?oc=5",
@@ -2886,26 +2889,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ansa.it__ansa__miriam caroccia pm questa storia mi sta rovinando vita__2026-04-01T07:00:00.000Z",
-      "title": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita'",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLThFbE5sODRZdXZfVmJPeFc3d253MTRCWTIwbnF5WUVWR2M5U0luZmljOFNCeEhrSFF0MzByWEFycmJYa1VNV3F4aEJpd1JHZEpZaUw2OWdINm83UGN6U1dNcGZXNU94emMyYWhQc0dMRnh5bml4RV9KcnhKWGYwTWFUaWxmQVZRYk9ESmZWNVdLZ3JWWGRrQ1pjRlNLM0RDUW5ZVVZvWHF0UmxnWmNWZzJ2c09yLUpjVzVCTzhQQVRpU3FNRkYxMFZGVVdCUWY4bzJwRTdvTkdlU2dXU0FWQtIB5gFBVV95cUxOR2VMTGp0eHRNeE5VUVh1MzhqM2tiZWtNTUZkQ21ual9SbllDMW1TQ0g5UnJGaklXdnVwY1MzTGZOU2swMVNvNWV6S0d6WHN5UTJBVHJ0aGRHQm13MTJ4NzRKRGxqZ1N0Q196Yk9hR0hhYVg4TFpEa0pKa3MtSG80SHJhNVE1SWM3enlfN0VWWVVGb0J3VDVmMlB6RzJIX21fakdQMnFsOGJSOEZURzlUd0tXbXF5ekx6SGtFQ2lQLXo1clJUYVN6TVRRT0k4UnFQRFpNY29PVDI3QjdrUDc0YThJRWVKZw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLThFbE5sODRZdXZfVmJPeFc3d253MTRCWTIwbnF5WUVWR2M5U0luZmljOFNCeEhrSFF0MzByWEFycmJYa1VNV3F4aEJpd1JHZEpZaUw2OWdINm83UGN6U1dNcGZXNU94emMyYWhQc0dMRnh5bml4RV9KcnhKWGYwTWFUaWxmQVZRYk9ESmZWNVdLZ3JWWGRrQ1pjRlNLM0RDUW5ZVVZvWHF0UmxnWmNWZzJ2c09yLUpjVzVCTzhQQVRpU3FNRkYxMFZGVVdCUWY4bzJwRTdvTkdlU2dXU0FWQtIB5gFBVV95cUxOR2VMTGp0eHRNeE5VUVh1MzhqM2tiZWtNTUZkQ21ual9SbllDMW1TQ0g5UnJGaklXdnVwY1MzTGZOU2swMVNvNWV6S0d6WHN5UTJBVHJ0aGRHQm13MTJ4NzRKRGxqZ1N0Q196Yk9hR0hhYVg4TFpEa0pKa3MtSG80SHJhNVE1SWM3enlfN0VWWVVGb0J3VDVmMlB6RzJIX21fakdQMnFsOGJSOEZURzlUd0tXbXF5ekx6SGtFQ2lQLXo1clJUYVN6TVRRT0k4UnFQRFpNY29PVDI3QjdrUDc0YThJRWVKZw?oc=5",
-      "source": "ANSA",
-      "sourceHost": "ansa.it",
-      "queryLabel": "Bisteccheria",
-      "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-04-01T07:00:00.000Z",
-      "excerpt": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita'",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ansa.it__ansa__difensore caroccia delmastro l unico che ha teso mano__2026-04-01T07:00:00.000Z",
       "title": "Difensore Caroccia, 'Delmastro è l'unico che gli ha teso una mano'",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOR1JaWE0zMXNFOVNwRzJBTDFOOWduUmZoYUFJcmk5RUlMTE5BMm5nbGZ0ajZWYTRZbXJYNjJNRnN1VE8teTU4SWY0eUktQjVQRXl4UmRuNGliNDdSd3hOZ2pMWlZNbzEzNTcyV0RSUVU3SXFjYnRRcFhuSmV3V2Fzc184dEh3MGRyRU11VjB4VGxnOVNPWVdCUndLMUxVcEM2ODgyRFZiQzFzTjZvRzhsckVkbkVPRWJDelB2bjlxY2tnX1R0ajdsTG9IWTNSd0ZFMTZod3hOY0FaTWoxOWxhdGZBYW5VbjRUczNuYlNSOVNqMXFZWXJF0gH8AUFVX3lxTE1FUlRlX3FOay1rZjB6MHZ3d0dDc0JZaEVIemN6VWNkNmszS3hKdWc1ak9iX2gzNGdhUXNkdWNZakt5TURvV3ZVZTJwODUzWENqdzlZU3VrSGZpQVlBQzNucnF2czlibTdOeTc5YjJXOFJmcjd2MHoxSGtFRURtdDZreThQYS1IZFE3TUY5RnRYVzRNNU15bkhjUHlNRmNPTjdiRzJUTE8zdEpkanZfeGJlNmtoNTczNlQxT2ctM0xsRXZDUWZlUWxULXhycEtISlBrUXhiUkRfUEdoRFNUSjRKSXh5d3NyYVM5WUpxWWtFQ09ncWhjbHVMZlRleg?oc=5",
@@ -2922,6 +2905,26 @@
       ],
       "publishedAt": "2026-04-01T07:00:00.000Z",
       "excerpt": "Difensore Caroccia, 'Delmastro è l'unico che gli ha teso una mano'",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ansa.it__ansa__miriam caroccia pm questa storia mi sta rovinando vita__2026-04-01T07:00:00.000Z",
+      "title": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita'",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLThFbE5sODRZdXZfVmJPeFc3d253MTRCWTIwbnF5WUVWR2M5U0luZmljOFNCeEhrSFF0MzByWEFycmJYa1VNV3F4aEJpd1JHZEpZaUw2OWdINm83UGN6U1dNcGZXNU94emMyYWhQc0dMRnh5bml4RV9KcnhKWGYwTWFUaWxmQVZRYk9ESmZWNVdLZ3JWWGRrQ1pjRlNLM0RDUW5ZVVZvWHF0UmxnWmNWZzJ2c09yLUpjVzVCTzhQQVRpU3FNRkYxMFZGVVdCUWY4bzJwRTdvTkdlU2dXU0FWQtIB5gFBVV95cUxOR2VMTGp0eHRNeE5VUVh1MzhqM2tiZWtNTUZkQ21ual9SbllDMW1TQ0g5UnJGaklXdnVwY1MzTGZOU2swMVNvNWV6S0d6WHN5UTJBVHJ0aGRHQm13MTJ4NzRKRGxqZ1N0Q196Yk9hR0hhYVg4TFpEa0pKa3MtSG80SHJhNVE1SWM3enlfN0VWWVVGb0J3VDVmMlB6RzJIX21fakdQMnFsOGJSOEZURzlUd0tXbXF5ekx6SGtFQ2lQLXo1clJUYVN6TVRRT0k4UnFQRFpNY29PVDI3QjdrUDc0YThJRWVKZw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLThFbE5sODRZdXZfVmJPeFc3d253MTRCWTIwbnF5WUVWR2M5U0luZmljOFNCeEhrSFF0MzByWEFycmJYa1VNV3F4aEJpd1JHZEpZaUw2OWdINm83UGN6U1dNcGZXNU94emMyYWhQc0dMRnh5bml4RV9KcnhKWGYwTWFUaWxmQVZRYk9ESmZWNVdLZ3JWWGRrQ1pjRlNLM0RDUW5ZVVZvWHF0UmxnWmNWZzJ2c09yLUpjVzVCTzhQQVRpU3FNRkYxMFZGVVdCUWY4bzJwRTdvTkdlU2dXU0FWQtIB5gFBVV95cUxOR2VMTGp0eHRNeE5VUVh1MzhqM2tiZWtNTUZkQ21ual9SbllDMW1TQ0g5UnJGaklXdnVwY1MzTGZOU2swMVNvNWV6S0d6WHN5UTJBVHJ0aGRHQm13MTJ4NzRKRGxqZ1N0Q196Yk9hR0hhYVg4TFpEa0pKa3MtSG80SHJhNVE1SWM3enlfN0VWWVVGb0J3VDVmMlB6RzJIX21fakdQMnFsOGJSOEZURzlUd0tXbXF5ekx6SGtFQ2lQLXo1clJUYVN6TVRRT0k4UnFQRFpNY29PVDI3QjdrUDc0YThJRWVKZw?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-04-01T07:00:00.000Z",
+      "excerpt": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita'",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -3034,10 +3037,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDU4YzBJQ3N4aEZCeFpfQTRteW5vandVdzJjZ1ZLTG9EYTB2OVVOVVFCaVNtd0ltczFIS0hxRUNMbXA1NTZDTkFwdHNpRmpmdUZjUUZtVmZJQVlFRDlKbnBmVnBISGhjOVk1WHhJX09kazdfUGQzNHB1d0tKZDZiQnhOei1NYVJRbmRSY2czZkIyeWFkM3VtcTRXSUlKaGxZV0V1NndkQTNTZ1dTSWlKckJ3VDRaZ2fSAbwBQVVfeXFMUEhHMmp3ZlVCU08yN1B1TEJ2TUtXZHVGZzlfUk9QT1RnSlBCejF3TGpoTG11UzZDcTlvOFA2Qm9Od1BndjVwaGI5amZVb1JhdVREb2lMeU01QU1aeFFubWVOS2d4dW1QenFielVMZ0xoMzd2c05xMlkyLVJ1RVk5U294cFhYX3REQThTZGdjTFhCcVRLOTJ2eEtycUtzSGxqdy1Sb3BHVXo3SEdZTENKNFVZdml6OTVPYU5UcDE?oc=5",
       "source": "la Repubblica",
       "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "bisteccheria"
@@ -3612,26 +3615,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "quotidiano.net__quotidiano nazionale__mauro caroccia pm delmastro ci ha fatto beneficenza__2026-04-01T07:00:00.000Z",
-      "title": "Mauro Caroccia ai pm: \"Delmastro ci ha fatto beneficenza\"",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcjBxa1JfMzFZWFdkek1NMmg1UVIwaUdqdkxzTl9QZEdXSy1PS1BReUxqTl9hYWdTS016bUZmeUtLb3ROZjFPcWRFU1hjLXRXZ1RvQ25vd1VrR2FsZDcxTnBuOXR1Ql9NbURHSnNBMUlsWVFFbmdhenFqUXRrODVaY1ZwWjdEVXdIVzZqSnFqZ1VOa2hFeXptaEFoUldxSUlydGFlcEFzcw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcjBxa1JfMzFZWFdkek1NMmg1UVIwaUdqdkxzTl9QZEdXSy1PS1BReUxqTl9hYWdTS016bUZmeUtLb3ROZjFPcWRFU1hjLXRXZ1RvQ25vd1VrR2FsZDcxTnBuOXR1Ql9NbURHSnNBMUlsWVFFbmdhenFqUXRrODVaY1ZwWjdEVXdIVzZqSnFqZ1VOa2hFeXptaEFoUldxSUlydGFlcEFzcw?oc=5",
-      "source": "Quotidiano Nazionale",
-      "sourceHost": "quotidiano.net",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-04-01T07:00:00.000Z",
-      "excerpt": "Mauro Caroccia ai pm: \"Delmastro ci ha fatto beneficenza\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "quotidiano.net__quotidiano nazionale__roma mauro caroccia pm delmastro ci ha fatto beneficenza__2026-04-01T07:00:00.000Z",
       "title": "Roma, Mauro Caroccia ai pm: \"Delmastro ci ha fatto della beneficenza\"",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3c3QUFobWIwd2puMG1DaXA1V0dIcDhZVGFfNU1Jcm1iVVpnOUViUHEzVnhvM3hldl9NeGxoVndwMDhzellMdTc3dGFNVUlsRUtZQ3pKOVI0UFJBYnd5OWwybnk1ZGg2bG5BNnJQanJUaE5adzE4VHBpMGxVdGcxeng0aVVQYVBwTlp1SU13VEo4WWttaXRCMDNfX0Q1RUt4enNGNm00eUpGQU5xRVNTeEFPN09mZw?oc=5",
@@ -3648,6 +3631,26 @@
       ],
       "publishedAt": "2026-04-01T07:00:00.000Z",
       "excerpt": "Roma, Mauro Caroccia ai pm: \"Delmastro ci ha fatto della beneficenza\"",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "quotidiano.net__quotidiano nazionale__mauro caroccia pm delmastro ci ha fatto beneficenza__2026-04-01T07:00:00.000Z",
+      "title": "Mauro Caroccia ai pm: \"Delmastro ci ha fatto beneficenza\"",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcjBxa1JfMzFZWFdkek1NMmg1UVIwaUdqdkxzTl9QZEdXSy1PS1BReUxqTl9hYWdTS016bUZmeUtLb3ROZjFPcWRFU1hjLXRXZ1RvQ25vd1VrR2FsZDcxTnBuOXR1Ql9NbURHSnNBMUlsWVFFbmdhenFqUXRrODVaY1ZwWjdEVXdIVzZqSnFqZ1VOa2hFeXptaEFoUldxSUlydGFlcEFzcw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcjBxa1JfMzFZWFdkek1NMmg1UVIwaUdqdkxzTl9QZEdXSy1PS1BReUxqTl9hYWdTS016bUZmeUtLb3ROZjFPcWRFU1hjLXRXZ1RvQ25vd1VrR2FsZDcxTnBuOXR1Ql9NbURHSnNBMUlsWVFFbmdhenFqUXRrODVaY1ZwWjdEVXdIVzZqSnFqZ1VOa2hFeXptaEFoUldxSUlydGFlcEFzcw?oc=5",
+      "source": "Quotidiano Nazionale",
+      "sourceHost": "quotidiano.net",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-04-01T07:00:00.000Z",
+      "excerpt": "Mauro Caroccia ai pm: \"Delmastro ci ha fatto beneficenza\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -3718,10 +3721,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV1hpZTV1UWJzTUdPQUExamtBb1VIaWxTQWlzbGFJaWItMFRuckd5OC1NeVJRUjFSajZVbzV2Y3JpV3pza3pteWNiWW5nUHlKMldNM1NXZ3pOQXZENGZNNkRUTHhFQjNXRThVRzB0M1o4R0p5YjE3Vi1EQ3gwRm8zTlZydmtfbHZiaDFMb3JiUEpKSVVoV3NwRGtzZG0tTGpZeHZaa0g5RQ?oc=5",
       "source": "Adnkronos",
       "sourceHost": "adnkronos.com",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "giudiziaria",
@@ -4302,10 +4305,15 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVWFNUkdHOHd6dThTMHVPU0JYay1ST3RRNS1JY0F6dWZHNGZfOUZ0NXgzZ1QwVzQzbDFNZWRRbVhSbFprZTBxRkNYaVVXRzUzNlFFVDh3VkNtUFhQTFV0Uk04bUtmUmdzZWo5bFhobk0wU09JYnBaTzE2a1pRN3VTMlZTVFF1bDVfR1NCNl9pYmtXTHFQSW1uQWZjbkhlNkpuM3BaX1E1S1RMTDJZRFhpTjRDOE83dHN3SThkbUtORnk3R1RLVGtEanhQX0FmNTZGc1YxVTNYT0dHeE0?oc=5",
       "source": "Adnkronos",
       "sourceHost": "adnkronos.com",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
       ],
       "tags": [
         "giudiziaria",
@@ -4511,10 +4519,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcHZvSWh4YTlJNFc5cjJxVmlpWFBQTXA0eVFpalhVRnRjWnRpU0xnLS1ZdTI1LVBRTXJtNlMxc2NPcXJ4dkZvT20tQU8zNmpEM2ZocmU0dk9lOFFXb3NHZG5wdmdGM1ltbXpvWTFJREprUUgwLTF3LWswdnZLWTQzVnRSRzVFMldkQjRUbmVIMUpRTEHSAZgBQVVfeXFMTV90cGdwb29TVG53OWZjZmIzTW9FdGRSM0lfdUJ1eTdTQ1ZuWDNLdVZDbXI3U2k1TXFvNGZ1U3kxRlY5X3FNYTNsVFdQRFU2cDRLb0l5WkRzc1lZU3BTSGFOYm5uSnZWWmZVZlBHd0dFRW8tODJmWVRxaUtxVS1fSWtfQVJLRnNpMXBYOU03LUNJRmpoZTJ0ZEo?oc=5",
       "source": "la Repubblica",
       "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "territorio"
@@ -5445,16 +5453,37 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "adnkronos.com__adnkronos__roma indagine societa famiglia caroccia settimana primi interrogatori__2026-03-30T07:00:00.000Z",
+      "title": "Roma, indagine su società famiglia Caroccia: in settimana primi interrogatori",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWNwbWE5WDhUMXcyZF91UFFNR25rMm5DUmtkMmhMTjhEbzFWVC1uUGxJa1k5MzZ2UVFaRTR3RktiNTBCbXFuVDdkajVPbmtFRk1BM1lUaGMwLUdwZ0EtcmJyUGo0dWVESTV2bElfX0NiTnFMR1ZqbU5rWGZ1VjRMZ2ZLVVRRUGlSOWx0Tzg1a3E4cjF3UVE1b3RXbW5vVFhoNVVuWEdMOFpGRnJRYWhiUVZ4ZzFOM1dEbEZ5aVNJUS1FeUhsZ2tvOA?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWNwbWE5WDhUMXcyZF91UFFNR25rMm5DUmtkMmhMTjhEbzFWVC1uUGxJa1k5MzZ2UVFaRTR3RktiNTBCbXFuVDdkajVPbmtFRk1BM1lUaGMwLUdwZ0EtcmJyUGo0dWVESTV2bElfX0NiTnFMR1ZqbU5rWGZ1VjRMZ2ZLVVRRUGlSOWx0Tzg1a3E4cjF3UVE1b3RXbW5vVFhoNVVuWEdMOFpGRnJRYWhiUVZ4ZzFOM1dEbEZ5aVNJUS1FeUhsZ2tvOA?oc=5",
+      "source": "Adnkronos",
+      "sourceHost": "adnkronos.com",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "giudiziaria",
+        "societa'"
+      ],
+      "publishedAt": "2026-03-30T07:00:00.000Z",
+      "excerpt": "Roma, indagine su società famiglia Caroccia: in settimana primi interrogatori",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "adnkronos.com__adnkronos__caso delmastro ex sottosegretario sara sentito commissione antimafia__2026-03-30T07:00:00.000Z",
       "title": "Caso Delmastro, ex sottosegretario sarà sentito dalla Commissione Antimafia",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRmR1M0didnZ5VDdaaDQwTVB5MlBHMV9LUzFiT1UxMlFfM21iZzJkSzhsUEJveWJkcmtUVXM0TjUtNTY5aVVtYmdLOVZHOVNSQVo4dGx5b0lpU29FTm1wOXMwdHYwdkx2TXB0N3k4NkhtWHZSUmUwWWs4b1lsRU9JTUR1MDJ0TWhPZnJnSnhGbk92MGt4R3Z2ZlJoNjJtZ2xmTlU3S1A2ZzJRWmE5bmxNY0xzcXNneHRlQWZTWFRERDlqcDZyRmtlcWN2cDU?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRmR1M0didnZ5VDdaaDQwTVB5MlBHMV9LUzFiT1UxMlFfM21iZzJkSzhsUEJveWJkcmtUVXM0TjUtNTY5aVVtYmdLOVZHOVNSQVo4dGx5b0lpU29FTm1wOXMwdHYwdkx2TXB0N3k4NkhtWHZSUmUwWWs4b1lsRU9JTUR1MDJ0TWhPZnJnSnhGbk92MGt4R3Z2ZlJoNjJtZ2xmTlU3S1A2ZzJRWmE5bmxNY0xzcXNneHRlQWZTWFRERDlqcDZyRmtlcWN2cDU?oc=5",
       "source": "Adnkronos",
       "sourceHost": "adnkronos.com",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "politica",
@@ -5472,37 +5501,21 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc3VhTy03YkJCamRCS0lpdWV1d19fekdIXzMwd1pfMHhFZ2R4TnZPNGpPdmlsOHI0ZW9LT3pGekZacWFmRUJZWFR2TFItYThteHdUUEU4ejdIZUJqMWNKX2VKV1R4QTlKdjVDaTdmWU5Rck5XZ1U0UE1Da3o5MGhrYUpiTjlHMExpdVpPOC1QVlFlbEllaU1jSFFvRjExdW1XcnlqdVpXSVVoU3Qxd2pDb2N3dGwxc214ZHJHSTNDUWVtb1psZThVS3E2ZmxZQQ?oc=5",
       "source": "Adnkronos",
       "sourceHost": "adnkronos.com",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
       ],
       "tags": [
         "territorio"
       ],
       "publishedAt": "2026-03-30T07:00:00.000Z",
       "excerpt": "Caso Delmastro, Elena Chiorino si dimette anche da assessora giunta Piemonte",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "adnkronos.com__adnkronos__roma indagine societa famiglia caroccia settimana primi interrogatori__2026-03-30T07:00:00.000Z",
-      "title": "Roma, indagine su società famiglia Caroccia: in settimana primi interrogatori",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWNwbWE5WDhUMXcyZF91UFFNR25rMm5DUmtkMmhMTjhEbzFWVC1uUGxJa1k5MzZ2UVFaRTR3RktiNTBCbXFuVDdkajVPbmtFRk1BM1lUaGMwLUdwZ0EtcmJyUGo0dWVESTV2bElfX0NiTnFMR1ZqbU5rWGZ1VjRMZ2ZLVVRRUGlSOWx0Tzg1a3E4cjF3UVE1b3RXbW5vVFhoNVVuWEdMOFpGRnJRYWhiUVZ4ZzFOM1dEbEZ5aVNJUS1FeUhsZ2tvOA?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWNwbWE5WDhUMXcyZF91UFFNR25rMm5DUmtkMmhMTjhEbzFWVC1uUGxJa1k5MzZ2UVFaRTR3RktiNTBCbXFuVDdkajVPbmtFRk1BM1lUaGMwLUdwZ0EtcmJyUGo0dWVESTV2bElfX0NiTnFMR1ZqbU5rWGZ1VjRMZ2ZLVVRRUGlSOWx0Tzg1a3E4cjF3UVE1b3RXbW5vVFhoNVVuWEdMOFpGRnJRYWhiUVZ4ZzFOM1dEbEZ5aVNJUS1FeUhsZ2tvOA?oc=5",
-      "source": "Adnkronos",
-      "sourceHost": "adnkronos.com",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria",
-        "societa'"
-      ],
-      "publishedAt": "2026-03-30T07:00:00.000Z",
-      "excerpt": "Roma, indagine su società famiglia Caroccia: in settimana primi interrogatori",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -6095,26 +6108,6 @@
       ],
       "publishedAt": "2026-03-26T07:00:00.000Z",
       "excerpt": "Il clan Senese e la pista dei soldi dietro l’offerta per comprare Visibilia",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "adnkronos.com__adnkronos__referendum dimissioni delmastro bartolozzi santanche cosa pensa vittorio feltri__2026-03-26T07:00:00.000Z",
-      "title": "Referendum e dimissioni Delmastro, Bartolozzi e Santanché: cosa pensa Vittorio Feltri",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUlhTQkVOeU5idm1CTGpKUXBKZE54eUUzN3VEMDNhUXFvamRIaFZVaWxVTFdvYUUyX2Y0SWhfUmNXTTI4ekl0QzBLZm9mdi1YOU9fOVRsemZtNTJpWEg5VVdlTEZOOWo1RXgyQlNFRS0xcnZyWFlVbFJ6d0ttbDZVWWVubkJsYnJXay1qMzRRVTFsQU1DTVVBR0dHelIyQm5nVTMxU0EzaFlyOVFWaFNrd01hcjU5VXV6SEVnaGcyakxielh1YjdUUGJ4clBjMlljMTJ3dTJZaWt6aEE3TUh1LXpxY2sydThmYzB3WnNR?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUlhTQkVOeU5idm1CTGpKUXBKZE54eUUzN3VEMDNhUXFvamRIaFZVaWxVTFdvYUUyX2Y0SWhfUmNXTTI4ekl0QzBLZm9mdi1YOU9fOVRsemZtNTJpWEg5VVdlTEZOOWo1RXgyQlNFRS0xcnZyWFlVbFJ6d0ttbDZVWWVubkJsYnJXay1qMzRRVTFsQU1DTVVBR0dHelIyQm5nVTMxU0EzaFlyOVFWaFNrd01hcjU5VXV6SEVnaGcyakxielh1YjdUUGJ4clBjMlljMTJ3dTJZaWt6aEE3TUh1LXpxY2sydThmYzB3WnNR?oc=5",
-      "source": "Adnkronos",
-      "sourceHost": "adnkronos.com",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "politica"
-      ],
-      "publishedAt": "2026-03-26T07:00:00.000Z",
-      "excerpt": "Referendum e dimissioni Delmastro, Bartolozzi e Santanché: cosa pensa Vittorio Feltri",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -8727,26 +8720,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "quotidiano.net__quotidiano nazionale__delmastro si dimette ma non ho fatto niente scorretto__2026-03-24T07:00:00.000Z",
-      "title": "Delmastro si dimette, 'ma non ho fatto niente di scorretto'",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UOXZqRmFNWWpIV1dNcFNQbTRQNUNHTWhXd2NHWGVycEVlWEZSbmRPXzJKTlZPeW95OW9PVDVqZXFQdVJlRU8zQW5Rd0hOb1M0WmlGang2eHBOeHZBenlYbE42d3ZpcGRsZ3FjQVBXTTVURzNSaEhyMXAxSHJZZw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UOXZqRmFNWWpIV1dNcFNQbTRQNUNHTWhXd2NHWGVycEVlWEZSbmRPXzJKTlZPeW95OW9PVDVqZXFQdVJlRU8zQW5Rd0hOb1M0WmlGang2eHBOeHZBenlYbE42d3ZpcGRsZ3FjQVBXTTVURzNSaEhyMXAxSHJZZw?oc=5",
-      "source": "Quotidiano Nazionale",
-      "sourceHost": "quotidiano.net",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-03-24T07:00:00.000Z",
-      "excerpt": "Delmastro si dimette, 'ma non ho fatto niente di scorretto'",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "quotidiano.net__quotidiano nazionale__parabola delmastro cospito pistolettata capodanno frasi sui detenuti bisteccheria__2026-03-24T07:00:00.000Z",
       "title": "La parabola di Delmastro: Cospito, la pistolettata di Capodanno, le frasi sui detenuti e la Bisteccheria",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YcF9vd3htWjMyOUJlNzFSQmlndzNrQVVzVlVnNHdROEc5T2dMTThRcnM1T1hyM3JhV0FCZmZ1T1pnc29XUjJJaDFPMXctUkJEOXB1STA1dUUzSGNnS1FJMEZ0Vm5DaHotaUstN2ZVcC1ncHRKODlvS1VMTnY3Q3M?oc=5",
@@ -8807,6 +8780,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "quotidiano.net__quotidiano nazionale__delmastro si dimette ma non ho fatto niente scorretto__2026-03-24T07:00:00.000Z",
+      "title": "Delmastro si dimette, 'ma non ho fatto niente di scorretto'",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UOXZqRmFNWWpIV1dNcFNQbTRQNUNHTWhXd2NHWGVycEVlWEZSbmRPXzJKTlZPeW95OW9PVDVqZXFQdVJlRU8zQW5Rd0hOb1M0WmlGang2eHBOeHZBenlYbE42d3ZpcGRsZ3FjQVBXTTVURzNSaEhyMXAxSHJZZw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UOXZqRmFNWWpIV1dNcFNQbTRQNUNHTWhXd2NHWGVycEVlWEZSbmRPXzJKTlZPeW95OW9PVDVqZXFQdVJlRU8zQW5Rd0hOb1M0WmlGang2eHBOeHZBenlYbE42d3ZpcGRsZ3FjQVBXTTVURzNSaEhyMXAxSHJZZw?oc=5",
+      "source": "Quotidiano Nazionale",
+      "sourceHost": "quotidiano.net",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-03-24T07:00:00.000Z",
+      "excerpt": "Delmastro si dimette, 'ma non ho fatto niente di scorretto'",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "quotidiano.net__quotidiano nazionale__caso delmastro reazioni schlein dimissioni tardive capro espiatorio sconfitta meloni__2026-03-24T07:00:00.000Z",
       "title": "Caso Delmastro, le reazioni. Schlein: “Dimissioni tardive, capro espiatorio della sconfitta di Meloni”",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xa0pxYi1CbUFvTDRXMUI3TTd0dmZYa3k1VVZja3UyNjk1MTVwYkRueDFZUHhKYkVDV1FEenlPY2lDakNBdDFSRzV5T1NJN0NBVHlGdVBoWktCNkNmVnhoWlhWaGpUdmlyR3pkYkRNQmR3MTFOUUw1WHpmeW9Sczg?oc=5",
@@ -8847,36 +8840,21 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "adnkronos.com__adnkronos__governo delmastro si dimette sottosegretario giustizia__2026-03-24T07:00:00.000Z",
-      "title": "Governo: Delmastro si dimette da sottosegretario alla Giustizia",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUcxWHBGcUx5TkZRVlE1ZWZRTFlkUWxlbGFzM0prRFZod3ZoczFpaDJ0aXFnN2JJMnZXeDJiQnAtbEVqTWxfMU1MblhYeWVnSFFaZjRkUHUtVjU5UkdpaWRmdEVuaW4waVNCY0hMc013aGN3aVdlRzVxMEREa2NtYTJCcFJwa3VYYXpjdzJHWDR5dGpxazRiNEZhVTNlcGpGTUVwUmsyQUdCV2txNTFqbDlodWJBRHlPSnhjZg?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUcxWHBGcUx5TkZRVlE1ZWZRTFlkUWxlbGFzM0prRFZod3ZoczFpaDJ0aXFnN2JJMnZXeDJiQnAtbEVqTWxfMU1MblhYeWVnSFFaZjRkUHUtVjU5UkdpaWRmdEVuaW4waVNCY0hMc013aGN3aVdlRzVxMEREa2NtYTJCcFJwa3VYYXpjdzJHWDR5dGpxazRiNEZhVTNlcGpGTUVwUmsyQUdCV2txNTFqbDlodWJBRHlPSnhjZg?oc=5",
-      "source": "Adnkronos",
-      "sourceHost": "adnkronos.com",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "politica"
-      ],
-      "publishedAt": "2026-03-24T07:00:00.000Z",
-      "excerpt": "Governo: Delmastro si dimette da sottosegretario alla Giustizia",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "adnkronos.com__adnkronos__delmastro bartolozzi si dimettono meloni auspico stessa scelta santanche__2026-03-24T07:00:00.000Z",
       "title": "Delmastro e Bartolozzi si dimettono. Meloni: \"Auspico stessa scelta da Santanchè\"",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFBMTUxrWlgyT3g3TUtiV3VtN3pRRndZdHJjNFJ0eEM5MTRkSlhlV1dhMHZHcHUzZVBsRXAyWHFVdUZTMDNxamMwQTRzOWhnSF9BMHJaY0h1ZU9hT3ZhQnRmc3c0UVNEN1RlRVNQck5sT0llVE9UZlhNYmZ6Q1ItbkM1cGlZejgxd29Hbk9oRHZMMnhVNXBpRmg1aDBCYnlJN1BSMEFBXzhQaUdiem9YbGhTdE52UDQ?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFBMTUxrWlgyT3g3TUtiV3VtN3pRRndZdHJjNFJ0eEM5MTRkSlhlV1dhMHZHcHUzZVBsRXAyWHFVdUZTMDNxamMwQTRzOWhnSF9BMHJaY0h1ZU9hT3ZhQnRmc3c0UVNEN1RlRVNQck5sT0llVE9UZlhNYmZ6Q1ItbkM1cGlZejgxd29Hbk9oRHZMMnhVNXBpRmg1aDBCYnlJN1BSMEFBXzhQaUdiem9YbGhTdE52UDQ?oc=5",
       "source": "Adnkronos",
       "sourceHost": "adnkronos.com",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
       ],
       "tags": [
         "altro"
@@ -8907,26 +8885,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "affaritaliani.it__affaritaliani__referendum sulla giustizia baldino m5s dimissioni delmastro forse potranno restituire po decoro ora aspettiamo santanche se meloni va casa noi siamo pronti__2026-03-24T07:00:00.000Z",
-      "title": "Referendum sulla giustizia, Baldino (M5s): \"Le dimissioni di Delmastro? Forse potranno restituire un po' di decoro. Ora aspettiamo Santanchè. Se Meloni va a casa, noi siamo pronti\"",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNbVIxeENlSnZZaGpsODl2NDgteERQdzZYTGdSVnFpNkdaWEVTdHRMVC10WEFjeVZXWXViWDMyMmw2aUNrR2lFTTRVeC1zMFpHaVlvRjRjekNoUGppNTdWTnBGTkNzX3YySWt1MlZjMnZyTl95N0Z6RFkya0cyU090andGYzNnX2ZSOEtBY1puTktXVF91SU1odEFVZ210X2tBZ1dxSlFvRUNTRE5IdUdjUmY0R1ZjNlpZek1ZMW1TcUE3WTB1Y2JiY0lxY1F2SENnT2ZlR2MzMS0zMmF2T2lVU294WnlsT2o0UncwbTdSSEMyWDdYUmd5TXJnWXE1MkE0cERzd200NjNpNllEaUdGYWxicXBaZw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNbVIxeENlSnZZaGpsODl2NDgteERQdzZYTGdSVnFpNkdaWEVTdHRMVC10WEFjeVZXWXViWDMyMmw2aUNrR2lFTTRVeC1zMFpHaVlvRjRjekNoUGppNTdWTnBGTkNzX3YySWt1MlZjMnZyTl95N0Z6RFkya0cyU090andGYzNnX2ZSOEtBY1puTktXVF91SU1odEFVZ210X2tBZ1dxSlFvRUNTRE5IdUdjUmY0R1ZjNlpZek1ZMW1TcUE3WTB1Y2JiY0lxY1F2SENnT2ZlR2MzMS0zMmF2T2lVU294WnlsT2o0UncwbTdSSEMyWDdYUmd5TXJnWXE1MkE0cERzd200NjNpNllEaUdGYWxicXBaZw?oc=5",
-      "source": "Affaritaliani",
-      "sourceHost": "affaritaliani.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "politica"
-      ],
-      "publishedAt": "2026-03-24T07:00:00.000Z",
-      "excerpt": "Referendum sulla giustizia, Baldino (M5s): \"Le dimissioni di Delmastro? Forse potranno restituire un po' di decoro. Ora aspettiamo Santanchè. Se Meloni va a casa, noi siamo pronti\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "affaritaliani.it__affaritaliani__delmastro nuovi guai prestanome boss senese era suo dipendente video sui social caroccia nelle mani dda__2026-03-24T07:00:00.000Z",
       "title": "Delmastro, nuovi guai. Il prestanome del boss Senese era un suo \"dipendente\". Il video sui social di Caroccia nelle mani della Dda",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMV9ycnlQNmpBRmZFbnFTcGs3aDF4dGdXMGduOHhTM0lkUHZubVQyaFYxVUU2LXo2cEpwUlBGZmJQUEJOWi1JbHUtSmdBRWExN25BQ3hpby1tWTJWb3dHdDNmcGZzcHotX2RCajlLQkRCbVZhUm1OUDhhMWpPUUVRRHBEaXNKb1YtN0FGdnM1NTQzM1JrUW16aWpwbkpnWUh5aVAtNm5XMHJwSzFybEhhLUZSYXkxUERTMnZKbWR0aWY1Tjc5Sy1jNXkwUU1RdGZLRlpTd0RSMVRFbEtuNWRxYUFwV0U5eVZNcFIwN0p4MkI1dktXU3NoRWlhZ2M?oc=5",
@@ -8943,6 +8901,26 @@
       ],
       "publishedAt": "2026-03-24T07:00:00.000Z",
       "excerpt": "Delmastro, nuovi guai. Il prestanome del boss Senese era un suo \"dipendente\". Il video sui social di Caroccia nelle mani della Dda",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "affaritaliani.it__affaritaliani__referendum sulla giustizia baldino m5s dimissioni delmastro forse potranno restituire po decoro ora aspettiamo santanche se meloni va casa noi siamo pronti__2026-03-24T07:00:00.000Z",
+      "title": "Referendum sulla giustizia, Baldino (M5s): \"Le dimissioni di Delmastro? Forse potranno restituire un po' di decoro. Ora aspettiamo Santanchè. Se Meloni va a casa, noi siamo pronti\"",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNbVIxeENlSnZZaGpsODl2NDgteERQdzZYTGdSVnFpNkdaWEVTdHRMVC10WEFjeVZXWXViWDMyMmw2aUNrR2lFTTRVeC1zMFpHaVlvRjRjekNoUGppNTdWTnBGTkNzX3YySWt1MlZjMnZyTl95N0Z6RFkya0cyU090andGYzNnX2ZSOEtBY1puTktXVF91SU1odEFVZ210X2tBZ1dxSlFvRUNTRE5IdUdjUmY0R1ZjNlpZek1ZMW1TcUE3WTB1Y2JiY0lxY1F2SENnT2ZlR2MzMS0zMmF2T2lVU294WnlsT2o0UncwbTdSSEMyWDdYUmd5TXJnWXE1MkE0cERzd200NjNpNllEaUdGYWxicXBaZw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNbVIxeENlSnZZaGpsODl2NDgteERQdzZYTGdSVnFpNkdaWEVTdHRMVC10WEFjeVZXWXViWDMyMmw2aUNrR2lFTTRVeC1zMFpHaVlvRjRjekNoUGppNTdWTnBGTkNzX3YySWt1MlZjMnZyTl95N0Z6RFkya0cyU090andGYzNnX2ZSOEtBY1puTktXVF91SU1odEFVZ210X2tBZ1dxSlFvRUNTRE5IdUdjUmY0R1ZjNlpZek1ZMW1TcUE3WTB1Y2JiY0lxY1F2SENnT2ZlR2MzMS0zMmF2T2lVU294WnlsT2o0UncwbTdSSEMyWDdYUmd5TXJnWXE1MkE0cERzd200NjNpNllEaUdGYWxicXBaZw?oc=5",
+      "source": "Affaritaliani",
+      "sourceHost": "affaritaliani.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica"
+      ],
+      "publishedAt": "2026-03-24T07:00:00.000Z",
+      "excerpt": "Referendum sulla giustizia, Baldino (M5s): \"Le dimissioni di Delmastro? Forse potranno restituire un po' di decoro. Ora aspettiamo Santanchè. Se Meloni va a casa, noi siamo pronti\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -9722,6 +9700,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "liberoquotidiano.it__libero quotidiano__andrea delmastro manina ecco tutta verita sulle foto ristorante libero quotidiano it__2026-03-21T07:00:00.000Z",
+      "title": "Andrea Delmastro e \"la manina\": ecco tutta la verità sulle foto al ristorante | Libero Quotidiano.it",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREozR1owTGdpUUQ1dlNfNGFkVU1PVVdfa2JPZk1oSHQzdjdCemNjbzhtcnhLd05OMmprQnJoNWVLaW0xTXpsOFBET21RZW1SU2ZSdmVRTHV0Z3BheVdId3Nsdkc5WmtyNkg3TnRNQ3lVMEU3TWpYWXJYQV9wYWp4RWhBR2htWHdtMjlndWl4azQyLWdtb00tcnRLQTVWY1IyLUdjUkJLczkzZVRteXc0VkhLUVHSAbgBQVVfeXFMTkV3TzhudUQxWW41UWhfTWFWVFhiR050NFBaWGx1WW5hb0FjTGlHdEgtbm5IbTBsbDBlUmdtSGZwdDBZWVVQeHluaVFTeFNYb0pvVS1OdTN6ZDV0cUFFMWlVdlp1azVRMzYwT2RSd1hBTk9ral83MXRTclRsQjJ6TmxwcDRnMFl5WnB0WkNTSEs5dkFWU3RtMTZoVnhmTnYzMV9uQjA0cDlBbmxEV0gxSVBnSEluTm5meg?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREozR1owTGdpUUQ1dlNfNGFkVU1PVVdfa2JPZk1oSHQzdjdCemNjbzhtcnhLd05OMmprQnJoNWVLaW0xTXpsOFBET21RZW1SU2ZSdmVRTHV0Z3BheVdId3Nsdkc5WmtyNkg3TnRNQ3lVMEU3TWpYWXJYQV9wYWp4RWhBR2htWHdtMjlndWl4azQyLWdtb00tcnRLQTVWY1IyLUdjUkJLczkzZVRteXc0VkhLUVHSAbgBQVVfeXFMTkV3TzhudUQxWW41UWhfTWFWVFhiR050NFBaWGx1WW5hb0FjTGlHdEgtbm5IbTBsbDBlUmdtSGZwdDBZWVVQeHluaVFTeFNYb0pvVS1OdTN6ZDV0cUFFMWlVdlp1azVRMzYwT2RSd1hBTk9ral83MXRTclRsQjJ6TmxwcDRnMFl5WnB0WkNTSEs5dkFWU3RtMTZoVnhmTnYzMV9uQjA0cDlBbmxEV0gxSVBnSEluTm5meg?oc=5",
+      "source": "Libero Quotidiano",
+      "sourceHost": "liberoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "bisteccheria"
+      ],
+      "publishedAt": "2026-03-21T07:00:00.000Z",
+      "excerpt": "Andrea Delmastro e \"la manina\": ecco tutta la verità sulle foto al ristorante | Libero Quotidiano.it",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "rainews.it__rainews__caso delmastro meloni sottosegretario stato leggero l opposizione si dimetta__2026-03-21T07:00:00.000Z",
       "title": "Caso Delmastro, Meloni: \"Il sottosegretario è stato leggero\". L'opposizione: \"Si dimetta\"",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPd0xfTE9TdC1fNVZ1cHZRNGxJWHlCUzJVY0RpRTNHV2dKcGt1SThPREdzWWR5dm1xUHRidjNlcFhERmlpb2t4MTZlZE5RZWhMaWdJdDhSYUJ3dEF4aWlNZWZnYkROUnM3bGsxUlZ1cUpyNVc5NnJxZUdvLTdSOWpBU1REWlBGbDE2Sm5LSVpYNDhuQmZralB4czZWcnoxTVFKYWJGd1Z1MXh6VU4taFlqYjR2YmlDcTFJVHAzN2dXR2NUaHloYnlHaE5rcng1Z1E3QWZHQ1ljUWdnUDRTUDVjSEh1cnBpdW9RWEplRGNmbmphZlh4LVHSAfsBQVVfeXFMTzIwOUlKLWFORGxxRTBzM1pRX0RhNE1YTjJfT3BReVB5WTZJd21hS2ZUZGJVazg4dklyMEkyQ0sza0N4amRWbFdFS20xel9ZckR6REZ2MnZ1OGJweDNFZ2lSS0xqLWVqTGZyVlNwQ1E0X2Q0cUNtR3R4Nmk4dDNDQXUtUF9rejNycDgtbjFKVFNjX1RrRnhGcWlQRkVqemlPVlljNTM4OTRjaXJqWlJsWHRhdGw5YXhfY3RwdTVRV3ZLcFM4SE8wRklHUTY4Z2QzZXRDMzJfVHRGNkdqaVlSZldZNU0wOGlHMndhU3NBVjR5U3ctOUVJYURFUDA?oc=5",
@@ -9880,6 +9878,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "quotidiano.net__quotidiano nazionale__commento all articolo caso delmastro indagati mauro caroccia figlia riciclaggio intestazione fittizia__2026-03-21T07:00:00.000Z",
+      "title": "Commento all'articolo \"Caso Delmastro indagati Mauro Caroccia e la figlia per riciclaggio e intestazione fittizia\"",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaGtwRjMxMTROMXlyOHhkQTh3a0dGSVRvUjREZ1hpNUxmSnpOQmRLQlJBUkxLSW0wSzVmVnkyYjViZHpIcEZPX2V0a0NzX2NHcE56TkpDX3BBTENJVHBTUWh5NUJfWlREYXpLSzNJWXZ5U3Q3clBES3QyY21WMVhMVFJ4azBvMzJYNFNUVlNMMjExTndzVVVCMXFLTjlNMEY0dVJzZTRhT01EbHd6UExTdVhzOHV1bW9lNDQwZG1OaHFOUWU3OEVpeVNUQ3BhdWlIOElpZUVn?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaGtwRjMxMTROMXlyOHhkQTh3a0dGSVRvUjREZ1hpNUxmSnpOQmRLQlJBUkxLSW0wSzVmVnkyYjViZHpIcEZPX2V0a0NzX2NHcE56TkpDX3BBTENJVHBTUWh5NUJfWlREYXpLSzNJWXZ5U3Q3clBES3QyY21WMVhMVFJ4azBvMzJYNFNUVlNMMjExTndzVVVCMXFLTjlNMEY0dVJzZTRhT01EbHd6UExTdVhzOHV1bW9lNDQwZG1OaHFOUWU3OEVpeVNUQ3BhdWlIOElpZUVn?oc=5",
+      "source": "Quotidiano Nazionale",
+      "sourceHost": "quotidiano.net",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "societa'"
+      ],
+      "publishedAt": "2026-03-21T07:00:00.000Z",
+      "excerpt": "Commento all'articolo \"Caso Delmastro indagati Mauro Caroccia e la figlia per riciclaggio e intestazione fittizia\"",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "quotidiano.net__quotidiano nazionale__caso delmastro indagati mauro caroccia figlia riciclaggio intestazione fittizia__2026-03-21T07:00:00.000Z",
       "title": "Caso Delmastro, indagati Mauro Caroccia e la figlia per riciclaggio e intestazione fittizia",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdHUyb25aUG9YcENHYXJpMURuSmpuM0Z6dnd2ZDRxd1Vfc0FGZklqUDJDVkM2aFZVSkxydDQ0dllNQWE1MWZ3LVVmNVFHUG1NREFxMjR1X3RORXExLURKRUlfZUdLNnVNNE12MzFCQUZoU0o4SGVmM1pBelNHakNfMk45SDR4QTA4dXd2WE8zbzl1dm8wdlAzZmZ5ZVpKMDlWS2RPejhabjE0bU8wQkhZeVZMSUhweTk4bVBYVkxJekRDNkxzeE5WWQ?oc=5",
@@ -9936,26 +9954,6 @@
       ],
       "publishedAt": "2026-03-20T21:13:51.000Z",
       "excerpt": "bisteccheria d'italia",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "huffingtonpost.it__huffpost italia__fuoco lento delmastro traballa si decide dopo referendum__2026-03-20T19:02:00.000Z",
-      "title": "A fuoco lento. Delmastro traballa. Si decide dopo il referendum",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU3d3eV93Tzc1VE5QZW9HSmhJaWRSNnk3LUNfWkM0Q2h6aTVpT3ppcXRhZ0dCdmMwMC1DRi04RXExZUk2T3NCM2tTc01GYzNWRy1TSjlsTlE5emp3TkxIak1ZcDFDZ05iQXdTX0pXSTVTOHNfd1JpZm45dDI0VE0yVnc4UkRJQmxIQVBENzZvcFctLWNYbVlWbkxkM01PMV9CY2s1azFoSG50ek9DODE0UGVKTy1NU1lNLUxyNzFabXppLUZSRkE2eE50UnlQaDZ4WWpRb2JSU2h4ZkNpMEHSAd4BQVVfeXFMUFN3d3lfd083NVROUGVvR0poSWlkUjZ5Ny1DX1pDNENoemk1aU96aXF0YWdHQnZjMDAtQ0YtOEVxMWVJNk9zQjNrU3NNRmMzVkctU0o5bE5ROXpqd05MSGpNWXAxQ2dOYkF3U19KV0k1UzhzX3dSaWZuOXQyNFRNMlZ3OFJESUJsSEFQRDc2b3BXLS1jWG1ZVm5MZDNNTzFfQmNrNWsxaEhudHpPQzgxNFBlSk8tTVNZTS1McjcxWm16aS1GUkZBNnhOdFJ5UGg2eFlqUW9iUlNoeGZDaTBB?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU3d3eV93Tzc1VE5QZW9HSmhJaWRSNnk3LUNfWkM0Q2h6aTVpT3ppcXRhZ0dCdmMwMC1DRi04RXExZUk2T3NCM2tTc01GYzNWRy1TSjlsTlE5emp3TkxIak1ZcDFDZ05iQXdTX0pXSTVTOHNfd1JpZm45dDI0VE0yVnc4UkRJQmxIQVBENzZvcFctLWNYbVlWbkxkM01PMV9CY2s1azFoSG50ek9DODE0UGVKTy1NU1lNLUxyNzFabXppLUZSRkE2eE50UnlQaDZ4WWpRb2JSU2h4ZkNpMEHSAd4BQVVfeXFMUFN3d3lfd083NVROUGVvR0poSWlkUjZ5Ny1DX1pDNENoemk1aU96aXF0YWdHQnZjMDAtQ0YtOEVxMWVJNk9zQjNrU3NNRmMzVkctU0o5bE5ROXpqd05MSGpNWXAxQ2dOYkF3U19KV0k1UzhzX3dSaWZuOXQyNFRNMlZ3OFJESUJsSEFQRDc2b3BXLS1jWG1ZVm5MZDNNTzFfQmNrNWsxaEhudHpPQzgxNFBlSk8tTVNZTS1McjcxWm16aS1GUkZBNnhOdFJ5UGg2eFlqUW9iUlNoeGZDaTBB?oc=5",
-      "source": "HuffPost Italia",
-      "sourceHost": "huffingtonpost.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-03-20T19:02:00.000Z",
-      "excerpt": "A fuoco lento. Delmastro traballa. Si decide dopo il referendum",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -10500,26 +10498,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__la stampa__meloni difesa delmastro poco accorto__2026-03-20T07:00:00.000Z",
-      "title": "Meloni e la difesa di Delmastro \"poco accorto\"",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX2JuNWlQRG8yNmJiT2stNzRGbVhnRXNwazVOSDR3VVhldndLeDlXS0ZaTlhWejcxaVBPRUgyeC1nSnN4NWV3WDFxM1hzMU9mYUFabnMyS2w4RHhxY2tWbTE2Yk80U3RYZU9NVXUtMGhvMjRmOUhNN0o0eDFfeVJpOERlMlczUHRfVmluQUVxMWc2X1ltb01TeGRNaTRkRUlldnMxVUdlUEk5djR1MnJqdg?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX2JuNWlQRG8yNmJiT2stNzRGbVhnRXNwazVOSDR3VVhldndLeDlXS0ZaTlhWejcxaVBPRUgyeC1nSnN4NWV3WDFxM1hzMU9mYUFabnMyS2w4RHhxY2tWbTE2Yk80U3RYZU9NVXUtMGhvMjRmOUhNN0o0eDFfeVJpOERlMlczUHRfVmluQUVxMWc2X1ltb01TeGRNaTRkRUlldnMxVUdlUEk5djR1MnJqdg?oc=5",
-      "source": "La Stampa",
-      "sourceHost": "lastampa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-03-20T07:00:00.000Z",
-      "excerpt": "Meloni e la difesa di Delmastro \"poco accorto\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "lastampa.it__la stampa__abbiamo ristorante quei politici biellesi amici delmastro affari mala roma__2026-03-20T07:00:00.000Z",
       "title": "“Abbiamo un ristorante”, quei politici biellesi amici di Delmastro in affari con la mala di Roma",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdVFTWDVGMHJXSGdPOVZFOXc3T0xBSksyZ3dpcEtFS1VZaUxUR1YycGxTdXRnREJVRFFzeWxwazVQMXpnNjhKVXhxYXRSOERDQ0dmSF91a2NSVlQ2blVvRnk5eFIycDJLNjZlNEo2ZWQwTngwSkstMV9CUzByNExhWHExTHdSVUs2WTNzSlNXZlpBUDZWR0FfZHA0WTVyQUxKSHo3M0JtX3U5N01qSXY5UHlyTWZaLTBuaTJBTGdXVlFVREh4ZjlnVUlR0gHPAUFVX3lxTFA4czZaVldodDdjZ193TV9JRk5lMVpCUUVzNVU4RlE5QjZJSlp5cUYzdUg2ZFdEN0JfVTFReW5VQlE2Qmo5bkJ1NjlzWG1pa3ZUX3dyemZYMjB5S0FEVWkwaTM4T3VmRFFCX1dNTHRRcTZGY1l3R3lIV0hySW9tVE9zYUpPMzJRc3pFOGIzcEc0b0NHWEk0TVgtWWs3anhhcE1kYkNwNVA0Z280XzhpWmgzdi1XQm9ZdmwxbjNjdnl3dFpLck16TzBvdFlXOFdTUQ?oc=5",
@@ -10681,6 +10659,26 @@
       ],
       "publishedAt": "2026-03-20T07:00:00.000Z",
       "excerpt": "Andrea Delmastro in affari con la figlia di un prestanome del clan Senese: Meloni furiosa e spunta una foto",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "huffingtonpost.it__huffpost italia__fuoco lento delmastro traballa si decide dopo referendum__2026-03-20T07:00:00.000Z",
+      "title": "A fuoco lento. Delmastro traballa. Si decide dopo il referendum",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQXVVTnpiUlpSczVjcWRjQ0ttRDdsS2tHdTlwNk5VMXBnam11YXd5N0pWQ1RHNWpvZ0JlSzJXdmx5dFVSV2tzZEtPQUVkbjlnVHhJZ3VHcWtXV3VScHRBczNLazB5bGNpdzhXQU5uZ0Y0RWh2U1RzRWNRNFZ1eDZKekdMRFkxMjI4MDFvVzk0TmhSQTh0SHZycVp6UmVIM19Wb1pLS2NjRG1kbHBpVE91MzhWcVRTaXNRXzJVUU5VRW8yRGVSTXlhVW51U0FfbkZqRGt1V01QOHU?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQXVVTnpiUlpSczVjcWRjQ0ttRDdsS2tHdTlwNk5VMXBnam11YXd5N0pWQ1RHNWpvZ0JlSzJXdmx5dFVSV2tzZEtPQUVkbjlnVHhJZ3VHcWtXV3VScHRBczNLazB5bGNpdzhXQU5uZ0Y0RWh2U1RzRWNRNFZ1eDZKekdMRFkxMjI4MDFvVzk0TmhSQTh0SHZycVp6UmVIM19Wb1pLS2NjRG1kbHBpVE91MzhWcVRTaXNRXzJVUU5VRW8yRGVSTXlhVW51U0FfbkZqRGt1V01QOHU?oc=5",
+      "source": "HuffPost Italia",
+      "sourceHost": "huffingtonpost.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-03-20T07:00:00.000Z",
+      "excerpt": "A fuoco lento. Delmastro traballa. Si decide dopo il referendum",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -10993,10 +10991,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeU1NRHFLbGFMbEM0c1pLM1dHRHNrZ1BZMmZIU0ExZW81c2tTa2tiUjAxRHgwTVJJNG93LS1DaWNpNzBTdERsVl83eWxyMFJsdVhRSVgwV1dsaDZ3MjhTdnF4OTZHUVdIUlIxZnpHa1BaS0ZtanNHRGR4cWhRSV96Rms4dGZQYlFFcGNzVkp3cDkzRXFWTERmSVJkeHI3Q3MyUUxTOUdTWHVFSGNIOVhpU1NxMGRQQ2ktU0U1QllrdnNDdGJ4MFJqeDlCQnMtT3lXUHZSNWozR2J3RFdfREVUNk5KLXJ0NWQ0RkJkdFFtam15aFR2d21mT0ZVUTNXa2tlYWpMVHRkamFNNW8?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "altro"
@@ -11007,21 +11005,36 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__russa difende delmastro foto condannato non ci si dimette__2026-03-20T07:00:00.000Z",
+      "title": "La Russa difende Delmastro: \"Per una foto con un condannato non ci si dimette\"",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmNreGFZVHdmRUo4RzRsTWNjNGg3QkdzLXVZd295OWJoT1R4XzFSYTItZDlpSl93U0JtUHlBMy1XTEdYdTdaQ01jdC1lV0UxaW1KaUItQTFLVTZueDJLcWQ3N052c1k1WVpsN1pCZ2hOU081SHl2c0dhUVVsQXVkSnR0TFU0NnFVcjl4ZEJERkFTQnFfOVVBM1kzbw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmNreGFZVHdmRUo4RzRsTWNjNGg3QkdzLXVZd295OWJoT1R4XzFSYTItZDlpSl93U0JtUHlBMy1XTEdYdTdaQ01jdC1lV0UxaW1KaUItQTFLVTZueDJLcWQ3N052c1k1WVpsN1pCZ2hOU081SHl2c0dhUVVsQXVkSnR0TFU0NnFVcjl4ZEJERkFTQnFfOVVBM1kzbw?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-03-20T07:00:00.000Z",
+      "excerpt": "La Russa difende Delmastro: \"Per una foto con un condannato non ci si dimette\"",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro caroccia srl nascosta parlamento sottosegretario rischia anche l indagine penale__2026-03-20T07:00:00.000Z",
       "title": "Delmastro, Caroccia e la srl nascosta al Parlamento: il sottosegretario rischia anche l’indagine penale?",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNmwzOW9jZ3Y4dVQxWUk4MGhNZ1lIRFlucmY1dzRheTI0WGlZWnZ2VEdraWhzTG96dGhZeGdTQjVOOENHVTczRW1oN3ZueXhfLXdxaUJwX1ZWWEl2NzloakVaWDhjckU2WU4yTWZDSTNnT0RkaEw3bFNUOXJBUDlaVTJJR1gteXUtNThqVU93X3VBRU5BUjFiVlA3UHZGa2JkakUyWDRKR3lZUGZsREZuUy1VSUZaMGc0V0NlLTBCcFdwT2cwZVpIdDJlLVZSSDV3STJZVTh5VWVtbUtXUW1RbF9WNA?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNmwzOW9jZ3Y4dVQxWUk4MGhNZ1lIRFlucmY1dzRheTI0WGlZWnZ2VEdraWhzTG96dGhZeGdTQjVOOENHVTczRW1oN3ZueXhfLXdxaUJwX1ZWWEl2NzloakVaWDhjckU2WU4yTWZDSTNnT0RkaEw3bFNUOXJBUDlaVTJJR1gteXUtNThqVU93X3VBRU5BUjFiVlA3UHZGa2JkakUyWDRKR3lZUGZsREZuUy1VSUZaMGc0V0NlLTBCcFdwT2cwZVpIdDJlLVZSSDV3STJZVTh5VWVtbUtXUW1RbF9WNA?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Soci e societa'",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Caroccia",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl",
-        "clan Senese"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "politica",
@@ -11030,6 +11043,26 @@
       ],
       "publishedAt": "2026-03-20T07:00:00.000Z",
       "excerpt": "Delmastro, Caroccia e la srl nascosta al Parlamento: il sottosegretario rischia anche l’indagine penale?",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__referendum conte riforma nordio affidata personaggi come delmastro bartolozzi no ha valore morale__2026-03-20T07:00:00.000Z",
+      "title": "Referendum, Conte: “Riforma Nordio affidata a personaggi come Delmastro e Bartolozzi, il No ha valore morale”",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNENHbkNqTWZsTXplTDRaSWg3TGdMYkhUNmtRR1FESGhqTHp1SVh1RzRCa0FLMUUxaWhIbElJUUdNRWRoS01GR2NtendsLVZnNXhSR1ZXeVB0bjJYdjcwSTE5S0VtU2tHWWxKRVZsWDRGRkxtM3RVdXpTNDVLeURwZkc5dUg3YUZHSWpFc2VSbGYtSWFZOFJnREdDRi1BQQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNENHbkNqTWZsTXplTDRaSWg3TGdMYkhUNmtRR1FESGhqTHp1SVh1RzRCa0FLMUUxaWhIbElJUUdNRWRoS01GR2NtendsLVZnNXhSR1ZXeVB0bjJYdjcwSTE5S0VtU2tHWWxKRVZsWDRGRkxtM3RVdXpTNDVLeURwZkc5dUg3YUZHSWpFc2VSbGYtSWFZOFJnREdDRi1BQQ?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-03-20T07:00:00.000Z",
+      "excerpt": "Referendum, Conte: “Riforma Nordio affidata a personaggi come Delmastro e Bartolozzi, il No ha valore morale”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -11109,31 +11142,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__russa difende delmastro foto condannato non ci si dimette__2026-03-20T07:00:00.000Z",
-      "title": "La Russa difende Delmastro: \"Per una foto con un condannato non ci si dimette\"",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmNreGFZVHdmRUo4RzRsTWNjNGg3QkdzLXVZd295OWJoT1R4XzFSYTItZDlpSl93U0JtUHlBMy1XTEdYdTdaQ01jdC1lV0UxaW1KaUItQTFLVTZueDJLcWQ3N052c1k1WVpsN1pCZ2hOU081SHl2c0dhUVVsQXVkSnR0TFU0NnFVcjl4ZEJERkFTQnFfOVVBM1kzbw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmNreGFZVHdmRUo4RzRsTWNjNGg3QkdzLXVZd295OWJoT1R4XzFSYTItZDlpSl93U0JtUHlBMy1XTEdYdTdaQ01jdC1lV0UxaW1KaUItQTFLVTZueDJLcWQ3N052c1k1WVpsN1pCZ2hOU081SHl2c0dhUVVsQXVkSnR0TFU0NnFVcjl4ZEJERkFTQnFfOVVBM1kzbw?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Soci e societa'",
-      "matchedTerms": [
-        "Caroccia",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl",
-        "clan Senese"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-03-20T07:00:00.000Z",
-      "excerpt": "La Russa difende Delmastro: \"Per una foto con un condannato non ci si dimette\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro legami caroccia crosetto difende sottosegretario__2026-03-20T07:00:00.000Z",
       "title": "Delmastro e i legami con Caroccia: Crosetto difende il sottosegretario",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZjRjeFh3Q3M1MEl0c25rY1doaVBTNDhaUjlnU1pHeFd1TGxTMVhIblMySzVVblk3TU1OMEhiNktwc3dpd2Z2clU0LW8ybmUxVzNVa1NfNnIzclAtSmF2eWJhdjFKSXg3anZjNDFuYkd2Szk2bWJkYlRIY19jWUxIeGxGT05xWTRXLWhYYld5eEdVbzA2aWlRUmpMNFB6bENi?oc=5",
@@ -11180,6 +11188,28 @@
       ],
       "publishedAt": "2026-03-20T07:00:00.000Z",
       "excerpt": "Per Meloni \"Delmastro è stato leggero\". Ma la premier evoca il complotto contro il Sì. Il M5s: \"Triste che parli di manina e non di mafia\"",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__ecco foto che inchioda delmastro insieme mauro caroccia ed dell ottobre 2023__2026-03-20T07:00:00.000Z",
+      "title": "Ecco la foto che inchioda Delmastro: è insieme a Mauro Caroccia ed è dell’ottobre 2023",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZURySXVBamI0eE9QUzNZdTcxdWdROUZ1LWVkQjdZMHhYNGxuNm9feVBsekxRTEM0Q2JPaG5VeWxQZUViVVdTLXlQbVg3bHJGZlExX2QxN1FENEpEdnljeTg3VkVRQU1Iek1VUHQzRzNpZDVSNGF0MWl6dUtULWw1YUZHYjlQeFM3bTRCdml1ZzJKaE0zZVlwT1ZRUGlNWEU5UUdBVktyVFJkU1EyVEE?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZURySXVBamI0eE9QUzNZdTcxdWdROUZ1LWVkQjdZMHhYNGxuNm9feVBsekxRTEM0Q2JPaG5VeWxQZUViVVdTLXlQbVg3bHJGZlExX2QxN1FENEpEdnljeTg3VkVRQU1Iek1VUHQzRzNpZDVSNGF0MWl6dUtULWw1YUZHYjlQeFM3bTRCdml1ZzJKaE0zZVlwT1ZRUGlNWEU5UUdBVktyVFJkU1EyVEE?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Persone collegate",
+      "matchedTerms": [
+        "Elena Chiorino",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "clan Senese"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-03-20T07:00:00.000Z",
+      "excerpt": "Ecco la foto che inchioda Delmastro: è insieme a Mauro Caroccia ed è dell’ottobre 2023",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -11736,6 +11766,26 @@
       ],
       "publishedAt": "2026-03-19T07:00:00.000Z",
       "excerpt": "Il sottosegretario Delmastro socio di una bisteccheria con la figlia di un condannato per mafia",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro fdi imbarazzo arianna meloni parla gogna mediatica__2026-03-19T07:00:00.000Z",
+      "title": "Caso Delmastro, FdI in imbarazzo: Arianna Meloni parla di 'gogna mediatica'",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOOUNON3JyeWkycmJKQ3VJMG5PYWRWOTlVZU5WcF92VTlaazJrNFFUQjc3d1dxUXhPejdFNm5hbTNQbUp4VURPd2dPX0h6Z0czN3NCbDBHQW9EYkxORXNHaWpUZGpGWGpUUU5JZkhBR3Z4dGdhcDhhdFFLdTdNa0VjemJqMDFkaE52cW1aUU83VE1tLUxFLUZ2aHZZSFl5OTNrUzloNy1YQUl5WUdrMFVQVXlVSmN5alRFVEJNdndpMmJVcTM5NXJYS2ZrWF9EWTFoX0ltZktlMmxKU0NUZFpuZ04zWE1EYTEyQjBLNG85VHhYUGNTRGp4d1RwdkkxSlBvdjI3a3RyT2gydlowamdULXpMWXFzYU56VkE?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOOUNON3JyeWkycmJKQ3VJMG5PYWRWOTlVZU5WcF92VTlaazJrNFFUQjc3d1dxUXhPejdFNm5hbTNQbUp4VURPd2dPX0h6Z0czN3NCbDBHQW9EYkxORXNHaWpUZGpGWGpUUU5JZkhBR3Z4dGdhcDhhdFFLdTdNa0VjemJqMDFkaE52cW1aUU83VE1tLUxFLUZ2aHZZSFl5OTNrUzloNy1YQUl5WUdrMFVQVXlVSmN5alRFVEJNdndpMmJVcTM5NXJYS2ZrWF9EWTFoX0ltZktlMmxKU0NUZFpuZ04zWE1EYTEyQjBLNG85VHhYUGNTRGp4d1RwdkkxSlBvdjI3a3RyT2gydlowamdULXpMWXFzYU56VkE?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica"
+      ],
+      "publishedAt": "2026-03-19T07:00:00.000Z",
+      "excerpt": "Caso Delmastro, FdI in imbarazzo: Arianna Meloni parla di 'gogna mediatica'",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

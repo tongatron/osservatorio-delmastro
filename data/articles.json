@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T14:50:11.995Z",
+  "generatedAt": "2026-05-03T15:21:42.490Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-03-19T14:50:11.995Z",
-    "to": "2026-05-03T14:50:11.995Z",
+    "from": "2026-03-19T15:21:42.490Z",
+    "to": "2026-05-03T15:21:42.490Z",
     "days": 45
   },
   "sources": [
@@ -105,7 +105,7 @@
     },
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 82
+      "articleCount": 81
     },
     {
       "label": "lastampa.it",
@@ -191,8 +191,8 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 1108,
-      "uniqueArticles": 549
+      "fetchedArticles": 1106,
+      "uniqueArticles": 548
     },
     {
       "label": "Bisteccheria",
@@ -202,16 +202,16 @@
     {
       "label": "Soci e societa'",
       "fetchedArticles": 310,
-      "uniqueArticles": 22
+      "uniqueArticles": 23
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 310,
-      "uniqueArticles": 5
+      "fetchedArticles": 308,
+      "uniqueArticles": 4
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 182,
+      "fetchedArticles": 181,
       "uniqueArticles": 1
     },
     {
@@ -223,7 +223,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 239
+      "count": 238
     },
     {
       "tag": "politica",
@@ -253,7 +253,7 @@
     },
     {
       "date": "2026-03-20",
-      "count": 86
+      "count": 85
     },
     {
       "date": "2026-03-21",
@@ -985,6 +985,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro cospito pg roma chiede l assoluzione perche fatto non costituisce reato__2026-04-22T07:00:00.000Z",
+      "title": "Caso Delmastro-Cospito, il pg di Roma chiede l’assoluzione “perché il fatto non costituisce reato”",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQalBsOE9ub2hBeGY5LXMyVmxMSTBueW8xQkpiN2ktU0xCSkJjaXpTZEk4WGlsUGVzYzFJWXpkZ1FEZ2RnV1JSYjRYU09zdnRJTzlScEROOHpJX3Z4X2tPRkNPZ3ZfQnpsdWpVNUtaUkZjWlRYVFVsNS11Q2J4QkQyZ0Z0ZmMwMHNKNFYxal91aGVQbmNSdlVmRk9aYlFfcEpBcW1yN3VFRi1ydEJBNXNaVmRnRHpGbEtuMkNsdEJWNDhIdjJNdmhIRVM1M2FyaVE5Qmlhczl3?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQalBsOE9ub2hBeGY5LXMyVmxMSTBueW8xQkpiN2ktU0xCSkJjaXpTZEk4WGlsUGVzYzFJWXpkZ1FEZ2RnV1JSYjRYU09zdnRJTzlScEROOHpJX3Z4X2tPRkNPZ3ZfQnpsdWpVNUtaUkZjWlRYVFVsNS11Q2J4QkQyZ0Z0ZmMwMHNKNFYxal91aGVQbmNSdlVmRk9aYlFfcEpBcW1yN3VFRi1ydEJBNXNaVmRnRHpGbEtuMkNsdEJWNDhIdjJNdmhIRVM1M2FyaVE5Qmlhczl3?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-22T07:00:00.000Z",
+      "excerpt": "Caso Delmastro-Cospito, il pg di Roma chiede l’assoluzione “perché il fatto non costituisce reato”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__inchiesta hydra pentito amico risponde domande pm delmastro fdi__2026-04-22T07:00:00.000Z",
       "title": "Inchiesta Hydra, il pentito Amico risponde alle domande dei pm su Delmastro e FdI",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSFkxMG5YUjBxcnRVZDdIaVI5U3RkN3U5ZXhQN3U4Y2REVF9qTFdadEdBMkMxdDI4TWsxVmd6RE5JZ1N4UkhFTVkwRTNSVkVnU3E4SmE3RzBTcEMwVTFlT3ptRE1lQTN5UXc4eUhrYnVqVF9JT0xXcHpBMjZGeXpYU05IQ2FHWTlxc0N3SlN6cm5yZWtWRkJSV29iN2tJRTAxTTJjbW9sV0lmMGozOXN5ZGxOSWh5YlNQSWk3bWN4WnBZR1pQRW44akE4TWZSTEo2Wm92YkxzdFFxYk9wY1A2U2FFNjViSHNk?oc=5",
@@ -1022,26 +1042,6 @@
       ],
       "publishedAt": "2026-04-22T07:00:00.000Z",
       "excerpt": "Meloni nomina cinque nuovi sottosegretari: il senatore di FdI Balboni va alla Giustizia al posto di Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro cospito pg roma chiede l assoluzione perche fatto non costituisce reato__2026-04-22T07:00:00.000Z",
-      "title": "Caso Delmastro-Cospito, il pg di Roma chiede l’assoluzione “perché il fatto non costituisce reato”",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQalBsOE9ub2hBeGY5LXMyVmxMSTBueW8xQkpiN2ktU0xCSkJjaXpTZEk4WGlsUGVzYzFJWXpkZ1FEZ2RnV1JSYjRYU09zdnRJTzlScEROOHpJX3Z4X2tPRkNPZ3ZfQnpsdWpVNUtaUkZjWlRYVFVsNS11Q2J4QkQyZ0Z0ZmMwMHNKNFYxal91aGVQbmNSdlVmRk9aYlFfcEpBcW1yN3VFRi1ydEJBNXNaVmRnRHpGbEtuMkNsdEJWNDhIdjJNdmhIRVM1M2FyaVE5Qmlhczl3?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQalBsOE9ub2hBeGY5LXMyVmxMSTBueW8xQkpiN2ktU0xCSkJjaXpTZEk4WGlsUGVzYzFJWXpkZ1FEZ2RnV1JSYjRYU09zdnRJTzlScEROOHpJX3Z4X2tPRkNPZ3ZfQnpsdWpVNUtaUkZjWlRYVFVsNS11Q2J4QkQyZ0Z0ZmMwMHNKNFYxal91aGVQbmNSdlVmRk9aYlFfcEpBcW1yN3VFRi1ydEJBNXNaVmRnRHpGbEtuMkNsdEJWNDhIdjJNdmhIRVM1M2FyaVE5Qmlhczl3?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-22T07:00:00.000Z",
-      "excerpt": "Caso Delmastro-Cospito, il pg di Roma chiede l’assoluzione “perché il fatto non costituisce reato”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2276,12 +2276,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNejBCc2VpT3BPcVF2ZEpFSmVmMTNCaFBUaEVUTkJfaDNXcjFZTmtiWWhiRDVsUW84WTU3Yi1DcEhhVzBNNEpNQkItUlJ3eHlKMk5Ybm9CcHpGaUFTQUF0eGo0Q3VwVG5Hd0N0UVF4cGR6d0RldGs2cmlDRTRLdlhtRUNfTGtZUVU5YWttT1FhQzZjdzMtR0diMHZ3RFp1dmlGOHlZYnRON3RRbXIzSjZSVHNJS1IzelNGY3FETy02dFRPZ3lNQ21oRTJUYlotNHRtdDdMdEtkQS1oQ00?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Persone collegate",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Elena Chiorino",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "clan Senese"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "giudiziaria"
@@ -12219,26 +12217,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__io espulso delmastro resta lui protetto dai vertici fdi__2026-03-20T07:00:00.000Z",
-      "title": "“Io espulso, Delmastro resta: lui è protetto dai vertici FdI”",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdllMRkFFVXZxXzVUZnZWWXB4aHJVNlJ0cUdYakNUS0ZwSFV6cmZXSlZTQXBaclVzX0p3dkRBOE4xYmJzU29jTW1oR09FOFJBYV9rSVRHbV9LbU81OXBRdmg4WGlvV0hBUzR3NjM1YnNmTGc4cEF2YlVISDRXSlhJSFd5VnhNc3J1b0Z5bnVkOHRJOE1sMGF5YmtDMGxRZzE2LTBTajA5c2dLNHlucGM0aWkzVlN3VG1UWDJvaGRROUFsdUkxdXdNMUd3?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdllMRkFFVXZxXzVUZnZWWXB4aHJVNlJ0cUdYakNUS0ZwSFV6cmZXSlZTQXBaclVzX0p3dkRBOE4xYmJzU29jTW1oR09FOFJBYV9rSVRHbV9LbU81OXBRdmg4WGlvV0hBUzR3NjM1YnNmTGc4cEF2YlVISDRXSlhJSFd5VnhNc3J1b0Z5bnVkOHRJOE1sMGF5YmtDMGxRZzE2LTBTajA5c2dLNHlucGM0aWkzVlN3VG1UWDJvaGRROUFsdUkxdXdNMUd3?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "politica"
-      ],
-      "publishedAt": "2026-03-20T07:00:00.000Z",
-      "excerpt": "“Io espulso, Delmastro resta: lui è protetto dai vertici FdI”",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro caroccia srl nascosta parlamento sottosegretario rischia anche l indagine penale__2026-03-20T07:00:00.000Z",
       "title": "Delmastro, Caroccia e la srl nascosta al Parlamento: il sottosegretario rischia anche l’indagine penale?",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNmwzOW9jZ3Y4dVQxWUk4MGhNZ1lIRFlucmY1dzRheTI0WGlZWnZ2VEdraWhzTG96dGhZeGdTQjVOOENHVTczRW1oN3ZueXhfLXdxaUJwX1ZWWEl2NzloakVaWDhjckU2WU4yTWZDSTNnT0RkaEw3bFNUOXJBUDlaVTJJR1gteXUtNThqVU93X3VBRU5BUjFiVlA3UHZGa2JkakUyWDRKR3lZUGZsREZuUy1VSUZaMGc0V0NlLTBCcFdwT2cwZVpIdDJlLVZSSDV3STJZVTh5VWVtbUtXUW1RbF9WNA?oc=5",
@@ -12401,6 +12379,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__io espulso delmastro resta lui protetto dai vertici fdi__2026-03-20T07:00:00.000Z",
+      "title": "“Io espulso, Delmastro resta: lui è protetto dai vertici FdI”",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdllMRkFFVXZxXzVUZnZWWXB4aHJVNlJ0cUdYakNUS0ZwSFV6cmZXSlZTQXBaclVzX0p3dkRBOE4xYmJzU29jTW1oR09FOFJBYV9rSVRHbV9LbU81OXBRdmg4WGlvV0hBUzR3NjM1YnNmTGc4cEF2YlVISDRXSlhJSFd5VnhNc3J1b0Z5bnVkOHRJOE1sMGF5YmtDMGxRZzE2LTBTajA5c2dLNHlucGM0aWkzVlN3VG1UWDJvaGRROUFsdUkxdXdNMUd3?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdllMRkFFVXZxXzVUZnZWWXB4aHJVNlJ0cUdYakNUS0ZwSFV6cmZXSlZTQXBaclVzX0p3dkRBOE4xYmJzU29jTW1oR09FOFJBYV9rSVRHbV9LbU81OXBRdmg4WGlvV0hBUzR3NjM1YnNmTGc4cEF2YlVISDRXSlhJSFd5VnhNc3J1b0Z5bnVkOHRJOE1sMGF5YmtDMGxRZzE2LTBTajA5c2dLNHlucGM0aWkzVlN3VG1UWDJvaGRROUFsdUkxdXdNMUd3?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica"
+      ],
+      "publishedAt": "2026-03-20T07:00:00.000Z",
+      "excerpt": "“Io espulso, Delmastro resta: lui è protetto dai vertici FdI”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__referendum conte riforma nordio affidata personaggi come delmastro bartolozzi no ha valore morale__2026-03-20T07:00:00.000Z",
       "title": "Referendum, Conte: “Riforma Nordio affidata a personaggi come Delmastro e Bartolozzi, il No ha valore morale”",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNENHbkNqTWZsTXplTDRaSWg3TGdMYkhUNmtRR1FESGhqTHp1SVh1RzRCa0FLMUUxaWhIbElJUUdNRWRoS01GR2NtendsLVZnNXhSR1ZXeVB0bjJYdjcwSTE5S0VtU2tHWWxKRVZsWDRGRkxtM3RVdXpTNDVLeURwZkc5dUg3YUZHSWpFc2VSbGYtSWFZOFJnREdDRi1BQQ?oc=5",
@@ -12461,36 +12459,21 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro magistrati moderati sulla vicenda silenzio inquietante punto rottura non va normalizzata__2026-03-20T07:00:00.000Z",
-      "title": "Caso Delmastro, i magistrati “moderati”: “Sulla vicenda silenzio inquietante. È un punto di rottura, non va normalizzata”",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcy15akF5SndFR1V4eGZqaUFqdl9sLVViNU80TjF4WTV3OWJXWmdlSGc2ekRhMkVOZ0s1dDQ5OWQ3OGotZTEzNVZIajNJVHlya3RMbmlFaS1vV3pxZWRVSnEwVTMzeDJUdENUV3ZIVmZHT0hod2VXdWZkeXhaMEZRcHAxT0RnYVlCTkhBSk5Gengtb3dzXzRjVVRsQQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcy15akF5SndFR1V4eGZqaUFqdl9sLVViNU80TjF4WTV3OWJXWmdlSGc2ekRhMkVOZ0s1dDQ5OWQ3OGotZTEzNVZIajNJVHlya3RMbmlFaS1vV3pxZWRVSnEwVTMzeDJUdENUV3ZIVmZHT0hod2VXdWZkeXhaMEZRcHAxT0RnYVlCTkhBSk5Gengtb3dzXzRjVVRsQQ?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-03-20T07:00:00.000Z",
-      "excerpt": "Caso Delmastro, i magistrati “moderati”: “Sulla vicenda silenzio inquietante. È un punto di rottura, non va normalizzata”",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__meloni difende delmastro resta suo posto nonostante foto caroccia__2026-03-20T07:00:00.000Z",
       "title": "Meloni difende Delmastro: \"Resta al suo posto\" nonostante la foto con Caroccia",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSm1rMnRiOW1fZ1F2azRnMmVHdmNpVDhyMnRTSWFBdTRMMW1PdjExeGhuSV9rRllwcllrb0hUUndoYzB5alVzdGloemVKZDA0bm5qbThGWmxraGxBMlVzREpYZDZ3U0l6dUFGbUx3eW5sVlR2QzVHaF9FWXczbncwYzJndFh5VlVkQ2I5NjZzR3NZOUJsSG9WaE1XVWZrSjA?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSm1rMnRiOW1fZ1F2azRnMmVHdmNpVDhyMnRTSWFBdTRMMW1PdjExeGhuSV9rRllwcllrb0hUUndoYzB5alVzdGloemVKZDA0bm5qbThGWmxraGxBMlVzREpYZDZ3U0l6dUFGbUx3eW5sVlR2QzVHaF9FWXczbncwYzJndFh5VlVkQ2I5NjZzR3NZOUJsSG9WaE1XVWZrSjA?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
       ],
       "tags": [
         "altro"

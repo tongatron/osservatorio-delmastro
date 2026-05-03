@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T17:22:48.353Z",
+  "generatedAt": "2026-05-03T17:49:17.011Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-03-19T17:22:48.353Z",
-    "to": "2026-05-03T17:22:48.353Z",
+    "from": "2026-03-19T17:49:17.011Z",
+    "to": "2026-05-03T17:49:17.011Z",
     "days": 45
   },
   "sources": [
@@ -191,27 +191,27 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 1119,
-      "uniqueArticles": 555
+      "fetchedArticles": 1117,
+      "uniqueArticles": 554
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 287,
-      "uniqueArticles": 22
+      "fetchedArticles": 288,
+      "uniqueArticles": 23
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 306,
-      "uniqueArticles": 19
+      "fetchedArticles": 320,
+      "uniqueArticles": 20
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 309,
-      "uniqueArticles": 4
+      "fetchedArticles": 308,
+      "uniqueArticles": 3
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 183,
+      "fetchedArticles": 182,
       "uniqueArticles": 1
     },
     {
@@ -1286,11 +1286,14 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbEhpWklVd29fUmVwZHRSeFE4Q2J0blVWMmp0QzJHR09pRmJmOE5VNlhYNUU4NXcwQXVveUZ4amZkMHA1cVNsYjBrT3FrcGQydXdZQjhSekJMTTNuZkxZcXUwdzk5MFJLRWV1RzJHdTJ6RDItU1poX0VHRFg4V3gxNkpja1g5eDg5MVlJdF9QSU4zcDBx?oc=5",
       "source": "Open",
       "sourceHost": "open.online",
-      "queryLabel": "Persone collegate",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Elena Chiorino",
+        "Caroccia",
         "Cristiano Franceschini",
         "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
         "clan Senese"
       ],
       "tags": [
@@ -9187,6 +9190,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro bartolozzi si sono dimessi terremoto governo__2026-03-24T07:00:00.000Z",
+      "title": "Delmastro e Bartolozzi si sono dimessi: terremoto nel governo",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM21Ga2RlV0N0WnNHcFR6bVB4cnR1SGdfR21seDJSSHBFNDQ2alMxdkx3YlNwX3lTc2JxdnZCcUV5MnVJZTRyWVJhMDk2Z0xVOFp5aENvLTMwZ3R5LXZPUXItQ0NFX1hzSHRfUTBlMUI3TmUwcVF1X2c1UUtQN042a2hoT2stY3pfQUhHTmx4ZkNCSXhFckFHZGgwR1RDV25UUmtHUmMyNGhRT3hFVWxVYk9GQQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM21Ga2RlV0N0WnNHcFR6bVB4cnR1SGdfR21seDJSSHBFNDQ2alMxdkx3YlNwX3lTc2JxdnZCcUV5MnVJZTRyWVJhMDk2Z0xVOFp5aENvLTMwZ3R5LXZPUXItQ0NFX1hzSHRfUTBlMUI3TmUwcVF1X2c1UUtQN042a2hoT2stY3pfQUhHTmx4ZkNCSXhFckFHZGgwR1RDV25UUmtHUmMyNGhRT3hFVWxVYk9GQQ?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica"
+      ],
+      "publishedAt": "2026-03-24T07:00:00.000Z",
+      "excerpt": "Delmastro e Bartolozzi si sono dimessi: terremoto nel governo",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro pm indagano sul giro contanti l inchiesta nata grazie video tiktok__2026-03-24T07:00:00.000Z",
       "title": "Caso Delmastro, i pm indagano sul giro di contanti. L’inchiesta nata grazie a un video su TikTok",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNS0phTXp2TTNRTDlReElKUnlsYjdyb2g0dW96TmdMXzNpTG83YTJKeDdMOU1ld1FaVzlkV056d0s0QXpNNXFVenZ2dkdFU3FXUmdOSVpDWHFjemUwSUJVMENQT0NwdHktUnliNFZUUmtUaVpTMTU4cFJsZDBYUGtaQlNrUUNtR2xMY3JfYkNvN1R4eEZKdzk4blBUMmEwdG5KbzMyR2tuekpCeDVUSGl5VkpabHRMUkJSOWV4c0NTeDJwZ2JzdnFKcVd4djRPUXZuTjg4MFZYTkUwUVZXRXNtcGxtV21vMlptOU5GWDFYZFU3bU9mVEQtWjRR?oc=5",
@@ -9223,26 +9246,6 @@
       ],
       "publishedAt": "2026-03-24T07:00:00.000Z",
       "excerpt": "Pd chiede che Delmastro sia ascoltato dall'Antimafia e dal Gran Giurì",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro bartolozzi si sono dimessi terremoto governo__2026-03-24T07:00:00.000Z",
-      "title": "Delmastro e Bartolozzi si sono dimessi: terremoto nel governo",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM21Ga2RlV0N0WnNHcFR6bVB4cnR1SGdfR21seDJSSHBFNDQ2alMxdkx3YlNwX3lTc2JxdnZCcUV5MnVJZTRyWVJhMDk2Z0xVOFp5aENvLTMwZ3R5LXZPUXItQ0NFX1hzSHRfUTBlMUI3TmUwcVF1X2c1UUtQN042a2hoT2stY3pfQUhHTmx4ZkNCSXhFckFHZGgwR1RDV25UUmtHUmMyNGhRT3hFVWxVYk9GQQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM21Ga2RlV0N0WnNHcFR6bVB4cnR1SGdfR21seDJSSHBFNDQ2alMxdkx3YlNwX3lTc2JxdnZCcUV5MnVJZTRyWVJhMDk2Z0xVOFp5aENvLTMwZ3R5LXZPUXItQ0NFX1hzSHRfUTBlMUI3TmUwcVF1X2c1UUtQN042a2hoT2stY3pfQUhHTmx4ZkNCSXhFckFHZGgwR1RDV25UUmtHUmMyNGhRT3hFVWxVYk9GQQ?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "politica"
-      ],
-      "publishedAt": "2026-03-24T07:00:00.000Z",
-      "excerpt": "Delmastro e Bartolozzi si sono dimessi: terremoto nel governo",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -11216,10 +11219,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdW1WWVhLSGR1eEQtZGVmSjNtQm1mRG1uZWlleC02dUx4dFlIbmlWY1BXV3BZUXpHektHRXlDMEFnb2NDd2J0QlliVWdoNGFtb3FoU3h1Vk5pR3BadXRwbFpiVjYxUVpHMF82eTBsbm5Mdm5ydkZuWVZSb1BRM3FYbXV1LXczU3BqbVZPekozTWNhOU9FUmdZZXA1SlY?oc=5",
       "source": "la Repubblica",
       "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "bisteccheria",

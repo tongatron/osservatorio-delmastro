@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T20:03:24.126Z",
+  "generatedAt": "2026-05-04T20:53:48.667Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-03-20T20:03:24.126Z",
-    "to": "2026-05-04T20:03:24.126Z",
+    "from": "2026-03-20T20:53:48.667Z",
+    "to": "2026-05-04T20:53:48.667Z",
     "days": 45
   },
   "sources": [
@@ -121,11 +121,11 @@
     },
     {
       "label": "ansa.it",
-      "articleCount": 34
+      "articleCount": 35
     },
     {
       "label": "quotidiano.net",
-      "articleCount": 23
+      "articleCount": 22
     },
     {
       "label": "ilgiornale.it",
@@ -152,12 +152,12 @@
       "articleCount": 15
     },
     {
-      "label": "huffingtonpost.it",
+      "label": "liberoquotidiano.it",
       "articleCount": 11
     },
     {
-      "label": "liberoquotidiano.it",
-      "articleCount": 10
+      "label": "huffingtonpost.it",
+      "articleCount": 11
     },
     {
       "label": "today.it",
@@ -191,17 +191,17 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 983,
-      "uniqueArticles": 487
+      "fetchedArticles": 984,
+      "uniqueArticles": 488
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 266,
+      "fetchedArticles": 263,
       "uniqueArticles": 17
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 251,
+      "fetchedArticles": 250,
       "uniqueArticles": 12
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 160,
+      "fetchedArticles": 161,
       "uniqueArticles": 1
     },
     {
@@ -223,7 +223,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 200
+      "count": 199
     },
     {
       "tag": "politica",
@@ -231,11 +231,11 @@
     },
     {
       "tag": "giudiziaria",
-      "count": 85
+      "count": 86
     },
     {
       "tag": "bisteccheria",
-      "count": 79
+      "count": 80
     },
     {
       "tag": "territorio",
@@ -249,7 +249,7 @@
   "timeline": [
     {
       "date": "2026-03-20",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-03-21",
@@ -301,7 +301,7 @@
     },
     {
       "date": "2026-04-02",
-      "count": 9
+      "count": 10
     },
     {
       "date": "2026-04-03",
@@ -381,7 +381,7 @@
     },
     {
       "date": "2026-04-22",
-      "count": 19
+      "count": 18
     },
     {
       "date": "2026-04-23",
@@ -790,26 +790,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "quotidiano.net__quotidiano nazionale__cospito pg roma chiede l assoluzione delmastro__2026-04-22T13:21:19.000Z",
-      "title": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOENXRmZlck5pZ1ZtLUVqSFFUek9EVmc4aDdvNi1OX0hKX2xEZVJKOGM0bUJtVjNXMFdVZ1lxOWlaa0E1VmMxTEFiZE5SWEttdVE0SkZQQ2s2cmJxSmNQSzBSVVZNRlhUWjVwZ2xzMVJ3TUh0SDdCRjhZSkR2YVhjUGNkWUhuY05R?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOENXRmZlck5pZ1ZtLUVqSFFUek9EVmc4aDdvNi1OX0hKX2xEZVJKOGM0bUJtVjNXMFdVZ1lxOWlaa0E1VmMxTEFiZE5SWEttdVE0SkZQQ2s2cmJxSmNQSzBSVVZNRlhUWjVwZ2xzMVJ3TUh0SDdCRjhZSkR2YVhjUGNkWUhuY05R?oc=5",
-      "source": "Quotidiano Nazionale",
-      "sourceHost": "quotidiano.net",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-22T13:21:19.000Z",
-      "excerpt": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ansa.it__ansa__caso cospito pg chiede l assoluzione delmastro__2026-04-22T07:00:00.000Z",
       "title": "Il caso Cospito, il pg chiede l'assoluzione per Delmastro",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcmVrVkRMWDlic1g0dkExXzNsbjFZOXlhYjU0cHItLWFybnAyQlVxbks5eklCd05EVEZ6d1JNSGd6cVZLd0plRWVwRHF3U0Z2bzJhblZQa0pXLW85QUlYaHpoVXZhWUlIMVVmWkpncXRZNmM5eFBvVGxfNHN5YnMtNHV6SHZHUFhsVzRoaVJPeWVoYmRKZFk2bmtqVU9XWU5kQ1lHbWxOTzNaZXZKeExmVzdYeUlWbEZaN0llMHpqT3gxdWU5c2pYQ1lUT09WYnU3VUI3eGxTLVNXSklM0gHiAUFVX3lxTFA1UjBQWmJUN240Mk13MEV4c0owYWF1cDU1ZGNqQ0d2YWNmYmZEZDdnRWdUdEU3NnV5UVpGak9rQVpzbzhfRWhkNUlybEdRNHBCUExWSnNDQkppU09UNEl4NmV2NFVCMkJ3WWtDVVlfQlNKWjd3UUNuRHBFcHFpVkNFZndJaEFiVUQ4aTVGMGtHY001X2xwbHB5MUF5WjhaMTNVd1ZyVmw4S3FWNGNENzJjeEFhcVYxcXJwTlNEdElXd293aEJ1aE1TMnVQSEFBVHJ2WEJyNHBNYl9CM2F1ZjN5Rnc?oc=5",
@@ -1071,6 +1051,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__meloni nomina cinque nuovi sottosegretari senatore fdi balboni va giustizia posto delmastro__2026-04-22T07:00:00.000Z",
+      "title": "Meloni nomina cinque nuovi sottosegretari: il senatore di FdI Balboni va alla Giustizia al posto di Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM1NqQ1NSWjNjSmZNMVoxTDBwWFVNQmVnRUUzWlFoNnZYVG90TkVmYzRyaFA2d0tuSlNZT1BsYkdESXFkS1BCOUdEOEltUEhmSDJfMGMtVVVNRW9MVG9ZVk02RzVHNzVUU0JuTExlc04zR01kbHdiLVhNOGNWcDBKWDR0TDRDQTlYX3JrYnRXN1pzR3NMdEZsZVNBRGJUcUJ2Z1RaRWlwOERJSEU?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM1NqQ1NSWjNjSmZNMVoxTDBwWFVNQmVnRUUzWlFoNnZYVG90TkVmYzRyaFA2d0tuSlNZT1BsYkdESXFkS1BCOUdEOEltUEhmSDJfMGMtVVVNRW9MVG9ZVk02RzVHNzVUU0JuTExlc04zR01kbHdiLVhNOGNWcDBKWDR0TDRDQTlYX3JrYnRXN1pzR3NMdEZsZVNBRGJUcUJ2Z1RaRWlwOERJSEU?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica"
+      ],
+      "publishedAt": "2026-04-22T07:00:00.000Z",
+      "excerpt": "Meloni nomina cinque nuovi sottosegretari: il senatore di FdI Balboni va alla Giustizia al posto di Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro cospito pg roma chiede l assoluzione perche fatto non costituisce reato__2026-04-22T07:00:00.000Z",
       "title": "Caso Delmastro-Cospito, il pg di Roma chiede l’assoluzione “perché il fatto non costituisce reato”",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQalBsOE9ub2hBeGY5LXMyVmxMSTBueW8xQkpiN2ktU0xCSkJjaXpTZEk4WGlsUGVzYzFJWXpkZ1FEZ2RnV1JSYjRYU09zdnRJTzlScEROOHpJX3Z4X2tPRkNPZ3ZfQnpsdWpVNUtaUkZjWlRYVFVsNS11Q2J4QkQyZ0Z0ZmMwMHNKNFYxal91aGVQbmNSdlVmRk9aYlFfcEpBcW1yN3VFRi1ydEJBNXNaVmRnRHpGbEtuMkNsdEJWNDhIdjJNdmhIRVM1M2FyaVE5Qmlhczl3?oc=5",
@@ -1087,26 +1087,6 @@
       ],
       "publishedAt": "2026-04-22T07:00:00.000Z",
       "excerpt": "Caso Delmastro-Cospito, il pg di Roma chiede l’assoluzione “perché il fatto non costituisce reato”",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__meloni nomina cinque nuovi sottosegretari senatore fdi balboni va giustizia posto delmastro__2026-04-22T07:00:00.000Z",
-      "title": "Meloni nomina cinque nuovi sottosegretari: il senatore di FdI Balboni va alla Giustizia al posto di Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM1NqQ1NSWjNjSmZNMVoxTDBwWFVNQmVnRUUzWlFoNnZYVG90TkVmYzRyaFA2d0tuSlNZT1BsYkdESXFkS1BCOUdEOEltUEhmSDJfMGMtVVVNRW9MVG9ZVk02RzVHNzVUU0JuTExlc04zR01kbHdiLVhNOGNWcDBKWDR0TDRDQTlYX3JrYnRXN1pzR3NMdEZsZVNBRGJUcUJ2Z1RaRWlwOERJSEU?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM1NqQ1NSWjNjSmZNMVoxTDBwWFVNQmVnRUUzWlFoNnZYVG90TkVmYzRyaFA2d0tuSlNZT1BsYkdESXFkS1BCOUdEOEltUEhmSDJfMGMtVVVNRW9MVG9ZVk02RzVHNzVUU0JuTExlc04zR01kbHdiLVhNOGNWcDBKWDR0TDRDQTlYX3JrYnRXN1pzR3NMdEZsZVNBRGJUcUJ2Z1RaRWlwOERJSEU?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Bisteccheria",
-      "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
-      ],
-      "tags": [
-        "politica"
-      ],
-      "publishedAt": "2026-04-22T07:00:00.000Z",
-      "excerpt": "Meloni nomina cinque nuovi sottosegretari: il senatore di FdI Balboni va alla Giustizia al posto di Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2063,10 +2043,15 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQlZid2JVYktMNktpYWhaT1lNa3dSNHExUkhyb0FmUGUyN2hQcENHZ3J1eW9WMmNIdkcycGtEYi12cVlzSjB2c0U4bVFGNENLNHptNXBfU0lPQzVKUGxjRkFZbFAxemtUbEpOZm00OUV0Ti1tYVViTXJOOFpkT05xa1pMbm1vU2p5MlNJMnFLaFhRRXZvUXJqNWxpeHhXU29mOW84eTJQN0lSelU0OVBnQk9UTURmZ21NTTBsWE1vQXE5dF9ORHlsQjlkM3RnYUVVZmFFMFVHNVFWaUduOHQwRjN3MkZYdm14MEdtOGxB0gHzAUFVX3lxTFBjVmhiYzhkY09kWEQ3NUNqQ1RjZWx1WW81cUlWdmIycXVFZ0s2Q2w0ZUhsOW1xbGoyWFFNMXJjQXl4cXp6emF3TTg5V0RjUHBDcjhyaU44U3MyQWl3UWxYeVJRLU5QYjNtM0ppUjhtZUN1T3JXdGktMnJWVldvZFJ5Ul9penI2ZHdya2IzYXZiRldTOHdWU2FLbkNVTkRZT1ExUGt0MFN2VVpaTmdDcnZVS2NaZ3Q0V1k5OHhOZzcyck03bXNwaE85OC1KeXRYU1BfbWJsZ0I2Xy1KMFRLYVk2Ump3YXlIdU1rTnVRZjBzRmVrMA?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
       ],
       "tags": [
         "altro"
@@ -2349,8 +2334,8 @@
     {
       "id": "ansa.it__ansa__sequestrato cellulare caroccia setaccio chat messaggi__2026-04-07T07:00:00.000Z",
       "title": "Sequestrato cellulare a Caroccia, a setaccio chat e messaggi",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNODZ2SVNRZnFEbFBnRzhPZUR0VFE4MXF5TTZINlp3bDJ1aHFqSnhWdmtWalBrOXdKSHlSQ0UwNDgyM1RCM2VYa0szem5NOWp4STRlMmFRSTg5dTdIMVZGX2RYQV9UQnBFaGVMTU1DRjhXMVlRMTR0bDRpcm5ycUFmaTZoZk9iNUhJTnViczhSbGx4SXY1MlNuYS1LRlQtcF94X1hmNThHTHo0QTRDVVdwMl83d3BnZ0lBejk2OWcwQ2ZoU3MtdGwtRGEtSWF1Rnd2ZWRCREdiM0xleHNIMkpCSlNEM0JhRFV6?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNODZ2SVNRZnFEbFBnRzhPZUR0VFE4MXF5TTZINlp3bDJ1aHFqSnhWdmtWalBrOXdKSHlSQ0UwNDgyM1RCM2VYa0szem5NOWp4STRlMmFRSTg5dTdIMVZGX2RYQV9UQnBFaGVMTU1DRjhXMVlRMTR0bDRpcm5ycUFmaTZoZk9iNUhJTnViczhSbGx4SXY1MlNuYS1LRlQtcF94X1hmNThHTHo0QTRDVVdwMl83d3BnZ0lBejk2OWcwQ2ZoU3MtdGwtRGEtSWF1Rnd2ZWRCREdiM0xleHNIMkpCSlNEM0JhRFV6?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOFhKOWJDVVVLQUJLcC1FQnh4eUh6VmxmSEFPQTNBVzlYT2JqaWtGYTlKSFpnRkpRT1RPd2xwRUlqQ2pPdDJDQVNrMjdFLUZXMTVkU3pQNFFOb1BETkd5RDBaNDhyQWJRdmE5UmlzMTMyRG9FemR2bUVzR2c1TlNBVWJ3UWJxLVhVaE0wcVBpZ2t0bE50cEN4MGNDbTJfUi1LWWR0N18zQ1lFM3R6SEhLbXFISFB6dlpPWWtadDExRk5Pck1CMkZLcm1fbFFfOFZpcS1tZWpidVNRYWVMV0Jr0gHkAUFVX3lxTE5fTElFU3g4b1YyMzFMcC1OM2tYbEU1RmQtRVlFMmI0RHZnZldjS2loWm5XWlhueVVmQ3hKZGRqcjBLZTdGYzhEQ2lBU1lQQ3NHdHZ3ZThIQkdGRV95eGY3WksyellPM3N2MDkxWWFjbTdSNlc5RWtXcHRib2pzQVc3YlpEbkREeXpaZjMtbGtXNWZmQnRaWXlST0Z2MGV3eTg1cFkwTnY1a1lhUndma1RMNnNBTVFIaTh0VlR0NlZxY2VJZDI3QUNpQXRGMEp1Y1J5aGtRUlJQcmIwQmtqOVJ6MmZwdg?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOFhKOWJDVVVLQUJLcC1FQnh4eUh6VmxmSEFPQTNBVzlYT2JqaWtGYTlKSFpnRkpRT1RPd2xwRUlqQ2pPdDJDQVNrMjdFLUZXMTVkU3pQNFFOb1BETkd5RDBaNDhyQWJRdmE5UmlzMTMyRG9FemR2bUVzR2c1TlNBVWJ3UWJxLVhVaE0wcVBpZ2t0bE50cEN4MGNDbTJfUi1LWWR0N18zQ1lFM3R6SEhLbXFISFB6dlpPWWtadDExRk5Pck1CMkZLcm1fbFFfOFZpcS1tZWpidVNRYWVMV0Jr0gHkAUFVX3lxTE5fTElFU3g4b1YyMzFMcC1OM2tYbEU1RmQtRVlFMmI0RHZnZldjS2loWm5XWlhueVVmQ3hKZGRqcjBLZTdGYzhEQ2lBU1lQQ3NHdHZ3ZThIQkdGRV95eGY3WksyellPM3N2MDkxWWFjbTdSNlc5RWtXcHRib2pzQVc3YlpEbkREeXpaZjMtbGtXNWZmQnRaWXlST0Z2MGV3eTg1cFkwTnY1a1lhUndma1RMNnNBTVFIaTh0VlR0NlZxY2VJZDI3QUNpQXRGMEp1Y1J5aGtRUlJQcmIwQmtqOVJ6MmZwdg?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
@@ -2926,6 +2911,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "ansa.it__ansa__mauro caroccia pm delmastro ci ha fatto beneficenza__2026-04-02T07:00:00.000Z",
+      "title": "Mauro Caroccia ai pm: 'Delmastro ci ha fatto beneficenza'",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdW5BdTA0dlJfYlZWR0NEUjVndDJQcVRnQkV6bkdWbGxRZlB1cW1uaEZSWUl1dDUtbTlHSlktbERQTlI0Y1FGalplMnpDVmF1SUM2dDItYlNvZXZiYzNLdjVRSlJ6VDZqN0VrY2tEelhiZGdCX0ZJMGJ2czRhNkdjaHFRM2gtWkM5dXNVblFDa3l0SzQzRThvZEdBbnltMkFUc2ZzeHlHcmhQSW1CU3JIRzV5MHItOHh0VWE1OTlyUDFRSGx6VmVzTGloSmhrVDlDbHVwdWlqSzV6c1FRdTJrUnFBWdIB6AFBVV95cUxNQ0lac1lyai1WempocXpwMGc0LVdEaU5rSDZtMmlmWFZnSUs0TFBac3lDcUFTX0VPZ1kxX3RTWWFtOWprTlV4aWJHZE5uZEVJRGwyM2hIQlkxb2JfTWdSUWtQb2Q0OHV1OHlpY3BGYXVMTHFpVXBsTDlFZTRaR3Y2eUpHbUE4c0lpV1ZDa0swNTQwTTVSdmhUZG1jSHNKdUxRVDk1dFM4VlhzRXY1RVZEaGp4RVhrb0wwSDNwSFpIbUl5Z0hNUjRYZC0yVzlBbDhwQ3RfSDFlb0lPUlN5VFhnSEEteDg0emx0?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdW5BdTA0dlJfYlZWR0NEUjVndDJQcVRnQkV6bkdWbGxRZlB1cW1uaEZSWUl1dDUtbTlHSlktbERQTlI0Y1FGalplMnpDVmF1SUM2dDItYlNvZXZiYzNLdjVRSlJ6VDZqN0VrY2tEelhiZGdCX0ZJMGJ2czRhNkdjaHFRM2gtWkM5dXNVblFDa3l0SzQzRThvZEdBbnltMkFUc2ZzeHlHcmhQSW1CU3JIRzV5MHItOHh0VWE1OTlyUDFRSGx6VmVzTGloSmhrVDlDbHVwdWlqSzV6c1FRdTJrUnFBWdIB6AFBVV95cUxNQ0lac1lyai1WempocXpwMGc0LVdEaU5rSDZtMmlmWFZnSUs0TFBac3lDcUFTX0VPZ1kxX3RTWWFtOWprTlV4aWJHZE5uZEVJRGwyM2hIQlkxb2JfTWdSUWtQb2Q0OHV1OHlpY3BGYXVMTHFpVXBsTDlFZTRaR3Y2eUpHbUE4c0lpV1ZDa0swNTQwTTVSdmhUZG1jSHNKdUxRVDk1dFM4VlhzRXY1RVZEaGp4RVhrb0wwSDNwSFpIbUl5Z0hNUjRYZC0yVzlBbDhwQ3RfSDFlb0lPUlN5VFhnSEEteDg0emx0?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-04-02T07:00:00.000Z",
+      "excerpt": "Mauro Caroccia ai pm: 'Delmastro ci ha fatto beneficenza'",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "repubblica.it__la repubblica__caroccia pm delmastro stato mio benefattore eravamo societa insieme__2026-04-02T07:00:00.000Z",
       "title": "Caroccia ai pm: “Delmastro è stato il mio benefattore. Eravamo in società insieme”",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHAzTUZhdGZBSHV1TFpFa0puQXhBU2dSVW9ZaWJqeGNhOFRCOGNwYkxBbllUSkFiOElXN1BfM01lT2N3enBCY2tNRTE2elpJTWZqTXhRdG41MEJuN1J3alJmQ21zaUFGMTczVWlIV3pPVzV6aEhOb0lOdTVDdFQ4Q19tRGtWVndPeWloVnp5NU1sYW1sVV9WMUlIMFVWSFNZVFRnU2FfVkdvT29qUHpRWWFmczhGZXEyVzlveEthYi3SAcYBQVVfeXFMTU5GZUp5Z2FPelFjTXBKX0p2TjltREc3SU1lazlmcWl4YTZwYUgxVnZMbTFESGk0T1hqaW5uR2JYS1h5TVpnaVZEYTl6QmxWaldHNkJwUjB3RjVWcnZITVBHd1VEQkFlU2pEb0gwWWlCdXRPSEFyZUJBNXRyNG9VYTlUZmZ6TWIzclBtd01Sck5jNVBOWG5CeHRMQVNGekg5UmtJbXBXU0xfWktEdzUwLUNtY05UdEFaemwwLUVEbFZBN1lqa1hB?oc=5",
@@ -3109,9 +3114,9 @@
     },
     {
       "id": "ansa.it__ansa__comitato condotta camera formalizza sanzione delmastro__2026-04-01T07:00:00.000Z",
-      "title": "++ Comitato condotta Camera formalizza sanzione a Delmastro ++",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON0hjZHI5SHFwcHlid1otX0loTFpxRTJGRXlqRU1nQ0wtbEpRTmxoQ2ZrbFhIUXEyWU1uS1IzOWVZQTZKeXVpV2otU0RxNkYwbnNwNzIxOC13QThLQkhXdTJFdEJ1elN2R3BLN3k5dXJaX1E1N0x2MF9EdDFCSTJ4akhrYXpBQnp0MHlnUV90OTZaZHh6alVCNXh6M1k3eTctRlFXel9uaGF3aHYycV85LXZ3MzN0ZGlZejF3azVEd3NyXzFZQ2pIMG5haUNDRHo5blZZVm5PZm12WEEtNlJueWxSY28?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON0hjZHI5SHFwcHlid1otX0loTFpxRTJGRXlqRU1nQ0wtbEpRTmxoQ2ZrbFhIUXEyWU1uS1IzOWVZQTZKeXVpV2otU0RxNkYwbnNwNzIxOC13QThLQkhXdTJFdEJ1elN2R3BLN3k5dXJaX1E1N0x2MF9EdDFCSTJ4akhrYXpBQnp0MHlnUV90OTZaZHh6alVCNXh6M1k3eTctRlFXel9uaGF3aHYycV85LXZ3MzN0ZGlZejF3azVEd3NyXzFZQ2pIMG5haUNDRHo5blZZVm5PZm12WEEtNlJueWxSY28?oc=5",
+      "title": "Comitato condotta Camera formalizza sanzione a Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOFBKYnFBMlpQZms1Sm9IMXFxaUJ3WHd5MTFMMEdKeUxmbENjNUM3U0VNZ2w0V3RJWkw1MmRhUTgtUzFqSHFsSmJsVk9qaHBGQ3pyUGZLZllmN3RobWRzYVNZS3E5SGFHQzYtZmV6NTFFb2JKWlVGUUpEUW5vUXBmMEZ3WUViRHFzZ3NaZ3BqOVhESGZkSElmSmpNcTZoaXo5cldZcEh4SWtyMmpiT1Y3Z0toekNHUzRYVDZyNEpYbGZLLVJLaHVjSV9WSkZWVnZURU5EUTdwcVBwNzJKYlF5Y3RtZ0E?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOFBKYnFBMlpQZms1Sm9IMXFxaUJ3WHd5MTFMMEdKeUxmbENjNUM3U0VNZ2w0V3RJWkw1MmRhUTgtUzFqSHFsSmJsVk9qaHBGQ3pyUGZLZllmN3RobWRzYVNZS3E5SGFHQzYtZmV6NTFFb2JKWlVGUUpEUW5vUXBmMEZ3WUViRHFzZ3NaZ3BqOVhESGZkSElmSmpNcTZoaXo5cldZcEh4SWtyMmpiT1Y3Z0toekNHUzRYVDZyNEpYbGZLLVJLaHVjSV9WSkZWVnZURU5EUTdwcVBwNzJKYlF5Y3RtZ0E?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
@@ -3123,15 +3128,15 @@
         "altro"
       ],
       "publishedAt": "2026-04-01T07:00:00.000Z",
-      "excerpt": "++ Comitato condotta Camera formalizza sanzione a Delmastro ++",
+      "excerpt": "Comitato condotta Camera formalizza sanzione a Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ansa.it__ansa__mauro caroccia pm delmastro ci ha fatto beneficenza__2026-04-01T07:00:00.000Z",
-      "title": "Mauro Caroccia ai pm: \"Delmastro ci ha fatto beneficenza\"",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY1pLbzJybW9mVVV0bGV1bWJBWDRhRXV4ck52RlVNV012MUxXbmFYVUExQ2R3eFZSY09HRTh5aVU4LXJkV0JWcUE0X1VJSGN4ekF0WkZqdGM0QUJzajFxX1J4U1pKUlhTazM5dm9SQU5YN0RlbjhwU0ZmWGpYejctVWhETnh5NmtlSHd4d1JHYXItRjNpYWNYb2owU2dwSU44ajd3ZTNUSEdRdV95RWIwempqSzU0ZlpST2p2QjJ2UkE5VHhKeS1vdUJVeEZJbDlGVWFFTXNYQ204bHFWNXRpbjVCU3RZdjg?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY1pLbzJybW9mVVV0bGV1bWJBWDRhRXV4ck52RlVNV012MUxXbmFYVUExQ2R3eFZSY09HRTh5aVU4LXJkV0JWcUE0X1VJSGN4ekF0WkZqdGM0QUJzajFxX1J4U1pKUlhTazM5dm9SQU5YN0RlbjhwU0ZmWGpYejctVWhETnh5NmtlSHd4d1JHYXItRjNpYWNYb2owU2dwSU44ajd3ZTNUSEdRdV95RWIwempqSzU0ZlpST2p2QjJ2UkE5VHhKeS1vdUJVeEZJbDlGVWFFTXNYQ204bHFWNXRpbjVCU3RZdjg?oc=5",
+      "id": "ansa.it__ansa__redistribuite deleghe delmastro dap ostellari__2026-04-01T07:00:00.000Z",
+      "title": "Redistribuite le deleghe di Delmastro, il Dap a Ostellari",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNWMzOGN6SkNjVGpOZ0J0ZUZiZVpCczFDZ3JMbndmRUU0UXBPbkR5WFBrOFpIVTBoLWl1ZldsYWxGZDJCTVpVWE1rNGNVUDRpM1RoZUp6V2lMR3hYUGNwMmNOMUdFTzBucFc0OVkteHFfNXJiZzE3bi10VEFMZWJsVXRrUWNxRGpZTExtSmszQjZDSFpBS3NfMGI3NlNfY1QtRXZkX0pQcGFlczZaeGY2Uy0td210Rk9Cc2JNSHhMYUtIVk5hbzBCWlJKZU11dWFDelZseUlvLXAyTktDRGRON2VweVjSAeoBQVVfeXFMTzVXLUxrVTgtQXlUWjdxRlVOMGJCX1FxY3ZpM29aOXlPZVBuTkhvRlBnazItemFKbEEyNHE1a1RyY1lOY1dxS2lpamhaOUVqZ29PSVJkZEZ0ZXBjRWczZVdPU1lJdFA1eUR2T0tVNm81bGZDMTZ3eUF0Wmt6WkIzYWpGY0ZGNHd0RnpQX3hhdEp3R1RpUkxlVjlUZjR2dE91Rms5SWdUQ2pXLUZnZnJXSEdVb25oVEVoNUpXdi1RYUJadGdDM0FpREdBcFBxU0psODVxUTdfZHBPT2dvdGtrb0JlYUNpd1pRNnVB?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNWMzOGN6SkNjVGpOZ0J0ZUZiZVpCczFDZ3JMbndmRUU0UXBPbkR5WFBrOFpIVTBoLWl1ZldsYWxGZDJCTVpVWE1rNGNVUDRpM1RoZUp6V2lMR3hYUGNwMmNOMUdFTzBucFc0OVkteHFfNXJiZzE3bi10VEFMZWJsVXRrUWNxRGpZTExtSmszQjZDSFpBS3NfMGI3NlNfY1QtRXZkX0pQcGFlczZaeGY2Uy0td210Rk9Cc2JNSHhMYUtIVk5hbzBCWlJKZU11dWFDelZseUlvLXAyTktDRGRON2VweVjSAeoBQVVfeXFMTzVXLUxrVTgtQXlUWjdxRlVOMGJCX1FxY3ZpM29aOXlPZVBuTkhvRlBnazItemFKbEEyNHE1a1RyY1lOY1dxS2lpamhaOUVqZ29PSVJkZEZ0ZXBjRWczZVdPU1lJdFA1eUR2T0tVNm81bGZDMTZ3eUF0Wmt6WkIzYWpGY0ZGNHd0RnpQX3hhdEp3R1RpUkxlVjlUZjR2dE91Rms5SWdUQ2pXLUZnZnJXSEdVb25oVEVoNUpXdi1RYUJadGdDM0FpREdBcFBxU0psODVxUTdfZHBPT2dvdGtrb0JlYUNpd1pRNnVB?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
@@ -3140,10 +3145,10 @@
         "Andrea Delmastro"
       ],
       "tags": [
-        "giudiziaria"
+        "altro"
       ],
       "publishedAt": "2026-04-01T07:00:00.000Z",
-      "excerpt": "Mauro Caroccia ai pm: \"Delmastro ci ha fatto beneficenza\"",
+      "excerpt": "Redistribuite le deleghe di Delmastro, il Dap a Ostellari",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -3189,10 +3194,10 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ansa.it__ansa__redistribuite deleghe delmastro dap ostellari__2026-04-01T07:00:00.000Z",
-      "title": "Redistribuite le deleghe di Delmastro, il Dap a Ostellari",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNWMzOGN6SkNjVGpOZ0J0ZUZiZVpCczFDZ3JMbndmRUU0UXBPbkR5WFBrOFpIVTBoLWl1ZldsYWxGZDJCTVpVWE1rNGNVUDRpM1RoZUp6V2lMR3hYUGNwMmNOMUdFTzBucFc0OVkteHFfNXJiZzE3bi10VEFMZWJsVXRrUWNxRGpZTExtSmszQjZDSFpBS3NfMGI3NlNfY1QtRXZkX0pQcGFlczZaeGY2Uy0td210Rk9Cc2JNSHhMYUtIVk5hbzBCWlJKZU11dWFDelZseUlvLXAyTktDRGRON2VweVjSAeoBQVVfeXFMTzVXLUxrVTgtQXlUWjdxRlVOMGJCX1FxY3ZpM29aOXlPZVBuTkhvRlBnazItemFKbEEyNHE1a1RyY1lOY1dxS2lpamhaOUVqZ29PSVJkZEZ0ZXBjRWczZVdPU1lJdFA1eUR2T0tVNm81bGZDMTZ3eUF0Wmt6WkIzYWpGY0ZGNHd0RnpQX3hhdEp3R1RpUkxlVjlUZjR2dE91Rms5SWdUQ2pXLUZnZnJXSEdVb25oVEVoNUpXdi1RYUJadGdDM0FpREdBcFBxU0psODVxUTdfZHBPT2dvdGtrb0JlYUNpd1pRNnVB?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNWMzOGN6SkNjVGpOZ0J0ZUZiZVpCczFDZ3JMbndmRUU0UXBPbkR5WFBrOFpIVTBoLWl1ZldsYWxGZDJCTVpVWE1rNGNVUDRpM1RoZUp6V2lMR3hYUGNwMmNOMUdFTzBucFc0OVkteHFfNXJiZzE3bi10VEFMZWJsVXRrUWNxRGpZTExtSmszQjZDSFpBS3NfMGI3NlNfY1QtRXZkX0pQcGFlczZaeGY2Uy0td210Rk9Cc2JNSHhMYUtIVk5hbzBCWlJKZU11dWFDelZseUlvLXAyTktDRGRON2VweVjSAeoBQVVfeXFMTzVXLUxrVTgtQXlUWjdxRlVOMGJCX1FxY3ZpM29aOXlPZVBuTkhvRlBnazItemFKbEEyNHE1a1RyY1lOY1dxS2lpamhaOUVqZ29PSVJkZEZ0ZXBjRWczZVdPU1lJdFA1eUR2T0tVNm81bGZDMTZ3eUF0Wmt6WkIzYWpGY0ZGNHd0RnpQX3hhdEp3R1RpUkxlVjlUZjR2dE91Rms5SWdUQ2pXLUZnZnJXSEdVb25oVEVoNUpXdi1RYUJadGdDM0FpREdBcFBxU0psODVxUTdfZHBPT2dvdGtrb0JlYUNpd1pRNnVB?oc=5",
+      "id": "ansa.it__ansa__mauro caroccia pm delmastro ci ha fatto beneficenza__2026-04-01T07:00:00.000Z",
+      "title": "Mauro Caroccia ai pm: \"Delmastro ci ha fatto beneficenza\"",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY1pLbzJybW9mVVV0bGV1bWJBWDRhRXV4ck52RlVNV012MUxXbmFYVUExQ2R3eFZSY09HRTh5aVU4LXJkV0JWcUE0X1VJSGN4ekF0WkZqdGM0QUJzajFxX1J4U1pKUlhTazM5dm9SQU5YN0RlbjhwU0ZmWGpYejctVWhETnh5NmtlSHd4d1JHYXItRjNpYWNYb2owU2dwSU44ajd3ZTNUSEdRdV95RWIwempqSzU0ZlpST2p2QjJ2UkE5VHhKeS1vdUJVeEZJbDlGVWFFTXNYQ204bHFWNXRpbjVCU3RZdjg?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY1pLbzJybW9mVVV0bGV1bWJBWDRhRXV4ck52RlVNV012MUxXbmFYVUExQ2R3eFZSY09HRTh5aVU4LXJkV0JWcUE0X1VJSGN4ekF0WkZqdGM0QUJzajFxX1J4U1pKUlhTazM5dm9SQU5YN0RlbjhwU0ZmWGpYejctVWhETnh5NmtlSHd4d1JHYXItRjNpYWNYb2owU2dwSU44ajd3ZTNUSEdRdV95RWIwempqSzU0ZlpST2p2QjJ2UkE5VHhKeS1vdUJVeEZJbDlGVWFFTXNYQ204bHFWNXRpbjVCU3RZdjg?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
@@ -3201,10 +3206,10 @@
         "Andrea Delmastro"
       ],
       "tags": [
-        "altro"
+        "giudiziaria"
       ],
       "publishedAt": "2026-04-01T07:00:00.000Z",
-      "excerpt": "Redistribuite le deleghe di Delmastro, il Dap a Ostellari",
+      "excerpt": "Mauro Caroccia ai pm: \"Delmastro ci ha fatto beneficenza\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -7782,8 +7787,8 @@
     {
       "id": "ansa.it__ansa__cirio settimana aula sul caso chiorino delmastro__2026-03-24T07:00:00.000Z",
       "title": "Cirio tra una settimana in Aula sul caso Chiorino-Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUE1GQV8zQ0daZjhzSG5aQUU5c2xQTzlrQXFTaHljS09kLWNQRmptMjI0SkowU0plOTgyRDhXNFZLWDVVV1VrckRSaDExYTF1WkIwNHJQVHlkU3p6SkpNdDZ6RHlrdjloeGVST2czTXdKMndSQ2RxRTluNEpfWG1lczdYaEtlZjVZVEFUQ3VpT0xPaFl2VXRvZEJtUFM5azhwRmY5elhYVnJiSk1nM2tMSm1BWTBlOEk1dlFvN05yY29mMWU0SHNFRHh1Qmk4NjRjd1NPWUZVYVJUVFk1XzdPNFdOQdIB6AFBVV95cUxQeFJERkk3b09zT1B0bWhCa1dnNzJ5djRzWWhlLXZ6V01MSU05Y0lfLTFla3ZoQXU0WWtERU5zNUJzMEpvdzhOYnFjaHRYeGV1SmdxbTNqOEk5THFEVl9TeWgyRk9ra2NTSUdDQWx0WUkyOWlzeDFmWGVFY3M3aDN1S1VHbnUyZWNRazZtMFhGR1drTDBsRzd4elFEN2pRTUE4LThBVmZpdEtJTlljdjNGVXd4UjB2Q3RXUERpUEU1WHNDemZucHk5SlZNNzBoc0RWaVllZENZaVdQdFBxbjFjU3JIUnJId0FE?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUE1GQV8zQ0daZjhzSG5aQUU5c2xQTzlrQXFTaHljS09kLWNQRmptMjI0SkowU0plOTgyRDhXNFZLWDVVV1VrckRSaDExYTF1WkIwNHJQVHlkU3p6SkpNdDZ6RHlrdjloeGVST2czTXdKMndSQ2RxRTluNEpfWG1lczdYaEtlZjVZVEFUQ3VpT0xPaFl2VXRvZEJtUFM5azhwRmY5elhYVnJiSk1nM2tMSm1BWTBlOEk1dlFvN05yY29mMWU0SHNFRHh1Qmk4NjRjd1NPWUZVYVJUVFk1XzdPNFdOQdIB6AFBVV95cUxQeFJERkk3b09zT1B0bWhCa1dnNzJ5djRzWWhlLXZ6V01MSU05Y0lfLTFla3ZoQXU0WWtERU5zNUJzMEpvdzhOYnFjaHRYeGV1SmdxbTNqOEk5THFEVl9TeWgyRk9ra2NTSUdDQWx0WUkyOWlzeDFmWGVFY3M3aDN1S1VHbnUyZWNRazZtMFhGR1drTDBsRzd4elFEN2pRTUE4LThBVmZpdEtJTlljdjNGVXd4UjB2Q3RXUERpUEU1WHNDemZucHk5SlZNNzBoc0RWaVllZENZaVdQdFBxbjFjU3JIUnJId0FE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUkRQMlNlczdkRldTVzhxRDViZzllQW5fUTYyT3k5cUtHVzhuUDIxd1JWeEMtWUlrU2ZUWno3VGVETDB4TjJxNTVUeWllWXdLaVZOa3lHdmpDandoQUwzT0I2dkxHODFfYmJaSWpRTWhPZVd6cXkta0kyT0VKYW5jM1E3Sl9XcWhzUmppc282azVaTk05MDZza3plRWNKUWlRdmtDT05zOXU5TmlIS253bS1qTWJqaUhUOThISVBQN1U1bGVSOXBWWHh6NTgyQUlfSFRNbEFPT1g0cnNVTkt4M19MM2RpT1F0ZVHSAe8BQVVfeXFMTnFmSG9kVkpKS09aVmdLV0l0N01aY3Fmbk1uS0VTaWxIZnJiNEZMLXhYWDRUZVZpcmdxNWdWYnNGbE01aE1Zb1htbFZuQlBta1N5WHNCTU9ZbVlnUlRhVGE3dVlwYTJHSzE2QkNCR3ppUXN2U3hjRWd4WWd5SzlvMlBxNFZlbnlVR3hXbVpGSUJYbFFqVk5QNUcwa24xeG9SX2Z2dUN0RXZJVnppTXl3ZnFNQXQ5UmtiQ2hQWVRhUHZYd0lRcU5zVEJMZHJRWkZ4RkVZZHY5UmxGdTNJNnVlSXV1X3pGTHRYYk4tZzlVOFk?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUkRQMlNlczdkRldTVzhxRDViZzllQW5fUTYyT3k5cUtHVzhuUDIxd1JWeEMtWUlrU2ZUWno3VGVETDB4TjJxNTVUeWllWXdLaVZOa3lHdmpDandoQUwzT0I2dkxHODFfYmJaSWpRTWhPZVd6cXkta0kyT0VKYW5jM1E3Sl9XcWhzUmppc282azVaTk05MDZza3plRWNKUWlRdmtDT05zOXU5TmlIS253bS1qTWJqaUhUOThISVBQN1U1bGVSOXBWWHh6NTgyQUlfSFRNbEFPT1g0cnNVTkt4M19MM2RpT1F0ZVHSAe8BQVVfeXFMTnFmSG9kVkpKS09aVmdLV0l0N01aY3Fmbk1uS0VTaWxIZnJiNEZMLXhYWDRUZVZpcmdxNWdWYnNGbE01aE1Zb1htbFZuQlBta1N5WHNCTU9ZbVlnUlRhVGE3dVlwYTJHSzE2QkNCR3ppUXN2U3hjRWd4WWd5SzlvMlBxNFZlbnlVR3hXbVpGSUJYbFFqVk5QNUcwa24xeG9SX2Z2dUN0RXZJVnppTXl3ZnFNQXQ5UmtiQ2hQWVRhUHZYd0lRcU5zVEJMZHJRWkZ4RkVZZHY5UmxGdTNJNnVlSXV1X3pGTHRYYk4tZzlVOFk?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
@@ -10948,15 +10953,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR2R6aHNadkZORjdXTmplOG1TVEZ5U3laMmxVZ21iN0NSRzFVcVpIVXVEdWl5bEx6Um5XaTJVa3QtQWlKV3ZUMUN6dTQ2Qnk3Qkd3dW9sb2pwMHBFc1VxaS02V3BqNmNHNTEycUtxcXRBVDdiRlBpeDlmUVVNOHk5NHNobWl4RGtjelZvMUNfSjBfM0pPOFdtWjBGV2ZpVUJXNGtMYnlWNXRIRmx0U29rckt0bGo0NnE2RE9HVjNyaGhpQzRCX2VxTWxlaXBYdmV4NmdMWmpTNDFLVWdfN3JvY19fbEJhNVZoTVJyUThjeXo2bFIwTlE?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Soci e societa'",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Caroccia",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl",
-        "clan Senese"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "giudiziaria",
@@ -11004,6 +11004,26 @@
       ],
       "publishedAt": "2026-03-21T07:00:00.000Z",
       "excerpt": "Delmastro nell'occhio del ciclone, spunta una nuova foto al ristorante di Caroccia. E con lui c'è anche Bartolozzi",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "liberoquotidiano.it__libero quotidiano__bisteccheria d italia__2026-03-20T21:13:51.000Z",
+      "title": "bisteccheria d'italia",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByRmxNTVhNTm9tb016bzlXY3VBWVpkc3QtM0cxaU9qbC1zbnpDeDRuOHo1LV9JejFvSERQbkdvNWE4SzV5N3c5elZHOE5JVWQxYWhKUVBaQldRUjJLRm5yTHhPSlpzZkwwTjRfeA?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByRmxNTVhNTm9tb016bzlXY3VBWVpkc3QtM0cxaU9qbC1zbnpDeDRuOHo1LV9JejFvSERQbkdvNWE4SzV5N3c5elZHOE5JVWQxYWhKUVBaQldRUjJLRm5yTHhPSlpzZkwwTjRfeA?oc=5",
+      "source": "Libero Quotidiano",
+      "sourceHost": "liberoquotidiano.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "bisteccheria"
+      ],
+      "publishedAt": "2026-03-20T21:13:51.000Z",
+      "excerpt": "bisteccheria d'italia",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     }

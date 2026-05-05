@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T23:50:43.717Z",
+  "generatedAt": "2026-05-05T00:59:19.875Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-03-20T23:50:43.717Z",
-    "to": "2026-05-04T23:50:43.717Z",
+    "from": "2026-03-21T00:59:19.875Z",
+    "to": "2026-05-05T00:59:19.875Z",
     "days": 45
   },
   "sources": [
@@ -104,11 +104,11 @@
       "articleCount": 76
     },
     {
-      "label": "lastampa.it",
-      "articleCount": 64
+      "label": "ilfattoquotidiano.it",
+      "articleCount": 65
     },
     {
-      "label": "ilfattoquotidiano.it",
+      "label": "lastampa.it",
       "articleCount": 64
     },
     {
@@ -125,7 +125,7 @@
     },
     {
       "label": "quotidiano.net",
-      "articleCount": 23
+      "articleCount": 22
     },
     {
       "label": "ilgiornale.it",
@@ -136,11 +136,11 @@
       "articleCount": 21
     },
     {
-      "label": "affaritaliani.it",
-      "articleCount": 19
+      "label": "open.online",
+      "articleCount": 20
     },
     {
-      "label": "open.online",
+      "label": "affaritaliani.it",
       "articleCount": 19
     },
     {
@@ -191,12 +191,12 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 991,
-      "uniqueArticles": 491
+      "fetchedArticles": 993,
+      "uniqueArticles": 492
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 264,
+      "fetchedArticles": 263,
       "uniqueArticles": 16
     },
     {
@@ -206,12 +206,12 @@
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 276,
+      "fetchedArticles": 277,
       "uniqueArticles": 3
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 160,
+      "fetchedArticles": 159,
       "uniqueArticles": 1
     },
     {
@@ -223,15 +223,15 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 200
+      "count": 199
     },
     {
       "tag": "politica",
-      "count": 140
+      "count": 142
     },
     {
       "tag": "giudiziaria",
-      "count": 85
+      "count": 86
     },
     {
       "tag": "bisteccheria",
@@ -261,7 +261,7 @@
     },
     {
       "date": "2026-03-24",
-      "count": 100
+      "count": 101
     },
     {
       "date": "2026-03-25",
@@ -329,7 +329,7 @@
     },
     {
       "date": "2026-04-10",
-      "count": 6
+      "count": 7
     },
     {
       "date": "2026-04-11",
@@ -377,7 +377,7 @@
     },
     {
       "date": "2026-04-22",
-      "count": 19
+      "count": 18
     },
     {
       "date": "2026-04-23",
@@ -790,26 +790,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "quotidiano.net__quotidiano nazionale__cospito pg roma chiede l assoluzione delmastro__2026-04-22T13:21:19.000Z",
-      "title": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOENXRmZlck5pZ1ZtLUVqSFFUek9EVmc4aDdvNi1OX0hKX2xEZVJKOGM0bUJtVjNXMFdVZ1lxOWlaa0E1VmMxTEFiZE5SWEttdVE0SkZQQ2s2cmJxSmNQSzBSVVZNRlhUWjVwZ2xzMVJ3TUh0SDdCRjhZSkR2YVhjUGNkWUhuY05R?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOENXRmZlck5pZ1ZtLUVqSFFUek9EVmc4aDdvNi1OX0hKX2xEZVJKOGM0bUJtVjNXMFdVZ1lxOWlaa0E1VmMxTEFiZE5SWEttdVE0SkZQQ2s2cmJxSmNQSzBSVVZNRlhUWjVwZ2xzMVJ3TUh0SDdCRjhZSkR2YVhjUGNkWUhuY05R?oc=5",
-      "source": "Quotidiano Nazionale",
-      "sourceHost": "quotidiano.net",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-22T13:21:19.000Z",
-      "excerpt": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ansa.it__ansa__caso cospito pg chiede l assoluzione delmastro__2026-04-22T07:00:00.000Z",
       "title": "Il caso Cospito, il pg chiede l'assoluzione per Delmastro",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcmVrVkRMWDlic1g0dkExXzNsbjFZOXlhYjU0cHItLWFybnAyQlVxbks5eklCd05EVEZ6d1JNSGd6cVZLd0plRWVwRHF3U0Z2bzJhblZQa0pXLW85QUlYaHpoVXZhWUlIMVVmWkpncXRZNmM5eFBvVGxfNHN5YnMtNHV6SHZHUFhsVzRoaVJPeWVoYmRKZFk2bmtqVU9XWU5kQ1lHbWxOTzNaZXZKeExmVzdYeUlWbEZaN0llMHpqT3gxdWU5c2pYQ1lUT09WYnU3VUI3eGxTLVNXSklM0gHiAUFVX3lxTFA1UjBQWmJUN240Mk13MEV4c0owYWF1cDU1ZGNqQ0d2YWNmYmZEZDdnRWdUdEU3NnV5UVpGak9rQVpzbzhfRWhkNUlybEdRNHBCUExWSnNDQkppU09UNEl4NmV2NFVCMkJ3WWtDVVlfQlNKWjd3UUNuRHBFcHFpVkNFZndJaEFiVUQ4aTVGMGtHY001X2xwbHB5MUF5WjhaMTNVd1ZyVmw4S3FWNGNENzJjeEFhcVYxcXJwTlNEdElXd293aEJ1aE1TMnVQSEFBVHJ2WEJyNHBNYl9CM2F1ZjN5Rnc?oc=5",
@@ -990,10 +970,10 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "liberoquotidiano.it__libero quotidiano__andrea delmastro caso cospito pg roma chiede l assoluzione__2026-04-22T07:00:00.000Z",
-      "title": "Andrea Delmastro, caso Cospito: il Pg di Roma chiede l'assoluzione",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzNrRkJILWVyajZYUmdfbjUzZGNtVGREdEJJWnFiMnBDNGRGNFA2S1lWRXFYd0xFUFV3WnNZUUhGNWQ5djFBaHFxSWh4bmZOeF9UZlJUUDNhYWJXOGlEYkFudmVnV1hJTFZMQjJNYXNndDM3Y1pBM1NDZWh4ZmVoRm12elE4WU50N2M3d09LREdLTmhWOFBXeFhWbmx0MjRGLW8w?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzNrRkJILWVyajZYUmdfbjUzZGNtVGREdEJJWnFiMnBDNGRGNFA2S1lWRXFYd0xFUFV3WnNZUUhGNWQ5djFBaHFxSWh4bmZOeF9UZlJUUDNhYWJXOGlEYkFudmVnV1hJTFZMQjJNYXNndDM3Y1pBM1NDZWh4ZmVoRm12elE4WU50N2M3d09LREdLTmhWOFBXeFhWbmx0MjRGLW8w?oc=5",
+      "id": "liberoquotidiano.it__libero quotidiano__andrea delmastro caso cospito pg roma chiede l assoluzione libero quotidiano it__2026-04-22T07:00:00.000Z",
+      "title": "Andrea Delmastro, caso Cospito: il Pg di Roma chiede l'assoluzione | Libero Quotidiano.it",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzNrRkJILWVyajZYUmdfbjUzZGNtVGREdEJJWnFiMnBDNGRGNFA2S1lWRXFYd0xFUFV3WnNZUUhGNWQ5djFBaHFxSWh4bmZOeF9UZlJUUDNhYWJXOGlEYkFudmVnV1hJTFZMQjJNYXNndDM3Y1pBM1NDZWh4ZmVoRm12elE4WU50N2M3d09LREdLTmhWOFBXeFhWbmx0MjRGLW8w0gGnAUFVX3lxTE5ES29vQ3UxMVl6MUNzb0Z3cnQ4cm5NOURpcXFzWEdLT2lpZGV1WVlGbV9pU3gyalBCNXdPaEtESXJFd0hEOXRKcmhNU041aHB6REg5WUVYY3E0MTRJQ3lOODRQZFE2NmhzaGpoSXpPSVRZazJKaS1pSHhXZkc0SGdlNU1pQlZPMUJQNUI5bTg5a2JWcFpmb0VOTUxTT2NQVUNycnJlbk1z?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzNrRkJILWVyajZYUmdfbjUzZGNtVGREdEJJWnFiMnBDNGRGNFA2S1lWRXFYd0xFUFV3WnNZUUhGNWQ5djFBaHFxSWh4bmZOeF9UZlJUUDNhYWJXOGlEYkFudmVnV1hJTFZMQjJNYXNndDM3Y1pBM1NDZWh4ZmVoRm12elE4WU50N2M3d09LREdLTmhWOFBXeFhWbmx0MjRGLW8w0gGnAUFVX3lxTE5ES29vQ3UxMVl6MUNzb0Z3cnQ4cm5NOURpcXFzWEdLT2lpZGV1WVlGbV9pU3gyalBCNXdPaEtESXJFd0hEOXRKcmhNU041aHB6REg5WUVYY3E0MTRJQ3lOODRQZFE2NmhzaGpoSXpPSVRZazJKaS1pSHhXZkc0SGdlNU1pQlZPMUJQNUI5bTg5a2JWcFpmb0VOTUxTT2NQVUNycnJlbk1z?oc=5",
       "source": "Libero Quotidiano",
       "sourceHost": "liberoquotidiano.it",
       "queryLabel": "Delmastro generale",
@@ -1005,7 +985,7 @@
         "altro"
       ],
       "publishedAt": "2026-04-22T07:00:00.000Z",
-      "excerpt": "Andrea Delmastro, caso Cospito: il Pg di Roma chiede l'assoluzione",
+      "excerpt": "Andrea Delmastro, caso Cospito: il Pg di Roma chiede l'assoluzione | Libero Quotidiano.it",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1871,6 +1851,27 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__l antimafia indaghi anche fdi mossa meloni uscire dall angolo partito vuol processare delmastro__2026-04-10T07:00:00.000Z",
+      "title": "“L’Antimafia indaghi anche su Fdi”. La mossa di Meloni per uscire dall’angolo. E il partito vuol “processare” Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQLVFJbEFUUnZaOHlsTF84SEptSV9taUNLWkx3WUZuMjNZVi0tN1doNWtTcjR3LWdyNi00ZDlKMWd4MUFQaVFxcFV0cWpQbldaVmphVVhWLXVhY29rTXVSZ2FuVGg2ZHU2UjBBZVZDLUE0OVVrVHdWLUlXSE9SV2tWNFl0WTBxSW5QS2VXdy0zOWZKOFJKTTF1NUtQZDlCYzlBekNQMEJCbzNta2hrbThLVkQxdllfX0hTdTZGYl9oZ0sxcUQ5cVg0WS1LTDJNNmh1cmpMeGxXSWtnT1VmNjByUFRaUHlFWlpob0J0RmZPZ3lWbXF6NTJkSEl3WFRFYzN0aDNKeVJKY3ZpMy1WdjJwanN3?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQLVFJbEFUUnZaOHlsTF84SEptSV9taUNLWkx3WUZuMjNZVi0tN1doNWtTcjR3LWdyNi00ZDlKMWd4MUFQaVFxcFV0cWpQbldaVmphVVhWLXVhY29rTXVSZ2FuVGg2ZHU2UjBBZVZDLUE0OVVrVHdWLUlXSE9SV2tWNFl0WTBxSW5QS2VXdy0zOWZKOFJKTTF1NUtQZDlCYzlBekNQMEJCbzNta2hrbThLVkQxdllfX0hTdTZGYl9oZ0sxcUQ5cVg0WS1LTDJNNmh1cmpMeGxXSWtnT1VmNjByUFRaUHlFWlpob0J0RmZPZ3lWbXF6NTJkSEl3WFRFYzN0aDNKeVJKY3ZpMy1WdjJwanN3?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica",
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-04-10T07:00:00.000Z",
+      "excerpt": "“L’Antimafia indaghi anche su Fdi”. La mossa di Meloni per uscire dall’angolo. E il partito vuol “processare” Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "repubblica.it__la repubblica__caso delmastro indagine sul fratello mauro caroccia faro pm sui contatti clan senese__2026-04-09T07:00:00.000Z",
       "title": "Caso Delmastro, indagine sul fratello di Mauro Caroccia: faro dei pm sui contatti con il clan Senese",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZHFGNl9vWldhNjJ2a3I0MjdmRUpPeXhBelhiYzg5NW9vSHFxNmV1RXhqTVJVNjJLZXBqOFVmUVhwZDBnaGtoTkNxM0c4OUYwUVNxREp0VWY3bUlBYXh2dTljSTRTSEctNGE1SVlzTXFrWkc4MW1zRFNkSWFGRE0yZ1J2OWsya2h4ZGh6UktwdFFRVUY3bTQwYXFUY1FkcnllVFV1ajhrbGxJY0U2S29FeERpSHg0QmNMZDhmUkxTMWV0ZTY3cTNN0gHMAUFVX3lxTE4xMWd2dnVIU1RlX3FGNUJuT1JrVkUwbmxQUkRsRkJsVldJUzJaYVV3ZFVqOGlpMzRyYVkwbnI0ZnFvUXJyc1RhelVTa0ZHeVBqLXVyZmRhWG5Id2Q0LVJPTUZxaENIYTBITnFkb1Zib19ORkhSUTdBMzhLWDVYZm1jdmJNb3ZqeXF0RHNVNGxzdkI5NEVYV2xSUGJiYkhaXzNBbzdxZXlfTy1ueXpIaTdHTFVsMlUxeFdJa19nVExWZjF0QktJbEJfNDl3OQ?oc=5",
@@ -2349,8 +2350,8 @@
     {
       "id": "ansa.it__ansa__sequestrato cellulare caroccia setaccio chat messaggi__2026-04-07T07:00:00.000Z",
       "title": "Sequestrato cellulare a Caroccia, a setaccio chat e messaggi",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNODZ2SVNRZnFEbFBnRzhPZUR0VFE4MXF5TTZINlp3bDJ1aHFqSnhWdmtWalBrOXdKSHlSQ0UwNDgyM1RCM2VYa0szem5NOWp4STRlMmFRSTg5dTdIMVZGX2RYQV9UQnBFaGVMTU1DRjhXMVlRMTR0bDRpcm5ycUFmaTZoZk9iNUhJTnViczhSbGx4SXY1MlNuYS1LRlQtcF94X1hmNThHTHo0QTRDVVdwMl83d3BnZ0lBejk2OWcwQ2ZoU3MtdGwtRGEtSWF1Rnd2ZWRCREdiM0xleHNIMkpCSlNEM0JhRFV6?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNODZ2SVNRZnFEbFBnRzhPZUR0VFE4MXF5TTZINlp3bDJ1aHFqSnhWdmtWalBrOXdKSHlSQ0UwNDgyM1RCM2VYa0szem5NOWp4STRlMmFRSTg5dTdIMVZGX2RYQV9UQnBFaGVMTU1DRjhXMVlRMTR0bDRpcm5ycUFmaTZoZk9iNUhJTnViczhSbGx4SXY1MlNuYS1LRlQtcF94X1hmNThHTHo0QTRDVVdwMl83d3BnZ0lBejk2OWcwQ2ZoU3MtdGwtRGEtSWF1Rnd2ZWRCREdiM0xleHNIMkpCSlNEM0JhRFV6?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSWxuSkk4VVRtRGllcW94SkprTmF1LUladzUtSlZmX1dQblBNN1I0WnY5aFlpcm83MmNEaHgwbmU1aVd3bkxaNXJLcGhLMUJRdUpIZHlrQXE1bjczR3dUTnFVVlo4ejZwdmc5TE9weWoydFRUbHh4UTFfTWZoQWFNRW9CZUFGNS1zaU9xZV8xaWM0VTdhYmdlWHlKaDFNVXQtelBOVVdSYjR4MnZMOGFFSVY0ZU9jNGdmQTF3a3VxNkVIV0xQR2NjV1ZDNm9QejNNMndKaVQ4ZW9CTC0ybXFLc05tNWRCcWoy0gHuAUFVX3lxTFB3TTBLTlMxS2JEbEtGTVhhaGJnVC1tQXozZ1N5QjB2eW5mbTNOR1JzQkx1LVFaWURRbmFlRGRsU3MxQ05YR3E0di1zckNNb3pTVkdHNlNraGRlQlg3UWZJZ0RGWXVJc19aR2hLMEdOTzJiU2JvOE5qS2RGX1Z0OUhtZXlhMC0xNlExOWdMU2x5U2VlTjdlSC1xQmRrQU9YN2pkWTc1LXB5MFBoWmlxZEJEcFpZZXZWQXZmNEUyY19Ha0NnX3RDY0ZBaGphUkRzY2FuVjhCdmFXU2xlTTRHTmtMS3AteXQzQ0czNDFDY0E?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSWxuSkk4VVRtRGllcW94SkprTmF1LUladzUtSlZmX1dQblBNN1I0WnY5aFlpcm83MmNEaHgwbmU1aVd3bkxaNXJLcGhLMUJRdUpIZHlrQXE1bjczR3dUTnFVVlo4ejZwdmc5TE9weWoydFRUbHh4UTFfTWZoQWFNRW9CZUFGNS1zaU9xZV8xaWM0VTdhYmdlWHlKaDFNVXQtelBOVVdSYjR4MnZMOGFFSVY0ZU9jNGdmQTF3a3VxNkVIV0xQR2NjV1ZDNm9QejNNMndKaVQ4ZW9CTC0ybXFLc05tNWRCcWoy0gHuAUFVX3lxTFB3TTBLTlMxS2JEbEtGTVhhaGJnVC1tQXozZ1N5QjB2eW5mbTNOR1JzQkx1LVFaWURRbmFlRGRsU3MxQ05YR3E0di1zckNNb3pTVkdHNlNraGRlQlg3UWZJZ0RGWXVJc19aR2hLMEdOTzJiU2JvOE5qS2RGX1Z0OUhtZXlhMC0xNlExOWdMU2x5U2VlTjdlSC1xQmRrQU9YN2pkWTc1LXB5MFBoWmlxZEJEcFpZZXZWQXZmNEUyY19Ha0NnX3RDY0ZBaGphUkRzY2FuVjhCdmFXU2xlTTRHTmtMS3AteXQzQ0czNDFDY0E?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
@@ -8507,26 +8508,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "open.online__open__calenda dimissioni delmastro bartolozzi tardive ora turno urso santanche video__2026-03-24T07:00:00.000Z",
-      "title": "Calenda su dimissioni Delmastro e Bartolozzi: Tardive, ora è il turno di Urso e Santanchè - Il video",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm5McnpXdVpxc2JoRlgydnpKUzNldmVhQ240R1BVX0NINzV6blRTdmdmU3BDZkQtbmxXMEE3Zk9pSmpVNnpMdVI5am1DQ0ZIbUo2WGtKZFpva1ljbE5UMVUtX2NZdW1uQ0hQeG1ld1Z6blZ1NkRRY2g2R1JTaGs0ZUdmR0Jmc0tQekZrUC1wSjhuZzVZbmNicVJ6MWd6Ni0tNzdFVjEzem55QQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm5McnpXdVpxc2JoRlgydnpKUzNldmVhQ240R1BVX0NINzV6blRTdmdmU3BDZkQtbmxXMEE3Zk9pSmpVNnpMdVI5am1DQ0ZIbUo2WGtKZFpva1ljbE5UMVUtX2NZdW1uQ0hQeG1ld1Z6blZ1NkRRY2g2R1JTaGs0ZUdmR0Jmc0tQekZrUC1wSjhuZzVZbmNicVJ6MWd6Ni0tNzdFVjEzem55QQ?oc=5",
-      "source": "Open",
-      "sourceHost": "open.online",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "politica"
-      ],
-      "publishedAt": "2026-03-24T07:00:00.000Z",
-      "excerpt": "Calenda su dimissioni Delmastro e Bartolozzi: Tardive, ora è il turno di Urso e Santanchè - Il video",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "open.online__open__quando delmastro fdi diceva sulla separazione carriere finalmente giustizia liberale video__2026-03-24T07:00:00.000Z",
       "title": "Quando Delmastro (FdI) diceva sulla separazione delle carriere: “Finalmente una giustizia liberale” - Il video",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV3JQRWZXaGVpRjJjQTlZY0pUZWdOWWROc1NpcFN6QUpRRDYwOHk4U1JKRGk3OXVhMHlPZ0tRMTN6Uk1UbDM2MGxENkJoSEpzalkxNGJ2WXVMVGx2ZlMzOTVQN3JnZ0tpcE5DdzZ5S3EwTHRvUHNtQU1HR3EyZjYzT3NWeE4zVVhXR19idVc4aHd5b0FoT0d2NjVJd2xOdk5DR3FHeGVFZFVxcDNCUlAyVEZBdlQ?oc=5",
@@ -8543,6 +8524,26 @@
       ],
       "publishedAt": "2026-03-24T07:00:00.000Z",
       "excerpt": "Quando Delmastro (FdI) diceva sulla separazione delle carriere: “Finalmente una giustizia liberale” - Il video",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "open.online__open__calenda dimissioni delmastro bartolozzi tardive ora turno urso santanche video__2026-03-24T07:00:00.000Z",
+      "title": "Calenda su dimissioni Delmastro e Bartolozzi: Tardive, ora è il turno di Urso e Santanchè - Il video",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm5McnpXdVpxc2JoRlgydnpKUzNldmVhQ240R1BVX0NINzV6blRTdmdmU3BDZkQtbmxXMEE3Zk9pSmpVNnpMdVI5am1DQ0ZIbUo2WGtKZFpva1ljbE5UMVUtX2NZdW1uQ0hQeG1ld1Z6blZ1NkRRY2g2R1JTaGs0ZUdmR0Jmc0tQekZrUC1wSjhuZzVZbmNicVJ6MWd6Ni0tNzdFVjEzem55QQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm5McnpXdVpxc2JoRlgydnpKUzNldmVhQ240R1BVX0NINzV6blRTdmdmU3BDZkQtbmxXMEE3Zk9pSmpVNnpMdVI5am1DQ0ZIbUo2WGtKZFpva1ljbE5UMVUtX2NZdW1uQ0hQeG1ld1Z6blZ1NkRRY2g2R1JTaGs0ZUdmR0Jmc0tQekZrUC1wSjhuZzVZbmNicVJ6MWd6Ni0tNzdFVjEzem55QQ?oc=5",
+      "source": "Open",
+      "sourceHost": "open.online",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica"
+      ],
+      "publishedAt": "2026-03-24T07:00:00.000Z",
+      "excerpt": "Calenda su dimissioni Delmastro e Bartolozzi: Tardive, ora è il turno di Urso e Santanchè - Il video",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -8583,6 +8584,26 @@
       ],
       "publishedAt": "2026-03-24T07:00:00.000Z",
       "excerpt": "Delmastro si è dimesso, la svolta dopo la bufera sui rapporti col clan Senese: «Ho commesso una leggerezza",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "open.online__open__bonelli dimissioni delmastro bartolozzi ora turno santanche video__2026-03-24T07:00:00.000Z",
+      "title": "Bonelli su dimissioni Delmastro a Bartolozzi: Ora è il turno di Santanchè – Il video",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVNMU0N2Vk10Q2hhdFVJVnZpOXQzUW16WWZ0UmFVUVdYNnlkVWNpR1BDR2o4eHBaMmdPZUFLS01mU2pTVlNBSHVqTk40bGtGNV9rMW9SS3NPUmFUVUt4bHJRZklDQjNpdmV3SXBSbUVtZnJVYzU4VjFBVDN6aTZ2djNRNDI3VHowOGsxMHRPTllYYWNtX2Nidw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVNMU0N2Vk10Q2hhdFVJVnZpOXQzUW16WWZ0UmFVUVdYNnlkVWNpR1BDR2o4eHBaMmdPZUFLS01mU2pTVlNBSHVqTk40bGtGNV9rMW9SS3NPUmFUVUt4bHJRZklDQjNpdmV3SXBSbUVtZnJVYzU4VjFBVDN6aTZ2djNRNDI3VHowOGsxMHRPTllYYWNtX2Nidw?oc=5",
+      "source": "Open",
+      "sourceHost": "open.online",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica"
+      ],
+      "publishedAt": "2026-03-24T07:00:00.000Z",
+      "excerpt": "Bonelli su dimissioni Delmastro a Bartolozzi: Ora è il turno di Santanchè – Il video",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

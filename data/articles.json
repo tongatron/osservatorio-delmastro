@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T07:31:29.403Z",
+  "generatedAt": "2026-05-07T09:05:01.883Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-03-23T07:31:29.403Z",
-    "to": "2026-05-07T07:31:29.403Z",
+    "from": "2026-03-23T09:05:01.883Z",
+    "to": "2026-05-07T09:05:01.883Z",
     "days": 45
   },
   "sources": [
@@ -109,7 +109,7 @@
     },
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 52
+      "articleCount": 54
     },
     {
       "label": "corriere.it",
@@ -196,17 +196,17 @@
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 210,
-      "uniqueArticles": 18
+      "fetchedArticles": 214,
+      "uniqueArticles": 19
+    },
+    {
+      "label": "Persone collegate",
+      "fetchedArticles": 256,
+      "uniqueArticles": 8
     },
     {
       "label": "Bisteccheria",
       "fetchedArticles": 218,
-      "uniqueArticles": 7
-    },
-    {
-      "label": "Persone collegate",
-      "fetchedArticles": 251,
       "uniqueArticles": 7
     },
     {
@@ -223,7 +223,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 185
+      "count": 186
     },
     {
       "tag": "politica",
@@ -243,7 +243,7 @@
     },
     {
       "tag": "societa'",
-      "count": 39
+      "count": 40
     }
   ],
   "timeline": [
@@ -289,7 +289,7 @@
     },
     {
       "date": "2026-04-02",
-      "count": 8
+      "count": 9
     },
     {
       "date": "2026-04-03",
@@ -377,7 +377,7 @@
     },
     {
       "date": "2026-04-24",
-      "count": 1
+      "count": 2
     },
     {
       "date": "2026-04-25",
@@ -1005,6 +1005,28 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__fuga film progettata figlioccio clan senese evasione elicottero__2026-04-24T07:00:00.000Z",
+      "title": "La fuga da film progettata dal figlioccio del clan Senese: \"Evasione in elicottero\"",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlg5U2VKd3dCRnRzczNCVjIwUG5yQzljUW1ZbmlvcDQ3YVR6dDhPQjFaVHduTXg5MkU3eGZ1bTVPeXZlOUtqaXhXdFNCZFlpZHM0OGFRMHV6Zl9SNy1hMTZES2JqaGxMYzc1ZEV6UkpZWHNDR2FBaFpmUmVvVTdZSXV6UzFNUXRNUkpBVHVoQWduUW13ajVpV2k2ZXdUMmVhLWVsZ3dqZHV1SlNFamllYWdwTzhKVm43X29nRURiQk83dzd0LUxmdExjM1I?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlg5U2VKd3dCRnRzczNCVjIwUG5yQzljUW1ZbmlvcDQ3YVR6dDhPQjFaVHduTXg5MkU3eGZ1bTVPeXZlOUtqaXhXdFNCZFlpZHM0OGFRMHV6Zl9SNy1hMTZES2JqaGxMYzc1ZEV6UkpZWHNDR2FBaFpmUmVvVTdZSXV6UzFNUXRNUkpBVHVoQWduUW13ajVpV2k2ZXdUMmVhLWVsZ3dqZHV1SlNFamllYWdwTzhKVm43X29nRURiQk83dzd0LUxmdExjM1I?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Persone collegate",
+      "matchedTerms": [
+        "Elena Chiorino",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "clan Senese"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-24T07:00:00.000Z",
+      "excerpt": "La fuga da film progettata dal figlioccio del clan Senese: \"Evasione in elicottero\"",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "repubblica.it__la repubblica__presunti rapporti fdi clan senese rai non paga giornalista report autore dell inchiesta__2026-04-23T07:00:00.000Z",
       "title": "Presunti rapporti FdI-clan Senese, Rai non paga il giornalista di Report autore dell’inchiesta",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeU1kQ0JzMGhuaGdPUTFwS2FYaGNzQ08zeGNuakxFMkcxVFdjYUd6MHpMZk9mdzVNUUx2OVM2SktJTThiV2hoaXJyT2hhQ2tvQ1NZZVV2MGRmUHRfRlBiMGhYa3pKQTQwRng2aVlyZWtJeDdIZnJ2bWNxMmJ1Ym8wMTBXdmlaelN1bm1iMjRtV1BCbkItakc5MmhsR2U0bEtYNVp6d0NsZ29QVWN2V3BRUHVjRUFHOEIyeVBvdHl4YlVMUGwydk5wMnJBWmhXYk5f0gHWAUFVX3lxTE9zM1cyVmxZTllIYVk5Y1dmMEpBUHBlSzhZOGU1ZHFYNTZ4QVNobFRqRzlIeTc2ZUFyWENLUFJVd0NWT2RXNlJELVJuQjZyRXhtekhFMzJsak0yTG1Xc29aLTJUeDd3WVZXVTNkTllacXhPV0M2ZmVMNzlLbEhZTTYxVzhqcUFMMzJ1dXg1RV91aDRja053S0hZLTRWXzU1U3hGaHJDNXlVdFh1Nng4dFhGUVcwT2xlMTdYWDVNQldSUHZOLS1HUEk1N3Mtcnd2Z21xNmk2Q1E?oc=5",
@@ -1577,11 +1599,14 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbUJ1NW11R1NyOU4zczNJQ1NsZ2dSZ0c0NnJWcy1tSDI2dXhWU2xSYkVDeEJHeUZiV2xmVU9tUGZ1bThwclMwUFJVbUplb25JWWlvNGVjS3R6alFsS3dBZ2tVcm8wSTdZSVZRWlZUY3ozUFBnMGhCeVY1WEdyWHBxR19wZU9yT2cwYlpJajdrWlAtZXo5WkNUdDVHbjRQYkVpT2daY0xDaVpzUkhkVmFRa0VKRWl5NUNBWnhYMEluQU16c0dlVnZ4NjUyVW52UnBn?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Persone collegate",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Elena Chiorino",
+        "Caroccia",
         "Cristiano Franceschini",
         "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
         "clan Senese"
       ],
       "tags": [
@@ -3405,6 +3430,26 @@
       ],
       "publishedAt": "2026-04-02T07:00:00.000Z",
       "excerpt": "Andrea Delmastro, Carroccia ai Pm: \"Ma quale riciclaggio, i soldi erano suoi\" | Libero Quotidiano.it",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__caroccia insolvente mise figlia srl delmastro sapeva__2026-04-02T07:00:00.000Z",
+      "title": "“Caroccia insolvente mise la figlia nella srl e Delmastro sapeva”",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdDZleUhRdWlhYko2bzRVLXF2dzEzcnVCakNjWU04Nms5d1NESnN1dVFBQkNRTjQyRWczQzZJMHo4SUV4eG5sa2ppOU05c09ZTGFfM056RWVmUFUwbHEyVjBhbFFiLVNSbVcyd1I4QWRjeDhYSm5YanlZdlZEOUhiajMzOFp0YVFJaU8yVExPT3hxYzJCOXp1XzR0N0tTdW1QZTF3OExKaERZa0xIQUNOVG1xWEhmU2RwRlJZSEdIUXRHbkw5UW9YWlJPS0dSRjZRVUE?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdDZleUhRdWlhYko2bzRVLXF2dzEzcnVCakNjWU04Nms5d1NESnN1dVFBQkNRTjQyRWczQzZJMHo4SUV4eG5sa2ppOU05c09ZTGFfM056RWVmUFUwbHEyVjBhbFFiLVNSbVcyd1I4QWRjeDhYSm5YanlZdlZEOUhiajMzOFp0YVFJaU8yVExPT3hxYzJCOXp1XzR0N0tTdW1QZTF3OExKaERZa0xIQUNOVG1xWEhmU2RwRlJZSEdIUXRHbkw5UW9YWlJPS0dSRjZRVUE?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "societa'"
+      ],
+      "publishedAt": "2026-04-02T07:00:00.000Z",
+      "excerpt": "“Caroccia insolvente mise la figlia nella srl e Delmastro sapeva”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -5529,26 +5574,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "open.online__open__si dimette chiorino fedelissima delmastro passo indietro assessore piemonte__2026-03-30T07:00:00.000Z",
-      "title": "Si dimette Chiorino, fedelissima di Delmastro. Il passo indietro da assessore in Piemonte",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaXkxUUw5b09yRlQzUjJHajV2YkpXZDNMSk84bXNvWFFjUHZCMUtrV2I3ZW1WTHhXdXRDVlRmakRwWTJFWVBSS3FSTEwtcWJJWHE2U2xZTmNZVFozSkVhNHNTNlkyM1ZNY2F2RGZEUVNUXzM4bFp1cll1dlB4dkRoVTdQbV9LektwYmRyWlBfMDFDYjB3MFY3X05TLW94bEZBUnRjbA?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaXkxUUw5b09yRlQzUjJHajV2YkpXZDNMSk84bXNvWFFjUHZCMUtrV2I3ZW1WTHhXdXRDVlRmakRwWTJFWVBSS3FSTEwtcWJJWHE2U2xZTmNZVFozSkVhNHNTNlkyM1ZNY2F2RGZEUVNUXzM4bFp1cll1dlB4dkRoVTdQbV9LektwYmRyWlBfMDFDYjB3MFY3X05TLW94bEZBUnRjbA?oc=5",
-      "source": "Open",
-      "sourceHost": "open.online",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "territorio"
-      ],
-      "publishedAt": "2026-03-30T07:00:00.000Z",
-      "excerpt": "Si dimette Chiorino, fedelissima di Delmastro. Il passo indietro da assessore in Piemonte",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "open.online__open__caroccia spieghera pm quando come ha conosciuto delmastro l avvocato ristoratore__2026-03-30T07:00:00.000Z",
       "title": "«Caroccia spiegherà ai pm quando e come ha conosciuto Delmastro», l'avvocato del ristoratore a",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSndELWpOQzNHX1RmYzNEQ0tZN1RKd045TzdSQmZCR3NiWWY0MExjRlFVNlVORVNubUFzRkVPYlRrVnIyREF1N1B1aGFFWkRnVmZaaUNfbTZheVB2bExPRW94NnBhZC1zV2toMGtTWEE0b3FnQ3NnR25CQm1QdEtfTEpxU2JtSHpyZE4wT1Byb1ZUb0pv?oc=5",
@@ -5565,6 +5590,26 @@
       ],
       "publishedAt": "2026-03-30T07:00:00.000Z",
       "excerpt": "«Caroccia spiegherà ai pm quando e come ha conosciuto Delmastro», l'avvocato del ristoratore a Open",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "open.online__open__si dimette chiorino fedelissima delmastro passo indietro assessore piemonte__2026-03-30T07:00:00.000Z",
+      "title": "Si dimette Chiorino, fedelissima di Delmastro. Il passo indietro da assessore in Piemonte",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaXkxUUw5b09yRlQzUjJHajV2YkpXZDNMSk84bXNvWFFjUHZCMUtrV2I3ZW1WTHhXdXRDVlRmakRwWTJFWVBSS3FSTEwtcWJJWHE2U2xZTmNZVFozSkVhNHNTNlkyM1ZNY2F2RGZEUVNUXzM4bFp1cll1dlB4dkRoVTdQbV9LektwYmRyWlBfMDFDYjB3MFY3X05TLW94bEZBUnRjbA?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaXkxUUw5b09yRlQzUjJHajV2YkpXZDNMSk84bXNvWFFjUHZCMUtrV2I3ZW1WTHhXdXRDVlRmakRwWTJFWVBSS3FSTEwtcWJJWHE2U2xZTmNZVFozSkVhNHNTNlkyM1ZNY2F2RGZEUVNUXzM4bFp1cll1dlB4dkRoVTdQbV9LektwYmRyWlBfMDFDYjB3MFY3X05TLW94bEZBUnRjbA?oc=5",
+      "source": "Open",
+      "sourceHost": "open.online",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "territorio"
+      ],
+      "publishedAt": "2026-03-30T07:00:00.000Z",
+      "excerpt": "Si dimette Chiorino, fedelissima di Delmastro. Il passo indietro da assessore in Piemonte",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -6834,10 +6879,12 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcjY3c295QW1UZGx3VXJIVTB0RVVRczFLQlpNeHBVRmE2MDBfeUZmSUVXU1Vhc3dfYzRZbU1vYzlycF9MR2x1V2FROXZPejhWSkRqdXNWT0FpeWZhSi1IUnlZYnoyV0NlY0h2NFp0UTBRM2tWM08zN3VBd1pmTGhlVmR6S1pqWTdsQVNFeWJoeHpBQjd0d3otekJDSGJaaktQT19SYm5jT00xUEU4V1FKUTVhYjZxbGhnaDloOG5uZlF2QkJrMGM1VXIxSm5Zbm9sbnhKM0pPMFc3NWpVWGJFVg?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Persone collegate",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Elena Chiorino",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "clan Senese"
       ],
       "tags": [
         "altro"
@@ -8822,26 +8869,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "open.online__open__calenda dimissioni delmastro bartolozzi tardive ora turno urso santanche video__2026-03-24T07:00:00.000Z",
-      "title": "Calenda su dimissioni Delmastro e Bartolozzi: Tardive, ora è il turno di Urso e Santanchè - Il video",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm5McnpXdVpxc2JoRlgydnpKUzNldmVhQ240R1BVX0NINzV6blRTdmdmU3BDZkQtbmxXMEE3Zk9pSmpVNnpMdVI5am1DQ0ZIbUo2WGtKZFpva1ljbE5UMVUtX2NZdW1uQ0hQeG1ld1Z6blZ1NkRRY2g2R1JTaGs0ZUdmR0Jmc0tQekZrUC1wSjhuZzVZbmNicVJ6MWd6Ni0tNzdFVjEzem55QQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm5McnpXdVpxc2JoRlgydnpKUzNldmVhQ240R1BVX0NINzV6blRTdmdmU3BDZkQtbmxXMEE3Zk9pSmpVNnpMdVI5am1DQ0ZIbUo2WGtKZFpva1ljbE5UMVUtX2NZdW1uQ0hQeG1ld1Z6blZ1NkRRY2g2R1JTaGs0ZUdmR0Jmc0tQekZrUC1wSjhuZzVZbmNicVJ6MWd6Ni0tNzdFVjEzem55QQ?oc=5",
-      "source": "Open",
-      "sourceHost": "open.online",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "politica"
-      ],
-      "publishedAt": "2026-03-24T07:00:00.000Z",
-      "excerpt": "Calenda su dimissioni Delmastro e Bartolozzi: Tardive, ora è il turno di Urso e Santanchè - Il video",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "open.online__open__meloni santanche faccia stessa scelta delmastro bartolozzi pressing sulla ministra ma lei vuole rimanere__2026-03-24T07:00:00.000Z",
       "title": "Meloni: «Santanché faccia la stessa scelta di Delmastro e Bartolozzi». Il pressing sulla ministra, ma lei vuole rimanere",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY2pRcU9xNG8xdnJ4MTNuMU5objlrNWE1R1VxWXVwVDdWUjZIaG9LNWd3QzFrMjFydHZrNlV3Vm9LV1RPN2JzN0VvX20tWl9QWHpsOEhKRVMtTUdNRWdDbmtJZFdEM3lfVXdBdi0xZzFUTktQb3hhQTROT0lHSk5EUDg0MGt5RVFtWGJVTW1XOXJjNFpwOWMw?oc=5",
@@ -8858,6 +8885,26 @@
       ],
       "publishedAt": "2026-03-24T07:00:00.000Z",
       "excerpt": "Meloni: «Santanché faccia la stessa scelta di Delmastro e Bartolozzi». Il pressing sulla ministra, ma lei vuole rimanere",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "open.online__open__calenda dimissioni delmastro bartolozzi tardive ora turno urso santanche video__2026-03-24T07:00:00.000Z",
+      "title": "Calenda su dimissioni Delmastro e Bartolozzi: Tardive, ora è il turno di Urso e Santanchè - Il video",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm5McnpXdVpxc2JoRlgydnpKUzNldmVhQ240R1BVX0NINzV6blRTdmdmU3BDZkQtbmxXMEE3Zk9pSmpVNnpMdVI5am1DQ0ZIbUo2WGtKZFpva1ljbE5UMVUtX2NZdW1uQ0hQeG1ld1Z6blZ1NkRRY2g2R1JTaGs0ZUdmR0Jmc0tQekZrUC1wSjhuZzVZbmNicVJ6MWd6Ni0tNzdFVjEzem55QQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm5McnpXdVpxc2JoRlgydnpKUzNldmVhQ240R1BVX0NINzV6blRTdmdmU3BDZkQtbmxXMEE3Zk9pSmpVNnpMdVI5am1DQ0ZIbUo2WGtKZFpva1ljbE5UMVUtX2NZdW1uQ0hQeG1ld1Z6blZ1NkRRY2g2R1JTaGs0ZUdmR0Jmc0tQekZrUC1wSjhuZzVZbmNicVJ6MWd6Ni0tNzdFVjEzem55QQ?oc=5",
+      "source": "Open",
+      "sourceHost": "open.online",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica"
+      ],
+      "publishedAt": "2026-03-24T07:00:00.000Z",
+      "excerpt": "Calenda su dimissioni Delmastro e Bartolozzi: Tardive, ora è il turno di Urso e Santanchè - Il video",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

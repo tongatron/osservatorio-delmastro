@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T12:43:13.023Z",
+  "generatedAt": "2026-05-08T13:42:00.369Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-03-24T12:43:13.023Z",
-    "to": "2026-05-08T12:43:13.023Z",
+    "from": "2026-03-24T13:42:00.369Z",
+    "to": "2026-05-08T13:42:00.369Z",
     "days": 45
   },
   "sources": [
@@ -153,14 +153,14 @@
     },
     {
       "label": "liberoquotidiano.it",
-      "articleCount": 8
-    },
-    {
-      "label": "huffingtonpost.it",
-      "articleCount": 8
+      "articleCount": 7
     },
     {
       "label": "today.it",
+      "articleCount": 7
+    },
+    {
+      "label": "huffingtonpost.it",
       "articleCount": 7
     },
     {
@@ -191,28 +191,28 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 691,
-      "uniqueArticles": 343
+      "fetchedArticles": 681,
+      "uniqueArticles": 338
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 215,
+      "fetchedArticles": 212,
       "uniqueArticles": 23
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 180,
-      "uniqueArticles": 6
-    },
-    {
-      "label": "Filone giudiziario",
-      "fetchedArticles": 126,
-      "uniqueArticles": 4
+      "fetchedArticles": 182,
+      "uniqueArticles": 8
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 225,
-      "uniqueArticles": 2
+      "fetchedArticles": 226,
+      "uniqueArticles": 4
+    },
+    {
+      "label": "Filone giudiziario",
+      "fetchedArticles": 123,
+      "uniqueArticles": 3
     },
     {
       "label": "Territorio",
@@ -223,7 +223,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 150
+      "count": 148
     },
     {
       "tag": "politica",
@@ -309,7 +309,7 @@
     },
     {
       "date": "2026-04-08",
-      "count": 13
+      "count": 12
     },
     {
       "date": "2026-04-09",
@@ -365,7 +365,7 @@
     },
     {
       "date": "2026-04-22",
-      "count": 19
+      "count": 18
     },
     {
       "date": "2026-04-23",
@@ -1179,26 +1179,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "quotidiano.net__quotidiano nazionale__cospito pg roma chiede l assoluzione delmastro__2026-04-22T13:21:19.000Z",
-      "title": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOENXRmZlck5pZ1ZtLUVqSFFUek9EVmc4aDdvNi1OX0hKX2xEZVJKOGM0bUJtVjNXMFdVZ1lxOWlaa0E1VmMxTEFiZE5SWEttdVE0SkZQQ2s2cmJxSmNQSzBSVVZNRlhUWjVwZ2xzMVJ3TUh0SDdCRjhZSkR2YVhjUGNkWUhuY05R?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOENXRmZlck5pZ1ZtLUVqSFFUek9EVmc4aDdvNi1OX0hKX2xEZVJKOGM0bUJtVjNXMFdVZ1lxOWlaa0E1VmMxTEFiZE5SWEttdVE0SkZQQ2s2cmJxSmNQSzBSVVZNRlhUWjVwZ2xzMVJ3TUh0SDdCRjhZSkR2YVhjUGNkWUhuY05R?oc=5",
-      "source": "Quotidiano Nazionale",
-      "sourceHost": "quotidiano.net",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-22T13:21:19.000Z",
-      "excerpt": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ansa.it__ansa__caso cospito pg chiede l assoluzione delmastro__2026-04-22T07:00:00.000Z",
       "title": "Il caso Cospito, il pg chiede l'assoluzione per Delmastro",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcmVrVkRMWDlic1g0dkExXzNsbjFZOXlhYjU0cHItLWFybnAyQlVxbks5eklCd05EVEZ6d1JNSGd6cVZLd0plRWVwRHF3U0Z2bzJhblZQa0pXLW85QUlYaHpoVXZhWUlIMVVmWkpncXRZNmM5eFBvVGxfNHN5YnMtNHV6SHZHUFhsVzRoaVJPeWVoYmRKZFk2bmtqVU9XWU5kQ1lHbWxOTzNaZXZKeExmVzdYeUlWbEZaN0llMHpqT3gxdWU5c2pYQ1lUT09WYnU3VUI3eGxTLVNXSklM0gHiAUFVX3lxTFA1UjBQWmJUN240Mk13MEV4c0owYWF1cDU1ZGNqQ0d2YWNmYmZEZDdnRWdUdEU3NnV5UVpGak9rQVpzbzhfRWhkNUlybEdRNHBCUExWSnNDQkppU09UNEl4NmV2NFVCMkJ3WWtDVVlfQlNKWjd3UUNuRHBFcHFpVkNFZndJaEFiVUQ4aTVGMGtHY001X2xwbHB5MUF5WjhaMTNVd1ZyVmw4S3FWNGNENzJjeEFhcVYxcXJwTlNEdElXd293aEJ1aE1TMnVQSEFBVHJ2WEJyNHBNYl9CM2F1ZjN5Rnc?oc=5",
@@ -1295,26 +1275,6 @@
       ],
       "publishedAt": "2026-04-22T07:00:00.000Z",
       "excerpt": "Cospito, la procura generale di Roma chiede l’assoluzione per Delmastro: sentenza il 20 maggio",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "huffingtonpost.it__huffpost italia__cinque nuovi sottosegretari balboni batte kelany dopo delmastro c contentino barelli g ucciero__2026-04-22T07:00:00.000Z",
-      "title": "Cinque nuovi sottosegretari. Balboni batte Kelany per il dopo Delmastro, c'è il contentino per Barelli (di G. Ucciero)",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWXpGZWRhbzBFaWgzVEE3YjVZaUZMRFhoRGpibzNBV2FfRDRWcnI0S1NEOHVuMHdtOEluZTdBbEF6QzFHNVNlcVB0SHd4dnBwTGNWUnBQZy1HQ1BQWUtlTGNxcGtjREpfblJhaVJnNzNPSXZDWnZwZjJrLVdQX2ZCLVBwb2h6WllqdlZOY29NUGNyLU9vbWdmN3RXUHVraFh5dTVwaHp5a3BJelZ6N09SaFpBTk1kaEo1Rm9tRXpWZmYtdTZEWEQ0TjVYNVJzVC1NNi1wTkVKXzA1YUZNLUl0X2ZHTVJjSjR5Y2ZIX0I4NkhJNEhMcEE0?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWXpGZWRhbzBFaWgzVEE3YjVZaUZMRFhoRGpibzNBV2FfRDRWcnI0S1NEOHVuMHdtOEluZTdBbEF6QzFHNVNlcVB0SHd4dnBwTGNWUnBQZy1HQ1BQWUtlTGNxcGtjREpfblJhaVJnNzNPSXZDWnZwZjJrLVdQX2ZCLVBwb2h6WllqdlZOY29NUGNyLU9vbWdmN3RXUHVraFh5dTVwaHp5a3BJelZ6N09SaFpBTk1kaEo1Rm9tRXpWZmYtdTZEWEQ0TjVYNVJzVC1NNi1wTkVKXzA1YUZNLUl0X2ZHTVJjSjR5Y2ZIX0I4NkhJNEhMcEE0?oc=5",
-      "source": "HuffPost Italia",
-      "sourceHost": "huffingtonpost.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-22T07:00:00.000Z",
-      "excerpt": "Cinque nuovi sottosegretari. Balboni batte Kelany per il dopo Delmastro, c'è il contentino per Barelli (di G. Ucciero)",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1496,6 +1456,26 @@
       ],
       "publishedAt": "2026-04-22T07:00:00.000Z",
       "excerpt": "Caso Delmastro-Cospito, il pg di Roma chiede l’assoluzione “perché il fatto non costituisce reato”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "quotidiano.net__quotidiano nazionale__cospito pg roma chiede l assoluzione delmastro__2026-04-22T07:00:00.000Z",
+      "title": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOENXRmZlck5pZ1ZtLUVqSFFUek9EVmc4aDdvNi1OX0hKX2xEZVJKOGM0bUJtVjNXMFdVZ1lxOWlaa0E1VmMxTEFiZE5SWEttdVE0SkZQQ2s2cmJxSmNQSzBSVVZNRlhUWjVwZ2xzMVJ3TUh0SDdCRjhZSkR2YVhjUGNkWUhuY05R?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOENXRmZlck5pZ1ZtLUVqSFFUek9EVmc4aDdvNi1OX0hKX2xEZVJKOGM0bUJtVjNXMFdVZ1lxOWlaa0E1VmMxTEFiZE5SWEttdVE0SkZQQ2s2cmJxSmNQSzBSVVZNRlhUWjVwZ2xzMVJ3TUh0SDdCRjhZSkR2YVhjUGNkWUhuY05R?oc=5",
+      "source": "Quotidiano Nazionale",
+      "sourceHost": "quotidiano.net",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-22T07:00:00.000Z",
+      "excerpt": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2623,28 +2603,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "liberoquotidiano.it__libero quotidiano__sequestrato telefono caroccia setaccio messaggi delmastro libero quotidiano it__2026-04-08T07:00:00.000Z",
-      "title": "Sequestrato il telefono di Caroccia: al setaccio i messaggi con Delmastro | Libero Quotidiano.it",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcUpQanJNeUdQMktYUGh3YkZVdmZ4RHNPUXRUejNiWDFKM1RUNXg4a3FFaDdqc2NQbFJGSVZLWW45cXZqM21KR09NbGNQQWplZlFlLXo5UHNFVU0zZ2JaUUlrWC1iNi1KbXVKcXVRblVZZ2kxdl9SalYzOW1IWUk2d2phT09uRVhhYVl2VVRaSlNMdFBCNGZMSloxUmc1OVcyTUQwUE1FMkRwREhGSVdlS3RNcDBxV3NFcjNDS044Q1NfckVMTi1Z0gHLAUFVX3lxTE5kbUo2UW00Und3THotWjNpQVNiUjRxaHFhcUtyYmtoM1NnNGhESlhmdVlaMktCOEdwTmdOWm1qUHQxRlZCQUF1NHZodW94Xzc2X1RsQVF2ZEd1V2tSMlFTWUlrZjVRQ3BVR2hKUUx6amw3NXlIUS1VOGxGeUstRzlGNEUzdGdiZEpfRUdtbzFfR3RYY3h0bVVHNEYwa2lXZi1pcFpVSnVRMVluaE9ieVRON1hYWkF0YTREelE4UVotaXF5bkQ1X2NmanpN?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcUpQanJNeUdQMktYUGh3YkZVdmZ4RHNPUXRUejNiWDFKM1RUNXg4a3FFaDdqc2NQbFJGSVZLWW45cXZqM21KR09NbGNQQWplZlFlLXo5UHNFVU0zZ2JaUUlrWC1iNi1KbXVKcXVRblVZZ2kxdl9SalYzOW1IWUk2d2phT09uRVhhYVl2VVRaSlNMdFBCNGZMSloxUmc1OVcyTUQwUE1FMkRwREhGSVdlS3RNcDBxV3NFcjNDS044Q1NfckVMTi1Z0gHLAUFVX3lxTE5kbUo2UW00Und3THotWjNpQVNiUjRxaHFhcUtyYmtoM1NnNGhESlhmdVlaMktCOEdwTmdOWm1qUHQxRlZCQUF1NHZodW94Xzc2X1RsQVF2ZEd1V2tSMlFTWUlrZjVRQ3BVR2hKUUx6amw3NXlIUS1VOGxGeUstRzlGNEUzdGdiZEpfRUdtbzFfR3RYY3h0bVVHNEYwa2lXZi1pcFpVSnVRMVluaE9ieVRON1hYWkF0YTREelE4UVotaXF5bkQ1X2NmanpN?oc=5",
-      "source": "Libero Quotidiano",
-      "sourceHost": "liberoquotidiano.it",
-      "queryLabel": "Filone giudiziario",
-      "matchedTerms": [
-        "intestazione fittizia di beni",
-        "antimafia",
-        "indagine Delmastro",
-        "pm Torino"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-08T07:00:00.000Z",
-      "excerpt": "Sequestrato il telefono di Caroccia: al setaccio i messaggi con Delmastro | Libero Quotidiano.it",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "rainews.it__rainews__moglie caroccia noi delmastro stata manna cielo__2026-04-08T07:00:00.000Z",
       "title": "La moglie di Caroccia: \"Per noi Delmastro è stata una manna dal cielo\"",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcVQtWU1hZnF1cXN4TFVXTkhjSGJrcTl2eHM5cDZqbkpQZndOLXp0TWZEbGQ0aURwTlQ3cTdsQ1VKQ1B3MmJoTkZEcHRGOGRsSll0N2xOYko4QzkwMkFfZkp2MFA1YmpQVWxaQWltREhyalZJbUIzalV6S0NySzU4UlRyNGNyTGhqdDV2R0VxdkZsNmh6TVJpcGtqVmY2MFI3cGE1SHJRLWlUaDBqdGJySHBxV0FTaXg0NU84WERaWGVpVDZtUGxBbUNMcmwwVTU4QlZ5amVZLWJFZWEtNFdxS3VnSkt1cjFSbGdvbWxJZTZKd9IB9wFBVV95cUxNTnRYZHhmaUhSMDFSV20xX0t3SGhvT2lwSlZDZXlIV0IxMEw1N1JFYWtJT3FPMkNEb3FLQUFaUGdoZWZXb3VlWlA1TXktY0V0ZFlWdzFMZ2hZZ20yYjI4RmN1aEVIYldxcnNPel95ZHI4alJYZUE1a2lXSWx5WmFfMmk1aHo0NjV5aFJiX3NnbHdTSk9rYl8tYVJtclB1cmlPQW10NVFCSGZZb1RIbXFPMjZGOE02M2h3Wklkc0xHa2F5bThRNFJvOXlQNzJPYk5uS0RrZFpnZTBsUUZGdnltdkF0NzRSc3JZYjJvaTE1QWRnTDE5SlhZ?oc=5",
@@ -2671,10 +2629,12 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNejBCc2VpT3BPcVF2ZEpFSmVmMTNCaFBUaEVUTkJfaDNXcjFZTmtiWWhiRDVsUW84WTU3Yi1DcEhhVzBNNEpNQkItUlJ3eHlKMk5Ybm9CcHpGaUFTQUF0eGo0Q3VwVG5Hd0N0UVF4cGR6d0RldGs2cmlDRTRLdlhtRUNfTGtZUVU5YWttT1FhQzZjdzMtR0diMHZ3RFp1dmlGOHlZYnRON3RRbXIzSjZSVHNJS1IzelNGY3FETy02dFRPZ3lNQ21oRTJUYlotNHRtdDdMdEtkQS1oQ00?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Persone collegate",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Elena Chiorino",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "clan Senese"
       ],
       "tags": [
         "giudiziaria"
@@ -3060,10 +3020,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcjVKaWZwZ2hpbE9TNjd3OUlsY3pOWmhjRHl3SnUwTGVzWXV0eU5Wc19JNEJCVjV0eTNwMVNmaTBWOWN1Y0ZPa0tfS2M2VXdTSzN0alVHRmNrMWJ5TlQzZ0h5aXFXaFVZc3g5Sk9lRVZpR2J6UkxDN2YxcVRSamUwOTVZam0yLU44Qzh3LWM3c0t0MXJyS0lrQkt4TE00NU03U2JiTjczQkFiLVhWc05wN2VpSThOQ3BUSGh6NFdfTzlTSVZGdkZQRVZNQlBCUk1IOU1xa2NVbkNxYWJGNGY1TXR6Y2JPVzNvOGMw0gHwAUFVX3lxTE9ZczIyLVBZVXBNZ25zZFQ2T3NyQng4ckZhQ3pWbDhfdFhId3ZjaDloWWN5UnhTYndtYTFyNVBPdGJLOVV3cUtKOWRtbE5CM1JBR2xzQkNTX2t3RlBYeDBXWTFPbndZVzdJbk42R3J4NndGUFRvSEtBUHBwaXFYSzRibW9Mazh1WFRSZEVTQS0wMThpN1d5bmNxUTNNaGF3OG1jX3Z0Y0k0STZWNWJtYXpHWUlnbGF2NjJmZFNSazVJUGgtUUxqV0ZCMlNGYWg0MDB6UVlQR0tkVDh1VEhWb1ZURjFxU05DZGR0bnRqVk1MNg?oc=5",
       "source": "RaiNews",
       "sourceHost": "rainews.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "altro"
@@ -5079,10 +5039,12 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNLVoyVk5VemhGUGRiVUM0TkRMa29TcEx1bkVQb3M0UVNCQ3ZyUzA4MnJWbkd2OHVnc256LUgtVHM2NTh0c21ONUZaZnBheEtNMHQ1WXA5a1pyYW5oVi0ybVIxZklCd3Foc1VDZTc3bWJVdVpPQ1Zqcy11UVIwcHdlOEFhSDRHRDBFNlBTQmRYcnlDQXdjSF9QWk1udlNqLTdyYVdnbllfdVRBNkFnX19yVkVnbHpLNVhwal9tNXF1eFVZMUpYNlhXTF9XZExRRmxFdmFlYWJBb3ZBWHlzUnBIdno3bWJJYWxmTTZlVTVqOFgzbVRFR0dGOW9wWW1fZkhCU1dmajBIONIBhwJBVV95cUxNLVoyVk5VemhGUGRiVUM0TkRMa29TcEx1bkVQb3M0UVNCQ3ZyUzA4MnJWbkd2OHVnc256LUgtVHM2NTh0c21ONUZaZnBheEtNMHQ1WXA5a1pyYW5oVi0ybVIxZklCd3Foc1VDZTc3bWJVdVpPQ1Zqcy11UVIwcHdlOEFhSDRHRDBFNlBTQmRYcnlDQXdjSF9QWk1udlNqLTdyYVdnbllfdVRBNkFnX19yVkVnbHpLNVhwal9tNXF1eFVZMUpYNlhXTF9XZExRRmxFdmFlYWJBb3ZBWHlzUnBIdno3bWJJYWxmTTZlVTVqOFgzbVRFR0dGOW9wWW1fZkhCU1dmajBIOA?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Persone collegate",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Elena Chiorino",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "clan Senese"
       ],
       "tags": [
         "bisteccheria"
@@ -6261,10 +6223,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRmR1M0didnZ5VDdaaDQwTVB5MlBHMV9LUzFiT1UxMlFfM21iZzJkSzhsUEJveWJkcmtUVXM0TjUtNTY5aVVtYmdLOVZHOVNSQVo4dGx5b0lpU29FTm1wOXMwdHYwdkx2TXB0N3k4NkhtWHZSUmUwWWs4b1lsRU9JTUR1MDJ0TWhPZnJnSnhGbk92MGt4R3Z2ZlJoNjJtZ2xmTlU3S1A2ZzJRWmE5bmxNY0xzcXNneHRlQWZTWFRERDlqcDZyRmtlcWN2cDU?oc=5",
       "source": "Adnkronos",
       "sourceHost": "adnkronos.com",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "politica",

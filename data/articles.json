@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T08:59:21.192Z",
+  "generatedAt": "2026-05-08T09:43:26.790Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-03-24T08:59:21.192Z",
-    "to": "2026-05-08T08:59:21.192Z",
+    "from": "2026-03-24T09:43:26.790Z",
+    "to": "2026-05-08T09:43:26.790Z",
     "days": 45
   },
   "sources": [
@@ -165,14 +165,14 @@
     },
     {
       "label": "newsbiella.it",
-      "articleCount": 5
-    },
-    {
-      "label": "adnkronos.com",
-      "articleCount": 5
+      "articleCount": 6
     },
     {
       "label": "ilpost.it",
+      "articleCount": 6
+    },
+    {
+      "label": "adnkronos.com",
       "articleCount": 5
     },
     {
@@ -191,17 +191,17 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 685,
-      "uniqueArticles": 339
+      "fetchedArticles": 687,
+      "uniqueArticles": 341
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 211,
+      "fetchedArticles": 213,
       "uniqueArticles": 23
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 181,
+      "fetchedArticles": 180,
       "uniqueArticles": 6
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 127,
+      "fetchedArticles": 126,
       "uniqueArticles": 4
     },
     {
@@ -227,7 +227,7 @@
     },
     {
       "tag": "politica",
-      "count": 74
+      "count": 75
     },
     {
       "tag": "giudiziaria",
@@ -235,7 +235,7 @@
     },
     {
       "tag": "territorio",
-      "count": 63
+      "count": 65
     },
     {
       "tag": "bisteccheria",
@@ -253,11 +253,11 @@
     },
     {
       "date": "2026-03-25",
-      "count": 55
+      "count": 56
     },
     {
       "date": "2026-03-26",
-      "count": 26
+      "count": 27
     },
     {
       "date": "2026-03-27",
@@ -1201,26 +1201,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "quotidiano.net__quotidiano nazionale__cospito pg roma chiede l assoluzione delmastro__2026-04-22T13:21:19.000Z",
-      "title": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOENXRmZlck5pZ1ZtLUVqSFFUek9EVmc4aDdvNi1OX0hKX2xEZVJKOGM0bUJtVjNXMFdVZ1lxOWlaa0E1VmMxTEFiZE5SWEttdVE0SkZQQ2s2cmJxSmNQSzBSVVZNRlhUWjVwZ2xzMVJ3TUh0SDdCRjhZSkR2YVhjUGNkWUhuY05R?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOENXRmZlck5pZ1ZtLUVqSFFUek9EVmc4aDdvNi1OX0hKX2xEZVJKOGM0bUJtVjNXMFdVZ1lxOWlaa0E1VmMxTEFiZE5SWEttdVE0SkZQQ2s2cmJxSmNQSzBSVVZNRlhUWjVwZ2xzMVJ3TUh0SDdCRjhZSkR2YVhjUGNkWUhuY05R?oc=5",
-      "source": "Quotidiano Nazionale",
-      "sourceHost": "quotidiano.net",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-22T13:21:19.000Z",
-      "excerpt": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ansa.it__ansa__caso cospito pg chiede l assoluzione delmastro__2026-04-22T07:00:00.000Z",
       "title": "Il caso Cospito, il pg chiede l'assoluzione per Delmastro",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcmVrVkRMWDlic1g0dkExXzNsbjFZOXlhYjU0cHItLWFybnAyQlVxbks5eklCd05EVEZ6d1JNSGd6cVZLd0plRWVwRHF3U0Z2bzJhblZQa0pXLW85QUlYaHpoVXZhWUlIMVVmWkpncXRZNmM5eFBvVGxfNHN5YnMtNHV6SHZHUFhsVzRoaVJPeWVoYmRKZFk2bmtqVU9XWU5kQ1lHbWxOTzNaZXZKeExmVzdYeUlWbEZaN0llMHpqT3gxdWU5c2pYQ1lUT09WYnU3VUI3eGxTLVNXSklM0gHiAUFVX3lxTFA1UjBQWmJUN240Mk13MEV4c0owYWF1cDU1ZGNqQ0d2YWNmYmZEZDdnRWdUdEU3NnV5UVpGak9rQVpzbzhfRWhkNUlybEdRNHBCUExWSnNDQkppU09UNEl4NmV2NFVCMkJ3WWtDVVlfQlNKWjd3UUNuRHBFcHFpVkNFZndJaEFiVUQ4aTVGMGtHY001X2xwbHB5MUF5WjhaMTNVd1ZyVmw4S3FWNGNENzJjeEFhcVYxcXJwTlNEdElXd293aEJ1aE1TMnVQSEFBVHJ2WEJyNHBNYl9CM2F1ZjN5Rnc?oc=5",
@@ -1498,6 +1478,26 @@
       ],
       "publishedAt": "2026-04-22T07:00:00.000Z",
       "excerpt": "Caso Delmastro-Cospito, il pg di Roma chiede l’assoluzione “perché il fatto non costituisce reato”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "quotidiano.net__quotidiano nazionale__cospito pg roma chiede l assoluzione delmastro__2026-04-22T07:00:00.000Z",
+      "title": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOENXRmZlck5pZ1ZtLUVqSFFUek9EVmc4aDdvNi1OX0hKX2xEZVJKOGM0bUJtVjNXMFdVZ1lxOWlaa0E1VmMxTEFiZE5SWEttdVE0SkZQQ2s2cmJxSmNQSzBSVVZNRlhUWjVwZ2xzMVJ3TUh0SDdCRjhZSkR2YVhjUGNkWUhuY05R?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOENXRmZlck5pZ1ZtLUVqSFFUek9EVmc4aDdvNi1OX0hKX2xEZVJKOGM0bUJtVjNXMFdVZ1lxOWlaa0E1VmMxTEFiZE5SWEttdVE0SkZQQ2s2cmJxSmNQSzBSVVZNRlhUWjVwZ2xzMVJ3TUh0SDdCRjhZSkR2YVhjUGNkWUhuY05R?oc=5",
+      "source": "Quotidiano Nazionale",
+      "sourceHost": "quotidiano.net",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-22T07:00:00.000Z",
+      "excerpt": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -3526,26 +3526,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ansa.it__ansa__difensore caroccia soldi messi delmastro tutto tracciato__2026-04-01T07:00:00.000Z",
-      "title": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato'",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbFJTaDNfRl80WkcxYjFhZXk5OG90c1NZYXZiQndrS25iS2VaUzV6S0QyZEdCVEpwRFk2M1d6NVZfbHkwbXNJM1hJNnZURXhRVGQzN21KOHNLWHlxY1RrNFd1ZGZSTnFFWUh2Y3pwZGsxUXprbmV0dExpZzIwc3NEVmZiWV9QdV9YUjJ1OGdqMTE2dG1fd3pGeVBqci0wQUtZZEdBSzNxcy0yS045SUFHYWluOUd1dXRycmwxa3RzX1BlYVlPa3hrNFlHM3A5cEt0YXREejNzQ3dHOGtSNWFJTjc5RkdMYXFWNGJB0gHwAUFVX3lxTFA4UU9LVE9Rend5cnpzSWRfUUsxR2F3anRnQlFnbnhxdUlObUdsTkhYTTl3MXEzWFNkNEp0NkRmWml3WkJGdmI4MWhZRVFWX0JTb2haUUFhUzl1SzRsU3h3MnY2b0dUM3pITEozOWR6eWJPNXNVbjV3TEhVbGwwQUlFdXRXa09Pd3MxT3VfT0xqdzFCcmMzSi1vcVhfcm5XN1RGZ2Uzb0V3MUFqNnlhdEVIWl9XbHB5VVJjeUVHbXNoTGlpTU1jc01VQ2FBYjNOWUx4RFpoa3U5cXZUSUJsWFEyajdFQ1N5NnFrTnBtNjlLOA?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbFJTaDNfRl80WkcxYjFhZXk5OG90c1NZYXZiQndrS25iS2VaUzV6S0QyZEdCVEpwRFk2M1d6NVZfbHkwbXNJM1hJNnZURXhRVGQzN21KOHNLWHlxY1RrNFd1ZGZSTnFFWUh2Y3pwZGsxUXprbmV0dExpZzIwc3NEVmZiWV9QdV9YUjJ1OGdqMTE2dG1fd3pGeVBqci0wQUtZZEdBSzNxcy0yS045SUFHYWluOUd1dXRycmwxa3RzX1BlYVlPa3hrNFlHM3A5cEt0YXREejNzQ3dHOGtSNWFJTjc5RkdMYXFWNGJB0gHwAUFVX3lxTFA4UU9LVE9Rend5cnpzSWRfUUsxR2F3anRnQlFnbnhxdUlObUdsTkhYTTl3MXEzWFNkNEp0NkRmWml3WkJGdmI4MWhZRVFWX0JTb2haUUFhUzl1SzRsU3h3MnY2b0dUM3pITEozOWR6eWJPNXNVbjV3TEhVbGwwQUlFdXRXa09Pd3MxT3VfT0xqdzFCcmMzSi1vcVhfcm5XN1RGZ2Uzb0V3MUFqNnlhdEVIWl9XbHB5VVJjeUVHbXNoTGlpTU1jc01VQ2FBYjNOWUx4RFpoa3U5cXZUSUJsWFEyajdFQ1N5NnFrTnBtNjlLOA?oc=5",
-      "source": "ANSA",
-      "sourceHost": "ansa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-01T07:00:00.000Z",
-      "excerpt": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato'",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ansa.it__ansa__bisteccheria spesi 40 mila euro caroccia dai pm__2026-04-01T07:00:00.000Z",
       "title": "Per la Bisteccheria spesi 40 mila euro, i Caroccia dai pm",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPOVdRV082OE9JY3VxcXFzTU1ZVkdjNjZLU29iYm40M25maU9GZnVZemNGOTM2VmIxeEFZNHl2VVQtMmRiU3F4N1owR0s0UnR2b3JhVGZGcVVxZ3NfbGNYTUF3TGw2MHpCeWhscE9obktnNVA1MEpjRTZ2ODJjMW13cExPeWoxbEt0cmdreE55TzVGNndvYURQb3U2NEpyN3BCdUUxY0gwVEtCcGFvdWNqMDk5RVVieTdMbERKUXowQl9JWW5PNmk2MzdIaUtCNHV3WFF6TGZ1MVhWUUhBUjVJazl1U2g1RFpuSzJCZkpnZDJmWUJQb1VXb1RCVdIBgAJBVV95cUxNU19sakFreGh0TEY2cW90cFAxaHVOUjlMc2N4QkY5Q19FOUpaMmQ4MFNUQVo1RlBnRGsxRjFNdFdVMEhUamExTkd1MkFWWTFmUFJFTFprM0FQYTR4elRpQmNpNmtxUGJtV3oxMnp1Z1p6WjRqV0dGaGVScE5pLU5WVHU5dWJ3LXBlc1VESG42VWVoTDN4SU5Idm01Y0g0cmc0d2FkSTA4bzBVTEpHdzY2czdWanBhNGJvXzJvYWR3M0ZHSHVfLWFfYnRKU1lXbXV1VnlONko4TmZNaXRTX2JsWEVmLXZya0w1dDNnZ1FNSUdtOHVhdGdyZ2ZZaUNWRGRV?oc=5",
@@ -3583,6 +3563,26 @@
       ],
       "publishedAt": "2026-04-01T07:00:00.000Z",
       "excerpt": "Redistribuite le deleghe di Delmastro, il Dap a Ostellari",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ansa.it__ansa__difensore caroccia soldi messi delmastro tutto tracciato__2026-04-01T07:00:00.000Z",
+      "title": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato'",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbFJTaDNfRl80WkcxYjFhZXk5OG90c1NZYXZiQndrS25iS2VaUzV6S0QyZEdCVEpwRFk2M1d6NVZfbHkwbXNJM1hJNnZURXhRVGQzN21KOHNLWHlxY1RrNFd1ZGZSTnFFWUh2Y3pwZGsxUXprbmV0dExpZzIwc3NEVmZiWV9QdV9YUjJ1OGdqMTE2dG1fd3pGeVBqci0wQUtZZEdBSzNxcy0yS045SUFHYWluOUd1dXRycmwxa3RzX1BlYVlPa3hrNFlHM3A5cEt0YXREejNzQ3dHOGtSNWFJTjc5RkdMYXFWNGJB0gHwAUFVX3lxTFA4UU9LVE9Rend5cnpzSWRfUUsxR2F3anRnQlFnbnhxdUlObUdsTkhYTTl3MXEzWFNkNEp0NkRmWml3WkJGdmI4MWhZRVFWX0JTb2haUUFhUzl1SzRsU3h3MnY2b0dUM3pITEozOWR6eWJPNXNVbjV3TEhVbGwwQUlFdXRXa09Pd3MxT3VfT0xqdzFCcmMzSi1vcVhfcm5XN1RGZ2Uzb0V3MUFqNnlhdEVIWl9XbHB5VVJjeUVHbXNoTGlpTU1jc01VQ2FBYjNOWUx4RFpoa3U5cXZUSUJsWFEyajdFQ1N5NnFrTnBtNjlLOA?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbFJTaDNfRl80WkcxYjFhZXk5OG90c1NZYXZiQndrS25iS2VaUzV6S0QyZEdCVEpwRFk2M1d6NVZfbHkwbXNJM1hJNnZURXhRVGQzN21KOHNLWHlxY1RrNFd1ZGZSTnFFWUh2Y3pwZGsxUXprbmV0dExpZzIwc3NEVmZiWV9QdV9YUjJ1OGdqMTE2dG1fd3pGeVBqci0wQUtZZEdBSzNxcy0yS045SUFHYWluOUd1dXRycmwxa3RzX1BlYVlPa3hrNFlHM3A5cEt0YXREejNzQ3dHOGtSNWFJTjc5RkdMYXFWNGJB0gHwAUFVX3lxTFA4UU9LVE9Rend5cnpzSWRfUUsxR2F3anRnQlFnbnhxdUlObUdsTkhYTTl3MXEzWFNkNEp0NkRmWml3WkJGdmI4MWhZRVFWX0JTb2haUUFhUzl1SzRsU3h3MnY2b0dUM3pITEozOWR6eWJPNXNVbjV3TEhVbGwwQUlFdXRXa09Pd3MxT3VfT0xqdzFCcmMzSi1vcVhfcm5XN1RGZ2Uzb0V3MUFqNnlhdEVIWl9XbHB5VVJjeUVHbXNoTGlpTU1jc01VQ2FBYjNOWUx4RFpoa3U5cXZUSUJsWFEyajdFQ1N5NnFrTnBtNjlLOA?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-01T07:00:00.000Z",
+      "excerpt": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato'",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -5058,12 +5058,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNLVoyVk5VemhGUGRiVUM0TkRMa29TcEx1bkVQb3M0UVNCQ3ZyUzA4MnJWbkd2OHVnc256LUgtVHM2NTh0c21ONUZaZnBheEtNMHQ1WXA5a1pyYW5oVi0ybVIxZklCd3Foc1VDZTc3bWJVdVpPQ1Zqcy11UVIwcHdlOEFhSDRHRDBFNlBTQmRYcnlDQXdjSF9QWk1udlNqLTdyYVdnbllfdVRBNkFnX19yVkVnbHpLNVhwal9tNXF1eFVZMUpYNlhXTF9XZExRRmxFdmFlYWJBb3ZBWHlzUnBIdno3bWJJYWxmTTZlVTVqOFgzbVRFR0dGOW9wWW1fZkhCU1dmajBIONIBhwJBVV95cUxNLVoyVk5VemhGUGRiVUM0TkRMa29TcEx1bkVQb3M0UVNCQ3ZyUzA4MnJWbkd2OHVnc256LUgtVHM2NTh0c21ONUZaZnBheEtNMHQ1WXA5a1pyYW5oVi0ybVIxZklCd3Foc1VDZTc3bWJVdVpPQ1Zqcy11UVIwcHdlOEFhSDRHRDBFNlBTQmRYcnlDQXdjSF9QWk1udlNqLTdyYVdnbllfdVRBNkFnX19yVkVnbHpLNVhwal9tNXF1eFVZMUpYNlhXTF9XZExRRmxFdmFlYWJBb3ZBWHlzUnBIdno3bWJJYWxmTTZlVTVqOFgzbVRFR0dGOW9wWW1fZkhCU1dmajBIOA?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
-      "queryLabel": "Persone collegate",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Elena Chiorino",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "clan Senese"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "bisteccheria"
@@ -5218,6 +5216,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "repubblica.it__la repubblica__caso delmastro bisteccheria d italia caroccia riciclava soldi clan senese__2026-03-30T07:00:00.000Z",
+      "title": "Caso Delmastro, la Bisteccheria d’Italia dei Caroccia “riciclava soldi del clan Senese”",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUdnb2RsR001T0lTWnpjWG93d3NuYXNLazliZU50TlFnN1ZRT2l5eVpRZlJaaE91eG42Y3k4T0EyR2Jabng5c1RtR0UxdE5saEpTN0xQVklCTEFCT0xyTnBMS3lhRG9GcUh2ODdza2hzdktyLUxJVlRYU3BRM1M3M3RKNGZOVEJmSVozdlktOXlvQjltSXpUSEk2Tm13NTdsZUZnb1dMTDVhb2V5T0ZYNS0wbk9jVk8t0gG-AUFVX3lxTE9TS3pLZkxMT3Z1ajdTWlliQWNxMS1ZZ0JoSWQwb2wtRnZQWkpzd1h2TEU1clUxMVk1ZlB4d3A3b2c4NGZ4dUdpRVJrX3NQR0dVVER0MHZ4R05sRWwtY2hrel9wUVhyWmhlZUY4U1hRaXdKMDFFTzBzU0NjRzM5ZDNZMTFMdUNzaUNhY3lQQXB5cEdpdW9Tc2NLN0prU0t2S2xyVTBkMGZLWjVYRzhLaFpSQTdrLXp2YkVURlZIOFE?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUdnb2RsR001T0lTWnpjWG93d3NuYXNLazliZU50TlFnN1ZRT2l5eVpRZlJaaE91eG42Y3k4T0EyR2Jabng5c1RtR0UxdE5saEpTN0xQVklCTEFCT0xyTnBMS3lhRG9GcUh2ODdza2hzdktyLUxJVlRYU3BRM1M3M3RKNGZOVEJmSVozdlktOXlvQjltSXpUSEk2Tm13NTdsZUZnb1dMTDVhb2V5T0ZYNS0wbk9jVk8t0gG-AUFVX3lxTE9TS3pLZkxMT3Z1ajdTWlliQWNxMS1ZZ0JoSWQwb2wtRnZQWkpzd1h2TEU1clUxMVk1ZlB4d3A3b2c4NGZ4dUdpRVJrX3NQR0dVVER0MHZ4R05sRWwtY2hrel9wUVhyWmhlZUY4U1hRaXdKMDFFTzBzU0NjRzM5ZDNZMTFMdUNzaUNhY3lQQXB5cEdpdW9Tc2NLN0prU0t2S2xyVTBkMGZLWjVYRzhLaFpSQTdrLXp2YkVURlZIOFE?oc=5",
+      "source": "la Repubblica",
+      "sourceHost": "repubblica.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "bisteccheria"
+      ],
+      "publishedAt": "2026-03-30T07:00:00.000Z",
+      "excerpt": "Caso Delmastro, la Bisteccheria d’Italia dei Caroccia “riciclava soldi del clan Senese”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "repubblica.it__la repubblica__don ciotti riceve sigillo civico torino caso delmastro soffro calpestata dignita__2026-03-30T07:00:00.000Z",
       "title": "Don Ciotti riceve il Sigillo civico di Torino: “Il caso Delmastro? Soffro, calpestata la dignità”",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcHZvSWh4YTlJNFc5cjJxVmlpWFBQTXA0eVFpalhVRnRjWnRpU0xnLS1ZdTI1LVBRTXJtNlMxc2NPcXJ4dkZvT20tQU8zNmpEM2ZocmU0dk9lOFFXb3NHZG5wdmdGM1ltbXpvWTFJREprUUgwLTF3LWswdnZLWTQzVnRSRzVFMldkQjRUbmVIMUpRTEHSAZgBQVVfeXFMTV90cGdwb29TVG53OWZjZmIzTW9FdGRSM0lfdUJ1eTdTQ1ZuWDNLdVZDbXI3U2k1TXFvNGZ1U3kxRlY5X3FNYTNsVFdQRFU2cDRLb0l5WkRzc1lZU3BTSGFOYm5uSnZWWmZVZlBHd0dFRW8tODJmWVRxaUtxVS1fSWtfQVJLRnNpMXBYOU03LUNJRmpoZTJ0ZEo?oc=5",
@@ -5254,26 +5272,6 @@
       ],
       "publishedAt": "2026-03-30T07:00:00.000Z",
       "excerpt": "Caso Delmastro, la sua fedelissima Chiorino si è dimessa dalla giunta del Piemonte",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "repubblica.it__la repubblica__caso delmastro bisteccheria d italia caroccia riciclava soldi clan senese__2026-03-30T07:00:00.000Z",
-      "title": "Caso Delmastro, la Bisteccheria d’Italia dei Caroccia “riciclava soldi del clan Senese”",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUdnb2RsR001T0lTWnpjWG93d3NuYXNLazliZU50TlFnN1ZRT2l5eVpRZlJaaE91eG42Y3k4T0EyR2Jabng5c1RtR0UxdE5saEpTN0xQVklCTEFCT0xyTnBMS3lhRG9GcUh2ODdza2hzdktyLUxJVlRYU3BRM1M3M3RKNGZOVEJmSVozdlktOXlvQjltSXpUSEk2Tm13NTdsZUZnb1dMTDVhb2V5T0ZYNS0wbk9jVk8t0gG-AUFVX3lxTE9TS3pLZkxMT3Z1ajdTWlliQWNxMS1ZZ0JoSWQwb2wtRnZQWkpzd1h2TEU1clUxMVk1ZlB4d3A3b2c4NGZ4dUdpRVJrX3NQR0dVVER0MHZ4R05sRWwtY2hrel9wUVhyWmhlZUY4U1hRaXdKMDFFTzBzU0NjRzM5ZDNZMTFMdUNzaUNhY3lQQXB5cEdpdW9Tc2NLN0prU0t2S2xyVTBkMGZLWjVYRzhLaFpSQTdrLXp2YkVURlZIOFE?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUdnb2RsR001T0lTWnpjWG93d3NuYXNLazliZU50TlFnN1ZRT2l5eVpRZlJaaE91eG42Y3k4T0EyR2Jabng5c1RtR0UxdE5saEpTN0xQVklCTEFCT0xyTnBMS3lhRG9GcUh2ODdza2hzdktyLUxJVlRYU3BRM1M3M3RKNGZOVEJmSVozdlktOXlvQjltSXpUSEk2Tm13NTdsZUZnb1dMTDVhb2V5T0ZYNS0wbk9jVk8t0gG-AUFVX3lxTE9TS3pLZkxMT3Z1ajdTWlliQWNxMS1ZZ0JoSWQwb2wtRnZQWkpzd1h2TEU1clUxMVk1ZlB4d3A3b2c4NGZ4dUdpRVJrX3NQR0dVVER0MHZ4R05sRWwtY2hrel9wUVhyWmhlZUY4U1hRaXdKMDFFTzBzU0NjRzM5ZDNZMTFMdUNzaUNhY3lQQXB5cEdpdW9Tc2NLN0prU0t2S2xyVTBkMGZLWjVYRzhLaFpSQTdrLXp2YkVURlZIOFE?oc=5",
-      "source": "la Repubblica",
-      "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "bisteccheria"
-      ],
-      "publishedAt": "2026-03-30T07:00:00.000Z",
-      "excerpt": "Caso Delmastro, la Bisteccheria d’Italia dei Caroccia “riciclava soldi del clan Senese”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -6645,6 +6643,28 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "ilpost.it__il post__elena chiorino si dimessa vicepresidente piemonte caso delmastro__2026-03-26T07:00:00.000Z",
+      "title": "Elena Chiorino si è dimessa da vicepresidente del Piemonte per il caso Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ25OSzI1TmJsN0RzTHFTSU1MdVdFVm1pcS1uVU1Ib0RzU29oMm45eVoyeVV5ei1sUDJMUVZLakFVdEVXNjB0OEg2MjQ0dUNqYlBlZHFHU3lkTVlsa2kwMlQ4bW9fQVZTWENXblM0WG5ob1B1RHpMUW4tQW9ta09jSEJqd2Q4bm9iVFdYSlZLbS1wZ3hjbWc?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ25OSzI1TmJsN0RzTHFTSU1MdVdFVm1pcS1uVU1Ib0RzU29oMm45eVoyeVV5ei1sUDJMUVZLakFVdEVXNjB0OEg2MjQ0dUNqYlBlZHFHU3lkTVlsa2kwMlQ4bW9fQVZTWENXblM0WG5ob1B1RHpMUW4tQW9ta09jSEJqd2Q4bm9iVFdYSlZLbS1wZ3hjbWc?oc=5",
+      "source": "Il Post",
+      "sourceHost": "ilpost.it",
+      "queryLabel": "Persone collegate",
+      "matchedTerms": [
+        "Elena Chiorino",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "clan Senese"
+      ],
+      "tags": [
+        "territorio"
+      ],
+      "publishedAt": "2026-03-26T07:00:00.000Z",
+      "excerpt": "Elena Chiorino si è dimessa da vicepresidente del Piemonte per il caso Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "lastampa.it__la stampa__delmastro chiorino lei dimissioni meta difesa fdi colloquio cirio__2026-03-26T07:00:00.000Z",
       "title": "Delmastro e Chiorino, per lei le dimissioni a metà: la difesa di FdI, il colloquio con Cirio",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGxHZXh6OEVOeUdvTlYwU0ltZFZnZ3c0NjNCVlM1SXg3c0RjUGhJSHFpcV90eFc0Y3FTeXVyX3pLNTlWcmZjSEx5Q3Q3WjBsRHNJRldJR1JFRXV6U2pROWFacTJtM0QzdWV4TjdWVjBqVkdTZnU5YkR3WnM1OGwyZkphNXp2RV82N29uV0dqb0ZlZWx5Z2wxZlFtR0ZXTlptU0xhQVpZeWbSAa4BQVVfeXFMTzhyNDlSa19BbG4xSGFfX3N3eWx5NDlhMzYtWTdHbjR5MUVTeGNZY3oxNzBmRnBtTWtuWHBBcEd0T2h4M3VCNzI4WGQ2UVYxMnAzX3Bfd2w4X24ySjlMdVVHTHY4MUE4eVRWdWVOb0FKQVJZT0VHdzNXS0tlSTk5dGhweHFFdVRITXlOUjFEa3QyaF9TT1ZkbHNMeFJTRVRfdW9nclRSTHBlbFprTk1n?oc=5",
@@ -7012,8 +7032,8 @@
     {
       "id": "ansa.it__ansa__legale miriam caroccia pronta chiarire inquirenti sua posizione__2026-03-25T07:00:00.000Z",
       "title": "Legale Miriam Caroccia, pronta a chiarire con inquirenti la sua posizione",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdk1YcXBKNFZYcno2b2wxWXZlQnFyWWlOcG00Y2NjcGZ0NEdYbHIxd2ZBQl9yUDZiMTA5elBJOFJvU0c0Rkg2N3kyQVNWRVhkMU1mUlBpSk9FRDZxQjJiczNUdkNWYlVvRjByS0xyc3hvQ3puLWRsN1Vzbmp2eEV1LTVVMWpfQlctU2RoVEFRZTBDTU1kNmxXdEZ5LWJsbU04WUdwWnRLcXJ2clc1dGxRd3JoNDdiTm1tUTNxT0pGZFJZY2dNY3g2WmJPSEtMZ3NiS2xUMU1qRFhqNGs0Wmczb2VPN3dRWWpERHhSODVZdG9PdDdhU29iRkJB0gH_AUFVX3lxTE9zNVNwbnl1ZjRyYjc1Wk5UMTFqQ1hyS2N4UEs0b181dU5hbUtmdmxic2tqOEswel82M0tpVk5MZzdKMHc1SjZ0ZlpCeElETFZlamNhNFQtLUdEODNIOGp0NG5tdDQyeGRvZk5qeVZ1aTdYNnJxZGxnNTdPMFhQWVQweWpJUjdJQVpWTTliazlEa082Qk1mb1VERlBTZEQzM1QwQjBXM1RGVldfcURKZmNJM1JJak9CNGc5OHlYS2hoNWdOZjJrM2JUaWI2MEE1S2RHNWFQaGxoV1Z6bGtmUUIweUszUWJzalpLWHlpTHdSZmFUM1BJMEgtbHFCMEFScw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdk1YcXBKNFZYcno2b2wxWXZlQnFyWWlOcG00Y2NjcGZ0NEdYbHIxd2ZBQl9yUDZiMTA5elBJOFJvU0c0Rkg2N3kyQVNWRVhkMU1mUlBpSk9FRDZxQjJiczNUdkNWYlVvRjByS0xyc3hvQ3puLWRsN1Vzbmp2eEV1LTVVMWpfQlctU2RoVEFRZTBDTU1kNmxXdEZ5LWJsbU04WUdwWnRLcXJ2clc1dGxRd3JoNDdiTm1tUTNxT0pGZFJZY2dNY3g2WmJPSEtMZ3NiS2xUMU1qRFhqNGs0Wmczb2VPN3dRWWpERHhSODVZdG9PdDdhU29iRkJB0gH_AUFVX3lxTE9zNVNwbnl1ZjRyYjc1Wk5UMTFqQ1hyS2N4UEs0b181dU5hbUtmdmxic2tqOEswel82M0tpVk5MZzdKMHc1SjZ0ZlpCeElETFZlamNhNFQtLUdEODNIOGp0NG5tdDQyeGRvZk5qeVZ1aTdYNnJxZGxnNTdPMFhQWVQweWpJUjdJQVpWTTliazlEa082Qk1mb1VERlBTZEQzM1QwQjBXM1RGVldfcURKZmNJM1JJak9CNGc5OHlYS2hoNWdOZjJrM2JUaWI2MEE1S2RHNWFQaGxoV1Z6bGtmUUIweUszUWJzalpLWHlpTHdSZmFUM1BJMEgtbHFCMEFScw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWS1wYW1Ec3RhN0c4UDBGZUYtWl9pOVV1bFM3NlQ0cWljVVhTRkt3MXJLaHYtanh4V01oaTJZVDZSaWRxLTk2Xy1FcGM1QlV5eTF2Y280MElxYkNzeV9CRWMxN09HX0IxZ1RkNkY1Nlg2WEFoTXJUNlQ4dHJsby1QVkNJeUVaWVV0VW1EZXFqbXRfVlhkeEVhejE2MkhmWHN3aUFQbVpNZmxHOHpOTmt4OHlZbXZtN3dHTmIzNmtKZTBMWW5tZlcxdDFPN0dYQ3Bvd1F6bm1kcjFSUGU1RVFoYXQweHRIdTBTeG15YUNOWEZwUVloRXg3TTFB?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWS1wYW1Ec3RhN0c4UDBGZUYtWl9pOVV1bFM3NlQ0cWljVVhTRkt3MXJLaHYtanh4V01oaTJZVDZSaWRxLTk2Xy1FcGM1QlV5eTF2Y280MElxYkNzeV9CRWMxN09HX0IxZ1RkNkY1Nlg2WEFoTXJUNlQ4dHJsby1QVkNJeUVaWVV0VW1EZXFqbXRfVlhkeEVhejE2MkhmWHN3aUFQbVpNZmxHOHpOTmt4OHlZbXZtN3dHTmIzNmtKZTBMWW5tZlcxdDFPN0dYQ3Bvd1F6bm1kcjFSUGU1RVFoYXQweHRIdTBTeG15YUNOWEZwUVloRXg3TTFB?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
@@ -7352,26 +7372,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__la stampa__valanga no travolge delmastro bartolozzi santanche__2026-03-25T07:00:00.000Z",
-      "title": "La valanga di No travolge Delmastro, Bartolozzi, Santanché",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbzFNS1BJMjhyU0tCcHpKSzRfOW5PcW1XOFQ0TURSRy14T3p0cE1PME9yYzhFdW9RMk9fRVpYLXhrQnJvZU1QTkI4Tll5TmhTMDdzeEVjb3FVWVhEU2ZPOWstbFhJMkhwcm9ubTE3MEwyOHB0SV82MVh0WjhwdE1VV3hwNmtCNVpmbmgyTEdQQkVLQ3BJd3dXQ2dha2VHTUNjckt6UnpGWnRSdVlBSXpITklvT2ozeHlRa2NrZ21CNi0?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbzFNS1BJMjhyU0tCcHpKSzRfOW5PcW1XOFQ0TURSRy14T3p0cE1PME9yYzhFdW9RMk9fRVpYLXhrQnJvZU1QTkI4Tll5TmhTMDdzeEVjb3FVWVhEU2ZPOWstbFhJMkhwcm9ubTE3MEwyOHB0SV82MVh0WjhwdE1VV3hwNmtCNVpmbmgyTEdQQkVLQ3BJd3dXQ2dha2VHTUNjckt6UnpGWnRSdVlBSXpITklvT2ozeHlRa2NrZ21CNi0?oc=5",
-      "source": "La Stampa",
-      "sourceHost": "lastampa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-03-25T07:00:00.000Z",
-      "excerpt": "La valanga di No travolge Delmastro, Bartolozzi, Santanché",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "lastampa.it__la stampa__cade delmastro chiorino verso dimissioni pressing opposizioni cirio__2026-03-25T07:00:00.000Z",
       "title": "Cade Delmastro, Chiorino verso le dimissioni: pressing delle opposizioni su Cirio",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa0ttWVRTbWczRW1zdVJybmp1ME5VbE0zdTdrcUtzY0pLV1gtSXo1QU5URThmdkZMZmhmdHZNRW9wcmFpMHNxc2JSbEJ0MkdqTmtabjlwS29YWjdLODV0UVN4dWZ1ODhkd3BxbXhPMVRpdXd2RE1yMmw2TWd6WTBkWG1rUUhTTEMtbm5DYU4yLWhkaVdXMkJfQWFkX1R3d3hlTWsyWm5NQ0RMS0FzRGfSAbMBQVVfeXFMT21Jcm1hVUk5YmZobVNZM1R2Ry1sTkVPalpZazl2S3ppeDl0Umk2T0ExcmtwT0FWUXhZTUE0NUNXSllmQkVlN3ZZZVFSaE5WVWRJUW0zNXBubWhETjZ2WWU1Mjc1ZmpZQ3BCbWRmZDlMUERBeU9zQ0NIMlVmSUhtUFFvMkJ0aWR2WWFBZUdaREtIdE9yUmtEMGhOZ2dLNnAwSC1VWGpmd3FyWlZPNlF6cXpIMlE?oc=5",
@@ -7469,6 +7469,26 @@
       ],
       "publishedAt": "2026-03-25T07:00:00.000Z",
       "excerpt": "Caso Delmastro, Chiorino si dimette da vicepresidente della Regione: “Chiedo scusa ai piemontesi”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "lastampa.it__la stampa__valanga no travolge delmastro bartolozzi santanche__2026-03-25T07:00:00.000Z",
+      "title": "La valanga di No travolge Delmastro, Bartolozzi, Santanché",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbzFNS1BJMjhyU0tCcHpKSzRfOW5PcW1XOFQ0TURSRy14T3p0cE1PME9yYzhFdW9RMk9fRVpYLXhrQnJvZU1QTkI4Tll5TmhTMDdzeEVjb3FVWVhEU2ZPOWstbFhJMkhwcm9ubTE3MEwyOHB0SV82MVh0WjhwdE1VV3hwNmtCNVpmbmgyTEdQQkVLQ3BJd3dXQ2dha2VHTUNjckt6UnpGWnRSdVlBSXpITklvT2ozeHlRa2NrZ21CNi0?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbzFNS1BJMjhyU0tCcHpKSzRfOW5PcW1XOFQ0TURSRy14T3p0cE1PME9yYzhFdW9RMk9fRVpYLXhrQnJvZU1QTkI4Tll5TmhTMDdzeEVjb3FVWVhEU2ZPOWstbFhJMkhwcm9ubTE3MEwyOHB0SV82MVh0WjhwdE1VV3hwNmtCNVpmbmgyTEdQQkVLQ3BJd3dXQ2dha2VHTUNjckt6UnpGWnRSdVlBSXpITklvT2ozeHlRa2NrZ21CNi0?oc=5",
+      "source": "La Stampa",
+      "sourceHost": "lastampa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-03-25T07:00:00.000Z",
+      "excerpt": "La valanga di No travolge Delmastro, Bartolozzi, Santanché",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -7751,6 +7771,27 @@
       ],
       "publishedAt": "2026-03-25T07:00:00.000Z",
       "excerpt": "Caso-bisteccheria, le mezze dimissioni di Chiorino",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "newsbiella.it__newsbiella.it__elena chiorino si dimette vicepresidente regione piemonte ma resta assessore__2026-03-25T07:00:00.000Z",
+      "title": "Elena Chiorino si dimette da vicepresidente della Regione Piemonte ma resta assessore",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWGNwUjd2b05WYTZGOEpyZzFYY0xIZW1qS1YxZEw5TFIwU3V5LVJxSG45SGQ5ZTIzMTdlcThteTFxZXFhV2hOWXhGanJzUWNVT2ZFb3hNMndKWDlBNzllNVJ3MU1BdWdCT2N3RGpJbmltQmlQdUU0eUJTN3Ntazl2cXJoN2lQeUZza0dRTXgtc3dRQUM2blBEVkdnZzdtbThZb3V3UFZPdUViVl9odVJ0bEhPRmtIc2NoOWRMUUs1alZTWkthLVRsWGZ4N2o5TFdRclFac1hkSnl3elJkamdDajlGcG1VcXlGRmxlcW9wdFlOOHhaaVFUaUlPY2Y2YWxD0gHzAUFVX3lxTFB5NFkzbk4xcnBnM0RUNkZfVG5LdU9veHVPOW5kclBjQ1laal9EYTJudzZYenRBeU5lWW1DR2paSEVMdnUzaXA0VEZGcjNJbC1yMlFYOWZIRS15VWtGbXZXRjhJSnIwcy1RN0FZWUlqZGtKY2xoemhXMDB4RGNZSU5GT1dwQVJQOTZVZVh4dUxYRVo5ODctS0ZrV3hiLTZMZTJyVUhhMldsblZ3WmNXX1lobWxDcTBrajlobXNZX3o0NWFlSXZKV3BZS3BDNG81SkMwTWdZMEVGSVRBSTRISEI4SlBwMEFHSU1OYmk2RU1OSU1XZw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWGNwUjd2b05WYTZGOEpyZzFYY0xIZW1qS1YxZEw5TFIwU3V5LVJxSG45SGQ5ZTIzMTdlcThteTFxZXFhV2hOWXhGanJzUWNVT2ZFb3hNMndKWDlBNzllNVJ3MU1BdWdCT2N3RGpJbmltQmlQdUU0eUJTN3Ntazl2cXJoN2lQeUZza0dRTXgtc3dRQUM2blBEVkdnZzdtbThZb3V3UFZPdUViVl9odVJ0bEhPRmtIc2NoOWRMUUs1alZTWkthLVRsWGZ4N2o5TFdRclFac1hkSnl3elJkamdDajlGcG1VcXlGRmxlcW9wdFlOOHhaaVFUaUlPY2Y2YWxD0gHzAUFVX3lxTFB5NFkzbk4xcnBnM0RUNkZfVG5LdU9veHVPOW5kclBjQ1laal9EYTJudzZYenRBeU5lWW1DR2paSEVMdnUzaXA0VEZGcjNJbC1yMlFYOWZIRS15VWtGbXZXRjhJSnIwcy1RN0FZWUlqZGtKY2xoemhXMDB4RGNZSU5GT1dwQVJQOTZVZVh4dUxYRVo5ODctS0ZrV3hiLTZMZTJyVUhhMldsblZ3WmNXX1lobWxDcTBrajlobXNZX3o0NWFlSXZKV3BZS3BDNG81SkMwTWdZMEVGSVRBSTRISEI4SlBwMEFHSU1OYmk2RU1OSU1XZw?oc=5",
+      "source": "Newsbiella.it",
+      "sourceHost": "newsbiella.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica",
+        "territorio"
+      ],
+      "publishedAt": "2026-03-25T07:00:00.000Z",
+      "excerpt": "Elena Chiorino si dimette da vicepresidente della Regione Piemonte ma resta assessore",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

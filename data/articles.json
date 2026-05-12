@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T23:52:13.390Z",
+  "generatedAt": "2026-05-12T01:02:23.570Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-03-27T23:52:13.390Z",
-    "to": "2026-05-11T23:52:13.390Z",
+    "from": "2026-03-28T01:02:23.570Z",
+    "to": "2026-05-12T01:02:23.570Z",
     "days": 45
   },
   "sources": [
@@ -105,7 +105,7 @@
     },
     {
       "label": "lastampa.it",
-      "articleCount": 35
+      "articleCount": 34
     },
     {
       "label": "ilfattoquotidiano.it",
@@ -136,10 +136,6 @@
       "articleCount": 11
     },
     {
-      "label": "liberoquotidiano.it",
-      "articleCount": 8
-    },
-    {
       "label": "tg24.sky.it",
       "articleCount": 8
     },
@@ -149,6 +145,10 @@
     },
     {
       "label": "affaritaliani.it",
+      "articleCount": 7
+    },
+    {
+      "label": "liberoquotidiano.it",
       "articleCount": 7
     },
     {
@@ -187,13 +187,13 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 514,
-      "uniqueArticles": 257
+      "fetchedArticles": 508,
+      "uniqueArticles": 254
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 177,
-      "uniqueArticles": 20
+      "fetchedArticles": 178,
+      "uniqueArticles": 21
     },
     {
       "label": "Bisteccheria",
@@ -202,13 +202,13 @@
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 185,
-      "uniqueArticles": 5
+      "fetchedArticles": 184,
+      "uniqueArticles": 4
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 110,
-      "uniqueArticles": 0
+      "fetchedArticles": 111,
+      "uniqueArticles": 1
     },
     {
       "label": "Territorio",
@@ -219,11 +219,11 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 110
+      "count": 109
     },
     {
       "tag": "giudiziaria",
-      "count": 60
+      "count": 59
     },
     {
       "tag": "bisteccheria",
@@ -261,7 +261,7 @@
     },
     {
       "date": "2026-04-01",
-      "count": 45
+      "count": 44
     },
     {
       "date": "2026-04-02",
@@ -345,7 +345,7 @@
     },
     {
       "date": "2026-04-22",
-      "count": 19
+      "count": 18
     },
     {
       "date": "2026-04-23",
@@ -1070,11 +1070,14 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlg5U2VKd3dCRnRzczNCVjIwUG5yQzljUW1ZbmlvcDQ3YVR6dDhPQjFaVHduTXg5MkU3eGZ1bTVPeXZlOUtqaXhXdFNCZFlpZHM0OGFRMHV6Zl9SNy1hMTZES2JqaGxMYzc1ZEV6UkpZWHNDR2FBaFpmUmVvVTdZSXV6UzFNUXRNUkpBVHVoQWduUW13ajVpV2k2ZXdUMmVhLWVsZ3dqZHV1SlNFamllYWdwTzhKVm43X29nRURiQk83dzd0LUxmdExjM1I?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Persone collegate",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Elena Chiorino",
+        "Caroccia",
         "Cristiano Franceschini",
         "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
         "clan Senese"
       ],
       "tags": [
@@ -1367,26 +1370,6 @@
       ],
       "publishedAt": "2026-04-22T07:00:00.000Z",
       "excerpt": "\"Il fatto non costituisce reato\". E ora il Pg di Roma chiede l'assoluzione di Delmastro sul caso Cospito",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "liberoquotidiano.it__libero quotidiano__andrea delmastro caso cospito pg roma chiede l assoluzione libero quotidiano it__2026-04-22T07:00:00.000Z",
-      "title": "Andrea Delmastro, caso Cospito: il Pg di Roma chiede l'assoluzione | Libero Quotidiano.it",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzNrRkJILWVyajZYUmdfbjUzZGNtVGREdEJJWnFiMnBDNGRGNFA2S1lWRXFYd0xFUFV3WnNZUUhGNWQ5djFBaHFxSWh4bmZOeF9UZlJUUDNhYWJXOGlEYkFudmVnV1hJTFZMQjJNYXNndDM3Y1pBM1NDZWh4ZmVoRm12elE4WU50N2M3d09LREdLTmhWOFBXeFhWbmx0MjRGLW8w0gGnAUFVX3lxTE5ES29vQ3UxMVl6MUNzb0Z3cnQ4cm5NOURpcXFzWEdLT2lpZGV1WVlGbV9pU3gyalBCNXdPaEtESXJFd0hEOXRKcmhNU041aHB6REg5WUVYY3E0MTRJQ3lOODRQZFE2NmhzaGpoSXpPSVRZazJKaS1pSHhXZkc0SGdlNU1pQlZPMUJQNUI5bTg5a2JWcFpmb0VOTUxTT2NQVUNycnJlbk1z?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzNrRkJILWVyajZYUmdfbjUzZGNtVGREdEJJWnFiMnBDNGRGNFA2S1lWRXFYd0xFUFV3WnNZUUhGNWQ5djFBaHFxSWh4bmZOeF9UZlJUUDNhYWJXOGlEYkFudmVnV1hJTFZMQjJNYXNndDM3Y1pBM1NDZWh4ZmVoRm12elE4WU50N2M3d09LREdLTmhWOFBXeFhWbmx0MjRGLW8w0gGnAUFVX3lxTE5ES29vQ3UxMVl6MUNzb0Z3cnQ4cm5NOURpcXFzWEdLT2lpZGV1WVlGbV9pU3gyalBCNXdPaEtESXJFd0hEOXRKcmhNU041aHB6REg5WUVYY3E0MTRJQ3lOODRQZFE2NmhzaGpoSXpPSVRZazJKaS1pSHhXZkc0SGdlNU1pQlZPMUJQNUI5bTg5a2JWcFpmb0VOTUxTT2NQVUNycnJlbk1z?oc=5",
-      "source": "Libero Quotidiano",
-      "sourceHost": "liberoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-22T07:00:00.000Z",
-      "excerpt": "Andrea Delmastro, caso Cospito: il Pg di Roma chiede l'assoluzione | Libero Quotidiano.it",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -3939,26 +3922,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__la stampa__difesa caroccia davanti pm soldi sono delmastro non criminalita__2026-04-01T07:00:00.000Z",
-      "title": "La difesa dei Caroccia davanti ai pm: “I soldi sono di Delmastro, non della criminalità”",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOXdNMW4wZ2lsSWRwSV9mREFab3F5NDJZZFE1bnNkdTJ5c1IwZVJ2Ni1uUmZlNmQ4Sk9zSXdnTkJyQWJwWUZvWHl1b3drc3JLSHE2OTREc2w0Y3h6aHU5ZDhwbEJQaDktOE9LUHNXa1hHUW1SaFRWSEp0TDdNeVRlc0xHNVV6UmtUZnpEd19yNkMzQUNEdWtZSU9Zd0FabFhJbjQ3OGZ5N3VNQVZPZTNybXBxbWFWbUc3TC1HNGpreC1kNmhueU5hZkIzcTZzcXZJXzRyVWgtbDFLQkXSAeABQVVfeXFMTTRVWTY2WFQ0cEZzbUcxaE5ZMlItOTA3UktLVEplajgyWlA0Z1N4U2UtVVM0SU9YSDYwODhxaTlKb21XaTNQTzVsdjhkd1hSR29kSzc4aGx5N05USlpBZXFndXQ0eC1EVWREZ3p3ZFN6VlZpclhWWllkdzRhcDNaWmVtcGVvTXRValJ1bEhnZElVZklkdTRnYUM4aXFibktNdGwzc2lrcGpsbEVZR1EtWV8zQzJ0QzJnNnFjb2RMb1NiRl9mSW50ZTgxQTctYnBEcHVhOTVxNVZ1OGZnZ0FRZWw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOXdNMW4wZ2lsSWRwSV9mREFab3F5NDJZZFE1bnNkdTJ5c1IwZVJ2Ni1uUmZlNmQ4Sk9zSXdnTkJyQWJwWUZvWHl1b3drc3JLSHE2OTREc2w0Y3h6aHU5ZDhwbEJQaDktOE9LUHNXa1hHUW1SaFRWSEp0TDdNeVRlc0xHNVV6UmtUZnpEd19yNkMzQUNEdWtZSU9Zd0FabFhJbjQ3OGZ5N3VNQVZPZTNybXBxbWFWbUc3TC1HNGpreC1kNmhueU5hZkIzcTZzcXZJXzRyVWgtbDFLQkXSAeABQVVfeXFMTTRVWTY2WFQ0cEZzbUcxaE5ZMlItOTA3UktLVEplajgyWlA0Z1N4U2UtVVM0SU9YSDYwODhxaTlKb21XaTNQTzVsdjhkd1hSR29kSzc4aGx5N05USlpBZXFndXQ0eC1EVWREZ3p3ZFN6VlZpclhWWllkdzRhcDNaWmVtcGVvTXRValJ1bEhnZElVZklkdTRnYUM4aXFibktNdGwzc2lrcGpsbEVZR1EtWV8zQzJ0QzJnNnFjb2RMb1NiRl9mSW50ZTgxQTctYnBEcHVhOTVxNVZ1OGZnZ0FRZWw?oc=5",
-      "source": "La Stampa",
-      "sourceHost": "lastampa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-04-01T07:00:00.000Z",
-      "excerpt": "La difesa dei Caroccia davanti ai pm: “I soldi sono di Delmastro, non della criminalità”",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "lastampa.it__la stampa__caso delmastro nomi vittime mafia davanti sedi forza italia fdi lega biella__2026-04-01T07:00:00.000Z",
       "title": "Caso Delmastro, i nomi delle vittime di mafia davanti alle sedi di Forza Italia, FdI e Lega a Biella",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOeDJHUW04NWpxb1ZIam5OWW1sRGFyR1ZwZ2o1OWVGd2Y4SEQ2eGE3YWY1YnZ0N1lEbVpuSmJqd2ZXZzRhY2QwQktPWGwtMldJb2lJZmtoaVo1Yml6LVVOMk5hNDYwZGNKV2lKR0pjdkh4ZkZnTnZ5dndVU3RObHNIM0RPaS1FeXpkczFwclZqV2NnbnZOekhUWi0zeGFaalBJbEdVbF9Hd2NJeTZ1NWIzb3RhenNNeVhSNnViS0ZXR1haR2ljN19Pcjg3azBaZmFSU3ZTa2tIYWpFaW1NTmxvYVVBWkFZbFFRek93V2VwY3VrUVNPbDZMVUdDQTNSejBzbWduY0xmZ9IBjAJBVV95cUxNbTM0LVhNOW9xZUxLX1lFcEhSZW8zR2xqS21RUTIwZk1aNG11dkZvQmwzUy1rbGo1MkpEREc2NThDdF9RU2cwdll2WlJWcnNWZVpfU2daNkhHQTh3UjE3WFk3RUhxeE9WYTJGMlVPRjZpdkxMelZZSEFkM292N24wWVRJRmRZZERidVB0OC1pMmMzV0JST25LN08xdUNwYWp5SGhzVk5JOVFXTE14YndqRV9BTTFpRnczY1BHU1dEY0RtdjZ2bFdSVUtkVXpab0FndEdNUGdEODNaX0xnNHVWQmtDRnFmX2JTWEZzM29rcEcxd2tPaG00SDVUcDJ1UE5XRFFwb2cxU0M0OGds?oc=5",
@@ -4341,26 +4304,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "quotidiano.net__quotidiano nazionale__roma mauro caroccia pm delmastro ci ha fatto beneficenza__2026-04-01T07:00:00.000Z",
-      "title": "Roma, Mauro Caroccia ai pm: \"Delmastro ci ha fatto della beneficenza\"",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3c3QUFobWIwd2puMG1DaXA1V0dIcDhZVGFfNU1Jcm1iVVpnOUViUHEzVnhvM3hldl9NeGxoVndwMDhzellMdTc3dGFNVUlsRUtZQ3pKOVI0UFJBYnd5OWwybnk1ZGg2bG5BNnJQanJUaE5adzE4VHBpMGxVdGcxeng0aVVQYVBwTlp1SU13VEo4WWttaXRCMDNfX0Q1RUt4enNGNm00eUpGQU5xRVNTeEFPN09mZw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3c3QUFobWIwd2puMG1DaXA1V0dIcDhZVGFfNU1Jcm1iVVpnOUViUHEzVnhvM3hldl9NeGxoVndwMDhzellMdTc3dGFNVUlsRUtZQ3pKOVI0UFJBYnd5OWwybnk1ZGg2bG5BNnJQanJUaE5adzE4VHBpMGxVdGcxeng0aVVQYVBwTlp1SU13VEo4WWttaXRCMDNfX0Q1RUt4enNGNm00eUpGQU5xRVNTeEFPN09mZw?oc=5",
-      "source": "Quotidiano Nazionale",
-      "sourceHost": "quotidiano.net",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-04-01T07:00:00.000Z",
-      "excerpt": "Roma, Mauro Caroccia ai pm: \"Delmastro ci ha fatto della beneficenza\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "quotidiano.net__quotidiano nazionale__l interrogatorio mauro caroccia l ex sottosegretario ci ha fatto beneficenza__2026-04-01T07:00:00.000Z",
       "title": "L’interrogatorio di Mauro Caroccia: \"L’ex sottosegretario ci ha fatto beneficenza\"",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcEhSbHRNTlFFcGprRjhmRkhXYTJJZGVOOFVVN1ZpTWZ3UE5HYkNRaEVGb1d1cW94QzlqRS1rZHpiUXBhSy1aenk2TUY3VDZzNmNNQWdjanRRZllOTW45enc2VndtWlY4Wm55Xy1jUHFHUkM5bGtseDV0RlRjZXpoUDlXY3ZaMXV5?oc=5",
@@ -4397,6 +4340,28 @@
       ],
       "publishedAt": "2026-04-01T07:00:00.000Z",
       "excerpt": "Miriam Caroccia ai pm, 'questa storia mi sta rovinando la vita'",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "quotidiano.net__quotidiano nazionale__roma mauro caroccia pm delmastro ci ha fatto beneficenza__2026-04-01T07:00:00.000Z",
+      "title": "Roma, Mauro Caroccia ai pm: \"Delmastro ci ha fatto della beneficenza\"",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3c3QUFobWIwd2puMG1DaXA1V0dIcDhZVGFfNU1Jcm1iVVpnOUViUHEzVnhvM3hldl9NeGxoVndwMDhzellMdTc3dGFNVUlsRUtZQ3pKOVI0UFJBYnd5OWwybnk1ZGg2bG5BNnJQanJUaE5adzE4VHBpMGxVdGcxeng0aVVQYVBwTlp1SU13VEo4WWttaXRCMDNfX0Q1RUt4enNGNm00eUpGQU5xRVNTeEFPN09mZw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3c3QUFobWIwd2puMG1DaXA1V0dIcDhZVGFfNU1Jcm1iVVpnOUViUHEzVnhvM3hldl9NeGxoVndwMDhzellMdTc3dGFNVUlsRUtZQ3pKOVI0UFJBYnd5OWwybnk1ZGg2bG5BNnJQanJUaE5adzE4VHBpMGxVdGcxeng0aVVQYVBwTlp1SU13VEo4WWttaXRCMDNfX0Q1RUt4enNGNm00eUpGQU5xRVNTeEFPN09mZw?oc=5",
+      "source": "Quotidiano Nazionale",
+      "sourceHost": "quotidiano.net",
+      "queryLabel": "Filone giudiziario",
+      "matchedTerms": [
+        "intestazione fittizia di beni",
+        "antimafia",
+        "indagine Delmastro",
+        "pm Torino"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-04-01T07:00:00.000Z",
+      "excerpt": "Roma, Mauro Caroccia ai pm: \"Delmastro ci ha fatto della beneficenza\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -4813,26 +4778,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilgiornale.it__il giornale__caso delmastro arriva sul tavolo dell antimafia lascia anche chiorino__2026-03-31T07:00:00.000Z",
-      "title": "Il caso Delmastro arriva sul tavolo dell’Antimafia. E lascia anche la Chiorino",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXRSVXYzOUNmMElERFV1eWJyeXd2cnFtMEQwUnRkd3dDSTdXc0tWbkZLSHJpeXNqUVhsU01IcUdqWFRVQ0xrNmppYWRLbF9TV0gzdzJTZE13ZVVVWm9vU0ZreExXbTNlX1RscDVCeG5GN0ZpTmJFUGdfMUljbi0zVHA0SEdudUNVZzMzR2tIbERwWnJwV1djb2FCM3NHcjRwRjhUTUczMzNoTi1FcUIyZ2ZRQQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXRSVXYzOUNmMElERFV1eWJyeXd2cnFtMEQwUnRkd3dDSTdXc0tWbkZLSHJpeXNqUVhsU01IcUdqWFRVQ0xrNmppYWRLbF9TV0gzdzJTZE13ZVVVWm9vU0ZreExXbTNlX1RscDVCeG5GN0ZpTmJFUGdfMUljbi0zVHA0SEdudUNVZzMzR2tIbERwWnJwV1djb2FCM3NHcjRwRjhUTUczMzNoTi1FcUIyZ2ZRQQ?oc=5",
-      "source": "il Giornale",
-      "sourceHost": "ilgiornale.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-03-31T07:00:00.000Z",
-      "excerpt": "Il caso Delmastro arriva sul tavolo dell’Antimafia. E lascia anche la Chiorino",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ilgiornale.it__il giornale__informativa urgente sul caso ilaria salis allora anche delmastro scontro fuoco aula fdi m5s__2026-03-31T07:00:00.000Z",
       "title": "\"Informativa urgente sul caso Ilaria Salis\". \"Allora anche su Delmastro\": scontro di fuoco in Aula tra Fdi e M5S",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeGVsS0JwUlc1cnFuX3daUjJRYUZGbHdNZ21TUThmbmN0bkw3RWlMaEFBbmx0enN2ZkZVQmZvOWNvNzNhdktvcEJGOXpnZ3p1eUVLVXpNU3BCWDZ1ZHVRLXlVdTFwOVYtSGJLNmxkNl8yb2p0WWRkd1pYaGczcEt3cG9KV1A2al9JZ0c0UHFUUmFqYnljRVU4VWNEci1RUFZ4VTFrNlZYN0J1NVlReUE?oc=5",
@@ -4849,6 +4794,26 @@
       ],
       "publishedAt": "2026-03-31T07:00:00.000Z",
       "excerpt": "\"Informativa urgente sul caso Ilaria Salis\". \"Allora anche su Delmastro\": scontro di fuoco in Aula tra Fdi e M5S",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilgiornale.it__il giornale__caso delmastro arriva sul tavolo dell antimafia lascia anche chiorino__2026-03-31T07:00:00.000Z",
+      "title": "Il caso Delmastro arriva sul tavolo dell’Antimafia. E lascia anche la Chiorino",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXRSVXYzOUNmMElERFV1eWJyeXd2cnFtMEQwUnRkd3dDSTdXc0tWbkZLSHJpeXNqUVhsU01IcUdqWFRVQ0xrNmppYWRLbF9TV0gzdzJTZE13ZVVVWm9vU0ZreExXbTNlX1RscDVCeG5GN0ZpTmJFUGdfMUljbi0zVHA0SEdudUNVZzMzR2tIbERwWnJwV1djb2FCM3NHcjRwRjhUTUczMzNoTi1FcUIyZ2ZRQQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXRSVXYzOUNmMElERFV1eWJyeXd2cnFtMEQwUnRkd3dDSTdXc0tWbkZLSHJpeXNqUVhsU01IcUdqWFRVQ0xrNmppYWRLbF9TV0gzdzJTZE13ZVVVWm9vU0ZreExXbTNlX1RscDVCeG5GN0ZpTmJFUGdfMUljbi0zVHA0SEdudUNVZzMzR2tIbERwWnJwV1djb2FCM3NHcjRwRjhUTUczMzNoTi1FcUIyZ2ZRQQ?oc=5",
+      "source": "il Giornale",
+      "sourceHost": "ilgiornale.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-03-31T07:00:00.000Z",
+      "excerpt": "Il caso Delmastro arriva sul tavolo dell’Antimafia. E lascia anche la Chiorino",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

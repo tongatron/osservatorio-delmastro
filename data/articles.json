@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T06:28:32.715Z",
+  "generatedAt": "2026-05-12T07:31:34.561Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,22 +94,22 @@
     ]
   },
   "window": {
-    "from": "2026-03-28T06:28:32.715Z",
-    "to": "2026-05-12T06:28:32.715Z",
+    "from": "2026-03-28T07:31:34.561Z",
+    "to": "2026-05-12T07:31:34.561Z",
     "days": 45
   },
   "sources": [
     {
       "label": "repubblica.it",
-      "articleCount": 47
-    },
-    {
-      "label": "lastampa.it",
-      "articleCount": 35
+      "articleCount": 46
     },
     {
       "label": "ilfattoquotidiano.it",
       "articleCount": 34
+    },
+    {
+      "label": "lastampa.it",
+      "articleCount": 33
     },
     {
       "label": "corriere.it",
@@ -117,7 +117,7 @@
     },
     {
       "label": "rainews.it",
-      "articleCount": 23
+      "articleCount": 24
     },
     {
       "label": "ansa.it",
@@ -129,15 +129,11 @@
     },
     {
       "label": "fanpage.it",
-      "articleCount": 12
-    },
-    {
-      "label": "quotidiano.net",
       "articleCount": 11
     },
     {
-      "label": "liberoquotidiano.it",
-      "articleCount": 8
+      "label": "quotidiano.net",
+      "articleCount": 10
     },
     {
       "label": "tg24.sky.it",
@@ -149,6 +145,10 @@
     },
     {
       "label": "affaritaliani.it",
+      "articleCount": 7
+    },
+    {
+      "label": "liberoquotidiano.it",
       "articleCount": 7
     },
     {
@@ -187,27 +187,27 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 513,
-      "uniqueArticles": 256
+      "fetchedArticles": 505,
+      "uniqueArticles": 252
     },
     {
       "label": "Soci e societa'",
       "fetchedArticles": 182,
-      "uniqueArticles": 23
+      "uniqueArticles": 22
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 149,
+      "fetchedArticles": 147,
       "uniqueArticles": 6
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 179,
+      "fetchedArticles": 183,
       "uniqueArticles": 4
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 111,
+      "fetchedArticles": 109,
       "uniqueArticles": 0
     },
     {
@@ -219,7 +219,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 110
+      "count": 107
     },
     {
       "tag": "giudiziaria",
@@ -227,15 +227,15 @@
     },
     {
       "tag": "bisteccheria",
-      "count": 53
-    },
-    {
-      "tag": "politica",
-      "count": 50
+      "count": 52
     },
     {
       "tag": "territorio",
       "count": 50
+    },
+    {
+      "tag": "politica",
+      "count": 49
     },
     {
       "tag": "societa'",
@@ -245,7 +245,7 @@
   "timeline": [
     {
       "date": "2026-03-28",
-      "count": 4
+      "count": 0
     },
     {
       "date": "2026-03-29",
@@ -261,7 +261,7 @@
     },
     {
       "date": "2026-04-01",
-      "count": 45
+      "count": 44
     },
     {
       "date": "2026-04-02",
@@ -285,7 +285,7 @@
     },
     {
       "date": "2026-04-07",
-      "count": 24
+      "count": 25
     },
     {
       "date": "2026-04-08",
@@ -345,7 +345,7 @@
     },
     {
       "date": "2026-04-22",
-      "count": 19
+      "count": 18
     },
     {
       "date": "2026-04-23",
@@ -1374,26 +1374,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "liberoquotidiano.it__libero quotidiano__andrea delmastro caso cospito pg roma chiede l assoluzione libero quotidiano it__2026-04-22T07:00:00.000Z",
-      "title": "Andrea Delmastro, caso Cospito: il Pg di Roma chiede l'assoluzione | Libero Quotidiano.it",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzNrRkJILWVyajZYUmdfbjUzZGNtVGREdEJJWnFiMnBDNGRGNFA2S1lWRXFYd0xFUFV3WnNZUUhGNWQ5djFBaHFxSWh4bmZOeF9UZlJUUDNhYWJXOGlEYkFudmVnV1hJTFZMQjJNYXNndDM3Y1pBM1NDZWh4ZmVoRm12elE4WU50N2M3d09LREdLTmhWOFBXeFhWbmx0MjRGLW8w0gGnAUFVX3lxTE5ES29vQ3UxMVl6MUNzb0Z3cnQ4cm5NOURpcXFzWEdLT2lpZGV1WVlGbV9pU3gyalBCNXdPaEtESXJFd0hEOXRKcmhNU041aHB6REg5WUVYY3E0MTRJQ3lOODRQZFE2NmhzaGpoSXpPSVRZazJKaS1pSHhXZkc0SGdlNU1pQlZPMUJQNUI5bTg5a2JWcFpmb0VOTUxTT2NQVUNycnJlbk1z?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdzNrRkJILWVyajZYUmdfbjUzZGNtVGREdEJJWnFiMnBDNGRGNFA2S1lWRXFYd0xFUFV3WnNZUUhGNWQ5djFBaHFxSWh4bmZOeF9UZlJUUDNhYWJXOGlEYkFudmVnV1hJTFZMQjJNYXNndDM3Y1pBM1NDZWh4ZmVoRm12elE4WU50N2M3d09LREdLTmhWOFBXeFhWbmx0MjRGLW8w0gGnAUFVX3lxTE5ES29vQ3UxMVl6MUNzb0Z3cnQ4cm5NOURpcXFzWEdLT2lpZGV1WVlGbV9pU3gyalBCNXdPaEtESXJFd0hEOXRKcmhNU041aHB6REg5WUVYY3E0MTRJQ3lOODRQZFE2NmhzaGpoSXpPSVRZazJKaS1pSHhXZkc0SGdlNU1pQlZPMUJQNUI5bTg5a2JWcFpmb0VOTUxTT2NQVUNycnJlbk1z?oc=5",
-      "source": "Libero Quotidiano",
-      "sourceHost": "liberoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-22T07:00:00.000Z",
-      "excerpt": "Andrea Delmastro, caso Cospito: il Pg di Roma chiede l'assoluzione | Libero Quotidiano.it",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "rainews.it__rainews__caso cospito chiesta l assoluzione l ex sottosegretario giustizia delmastro__2026-04-22T07:00:00.000Z",
       "title": "Caso Cospito, chiesta l'assoluzione per l'ex sottosegretario alla Giustizia Delmastro",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUmYyZTVwbkZyRTFVcUdIeWFZMW5pV0VBMy10WVlKckwyUjNycW9hYTM5dGFpdzVwZFAxbTJmNTJnRWZSUVVQem1aYzdsSmFtSEw0UUVsOFpBUS14TWtzQjFpaUl3Zmc0TlhNQ2NBejdfdlRpR3J4WE5yclJCWUN6NzhWMUxpcVhITlU0TndHQVpJVDNnbnBrOUlpcHRRQnB3d0xoNFlfY2tmeGd2Ql81aFhSSVBSajVYeUg4N3E5X2w2V2FuM2dUT1BSZ2hWZ2RaQjV4VW5qTDJBQk0wLTVDU2wzZjY1STZhT2s2UVdhaGZyaXZGUDhN0gH8AUFVX3lxTFBRX2swWkxCT0xLY3dVVmxyNlZpajJRdzl6R3JLa29ZTVJIU1RyUzYzbEQxY2pCb1lkaGltZ3VqX3lkNjQzek1SRXBvM0VOTEJXbjNXNFJWSkRWaFdsMUJGU3ZnbU1tNl9nRG56NVpfdlpqNnd0X0k0OHJld0RLY3N0Tlp0bEQ2eWtDS3E5MXR4REw4VThxNnNOZl9rajFMNGZNdWc4Q01KSFg4NV8ybmEwai01LUtxcmRKWUpUaWdJV3hjclZtTGVsMkNiSUJkOUphNDJrQ1I2N3VXcV9iNU9CWFlEbzRxLUg3YURuQnE3NzZ3LW85R3FjdkJEOA?oc=5",
@@ -2052,6 +2032,27 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "repubblica.it__la repubblica__dall indagine hydra clan senese dossier antimafia che preoccupano fdi__2026-04-11T07:00:00.000Z",
+      "title": "Dall’indagine Hydra al clan Senese, i dossier in Antimafia che preoccupano FdI",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ0Q5SzdqLUQ5TjQ1bDEzazZWamwybDNhUUh1YnNJRy11aF9lWWFrUUJUclFVaU43aENjd0VQUWtTM0phM3dLcThKdnJxLUJneTZLampyQ0o5bnFMT1NfQ1lBWmtDV3dYT3JtZUw4Nlh4MVY1YmRXMkJncmt2NVVhSUVpaXhhcTVVWWotRDktZnkzeHZwUC1ndko4Z0F1LWthN0lhLVJ5dTRKZ2k2cmJwd1VTajR6VmoybkN0LWhhcE5pa0lvRzhkdkpLWU5nWTYyV25mdU1HMVoweS1k0gHiAUFVX3lxTE04N1V1amtvVGRpQVZ0VkpSWXgwS2hCWXpuUFNsTmx0WGVaNGNwdDAteXlsNzc3d0VmZXBmOUtrNFpwcjNhOWNlMVhKd1Vfd1RlUFZmV2xTbXhCYU5RX0tSR0s5YUY1QlpnamF6UmJXdHIwN0lybkE3Qk9rXzFSUHpnSGR0MmlmeTJWMTYzQmFpWER2eldqT2xzR0x5NnNrRnBmMHJ1NjRGbndiWVRBMUFGb3pHckh1T2lOTmY3bW9PVGt6ME1HT0FidW1hWm5yM1dodUpXemZraDJLb3BSbm1tLUE?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ0Q5SzdqLUQ5TjQ1bDEzazZWamwybDNhUUh1YnNJRy11aF9lWWFrUUJUclFVaU43aENjd0VQUWtTM0phM3dLcThKdnJxLUJneTZLampyQ0o5bnFMT1NfQ1lBWmtDV3dYT3JtZUw4Nlh4MVY1YmRXMkJncmt2NVVhSUVpaXhhcTVVWWotRDktZnkzeHZwUC1ndko4Z0F1LWthN0lhLVJ5dTRKZ2k2cmJwd1VTajR6VmoybkN0LWhhcE5pa0lvRzhkdkpLWU5nWTYyV25mdU1HMVoweS1k0gHiAUFVX3lxTE04N1V1amtvVGRpQVZ0VkpSWXgwS2hCWXpuUFNsTmx0WGVaNGNwdDAteXlsNzc3d0VmZXBmOUtrNFpwcjNhOWNlMVhKd1Vfd1RlUFZmV2xTbXhCYU5RX0tSR0s5YUY1QlpnamF6UmJXdHIwN0lybkE3Qk9rXzFSUHpnSGR0MmlmeTJWMTYzQmFpWER2eldqT2xzR0x5NnNrRnBmMHJ1NjRGbndiWVRBMUFGb3pHckh1T2lOTmY3bW9PVGt6ME1HT0FidW1hWm5yM1dodUpXemZraDJLb3BSbm1tLUE?oc=5",
+      "source": "la Repubblica",
+      "sourceHost": "repubblica.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica",
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-04-11T07:00:00.000Z",
+      "excerpt": "Dall’indagine Hydra al clan Senese, i dossier in Antimafia che preoccupano FdI",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "repubblica.it__la repubblica__clan senese boss bennato sognava evasione film aveva comprato elicottero__2026-04-11T07:00:00.000Z",
       "title": "Clan Senese, il boss Bennato sognava un’evasione da film: “Aveva comprato un elicottero”",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2psMHNzOTE3UGJuMWd6aVhvLWZjLUoxNXVMNzlwdGR0X0VsazY0VHRqWkdacks1ZmNPRzdRNkk4TE0wNnA1YkJtcmt1U3NPNXBLSG9PZHlONld2QXBjOFZtLTFWWVJWMzVzUjZteU8zRFNqRkRXTm1QSWtfUmd5dGcxODdBaWw1UHhYZUZzWkhJVC11cUxONmxoeXZXeTc0dnNJ0gGoAUFVX3lxTE4teXREUnRXZF84YVZaWm55dGtpZU9zMjR6Ul9FdXpJNUpEZHhuTjdZVHdLeDlqb3RZWHhPRG55U0Q5dkdKQllOUlZoa3ZFNWxSMlBlOFZxRURwaEZvbTZSai1WS2hxb0dWa3c2d1otR3RpNHdCa1NKNHBDaTdpMFpsVFd2Vl9INWNWSkx4NWFWU1puNGlvbklRWHhBRm5hNVVhdXR5QVczbA?oc=5",
@@ -2073,32 +2074,6 @@
       ],
       "publishedAt": "2026-04-11T07:00:00.000Z",
       "excerpt": "Clan Senese, il boss Bennato sognava un’evasione da film: “Aveva comprato un elicottero”",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "repubblica.it__la repubblica__dall indagine hydra clan senese dossier antimafia che preoccupano fdi__2026-04-11T07:00:00.000Z",
-      "title": "Dall’indagine Hydra al clan Senese, i dossier in Antimafia che preoccupano FdI",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ0Q5SzdqLUQ5TjQ1bDEzazZWamwybDNhUUh1YnNJRy11aF9lWWFrUUJUclFVaU43aENjd0VQUWtTM0phM3dLcThKdnJxLUJneTZLampyQ0o5bnFMT1NfQ1lBWmtDV3dYT3JtZUw4Nlh4MVY1YmRXMkJncmt2NVVhSUVpaXhhcTVVWWotRDktZnkzeHZwUC1ndko4Z0F1LWthN0lhLVJ5dTRKZ2k2cmJwd1VTajR6VmoybkN0LWhhcE5pa0lvRzhkdkpLWU5nWTYyV25mdU1HMVoweS1k0gHiAUFVX3lxTE04N1V1amtvVGRpQVZ0VkpSWXgwS2hCWXpuUFNsTmx0WGVaNGNwdDAteXlsNzc3d0VmZXBmOUtrNFpwcjNhOWNlMVhKd1Vfd1RlUFZmV2xTbXhCYU5RX0tSR0s5YUY1QlpnamF6UmJXdHIwN0lybkE3Qk9rXzFSUHpnSGR0MmlmeTJWMTYzQmFpWER2eldqT2xzR0x5NnNrRnBmMHJ1NjRGbndiWVRBMUFGb3pHckh1T2lOTmY3bW9PVGt6ME1HT0FidW1hWm5yM1dodUpXemZraDJLb3BSbm1tLUE?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ0Q5SzdqLUQ5TjQ1bDEzazZWamwybDNhUUh1YnNJRy11aF9lWWFrUUJUclFVaU43aENjd0VQUWtTM0phM3dLcThKdnJxLUJneTZLampyQ0o5bnFMT1NfQ1lBWmtDV3dYT3JtZUw4Nlh4MVY1YmRXMkJncmt2NVVhSUVpaXhhcTVVWWotRDktZnkzeHZwUC1ndko4Z0F1LWthN0lhLVJ5dTRKZ2k2cmJwd1VTajR6VmoybkN0LWhhcE5pa0lvRzhkdkpLWU5nWTYyV25mdU1HMVoweS1k0gHiAUFVX3lxTE04N1V1amtvVGRpQVZ0VkpSWXgwS2hCWXpuUFNsTmx0WGVaNGNwdDAteXlsNzc3d0VmZXBmOUtrNFpwcjNhOWNlMVhKd1Vfd1RlUFZmV2xTbXhCYU5RX0tSR0s5YUY1QlpnamF6UmJXdHIwN0lybkE3Qk9rXzFSUHpnSGR0MmlmeTJWMTYzQmFpWER2eldqT2xzR0x5NnNrRnBmMHJ1NjRGbndiWVRBMUFGb3pHckh1T2lOTmY3bW9PVGt6ME1HT0FidW1hWm5yM1dodUpXemZraDJLb3BSbm1tLUE?oc=5",
-      "source": "la Repubblica",
-      "sourceHost": "repubblica.it",
-      "queryLabel": "Soci e societa'",
-      "matchedTerms": [
-        "Caroccia",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl",
-        "clan Senese"
-      ],
-      "tags": [
-        "politica",
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-04-11T07:00:00.000Z",
-      "excerpt": "Dall’indagine Hydra al clan Senese, i dossier in Antimafia che preoccupano FdI",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -3094,6 +3069,31 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "rainews.it__rainews__caroccia sequestrato cellulare nell inchiesta riciclaggio__2026-04-07T07:00:00.000Z",
+      "title": "Caroccia, sequestrato il cellulare nell’inchiesta per riciclaggio",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcjVKaWZwZ2hpbE9TNjd3OUlsY3pOWmhjRHl3SnUwTGVzWXV0eU5Wc19JNEJCVjV0eTNwMVNmaTBWOWN1Y0ZPa0tfS2M2VXdTSzN0alVHRmNrMWJ5TlQzZ0h5aXFXaFVZc3g5Sk9lRVZpR2J6UkxDN2YxcVRSamUwOTVZam0yLU44Qzh3LWM3c0t0MXJyS0lrQkt4TE00NU03U2JiTjczQkFiLVhWc05wN2VpSThOQ3BUSGh6NFdfTzlTSVZGdkZQRVZNQlBCUk1IOU1xa2NVbkNxYWJGNGY1TXR6Y2JPVzNvOGMw0gHwAUFVX3lxTE9ZczIyLVBZVXBNZ25zZFQ2T3NyQng4ckZhQ3pWbDhfdFhId3ZjaDloWWN5UnhTYndtYTFyNVBPdGJLOVV3cUtKOWRtbE5CM1JBR2xzQkNTX2t3RlBYeDBXWTFPbndZVzdJbk42R3J4NndGUFRvSEtBUHBwaXFYSzRibW9Mazh1WFRSZEVTQS0wMThpN1d5bmNxUTNNaGF3OG1jX3Z0Y0k0STZWNWJtYXpHWUlnbGF2NjJmZFNSazVJUGgtUUxqV0ZCMlNGYWg0MDB6UVlQR0tkVDh1VEhWb1ZURjFxU05DZGR0bnRqVk1MNg?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcjVKaWZwZ2hpbE9TNjd3OUlsY3pOWmhjRHl3SnUwTGVzWXV0eU5Wc19JNEJCVjV0eTNwMVNmaTBWOWN1Y0ZPa0tfS2M2VXdTSzN0alVHRmNrMWJ5TlQzZ0h5aXFXaFVZc3g5Sk9lRVZpR2J6UkxDN2YxcVRSamUwOTVZam0yLU44Qzh3LWM3c0t0MXJyS0lrQkt4TE00NU03U2JiTjczQkFiLVhWc05wN2VpSThOQ3BUSGh6NFdfTzlTSVZGdkZQRVZNQlBCUk1IOU1xa2NVbkNxYWJGNGY1TXR6Y2JPVzNvOGMw0gHwAUFVX3lxTE9ZczIyLVBZVXBNZ25zZFQ2T3NyQng4ckZhQ3pWbDhfdFhId3ZjaDloWWN5UnhTYndtYTFyNVBPdGJLOVV3cUtKOWRtbE5CM1JBR2xzQkNTX2t3RlBYeDBXWTFPbndZVzdJbk42R3J4NndGUFRvSEtBUHBwaXFYSzRibW9Mazh1WFRSZEVTQS0wMThpN1d5bmNxUTNNaGF3OG1jX3Z0Y0k0STZWNWJtYXpHWUlnbGF2NjJmZFNSazVJUGgtUUxqV0ZCMlNGYWg0MDB6UVlQR0tkVDh1VEhWb1ZURjFxU05DZGR0bnRqVk1MNg?oc=5",
+      "source": "RaiNews",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Soci e societa'",
+      "matchedTerms": [
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-07T07:00:00.000Z",
+      "excerpt": "Caroccia, sequestrato il cellulare nell’inchiesta per riciclaggio",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro 5 forchette sequestrato cellulare mauro caroccia sotto esame chat affari societa__2026-04-07T07:00:00.000Z",
       "title": "Caso Delmastro e “Le 5 Forchette”, sequestrato il cellulare di Mauro Caroccia: sotto esame chat e affari con la società",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSnlWd1JtZXZScm1YekFIZkxwNVpNRHNrWTMxc2tzcEJ4OWhCbkR6emJfTlpQZ21nMjBjTi11Q0VLRG1zVkdsbGZXbUgwUDlNNEhnWUIzb01uTlNXZDNFQWw5aXBqM0tQRXRZZ0NscExCdU81cktjdnBzLXBZRWszb2VGUzNrXzZLdlhMNC05aHJfZl8tNmtnM0VHNFhILTVsWm5WWEdxaw?oc=5",
@@ -3988,31 +3988,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__la stampa__difesa caroccia davanti pm soldi sono delmastro non criminalita__2026-04-01T07:00:00.000Z",
-      "title": "La difesa dei Caroccia davanti ai pm: “I soldi sono di Delmastro, non della criminalità”",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOXdNMW4wZ2lsSWRwSV9mREFab3F5NDJZZFE1bnNkdTJ5c1IwZVJ2Ni1uUmZlNmQ4Sk9zSXdnTkJyQWJwWUZvWHl1b3drc3JLSHE2OTREc2w0Y3h6aHU5ZDhwbEJQaDktOE9LUHNXa1hHUW1SaFRWSEp0TDdNeVRlc0xHNVV6UmtUZnpEd19yNkMzQUNEdWtZSU9Zd0FabFhJbjQ3OGZ5N3VNQVZPZTNybXBxbWFWbUc3TC1HNGpreC1kNmhueU5hZkIzcTZzcXZJXzRyVWgtbDFLQkXSAeABQVVfeXFMTTRVWTY2WFQ0cEZzbUcxaE5ZMlItOTA3UktLVEplajgyWlA0Z1N4U2UtVVM0SU9YSDYwODhxaTlKb21XaTNQTzVsdjhkd1hSR29kSzc4aGx5N05USlpBZXFndXQ0eC1EVWREZ3p3ZFN6VlZpclhWWllkdzRhcDNaWmVtcGVvTXRValJ1bEhnZElVZklkdTRnYUM4aXFibktNdGwzc2lrcGpsbEVZR1EtWV8zQzJ0QzJnNnFjb2RMb1NiRl9mSW50ZTgxQTctYnBEcHVhOTVxNVZ1OGZnZ0FRZWw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOXdNMW4wZ2lsSWRwSV9mREFab3F5NDJZZFE1bnNkdTJ5c1IwZVJ2Ni1uUmZlNmQ4Sk9zSXdnTkJyQWJwWUZvWHl1b3drc3JLSHE2OTREc2w0Y3h6aHU5ZDhwbEJQaDktOE9LUHNXa1hHUW1SaFRWSEp0TDdNeVRlc0xHNVV6UmtUZnpEd19yNkMzQUNEdWtZSU9Zd0FabFhJbjQ3OGZ5N3VNQVZPZTNybXBxbWFWbUc3TC1HNGpreC1kNmhueU5hZkIzcTZzcXZJXzRyVWgtbDFLQkXSAeABQVVfeXFMTTRVWTY2WFQ0cEZzbUcxaE5ZMlItOTA3UktLVEplajgyWlA0Z1N4U2UtVVM0SU9YSDYwODhxaTlKb21XaTNQTzVsdjhkd1hSR29kSzc4aGx5N05USlpBZXFndXQ0eC1EVWREZ3p3ZFN6VlZpclhWWllkdzRhcDNaWmVtcGVvTXRValJ1bEhnZElVZklkdTRnYUM4aXFibktNdGwzc2lrcGpsbEVZR1EtWV8zQzJ0QzJnNnFjb2RMb1NiRl9mSW50ZTgxQTctYnBEcHVhOTVxNVZ1OGZnZ0FRZWw?oc=5",
-      "source": "La Stampa",
-      "sourceHost": "lastampa.it",
-      "queryLabel": "Soci e societa'",
-      "matchedTerms": [
-        "Caroccia",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl",
-        "clan Senese"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-04-01T07:00:00.000Z",
-      "excerpt": "La difesa dei Caroccia davanti ai pm: “I soldi sono di Delmastro, non della criminalità”",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "open.online__open__caroccia delmastro quel vaffa che ha fatto nascere l amicizia poi 40mila euro dell esponente fdi ripartire video__2026-04-01T07:00:00.000Z",
       "title": "Caroccia e Delmastro, quel vaffa che ha fatto nascere l’amicizia, poi i 40mila euro dell’esponente FdI per “ripartire” - Il video",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcmk3TTI3Y3VZb1FzU3ZNT1JtRzBtTTJaaWFIb1pjMzd0ZVVGVXNtTkJ1R1pidXpqT3VXeDhaT05MYVY0MWJNdGdQbFVnMDVQTlNYSF9BMDZ0Z0tHRXp5TGxtZnYtZVd3cFFEOFB3UmZsZ0F4UjRhWnUxR20xSUtueFc5bXc3UHc?oc=5",
@@ -4374,10 +4349,10 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "quotidiano.net__quotidiano nazionale__difensore caroccia soldi messi delmastro tutto tracciato__2026-04-01T07:00:00.000Z",
-      "title": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato'",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY3pRQUdzTl9raGJieURiU1VxZ3ZXSi1WNXFER1Yzc205WksxYk9NTzI3R214N1ppN3ZnbkdJMGFKTjZhcmlJdWRQclZWZ3RrcDJ1UFpMVmIzT0JSaExXeXNzSmRVb1VXUDRTMXJiN0VYVE90SEFVRXcwSU9XbmVLVFU3NS1Ddw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY3pRQUdzTl9raGJieURiU1VxZ3ZXSi1WNXFER1Yzc205WksxYk9NTzI3R214N1ppN3ZnbkdJMGFKTjZhcmlJdWRQclZWZ3RrcDJ1UFpMVmIzT0JSaExXeXNzSmRVb1VXUDRTMXJiN0VYVE90SEFVRXcwSU9XbmVLVFU3NS1Ddw?oc=5",
+      "id": "quotidiano.net__quotidiano nazionale__roma mauro caroccia pm delmastro ci ha fatto beneficenza__2026-04-01T07:00:00.000Z",
+      "title": "Roma, Mauro Caroccia ai pm: \"Delmastro ci ha fatto della beneficenza\"",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3c3QUFobWIwd2puMG1DaXA1V0dIcDhZVGFfNU1Jcm1iVVpnOUViUHEzVnhvM3hldl9NeGxoVndwMDhzellMdTc3dGFNVUlsRUtZQ3pKOVI0UFJBYnd5OWwybnk1ZGg2bG5BNnJQanJUaE5adzE4VHBpMGxVdGcxeng0aVVQYVBwTlp1SU13VEo4WWttaXRCMDNfX0Q1RUt4enNGNm00eUpGQU5xRVNTeEFPN09mZw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3c3QUFobWIwd2puMG1DaXA1V0dIcDhZVGFfNU1Jcm1iVVpnOUViUHEzVnhvM3hldl9NeGxoVndwMDhzellMdTc3dGFNVUlsRUtZQ3pKOVI0UFJBYnd5OWwybnk1ZGg2bG5BNnJQanJUaE5adzE4VHBpMGxVdGcxeng0aVVQYVBwTlp1SU13VEo4WWttaXRCMDNfX0Q1RUt4enNGNm00eUpGQU5xRVNTeEFPN09mZw?oc=5",
       "source": "Quotidiano Nazionale",
       "sourceHost": "quotidiano.net",
       "queryLabel": "Delmastro generale",
@@ -4386,10 +4361,10 @@
         "Andrea Delmastro"
       ],
       "tags": [
-        "altro"
+        "giudiziaria"
       ],
       "publishedAt": "2026-04-01T07:00:00.000Z",
-      "excerpt": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato'",
+      "excerpt": "Roma, Mauro Caroccia ai pm: \"Delmastro ci ha fatto della beneficenza\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -6293,86 +6268,6 @@
       ],
       "publishedAt": "2026-03-29T07:00:00.000Z",
       "excerpt": "Caso Delmastro, il “giallo” dei soldi versati in contanti per la cessione della Bisteccheria",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "repubblica.it__la repubblica__fratelli crozza dolori ministro nordio delmastro bartolozzi__2026-03-28T07:00:00.000Z",
-      "title": "Fratelli di Crozza: i dolori del ministro Nordio, tra Delmastro e Bartolozzi",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVVNkeTgxTXZuWFNucG1NQnRmTWRXNEhGNkpET0VQZFlzbGlhdE93amlMSFYtS3JFbkdKTDJtR3Fxd2ZDMHVFbGtCb1BlVkU1V3VYS3hETWtzX0tIbmU4S1oxWldOLVFVZWhKYlRtcTEwTWpmZzdhUlVoMExYOC1jam5xWTRQeXZUM3NFSjhad0VjbEoxb3poR3V6YlBBNUkwNkVXNDlRYzE4M095WVZzOEswYTRlb1B6NTJSS1Z6UVBlYlVMRnBTUng5UmE2OGV4VEI4SGFn?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVVNkeTgxTXZuWFNucG1NQnRmTWRXNEhGNkpET0VQZFlzbGlhdE93amlMSFYtS3JFbkdKTDJtR3Fxd2ZDMHVFbGtCb1BlVkU1V3VYS3hETWtzX0tIbmU4S1oxWldOLVFVZWhKYlRtcTEwTWpmZzdhUlVoMExYOC1jam5xWTRQeXZUM3NFSjhad0VjbEoxb3poR3V6YlBBNUkwNkVXNDlRYzE4M095WVZzOEswYTRlb1B6NTJSS1Z6UVBlYlVMRnBTUng5UmE2OGV4VEI4SGFn?oc=5",
-      "source": "la Repubblica",
-      "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-03-28T07:00:00.000Z",
-      "excerpt": "Fratelli di Crozza: i dolori del ministro Nordio, tra Delmastro e Bartolozzi",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "fanpage.it__fanpage__ma cosa c dietro caso delmastro ristorante prestanome boss camorra__2026-03-28T07:00:00.000Z",
-      "title": "Ma cosa c'è dietro al caso di Delmastro e del ristorante con il prestanome di un boss di camorra?",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS2M0RnZTX2ZOc3lRTTJhYTZnZ014WmxrVGVkN2FsNHhkbVAtR0V3ZjQwMWRoV1JsMWlvTjRBVTZ0cXBBR1lDa1g5V2RzR0pSZDFXRF9ZRE1ra2VoUVNzWHlmVmhXMXJOQjdQUFZFdW51TllIMnIzMUZFUnZQQ0gyLWpnekk1RmNIYjA5VEp4VGtiV1JNYTNqZmZvNXBOYkZZVUx5MDJWdHdldzB6RjBLN09JWVdaWjNTejdvdGhMZ1NhMUx5NXZN?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS2M0RnZTX2ZOc3lRTTJhYTZnZ014WmxrVGVkN2FsNHhkbVAtR0V3ZjQwMWRoV1JsMWlvTjRBVTZ0cXBBR1lDa1g5V2RzR0pSZDFXRF9ZRE1ra2VoUVNzWHlmVmhXMXJOQjdQUFZFdW51TllIMnIzMUZFUnZQQ0gyLWpnekk1RmNIYjA5VEp4VGtiV1JNYTNqZmZvNXBOYkZZVUx5MDJWdHdldzB6RjBLN09JWVdaWjNTejdvdGhMZ1NhMUx5NXZN?oc=5",
-      "source": "Fanpage",
-      "sourceHost": "fanpage.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "bisteccheria"
-      ],
-      "publishedAt": "2026-03-28T07:00:00.000Z",
-      "excerpt": "Ma cosa c'è dietro al caso di Delmastro e del ristorante con il prestanome di un boss di camorra?",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "lastampa.it__la stampa__fratelli crozza dolori ministro nordio delmastro bartolozzi__2026-03-28T07:00:00.000Z",
-      "title": "Fratelli di Crozza: i dolori del ministro Nordio, tra Delmastro e Bartolozzi",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMWtHUWhqTHBzUWJLMWVFbFFrTjd6OXZFS1BfZkRNUFFNaHpLS1Vja1EwMGI4dGxpUWZlbzIzemRLY3dheDVlUUVrUDNKX2tWVktvU1VOTVl4S1NUQzNJRWdRQUVOdjlwS2tWMjlWOWRoUnZwUlMxU2w4T0s1Y0gyT3ZvSFVhX0tKSlZmaFM1QmpXQV90cHkxMEl1TVZXbGtiQ3c1VlQzbU5oVFVKcXhnMnp6UGhFZGwyLUVUQ1BUa2pmMkdyRXdvMWYwUmxnbjE1Y3c?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMWtHUWhqTHBzUWJLMWVFbFFrTjd6OXZFS1BfZkRNUFFNaHpLS1Vja1EwMGI4dGxpUWZlbzIzemRLY3dheDVlUUVrUDNKX2tWVktvU1VOTVl4S1NUQzNJRWdRQUVOdjlwS2tWMjlWOWRoUnZwUlMxU2w4T0s1Y0gyT3ZvSFVhX0tKSlZmaFM1QmpXQV90cHkxMEl1TVZXbGtiQ3c1VlQzbU5oVFVKcXhnMnp6UGhFZGwyLUVUQ1BUa2pmMkdyRXdvMWYwUmxnbjE1Y3c?oc=5",
-      "source": "La Stampa",
-      "sourceHost": "lastampa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-03-28T07:00:00.000Z",
-      "excerpt": "Fratelli di Crozza: i dolori del ministro Nordio, tra Delmastro e Bartolozzi",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "quotidiano.net__quotidiano nazionale__delmastro bartolozzi santanche gasparri quartetto che rispolvera gesto antico desueto dimissioni forzate__2026-03-28T07:00:00.000Z",
-      "title": "Delmastro, Bartolozzi, Santanchè e Gasparri, il quartetto che rispolvera un gesto antico e desueto: le dimissioni (forzate)",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTFRRd1FLc05mZ1ZCbC1pV2Vta3JyZi1WSzl1S2NrOTMyQWdfN0NlcUZXaGFjckt0TVl4d0ZVV3JZQ2RTYmtQRjN5Y0FrNFZkMGRGRGh1U01TSUFNd3oyRDVERE56MV9xZDVCbG5aUkFlT25mNXA1MHoyV1JyelNvRlRPSmFVNUR1alNDTW85NWE2NDd2a3BZWFAxYw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTFRRd1FLc05mZ1ZCbC1pV2Vta3JyZi1WSzl1S2NrOTMyQWdfN0NlcUZXaGFjckt0TVl4d0ZVV3JZQ2RTYmtQRjN5Y0FrNFZkMGRGRGh1U01TSUFNd3oyRDVERE56MV9xZDVCbG5aUkFlT25mNXA1MHoyV1JyelNvRlRPSmFVNUR1alNDTW85NWE2NDd2a3BZWFAxYw?oc=5",
-      "source": "Quotidiano Nazionale",
-      "sourceHost": "quotidiano.net",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "politica"
-      ],
-      "publishedAt": "2026-03-28T07:00:00.000Z",
-      "excerpt": "Delmastro, Bartolozzi, Santanchè e Gasparri, il quartetto che rispolvera un gesto antico e desueto: le dimissioni (forzate)",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     }

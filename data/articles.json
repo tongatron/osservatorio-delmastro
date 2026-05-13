@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T16:19:46.161Z",
+  "generatedAt": "2026-05-13T17:19:16.835Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-03-29T16:19:46.161Z",
-    "to": "2026-05-13T16:19:46.161Z",
+    "from": "2026-03-29T17:19:16.835Z",
+    "to": "2026-05-13T17:19:16.835Z",
     "days": 45
   },
   "sources": [
@@ -121,7 +121,7 @@
     },
     {
       "label": "ansa.it",
-      "articleCount": 21
+      "articleCount": 22
     },
     {
       "label": "ilgiornale.it",
@@ -140,10 +140,6 @@
       "articleCount": 8
     },
     {
-      "label": "quotidiano.net",
-      "articleCount": 8
-    },
-    {
       "label": "tgcom24.mediaset.it",
       "articleCount": 7
     },
@@ -157,6 +153,10 @@
     },
     {
       "label": "open.online",
+      "articleCount": 7
+    },
+    {
+      "label": "quotidiano.net",
       "articleCount": 7
     },
     {
@@ -187,27 +187,27 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 468,
-      "uniqueArticles": 233
+      "fetchedArticles": 477,
+      "uniqueArticles": 237
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 159,
-      "uniqueArticles": 21
+      "fetchedArticles": 177,
+      "uniqueArticles": 24
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 156,
-      "uniqueArticles": 18
+      "fetchedArticles": 153,
+      "uniqueArticles": 14
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 185,
-      "uniqueArticles": 10
+      "fetchedArticles": 182,
+      "uniqueArticles": 7
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 113,
+      "fetchedArticles": 111,
       "uniqueArticles": 1
     },
     {
@@ -718,11 +718,14 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYmJKMnRuaXNHYVY0akZkYS1sZ2lYMG9VeGs0bExqdXM5cUdicWVXU2lhTUdiV21hbkFCYkluME41YVJrQkFOOGNWR1g4SkZsSk1zaTA0X0NQWEVLdmFveVh3NWZPVVd6aTI3M2ZVU3pJQnlGd0Zva21xU25EU3ctWm1HNUdtelcyYXBQVmZB?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Persone collegate",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Elena Chiorino",
+        "Caroccia",
         "Cristiano Franceschini",
         "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
         "clan Senese"
       ],
       "tags": [
@@ -1106,11 +1109,14 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlg5U2VKd3dCRnRzczNCVjIwUG5yQzljUW1ZbmlvcDQ3YVR6dDhPQjFaVHduTXg5MkU3eGZ1bTVPeXZlOUtqaXhXdFNCZFlpZHM0OGFRMHV6Zl9SNy1hMTZES2JqaGxMYzc1ZEV6UkpZWHNDR2FBaFpmUmVvVTdZSXV6UzFNUXRNUkpBVHVoQWduUW13ajVpV2k2ZXdUMmVhLWVsZ3dqZHV1SlNFamllYWdwTzhKVm43X29nRURiQk83dzd0LUxmdExjM1I?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Persone collegate",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Elena Chiorino",
+        "Caroccia",
         "Cristiano Franceschini",
         "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
         "clan Senese"
       ],
       "tags": [
@@ -1467,10 +1473,10 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__inchiesta hydra pentito amico risponde domande pm delmastro fdi__2026-04-22T07:00:00.000Z",
-      "title": "Inchiesta Hydra, il pentito Amico risponde alle domande dei pm su Delmastro e FdI",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSFkxMG5YUjBxcnRVZDdIaVI5U3RkN3U5ZXhQN3U4Y2REVF9qTFdadEdBMkMxdDI4TWsxVmd6RE5JZ1N4UkhFTVkwRTNSVkVnU3E4SmE3RzBTcEMwVTFlT3ptRE1lQTN5UXc4eUhrYnVqVF9JT0xXcHpBMjZGeXpYU05IQ2FHWTlxc0N3SlN6cm5yZWtWRkJSV29iN2tJRTAxTTJjbW9sV0lmMGozOXN5ZGxOSWh5YlNQSWk3bWN4WnBZR1pQRW44akE4TWZSTEo2Wm92YkxzdFFxYk9wY1A2U2FFNjViSHNk?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSFkxMG5YUjBxcnRVZDdIaVI5U3RkN3U5ZXhQN3U4Y2REVF9qTFdadEdBMkMxdDI4TWsxVmd6RE5JZ1N4UkhFTVkwRTNSVkVnU3E4SmE3RzBTcEMwVTFlT3ptRE1lQTN5UXc4eUhrYnVqVF9JT0xXcHpBMjZGeXpYU05IQ2FHWTlxc0N3SlN6cm5yZWtWRkJSV29iN2tJRTAxTTJjbW9sV0lmMGozOXN5ZGxOSWh5YlNQSWk3bWN4WnBZR1pQRW44akE4TWZSTEo2Wm92YkxzdFFxYk9wY1A2U2FFNjViSHNk?oc=5",
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro cospito pg roma chiede l assoluzione perche fatto non costituisce reato__2026-04-22T07:00:00.000Z",
+      "title": "Caso Delmastro-Cospito, il pg di Roma chiede l’assoluzione “perché il fatto non costituisce reato”",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQalBsOE9ub2hBeGY5LXMyVmxMSTBueW8xQkpiN2ktU0xCSkJjaXpTZEk4WGlsUGVzYzFJWXpkZ1FEZ2RnV1JSYjRYU09zdnRJTzlScEROOHpJX3Z4X2tPRkNPZ3ZfQnpsdWpVNUtaUkZjWlRYVFVsNS11Q2J4QkQyZ0Z0ZmMwMHNKNFYxal91aGVQbmNSdlVmRk9aYlFfcEpBcW1yN3VFRi1ydEJBNXNaVmRnRHpGbEtuMkNsdEJWNDhIdjJNdmhIRVM1M2FyaVE5Qmlhczl3?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQalBsOE9ub2hBeGY5LXMyVmxMSTBueW8xQkpiN2ktU0xCSkJjaXpTZEk4WGlsUGVzYzFJWXpkZ1FEZ2RnV1JSYjRYU09zdnRJTzlScEROOHpJX3Z4X2tPRkNPZ3ZfQnpsdWpVNUtaUkZjWlRYVFVsNS11Q2J4QkQyZ0Z0ZmMwMHNKNFYxal91aGVQbmNSdlVmRk9aYlFfcEpBcW1yN3VFRi1ydEJBNXNaVmRnRHpGbEtuMkNsdEJWNDhIdjJNdmhIRVM1M2FyaVE5Qmlhczl3?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
@@ -1479,11 +1485,10 @@
         "Andrea Delmastro"
       ],
       "tags": [
-        "politica",
-        "giudiziaria"
+        "altro"
       ],
       "publishedAt": "2026-04-22T07:00:00.000Z",
-      "excerpt": "Inchiesta Hydra, il pentito Amico risponde alle domande dei pm su Delmastro e FdI",
+      "excerpt": "Caso Delmastro-Cospito, il pg di Roma chiede l’assoluzione “perché il fatto non costituisce reato”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1508,10 +1513,10 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro cospito pg roma chiede l assoluzione perche fatto non costituisce reato__2026-04-22T07:00:00.000Z",
-      "title": "Caso Delmastro-Cospito, il pg di Roma chiede l’assoluzione “perché il fatto non costituisce reato”",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQalBsOE9ub2hBeGY5LXMyVmxMSTBueW8xQkpiN2ktU0xCSkJjaXpTZEk4WGlsUGVzYzFJWXpkZ1FEZ2RnV1JSYjRYU09zdnRJTzlScEROOHpJX3Z4X2tPRkNPZ3ZfQnpsdWpVNUtaUkZjWlRYVFVsNS11Q2J4QkQyZ0Z0ZmMwMHNKNFYxal91aGVQbmNSdlVmRk9aYlFfcEpBcW1yN3VFRi1ydEJBNXNaVmRnRHpGbEtuMkNsdEJWNDhIdjJNdmhIRVM1M2FyaVE5Qmlhczl3?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQalBsOE9ub2hBeGY5LXMyVmxMSTBueW8xQkpiN2ktU0xCSkJjaXpTZEk4WGlsUGVzYzFJWXpkZ1FEZ2RnV1JSYjRYU09zdnRJTzlScEROOHpJX3Z4X2tPRkNPZ3ZfQnpsdWpVNUtaUkZjWlRYVFVsNS11Q2J4QkQyZ0Z0ZmMwMHNKNFYxal91aGVQbmNSdlVmRk9aYlFfcEpBcW1yN3VFRi1ydEJBNXNaVmRnRHpGbEtuMkNsdEJWNDhIdjJNdmhIRVM1M2FyaVE5Qmlhczl3?oc=5",
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__inchiesta hydra pentito amico risponde domande pm delmastro fdi__2026-04-22T07:00:00.000Z",
+      "title": "Inchiesta Hydra, il pentito Amico risponde alle domande dei pm su Delmastro e FdI",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSFkxMG5YUjBxcnRVZDdIaVI5U3RkN3U5ZXhQN3U4Y2REVF9qTFdadEdBMkMxdDI4TWsxVmd6RE5JZ1N4UkhFTVkwRTNSVkVnU3E4SmE3RzBTcEMwVTFlT3ptRE1lQTN5UXc4eUhrYnVqVF9JT0xXcHpBMjZGeXpYU05IQ2FHWTlxc0N3SlN6cm5yZWtWRkJSV29iN2tJRTAxTTJjbW9sV0lmMGozOXN5ZGxOSWh5YlNQSWk3bWN4WnBZR1pQRW44akE4TWZSTEo2Wm92YkxzdFFxYk9wY1A2U2FFNjViSHNk?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSFkxMG5YUjBxcnRVZDdIaVI5U3RkN3U5ZXhQN3U4Y2REVF9qTFdadEdBMkMxdDI4TWsxVmd6RE5JZ1N4UkhFTVkwRTNSVkVnU3E4SmE3RzBTcEMwVTFlT3ptRE1lQTN5UXc4eUhrYnVqVF9JT0xXcHpBMjZGeXpYU05IQ2FHWTlxc0N3SlN6cm5yZWtWRkJSV29iN2tJRTAxTTJjbW9sV0lmMGozOXN5ZGxOSWh5YlNQSWk3bWN4WnBZR1pQRW44akE4TWZSTEo2Wm92YkxzdFFxYk9wY1A2U2FFNjViSHNk?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
@@ -1520,10 +1525,11 @@
         "Andrea Delmastro"
       ],
       "tags": [
-        "altro"
+        "politica",
+        "giudiziaria"
       ],
       "publishedAt": "2026-04-22T07:00:00.000Z",
-      "excerpt": "Caso Delmastro-Cospito, il pg di Roma chiede l’assoluzione “perché il fatto non costituisce reato”",
+      "excerpt": "Inchiesta Hydra, il pentito Amico risponde alle domande dei pm su Delmastro e FdI",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1954,10 +1960,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTXNmNlNhamFJOU1ONTFXal9aWlVBT0NjSnB1b25PUUJ4S1lFOTllc3llMjNTbmE2b1k0N1hzTkgwTVJrRFFsOFZRYndhbUx1NzcwWEpsQjlKamdEeHdVTDJVOUMwdnhuRVNQdXdDa1BhWkJVSWx6NjVva2JUa05SSUc5TXlZaHBRdkM5VXliSUpyQVlGbkJtY3c1a2VWSzYzYTJOejlaNHBnU0ppdkHSAbMBQVVfeXFMTzFjMXhsOWJCcnJLQVNNZ2pGbFRJX0NlZzZTV3A1TjFINzdQMFVpX04xSTZSM1ZKT015cmM0cEFITDFLYm9sZTFCQlNzcEQzbU1lMGIzT2VTellYeTBRRVJCQ0lhYnA3dTcwMjhrVjlzbm9PWHIwNVc0b1plZUxrNFpjbW5VbkJHbW5Sa3R2YTY2aWlXaU93ZnNnMzdWM0lvV3RTcEUxMGV6dEZEblFjV3kyUU0?oc=5",
       "source": "la Repubblica",
       "sourceHost": "repubblica.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "societa'"
@@ -2448,11 +2454,14 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUDVVeXVNLTBDc01ocXExS2xZQUc2Z2pUQk1QeDRGOHB0V0gzRERmQ1BvemU1WWFRbmg5c1R2dThJQlBjSHRoemRiTmFUajM3ZDFBUkpxUFFPN2JNQ0NIajVJSDQwLXo5TVdSNkN3QXQ1X3dDUmU2eGVZTFIzbl9HbUJzZlRMQmZTQTdaLWdUZV9fTzlwb2c?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Persone collegate",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Elena Chiorino",
+        "Caroccia",
         "Cristiano Franceschini",
         "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
         "clan Senese"
       ],
       "tags": [
@@ -3322,10 +3331,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNblpjQVVaUi04SnRDTWloU0lDZTQxOVVQYlc0a0JXQ0JoRlo4bHZPWlppNWRmYTA0QWhVYlJJcHFTTWpibkRRcUE2ZXVvRkZkV0NSdE4tR3FyQ0FTMi11UDRDZ3hNZ1VMTU9FZHJzMUh2VG90VHRzQ2M1OHF3X1BWNk9HcXFtTmJPamlBTERWVXp2VmxGLXdoUjVJZlZ3dFnSAaQBQVVfeXFMT2RRQ0QxUlNKV2JieG5oYzhKQldhVEZmUTliNVdJcDRoNDFrYkN0b0RadDF1Sk9qME1qUm9PQ3RCdVNmYkdnaGZUa3RtRW56T2xyVEJYQ2NGeWEwaXhDR1NVaHJESWdvaWR5VXQ1S29jS01aV0dJZEVJZVFMQl9ZUUxHZzRCLURsbHUtYkxNRXFLakFRTDE2WHZJV1Q4ZE9Tc0RpQkM?oc=5",
       "source": "la Repubblica",
       "sourceHost": "repubblica.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "altro"
@@ -3635,6 +3644,26 @@
       ],
       "publishedAt": "2026-04-01T07:00:00.000Z",
       "excerpt": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato'",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ansa.it__ansa__difensore caroccia delmastro l unico che ha teso mano__2026-04-01T07:00:00.000Z",
+      "title": "Difensore Caroccia, 'Delmastro è l'unico che gli ha teso una mano'",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOR1JaWE0zMXNFOVNwRzJBTDFOOWduUmZoYUFJcmk5RUlMTE5BMm5nbGZ0ajZWYTRZbXJYNjJNRnN1VE8teTU4SWY0eUktQjVQRXl4UmRuNGliNDdSd3hOZ2pMWlZNbzEzNTcyV0RSUVU3SXFjYnRRcFhuSmV3V2Fzc184dEh3MGRyRU11VjB4VGxnOVNPWVdCUndLMUxVcEM2ODgyRFZiQzFzTjZvRzhsckVkbkVPRWJDelB2bjlxY2tnX1R0ajdsTG9IWTNSd0ZFMTZod3hOY0FaTWoxOWxhdGZBYW5VbjRUczNuYlNSOVNqMXFZWXJF0gH8AUFVX3lxTE1FUlRlX3FOay1rZjB6MHZ3d0dDc0JZaEVIemN6VWNkNmszS3hKdWc1ak9iX2gzNGdhUXNkdWNZakt5TURvV3ZVZTJwODUzWENqdzlZU3VrSGZpQVlBQzNucnF2czlibTdOeTc5YjJXOFJmcjd2MHoxSGtFRURtdDZreThQYS1IZFE3TUY5RnRYVzRNNU15bkhjUHlNRmNPTjdiRzJUTE8zdEpkanZfeGJlNmtoNTczNlQxT2ctM0xsRXZDUWZlUWxULXhycEtISlBrUXhiUkRfUEdoRFNUSjRKSXh5d3NyYVM5WUpxWWtFQ09ncWhjbHVMZlRleg?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOR1JaWE0zMXNFOVNwRzJBTDFOOWduUmZoYUFJcmk5RUlMTE5BMm5nbGZ0ajZWYTRZbXJYNjJNRnN1VE8teTU4SWY0eUktQjVQRXl4UmRuNGliNDdSd3hOZ2pMWlZNbzEzNTcyV0RSUVU3SXFjYnRRcFhuSmV3V2Fzc184dEh3MGRyRU11VjB4VGxnOVNPWVdCUndLMUxVcEM2ODgyRFZiQzFzTjZvRzhsckVkbkVPRWJDelB2bjlxY2tnX1R0ajdsTG9IWTNSd0ZFMTZod3hOY0FaTWoxOWxhdGZBYW5VbjRUczNuYlNSOVNqMXFZWXJF0gH8AUFVX3lxTE1FUlRlX3FOay1rZjB6MHZ3d0dDc0JZaEVIemN6VWNkNmszS3hKdWc1ak9iX2gzNGdhUXNkdWNZakt5TURvV3ZVZTJwODUzWENqdzlZU3VrSGZpQVlBQzNucnF2czlibTdOeTc5YjJXOFJmcjd2MHoxSGtFRURtdDZreThQYS1IZFE3TUY5RnRYVzRNNU15bkhjUHlNRmNPTjdiRzJUTE8zdEpkanZfeGJlNmtoNTczNlQxT2ctM0xsRXZDUWZlUWxULXhycEtISlBrUXhiUkRfUEdoRFNUSjRKSXh5d3NyYVM5WUpxWWtFQ09ncWhjbHVMZlRleg?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-01T07:00:00.000Z",
+      "excerpt": "Difensore Caroccia, 'Delmastro è l'unico che gli ha teso una mano'",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -4393,26 +4422,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "quotidiano.net__quotidiano nazionale__comitato condotta camera formalizza sanzione delmastro__2026-04-01T07:00:00.000Z",
-      "title": "Comitato condotta Camera formalizza sanzione a Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNejYxTFhXRkdvNWdoMExhZVg1WFVNZ1Z5dkhaSVcxVHBicmJ3UEhnTER5VlJDMlBQLVBSM1lZVExtMVVmcDZtV1dXY3dLYTlWLXI1M0dNdjlvZzVab2YzNl9wVHNHcDlFaVNKSlZxNmttVVh6SzZubm5ZRDdiZmRRUEVkQXlHNFdiVGsxQVpfQll2OVpT?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNejYxTFhXRkdvNWdoMExhZVg1WFVNZ1Z5dkhaSVcxVHBicmJ3UEhnTER5VlJDMlBQLVBSM1lZVExtMVVmcDZtV1dXY3dLYTlWLXI1M0dNdjlvZzVab2YzNl9wVHNHcDlFaVNKSlZxNmttVVh6SzZubm5ZRDdiZmRRUEVkQXlHNFdiVGsxQVpfQll2OVpT?oc=5",
-      "source": "Quotidiano Nazionale",
-      "sourceHost": "quotidiano.net",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-01T07:00:00.000Z",
-      "excerpt": "Comitato condotta Camera formalizza sanzione a Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "quotidiano.net__quotidiano nazionale__difensore caroccia soldi messi delmastro tutto tracciato__2026-04-01T07:00:00.000Z",
       "title": "Difensore Caroccia, 'soldi messi da Delmastro, è tutto tracciato'",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY3pRQUdzTl9raGJieURiU1VxZ3ZXSi1WNXFER1Yzc205WksxYk9NTzI3R214N1ppN3ZnbkdJMGFKTjZhcmlJdWRQclZWZ3RrcDJ1UFpMVmIzT0JSaExXeXNzSmRVb1VXUDRTMXJiN0VYVE90SEFVRXcwSU9XbmVLVFU3NS1Ddw?oc=5",
@@ -4580,10 +4589,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTRfcGgyekpHYmNmdy1xOUVMT2lqY3U0dzg5Uk5PaEF1WnRfWllraE4wcGpHc28wd0pVbWRxSGUyOHVubjRHcHJtQk5IdW1pZ3VUM1RGMU9xejlueG5iZ3FvWFRPM2dCUjlocENvOUo2QWpyRlp0aGpNdFZnamNGZFBrSEZsWG9Qd1BsWHN2NVBsOUFuMC03T1EwWXdqS05USHRXLWJiVF9OalNi0gGyAUFVX3lxTFBxd3diblI3cVZNZGFQREpwMUdhR0dneFF4QkRlRXBpMG9Ed2sxTzNuSGg5a250NFktQ0N5Yy13R1hQRzNIX0hmZndPbklZNWNBbWd3U2tNeFA1bFpocXhfa3ZyY0JieXpXcHFqNDJ5NlpDVHRKaEFyYTVzVU81cHR2STZaN2ppYTMtU0hnOHk2TzNja3ZnUGpmS1ZoUVZGa25zcHh5enZxNjZCRGxWUFdWSFE?oc=5",
       "source": "la Repubblica",
       "sourceHost": "repubblica.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "bisteccheria"
@@ -4952,10 +4961,10 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro chiorino dimissioni dopo scandalo bisteccheria__2026-03-31T07:00:00.000Z",
-      "title": "Caso Delmastro-Chiorino: le dimissioni dopo lo scandalo bisteccheria",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaTVoUTl1UXhYd2diUXMtbTZqc0d1ZDhBb211WndxS1RwR3FrLWJrdF9WZndQeVY4RkhKUUNFZkUxWmQ3VDJvOTZDM3UtSU1rekRUUHVKekhTdHdFTzFTdEdVOWx3N1R2Zm5RMVR0UFVjN2hvSHU0RlNLNTVScGEyaW44RERaU1QtS0o4V1hRZVQtVkNLMFh6Qm5VTE0yYllBYmc?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaTVoUTl1UXhYd2diUXMtbTZqc0d1ZDhBb211WndxS1RwR3FrLWJrdF9WZndQeVY4RkhKUUNFZkUxWmQ3VDJvOTZDM3UtSU1rekRUUHVKekhTdHdFTzFTdEdVOWx3N1R2Zm5RMVR0UFVjN2hvSHU0RlNLNTVScGEyaW44RERaU1QtS0o4V1hRZVQtVkNLMFh6Qm5VTE0yYllBYmc?oc=5",
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__fdi chiede informativa salis l opposizione si scatena m5s parlateci banda forchette delmastro__2026-03-31T07:00:00.000Z",
+      "title": "FdI chiede un'informativa su Salis e l'opposizione si scatena. Il M5s: \"Parlateci della 'banda delle forchette' di Delmastro\"",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenJFMERzU3hYQlBDSXVWclh4ajRSTGJ6T0twWi13M3VGSGh4RlZfaUNoLWhhU3hjTzBKSjIzN0hXOTNNcHJIR1BrS2IzSzlUa1ZIckFQaVU5LWJwRHJPaW5tSjJQV0JmSlVKM3B3TUpjUkhjQklHVEpwR1o3VnVZMEo3MlZ5SnRQd3FUSURUUXJQdU5kSndJbkJmOFpSTDV3YlJFd2lFYjhoRzR1WUNZSTJEcUNqYy1wTFN2bw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenJFMERzU3hYQlBDSXVWclh4ajRSTGJ6T0twWi13M3VGSGh4RlZfaUNoLWhhU3hjTzBKSjIzN0hXOTNNcHJIR1BrS2IzSzlUa1ZIckFQaVU5LWJwRHJPaW5tSjJQV0JmSlVKM3B3TUpjUkhjQklHVEpwR1o3VnVZMEo3MlZ5SnRQd3FUSURUUXJQdU5kSndJbkJmOFpSTDV3YlJFd2lFYjhoRzR1WUNZSTJEcUNqYy1wTFN2bw?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
@@ -4964,11 +4973,10 @@
         "Andrea Delmastro"
       ],
       "tags": [
-        "politica",
-        "bisteccheria"
+        "politica"
       ],
       "publishedAt": "2026-03-31T07:00:00.000Z",
-      "excerpt": "Caso Delmastro-Chiorino: le dimissioni dopo lo scandalo bisteccheria",
+      "excerpt": "FdI chiede un'informativa su Salis e l'opposizione si scatena. Il M5s: \"Parlateci della 'banda delle forchette' di Delmastro\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -4995,10 +5003,10 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__fdi chiede informativa salis l opposizione si scatena m5s parlateci banda forchette delmastro__2026-03-31T07:00:00.000Z",
-      "title": "FdI chiede un'informativa su Salis e l'opposizione si scatena. Il M5s: \"Parlateci della 'banda delle forchette' di Delmastro\"",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenJFMERzU3hYQlBDSXVWclh4ajRSTGJ6T0twWi13M3VGSGh4RlZfaUNoLWhhU3hjTzBKSjIzN0hXOTNNcHJIR1BrS2IzSzlUa1ZIckFQaVU5LWJwRHJPaW5tSjJQV0JmSlVKM3B3TUpjUkhjQklHVEpwR1o3VnVZMEo3MlZ5SnRQd3FUSURUUXJQdU5kSndJbkJmOFpSTDV3YlJFd2lFYjhoRzR1WUNZSTJEcUNqYy1wTFN2bw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenJFMERzU3hYQlBDSXVWclh4ajRSTGJ6T0twWi13M3VGSGh4RlZfaUNoLWhhU3hjTzBKSjIzN0hXOTNNcHJIR1BrS2IzSzlUa1ZIckFQaVU5LWJwRHJPaW5tSjJQV0JmSlVKM3B3TUpjUkhjQklHVEpwR1o3VnVZMEo3MlZ5SnRQd3FUSURUUXJQdU5kSndJbkJmOFpSTDV3YlJFd2lFYjhoRzR1WUNZSTJEcUNqYy1wTFN2bw?oc=5",
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro chiorino dimissioni dopo scandalo bisteccheria__2026-03-31T07:00:00.000Z",
+      "title": "Caso Delmastro-Chiorino: le dimissioni dopo lo scandalo bisteccheria",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaTVoUTl1UXhYd2diUXMtbTZqc0d1ZDhBb211WndxS1RwR3FrLWJrdF9WZndQeVY4RkhKUUNFZkUxWmQ3VDJvOTZDM3UtSU1rekRUUHVKekhTdHdFTzFTdEdVOWx3N1R2Zm5RMVR0UFVjN2hvSHU0RlNLNTVScGEyaW44RERaU1QtS0o4V1hRZVQtVkNLMFh6Qm5VTE0yYllBYmc?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaTVoUTl1UXhYd2diUXMtbTZqc0d1ZDhBb211WndxS1RwR3FrLWJrdF9WZndQeVY4RkhKUUNFZkUxWmQ3VDJvOTZDM3UtSU1rekRUUHVKekhTdHdFTzFTdEdVOWx3N1R2Zm5RMVR0UFVjN2hvSHU0RlNLNTVScGEyaW44RERaU1QtS0o4V1hRZVQtVkNLMFh6Qm5VTE0yYllBYmc?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
       "queryLabel": "Delmastro generale",
@@ -5007,10 +5015,11 @@
         "Andrea Delmastro"
       ],
       "tags": [
-        "politica"
+        "politica",
+        "bisteccheria"
       ],
       "publishedAt": "2026-03-31T07:00:00.000Z",
-      "excerpt": "FdI chiede un'informativa su Salis e l'opposizione si scatena. Il M5s: \"Parlateci della 'banda delle forchette' di Delmastro\"",
+      "excerpt": "Caso Delmastro-Chiorino: le dimissioni dopo lo scandalo bisteccheria",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -5167,10 +5176,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUdnb2RsR001T0lTWnpjWG93d3NuYXNLazliZU50TlFnN1ZRT2l5eVpRZlJaaE91eG42Y3k4T0EyR2Jabng5c1RtR0UxdE5saEpTN0xQVklCTEFCT0xyTnBMS3lhRG9GcUh2ODdza2hzdktyLUxJVlRYU3BRM1M3M3RKNGZOVEJmSVozdlktOXlvQjltSXpUSEk2Tm13NTdsZUZnb1dMTDVhb2V5T0ZYNS0wbk9jVk8t0gG-AUFVX3lxTE9TS3pLZkxMT3Z1ajdTWlliQWNxMS1ZZ0JoSWQwb2wtRnZQWkpzd1h2TEU1clUxMVk1ZlB4d3A3b2c4NGZ4dUdpRVJrX3NQR0dVVER0MHZ4R05sRWwtY2hrel9wUVhyWmhlZUY4U1hRaXdKMDFFTzBzU0NjRzM5ZDNZMTFMdUNzaUNhY3lQQXB5cEdpdW9Tc2NLN0prU0t2S2xyVTBkMGZLWjVYRzhLaFpSQTdrLXp2YkVURlZIOFE?oc=5",
       "source": "la Repubblica",
       "sourceHost": "repubblica.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "bisteccheria"

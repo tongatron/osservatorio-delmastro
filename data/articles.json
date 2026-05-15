@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T16:44:07.387Z",
+  "generatedAt": "2026-05-15T17:37:25.842Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-03-31T16:44:07.387Z",
-    "to": "2026-05-15T16:44:07.387Z",
+    "from": "2026-03-31T17:37:25.842Z",
+    "to": "2026-05-15T17:37:25.842Z",
     "days": 45
   },
   "sources": [
@@ -105,7 +105,7 @@
     },
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 24
+      "articleCount": 25
     },
     {
       "label": "lastampa.it",
@@ -183,18 +183,18 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 338,
-      "uniqueArticles": 168
+      "fetchedArticles": 340,
+      "uniqueArticles": 169
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 117,
-      "uniqueArticles": 16
+      "fetchedArticles": 127,
+      "uniqueArticles": 17
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 112,
-      "uniqueArticles": 6
+      "fetchedArticles": 111,
+      "uniqueArticles": 5
     },
     {
       "label": "Bisteccheria",
@@ -203,7 +203,7 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 66,
+      "fetchedArticles": 61,
       "uniqueArticles": 1
     },
     {
@@ -215,7 +215,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 90
+      "count": 91
     },
     {
       "tag": "giudiziaria",
@@ -297,7 +297,7 @@
     },
     {
       "date": "2026-04-14",
-      "count": 5
+      "count": 6
     },
     {
       "date": "2026-04-15",
@@ -1885,6 +1885,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__grazia minetti perche non vespa delmastro salvini__2026-04-14T07:00:00.000Z",
+      "title": "Una grazia a Minetti: perché non a Vespa, Delmastro e Salvini?",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNzJsMTIyRVJra1lFZ3E0ME81M0R2cTdCbDkxUTlyZTgyOU9kRlM3cXN2blp5bFJ6MnRjaTJUMkxUV0lQSXZLb1NyNERlSXQwdlkxMzBtLWgzaWtUQ3gwNUMwMGNUQ0prX1QyNHdUU2xEU2pVcVpfMk1RWXhsc3E1OFZ0aVRTVWhfVTVLTWJmc09TMTdCLTFKWHhKQVBrZmhlX2Nqc2VlZDQyQ3N3bDh5MVFjUkozMEZrRlRWT2ZFaWpxQ25EMVAyQ3U1cEk?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNzJsMTIyRVJra1lFZ3E0ME81M0R2cTdCbDkxUTlyZTgyOU9kRlM3cXN2blp5bFJ6MnRjaTJUMkxUV0lQSXZLb1NyNERlSXQwdlkxMzBtLWgzaWtUQ3gwNUMwMGNUQ0prX1QyNHdUU2xEU2pVcVpfMk1RWXhsc3E1OFZ0aVRTVWhfVTVLTWJmc09TMTdCLTFKWHhKQVBrZmhlX2Nqc2VlZDQyQ3N3bDh5MVFjUkozMEZrRlRWT2ZFaWpxQ25EMVAyQ3U1cEk?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-14T07:00:00.000Z",
+      "excerpt": "Una grazia a Minetti: perché non a Vespa, Delmastro e Salvini?",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "repubblica.it__la repubblica__caso delmastro motivazioni cassazione sul socio caroccia ristoranti erano senese__2026-04-13T07:00:00.000Z",
       "title": "Caso Delmastro, le motivazioni della Cassazione sul socio Caroccia: “I ristoranti erano dei Senese”",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWNuRi1IM2tHWkFuSDZSSDBuOVZXVDNnU1U1SzdMdEhyeXduVWlFMldUMWRwQ2JncERpSk45Y2ZHRW96bDhnUlhDRFFHcUk1VkYySEVBVVo0WnBlSXNRZ01OcURtVGV5cDJWZ1plTVJIbDdmZUJDa3VHeW5UMjRfMnc5YWZNMGppaUlYMXhHWDE0X2Qwc29CbUJHSDZLSUdJQWUzNXJsRWdxSUQtdTU2eDRyMWfSAboBQVVfeXFMTTVWbHJ1ZUtKeUVDNmR3OERwTlBtUXp3MzFkMTFSU21GTDdTZEhiNXJ4UHJKUUdYU09ubHdJck5HOTZJSkJ5UkVqU0hNTnhOQ0E3enhYbGRRTm9rRkpqRG1iaGFEY25XX2hKRHE3b1dPbWU4SmlJMzlsRFQ1SDZqZFBNX2NmcTlLQ3RqWVlBRjBtMkwyVkJzMVlTNF92RkpSTUdMdXZEM0dwa2hjdFlvbHpVNUpEbVdVRG93?oc=5",
@@ -3120,11 +3140,14 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNRHBySVVUdFNaZEM1c1BpMnZtXzVfVE5NYkZiQ2JZOEFnOVlrWjdZZFN0NURGQk1RZ0h3MVQ4TE5lSWd5U2Z4X0hlNXdjWGdNLTZBMHRWMVlBbm0tVG1MalZSME4wRlRPOURVWFlLdnNud2hVWnhqY18zNDVpbFloNmNMd2NHdi1OcmRNQWRKVjhlcjFuM1ZHN0lFOHNJQW54dmZ6a3MzM1ZtbFNkU2lpazNmNlJubXNISmRuXzRrZmNlaVhXZXVlNEU1Zm5Vckk1Sm8wTEVXU19FaEEwVXlaa2VXYm1BbkFTZWdFVFMzbl9aaDVfUEtRMjd2bTE3RUNWQ1Rtb2gzWFpGczRvLUFmUXk4eUVxYWRiZUwtVm4tbFk5dzRRWElVNmZiNUQzdE1JaS1Kdm9paHZ1TXNzbHlTSlJENmY?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Persone collegate",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Elena Chiorino",
+        "Caroccia",
         "Cristiano Franceschini",
         "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
         "clan Senese"
       ],
       "tags": [

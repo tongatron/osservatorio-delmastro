@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T16:52:36.144Z",
+  "generatedAt": "2026-05-16T17:26:50.005Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-04-01T16:52:36.144Z",
-    "to": "2026-05-16T16:52:36.144Z",
+    "from": "2026-04-01T17:26:50.005Z",
+    "to": "2026-05-16T17:26:50.005Z",
     "days": 45
   },
   "sources": [
@@ -105,7 +105,7 @@
     },
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 21
+      "articleCount": 20
     },
     {
       "label": "lastampa.it",
@@ -183,8 +183,8 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 246,
-      "uniqueArticles": 123
+      "fetchedArticles": 244,
+      "uniqueArticles": 122
     },
     {
       "label": "Soci e societa'",
@@ -203,7 +203,7 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 50,
+      "fetchedArticles": 51,
       "uniqueArticles": 1
     },
     {
@@ -219,7 +219,7 @@
     },
     {
       "tag": "politica",
-      "count": 29
+      "count": 28
     },
     {
       "tag": "giudiziaria",
@@ -257,7 +257,7 @@
     },
     {
       "date": "2026-04-05",
-      "count": 2
+      "count": 1
     },
     {
       "date": "2026-04-06",
@@ -3152,26 +3152,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__fdi dirotta delmastro no commissione giustizia__2026-04-05T07:00:00.000Z",
-      "title": "FdI dirotta Delmastro: no alla commissione Giustizia",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc3lONTRzZGk5bmQxYXNBYUliMWxjekIwT3B6dTc4UGg1Y3dacUhGenpFLXBTSFpGQmw2S3lYOERUdzRQVkZUcEoxWXRYNzdWMlNRVktjM081aUowSnBhQUFRYzQycDNoOEFDSWlPV0tFNWRxd0U3VjFBa05RdnRXb3EwRmE4bUdqVUk2bmdPaDJtOU5odldDZnlKdW5rQUZaUTE3LVdXbWNDRnVlLTdiNXNuRkZjSDFzeGh0QTRuOXZqQQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc3lONTRzZGk5bmQxYXNBYUliMWxjekIwT3B6dTc4UGg1Y3dacUhGenpFLXBTSFpGQmw2S3lYOERUdzRQVkZUcEoxWXRYNzdWMlNRVktjM081aUowSnBhQUFRYzQycDNoOEFDSWlPV0tFNWRxd0U3VjFBa05RdnRXb3EwRmE4bUdqVUk2bmdPaDJtOU5odldDZnlKdW5rQUZaUTE3LVdXbWNDRnVlLTdiNXNuRkZjSDFzeGh0QTRuOXZqQQ?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "politica"
-      ],
-      "publishedAt": "2026-04-05T07:00:00.000Z",
-      "excerpt": "FdI dirotta Delmastro: no alla commissione Giustizia",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ansa.it__ansa__ischia petizione revoca cittadinanza delmastro__2026-04-03T07:00:00.000Z",
       "title": "A Ischia petizione per revoca cittadinanza a Delmastro",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMWVBWTJXOTdhNDFoOEdTZXBwcnpoY3RHalZjRkdRUml1NUdwRkx2VEVVWTM5eHdWVml4dFNTS0ExU0xQd1YtdTBDSVNwTVdndzJpUTFKQ2dUR0lkOHpCZTBFZjUtZURxVHlweWdtTllZYUhIZzcwWFdqbHA0SjdZQ0N1SF92UW0tYm41ZzhTZmtLVGN3WmNaRlJfMXdwUm5pVFVSTjRtYkVhQ1loQk5YR21mOW9iYU5DQy1fVl9zRUJTOW9xeUpwM3h5UnowSmVMc3AtSHFyN1hRWHYxY2tYNjJ1TdIB6AFBVV95cUxPclpPcERDdHpkY3RlYU9hMFdBZ01Jcy1YMVJiUlZpYTJic19ELTZ2M0EtT2dyVHEza3ZmOTg4YWYyb3NjeThRS2lET0dSemg3UC12MUI4R2dKZE14M2dlSi1BVHNCWmhWQXkxNHRTcWQxYzhZd3JidmZ2VW5QazJ0X3gtMGxzZWxtZjVRbWxWNjZJYU02dHJaVzA5SGpJTGlKLVZsc1FRVVk2WFQ2dEVKbkxidEJMNE1ELThjSHFSWnNfdFBWenV3M1c5N19NNkprSjF2OWNjMF8yWnd5QzNVLWNoRDBUSU5r?oc=5",
@@ -3192,26 +3172,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "repubblica.it__la repubblica__ischia petizione revoca cittadinanza onoraria delmastro__2026-04-03T07:00:00.000Z",
-      "title": "Ischia, una petizione per la revoca della cittadinanza onoraria a Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUVUxaThBQVpNRlc3UGwwb3l1ckdiWjNkZUdkdlIyOTQ3NVZJT0VoQ0lGTXpibFFiSTA2bUs5T3J5NnlvZldJb1Btbnh6VlRfdHgyc2JXc1NJTEtyUFJVa0tZUUtGQlZ2R1VGekxuV21XQ2o0cDByc0F0aFhsSnRyTmxmanhxb0pRS3dBVDVzcnJFLVRUd3lUSU5QUjhoeWw3UXIxSGNzbnBuOFBhRmJMR2VvazlneEZhX19F0gHAAUFVX3lxTE10cHp5RkNjVENrYjJrTGpER1N4S2JoekhNV0VnOURmY2c3LXZtN094UGRral9HR3dsN3FtWmRmVndrOGN6cmEtME1nLS1LTmpTRGk2TzhnZ0N4NU80dXhlTXlaTlNyVmtRN1VVTkZLb01WWDdtMU1GMURlSWpydmZJZGZyd0ZOcXUxR0N3cUFIUmFVYnNDZ0FnLWFnTlJmVXluSEVCTGxBTjVLMTNoSHFWTTNKcHpMaWZyTmtaTlI2Xw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUVUxaThBQVpNRlc3UGwwb3l1ckdiWjNkZUdkdlIyOTQ3NVZJT0VoQ0lGTXpibFFiSTA2bUs5T3J5NnlvZldJb1Btbnh6VlRfdHgyc2JXc1NJTEtyUFJVa0tZUUtGQlZ2R1VGekxuV21XQ2o0cDByc0F0aFhsSnRyTmxmanhxb0pRS3dBVDVzcnJFLVRUd3lUSU5QUjhoeWw3UXIxSGNzbnBuOFBhRmJMR2VvazlneEZhX19F0gHAAUFVX3lxTE10cHp5RkNjVENrYjJrTGpER1N4S2JoekhNV0VnOURmY2c3LXZtN094UGRral9HR3dsN3FtWmRmVndrOGN6cmEtME1nLS1LTmpTRGk2TzhnZ0N4NU80dXhlTXlaTlNyVmtRN1VVTkZLb01WWDdtMU1GMURlSWpydmZJZGZyd0ZOcXUxR0N3cUFIUmFVYnNDZ0FnLWFnTlJmVXluSEVCTGxBTjVLMTNoSHFWTTNKcHpMaWZyTmtaTlI2Xw?oc=5",
-      "source": "la Repubblica",
-      "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-03T07:00:00.000Z",
-      "excerpt": "Ischia, una petizione per la revoca della cittadinanza onoraria a Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "repubblica.it__la repubblica__caroccia bancarotta l avvocato delmastro sapeva problemi__2026-04-03T07:00:00.000Z",
       "title": "Caroccia in bancarotta, l’avvocato: “Delmastro sapeva dei problemi”",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNblpjQVVaUi04SnRDTWloU0lDZTQxOVVQYlc0a0JXQ0JoRlo4bHZPWlppNWRmYTA0QWhVYlJJcHFTTWpibkRRcUE2ZXVvRkZkV0NSdE4tR3FyQ0FTMi11UDRDZ3hNZ1VMTU9FZHJzMUh2VG90VHRzQ2M1OHF3X1BWNk9HcXFtTmJPamlBTERWVXp2VmxGLXdoUjVJZlZ3dFnSAaQBQVVfeXFMT2RRQ0QxUlNKV2JieG5oYzhKQldhVEZmUTliNVdJcDRoNDFrYkN0b0RadDF1Sk9qME1qUm9PQ3RCdVNmYkdnaGZUa3RtRW56T2xyVEJYQ2NGeWEwaXhDR1NVaHJESWdvaWR5VXQ1S29jS01aV0dJZEVJZVFMQl9ZUUxHZzRCLURsbHUtYkxNRXFLakFRTDE2WHZJV1Q4ZE9Tc0RpQkM?oc=5",
@@ -3228,6 +3188,26 @@
       ],
       "publishedAt": "2026-04-03T07:00:00.000Z",
       "excerpt": "Caroccia in bancarotta, l’avvocato: “Delmastro sapeva dei problemi”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "repubblica.it__la repubblica__ischia petizione revoca cittadinanza onoraria delmastro__2026-04-03T07:00:00.000Z",
+      "title": "Ischia, una petizione per la revoca della cittadinanza onoraria a Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUVUxaThBQVpNRlc3UGwwb3l1ckdiWjNkZUdkdlIyOTQ3NVZJT0VoQ0lGTXpibFFiSTA2bUs5T3J5NnlvZldJb1Btbnh6VlRfdHgyc2JXc1NJTEtyUFJVa0tZUUtGQlZ2R1VGekxuV21XQ2o0cDByc0F0aFhsSnRyTmxmanhxb0pRS3dBVDVzcnJFLVRUd3lUSU5QUjhoeWw3UXIxSGNzbnBuOFBhRmJMR2VvazlneEZhX19F0gHAAUFVX3lxTE10cHp5RkNjVENrYjJrTGpER1N4S2JoekhNV0VnOURmY2c3LXZtN094UGRral9HR3dsN3FtWmRmVndrOGN6cmEtME1nLS1LTmpTRGk2TzhnZ0N4NU80dXhlTXlaTlNyVmtRN1VVTkZLb01WWDdtMU1GMURlSWpydmZJZGZyd0ZOcXUxR0N3cUFIUmFVYnNDZ0FnLWFnTlJmVXluSEVCTGxBTjVLMTNoSHFWTTNKcHpMaWZyTmtaTlI2Xw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUVUxaThBQVpNRlc3UGwwb3l1ckdiWjNkZUdkdlIyOTQ3NVZJT0VoQ0lGTXpibFFiSTA2bUs5T3J5NnlvZldJb1Btbnh6VlRfdHgyc2JXc1NJTEtyUFJVa0tZUUtGQlZ2R1VGekxuV21XQ2o0cDByc0F0aFhsSnRyTmxmanhxb0pRS3dBVDVzcnJFLVRUd3lUSU5QUjhoeWw3UXIxSGNzbnBuOFBhRmJMR2VvazlneEZhX19F0gHAAUFVX3lxTE10cHp5RkNjVENrYjJrTGpER1N4S2JoekhNV0VnOURmY2c3LXZtN094UGRral9HR3dsN3FtWmRmVndrOGN6cmEtME1nLS1LTmpTRGk2TzhnZ0N4NU80dXhlTXlaTlNyVmtRN1VVTkZLb01WWDdtMU1GMURlSWpydmZJZGZyd0ZOcXUxR0N3cUFIUmFVYnNDZ0FnLWFnTlJmVXluSEVCTGxBTjVLMTNoSHFWTTNKcHpMaWZyTmtaTlI2Xw?oc=5",
+      "source": "la Repubblica",
+      "sourceHost": "repubblica.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-03T07:00:00.000Z",
+      "excerpt": "Ischia, una petizione per la revoca della cittadinanza onoraria a Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

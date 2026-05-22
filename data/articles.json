@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T14:21:18.522Z",
+  "generatedAt": "2026-05-22T15:34:47.933Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-04-07T14:21:18.522Z",
-    "to": "2026-05-22T14:21:18.522Z",
+    "from": "2026-04-07T15:34:47.933Z",
+    "to": "2026-05-22T15:34:47.933Z",
     "days": 45
   },
   "sources": [
@@ -156,6 +156,10 @@
       "articleCount": 3
     },
     {
+      "label": "tg24.sky.it",
+      "articleCount": 3
+    },
+    {
       "label": "today.it",
       "articleCount": 3
     },
@@ -170,10 +174,6 @@
     {
       "label": "adnkronos.com",
       "articleCount": 3
-    },
-    {
-      "label": "tg24.sky.it",
-      "articleCount": 2
     },
     {
       "label": "ilpost.it",
@@ -191,12 +191,12 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 238,
-      "uniqueArticles": 118
+      "fetchedArticles": 240,
+      "uniqueArticles": 119
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 75,
+      "fetchedArticles": 73,
       "uniqueArticles": 15
     },
     {
@@ -218,7 +218,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 81
+      "count": 82
     },
     {
       "tag": "politica",
@@ -304,7 +304,7 @@
     },
     {
       "date": "2026-04-22",
-      "count": 16
+      "count": 17
     },
     {
       "date": "2026-04-23",
@@ -2026,6 +2026,26 @@
       ],
       "publishedAt": "2026-04-22T07:00:00.000Z",
       "excerpt": "Cinque nuovi sottosegretari. Balboni batte Kelany per il dopo Delmastro, c'è il contentino per Barelli (di G. Ucciero)",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "tg24.sky.it__sky tg24__caso cospito pg roma chiede l assoluzione andrea delmastro__2026-04-22T07:00:00.000Z",
+      "title": "Caso Cospito, Pg Roma chiede l'assoluzione per Andrea Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPczRnUmpXUE43V1dIS3JVdUthUmRhOU5qZS1ZbGZ2ZUhrQy1UUFl0ZTlQY0F2eTFLbGpINmgtZFB3ZExhNEZxRGF0WjJaUVB2OENCUHQ2XzA2YkZjbWNTZDJMVWt6M2lKX21GT1VNTEJDbk5jOV9ReFpOUDF0V2s4QjNjVjRQcXpHdUhhZmFOcw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPczRnUmpXUE43V1dIS3JVdUthUmRhOU5qZS1ZbGZ2ZUhrQy1UUFl0ZTlQY0F2eTFLbGpINmgtZFB3ZExhNEZxRGF0WjJaUVB2OENCUHQ2XzA2YkZjbWNTZDJMVWt6M2lKX21GT1VNTEJDbk5jOV9ReFpOUDF0V2s4QjNjVjRQcXpHdUhhZmFOcw?oc=5",
+      "source": "Sky TG24",
+      "sourceHost": "tg24.sky.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-22T07:00:00.000Z",
+      "excerpt": "Caso Cospito, Pg Roma chiede l'assoluzione per Andrea Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

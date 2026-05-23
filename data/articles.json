@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T06:25:57.804Z",
+  "generatedAt": "2026-05-23T07:23:02.319Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,46 +94,38 @@
     ]
   },
   "window": {
-    "from": "2026-04-08T06:25:57.804Z",
-    "to": "2026-05-23T06:25:57.804Z",
+    "from": "2026-04-08T07:23:02.319Z",
+    "to": "2026-05-23T07:23:02.319Z",
     "days": 45
   },
   "sources": [
     {
-      "label": "repubblica.it",
-      "articleCount": 24
-    },
-    {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 22
+      "articleCount": 21
     },
     {
-      "label": "corriere.it",
-      "articleCount": 13
+      "label": "repubblica.it",
+      "articleCount": 21
     },
     {
       "label": "lastampa.it",
       "articleCount": 12
     },
     {
+      "label": "corriere.it",
+      "articleCount": 11
+    },
+    {
       "label": "rainews.it",
-      "articleCount": 9
+      "articleCount": 8
     },
     {
       "label": "ilgiornale.it",
-      "articleCount": 8
+      "articleCount": 7
     },
     {
       "label": "fanpage.it",
-      "articleCount": 8
-    },
-    {
-      "label": "ansa.it",
-      "articleCount": 5
-    },
-    {
-      "label": "huffingtonpost.it",
-      "articleCount": 5
+      "articleCount": 6
     },
     {
       "label": "newsbiella.it",
@@ -144,11 +136,15 @@
       "articleCount": 4
     },
     {
-      "label": "liberoquotidiano.it",
+      "label": "tgcom24.mediaset.it",
       "articleCount": 4
     },
     {
-      "label": "tgcom24.mediaset.it",
+      "label": "ansa.it",
+      "articleCount": 4
+    },
+    {
+      "label": "huffingtonpost.it",
       "articleCount": 4
     },
     {
@@ -156,7 +152,7 @@
       "articleCount": 3
     },
     {
-      "label": "today.it",
+      "label": "liberoquotidiano.it",
       "articleCount": 3
     },
     {
@@ -180,6 +176,10 @@
       "articleCount": 2
     },
     {
+      "label": "today.it",
+      "articleCount": 2
+    },
+    {
       "label": "ilbiellese.it",
       "articleCount": 1
     },
@@ -191,34 +191,34 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 241,
-      "uniqueArticles": 119
+      "fetchedArticles": 217,
+      "uniqueArticles": 107
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 71,
+      "fetchedArticles": 64,
       "uniqueArticles": 14
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 57,
+      "fetchedArticles": 51,
       "uniqueArticles": 7
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 72,
-      "uniqueArticles": 6
+      "fetchedArticles": 57,
+      "uniqueArticles": 4
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 40,
+      "fetchedArticles": 36,
       "uniqueArticles": 1
     }
   ],
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 79
+      "count": 70
     },
     {
       "tag": "politica",
@@ -226,7 +226,7 @@
     },
     {
       "tag": "giudiziaria",
-      "count": 19
+      "count": 17
     },
     {
       "tag": "bisteccheria",
@@ -234,17 +234,17 @@
     },
     {
       "tag": "territorio",
-      "count": 11
+      "count": 10
     },
     {
       "tag": "societa'",
-      "count": 10
+      "count": 8
     }
   ],
   "timeline": [
     {
       "date": "2026-04-08",
-      "count": 14
+      "count": 0
     },
     {
       "date": "2026-04-09",
@@ -1489,11 +1489,14 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYmJKMnRuaXNHYVY0akZkYS1sZ2lYMG9VeGs0bExqdXM5cUdicWVXU2lhTUdiV21hbkFCYkluME41YVJrQkFOOGNWR1g4SkZsSk1zaTA0X0NQWEVLdmFveVh3NWZPVVd6aTI3M2ZVU3pJQnlGd0Zva21xU25EU3ctWm1HNUdtelcyYXBQVmZB?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Persone collegate",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Elena Chiorino",
+        "Caroccia",
         "Cristiano Franceschini",
         "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
         "clan Senese"
       ],
       "tags": [
@@ -2571,6 +2574,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "repubblica.it__la repubblica__caso delmastro motivazioni cassazione sul socio caroccia ristoranti erano senese__2026-04-13T07:00:00.000Z",
+      "title": "Caso Delmastro, le motivazioni della Cassazione sul socio Caroccia: “I ristoranti erano dei Senese”",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWNuRi1IM2tHWkFuSDZSSDBuOVZXVDNnU1U1SzdMdEhyeXduVWlFMldUMWRwQ2JncERpSk45Y2ZHRW96bDhnUlhDRFFHcUk1VkYySEVBVVo0WnBlSXNRZ01OcURtVGV5cDJWZ1plTVJIbDdmZUJDa3VHeW5UMjRfMnc5YWZNMGppaUlYMXhHWDE0X2Qwc29CbUJHSDZLSUdJQWUzNXJsRWdxSUQtdTU2eDRyMWfSAboBQVVfeXFMTTVWbHJ1ZUtKeUVDNmR3OERwTlBtUXp3MzFkMTFSU21GTDdTZEhiNXJ4UHJKUUdYU09ubHdJck5HOTZJSkJ5UkVqU0hNTnhOQ0E3enhYbGRRTm9rRkpqRG1iaGFEY25XX2hKRHE3b1dPbWU4SmlJMzlsRFQ1SDZqZFBNX2NmcTlLQ3RqWVlBRjBtMkwyVkJzMVlTNF92RkpSTUdMdXZEM0dwa2hjdFlvbHpVNUpEbVdVRG93?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWNuRi1IM2tHWkFuSDZSSDBuOVZXVDNnU1U1SzdMdEhyeXduVWlFMldUMWRwQ2JncERpSk45Y2ZHRW96bDhnUlhDRFFHcUk1VkYySEVBVVo0WnBlSXNRZ01OcURtVGV5cDJWZ1plTVJIbDdmZUJDa3VHeW5UMjRfMnc5YWZNMGppaUlYMXhHWDE0X2Qwc29CbUJHSDZLSUdJQWUzNXJsRWdxSUQtdTU2eDRyMWfSAboBQVVfeXFMTTVWbHJ1ZUtKeUVDNmR3OERwTlBtUXp3MzFkMTFSU21GTDdTZEhiNXJ4UHJKUUdYU09ubHdJck5HOTZJSkJ5UkVqU0hNTnhOQ0E3enhYbGRRTm9rRkpqRG1iaGFEY25XX2hKRHE3b1dPbWU4SmlJMzlsRFQ1SDZqZFBNX2NmcTlLQ3RqWVlBRjBtMkwyVkJzMVlTNF92RkpSTUdMdXZEM0dwa2hjdFlvbHpVNUpEbVdVRG93?oc=5",
+      "source": "la Repubblica",
+      "sourceHost": "repubblica.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "societa'"
+      ],
+      "publishedAt": "2026-04-13T07:00:00.000Z",
+      "excerpt": "Caso Delmastro, le motivazioni della Cassazione sul socio Caroccia: “I ristoranti erano dei Senese”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "repubblica.it__la repubblica__torino arriva arianna meloni dovra mettere ordine fdi dopo scandali delmastro co__2026-04-13T07:00:00.000Z",
       "title": "A Torino arriva Arianna Meloni: dovrà mettere ordine in FdI dopo gli scandali di Delmastro & Co.",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1RJVV8tUHVGS3gySVRiRGU4a292a2V4cTgwVVZqdmo0UjZsUnNnOFpEZ1ZXNklod00zTVA1Y1B2SllBVS1RZVk4ck9PSkRzM2hqX1hwNEtITE9xTzBYWDlfS2FBbFhXUks4dXZKb0RCOUxORGhleHVndU9YaElQTzdaQURyTTA5LUhvb3ZfM0s0cUU3WHJxX0pfM3FQbjZ3a2l5Y2Jzb9IBrAFBVV95cUxQQ2lYN1M0b095bEloMDhObGdvSnpIUm1KaVpWbC1BMXFTQ2txamdBRFk4LXp1YXRvS215Z2JySldUei1yYVd1aFJnRktycWw3b0JqSkxZNEs1X0tzRGNrQ0VOMm1TUUFaWEVYYjdfUWlIUFhtN1ZBa1FEa0FVZW5UVUtGQTQ2OWg4aE80UXlsZVN4Vm15QngzY25DbjU5RlBPVDJTczl0eU5RRHc4?oc=5",
@@ -2608,26 +2631,6 @@
       ],
       "publishedAt": "2026-04-13T07:00:00.000Z",
       "excerpt": "Delmastro, nelle sue chat (e in quelle dei soci) non compare mai la figlia di Caroccia",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "repubblica.it__la repubblica__caso delmastro motivazioni cassazione sul socio caroccia ristoranti erano senese__2026-04-13T07:00:00.000Z",
-      "title": "Caso Delmastro, le motivazioni della Cassazione sul socio Caroccia: “I ristoranti erano dei Senese”",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWNuRi1IM2tHWkFuSDZSSDBuOVZXVDNnU1U1SzdMdEhyeXduVWlFMldUMWRwQ2JncERpSk45Y2ZHRW96bDhnUlhDRFFHcUk1VkYySEVBVVo0WnBlSXNRZ01OcURtVGV5cDJWZ1plTVJIbDdmZUJDa3VHeW5UMjRfMnc5YWZNMGppaUlYMXhHWDE0X2Qwc29CbUJHSDZLSUdJQWUzNXJsRWdxSUQtdTU2eDRyMWfSAboBQVVfeXFMTTVWbHJ1ZUtKeUVDNmR3OERwTlBtUXp3MzFkMTFSU21GTDdTZEhiNXJ4UHJKUUdYU09ubHdJck5HOTZJSkJ5UkVqU0hNTnhOQ0E3enhYbGRRTm9rRkpqRG1iaGFEY25XX2hKRHE3b1dPbWU4SmlJMzlsRFQ1SDZqZFBNX2NmcTlLQ3RqWVlBRjBtMkwyVkJzMVlTNF92RkpSTUdMdXZEM0dwa2hjdFlvbHpVNUpEbVdVRG93?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWNuRi1IM2tHWkFuSDZSSDBuOVZXVDNnU1U1SzdMdEhyeXduVWlFMldUMWRwQ2JncERpSk45Y2ZHRW96bDhnUlhDRFFHcUk1VkYySEVBVVo0WnBlSXNRZ01OcURtVGV5cDJWZ1plTVJIbDdmZUJDa3VHeW5UMjRfMnc5YWZNMGppaUlYMXhHWDE0X2Qwc29CbUJHSDZLSUdJQWUzNXJsRWdxSUQtdTU2eDRyMWfSAboBQVVfeXFMTTVWbHJ1ZUtKeUVDNmR3OERwTlBtUXp3MzFkMTFSU21GTDdTZEhiNXJ4UHJKUUdYU09ubHdJck5HOTZJSkJ5UkVqU0hNTnhOQ0E3enhYbGRRTm9rRkpqRG1iaGFEY25XX2hKRHE3b1dPbWU4SmlJMzlsRFQ1SDZqZFBNX2NmcTlLQ3RqWVlBRjBtMkwyVkJzMVlTNF92RkpSTUdMdXZEM0dwa2hjdFlvbHpVNUpEbVdVRG93?oc=5",
-      "source": "la Repubblica",
-      "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "societa'"
-      ],
-      "publishedAt": "2026-04-13T07:00:00.000Z",
-      "excerpt": "Caso Delmastro, le motivazioni della Cassazione sul socio Caroccia: “I ristoranti erano dei Senese”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -3098,293 +3101,6 @@
       ],
       "publishedAt": "2026-04-09T07:00:00.000Z",
       "excerpt": "“La vedo nervosa…”, Bonelli imita e provoca Meloni. E sulla mafia: “In FdI iscritti che fanno riferimento al clan Senese”",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ansa.it__ansa__selfie meloni col pentito clan senese opposizioni all attacco__2026-04-08T07:00:00.000Z",
-      "title": "Selfie di Meloni col pentito del clan senese, le opposizioni all'attacco",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQlZid2JVYktMNktpYWhaT1lNa3dSNHExUkhyb0FmUGUyN2hQcENHZ3J1eW9WMmNIdkcycGtEYi12cVlzSjB2c0U4bVFGNENLNHptNXBfU0lPQzVKUGxjRkFZbFAxemtUbEpOZm00OUV0Ti1tYVViTXJOOFpkT05xa1pMbm1vU2p5MlNJMnFLaFhRRXZvUXJqNWxpeHhXU29mOW84eTJQN0lSelU0OVBnQk9UTURmZ21NTTBsWE1vQXE5dF9ORHlsQjlkM3RnYUVVZmFFMFVHNVFWaUduOHQwRjN3MkZYdm14MEdtOGxB0gHzAUFVX3lxTFBjVmhiYzhkY09kWEQ3NUNqQ1RjZWx1WW81cUlWdmIycXVFZ0s2Q2w0ZUhsOW1xbGoyWFFNMXJjQXl4cXp6emF3TTg5V0RjUHBDcjhyaU44U3MyQWl3UWxYeVJRLU5QYjNtM0ppUjhtZUN1T3JXdGktMnJWVldvZFJ5Ul9penI2ZHdya2IzYXZiRldTOHdWU2FLbkNVTkRZT1ExUGt0MFN2VVpaTmdDcnZVS2NaZ3Q0V1k5OHhOZzcyck03bXNwaE85OC1KeXRYU1BfbWJsZ0I2Xy1KMFRLYVk2Ump3YXlIdU1rTnVRZjBzRmVrMA?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQlZid2JVYktMNktpYWhaT1lNa3dSNHExUkhyb0FmUGUyN2hQcENHZ3J1eW9WMmNIdkcycGtEYi12cVlzSjB2c0U4bVFGNENLNHptNXBfU0lPQzVKUGxjRkFZbFAxemtUbEpOZm00OUV0Ti1tYVViTXJOOFpkT05xa1pMbm1vU2p5MlNJMnFLaFhRRXZvUXJqNWxpeHhXU29mOW84eTJQN0lSelU0OVBnQk9UTURmZ21NTTBsWE1vQXE5dF9ORHlsQjlkM3RnYUVVZmFFMFVHNVFWaUduOHQwRjN3MkZYdm14MEdtOGxB0gHzAUFVX3lxTFBjVmhiYzhkY09kWEQ3NUNqQ1RjZWx1WW81cUlWdmIycXVFZ0s2Q2w0ZUhsOW1xbGoyWFFNMXJjQXl4cXp6emF3TTg5V0RjUHBDcjhyaU44U3MyQWl3UWxYeVJRLU5QYjNtM0ppUjhtZUN1T3JXdGktMnJWVldvZFJ5Ul9penI2ZHdya2IzYXZiRldTOHdWU2FLbkNVTkRZT1ExUGt0MFN2VVpaTmdDcnZVS2NaZ3Q0V1k5OHhOZzcyck03bXNwaE85OC1KeXRYU1BfbWJsZ0I2Xy1KMFRLYVk2Ump3YXlIdU1rTnVRZjBzRmVrMA?oc=5",
-      "source": "ANSA",
-      "sourceHost": "ansa.it",
-      "queryLabel": "Persone collegate",
-      "matchedTerms": [
-        "Elena Chiorino",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "clan Senese"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-08T07:00:00.000Z",
-      "excerpt": "Selfie di Meloni col pentito del clan senese, le opposizioni all'attacco",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "repubblica.it__la repubblica__sequestrato telefono caroccia faro sulla societa delmastro__2026-04-08T07:00:00.000Z",
-      "title": "Sequestrato il telefono di Caroccia, faro sulla società con Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUpSVzU5eGxTbUxETDlFdDJ4YWZNQlpiRXJ0ODhtTGx4VmctVzl6QUVvWXJYVjBtc3V5eXVJNFBmT2VGTmJvY1puTjF1elN4SUpPamJQV0U1Tktldm1yb2VqSjhBU0F5WXFZZnZNNF9CdlRJTk04MFdZT0hITkNaV1pZc0ZiRmRSa09mMmZUb29tZWVBRGI1d3Q5YkJNbVd3a0tRUmRTY2NGNlVEUUhRQzFwQUNZUkloQi1KMjZlRdIBxAFBVV95cUxOeGFoVTA5VW1HUVZ3X3J2X1h4Vm1ITnhtZ1BFZmhhTENHZDNNN2JCV0xDbnVjU1o0QWk2Tm52d1hhZ1g5M1R2T3VSRWZaV1BBRXRKTm1jM012MGg4ZjFfdWl4cXhyb2pmOWpHNVZLWGtQa3d6d2x5VV9PM0xBVVRsbDF5VU4zY1E2X3JRLWE3bzVKRGhGNUtLV3FiOFpreENFaE5XQ01qU2ZKLU52VFVpOXAtbEhpRXhqcWlvS3JMMTRyWW12?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUpSVzU5eGxTbUxETDlFdDJ4YWZNQlpiRXJ0ODhtTGx4VmctVzl6QUVvWXJYVjBtc3V5eXVJNFBmT2VGTmJvY1puTjF1elN4SUpPamJQV0U1Tktldm1yb2VqSjhBU0F5WXFZZnZNNF9CdlRJTk04MFdZT0hITkNaV1pZc0ZiRmRSa09mMmZUb29tZWVBRGI1d3Q5YkJNbVd3a0tRUmRTY2NGNlVEUUhRQzFwQUNZUkloQi1KMjZlRdIBxAFBVV95cUxOeGFoVTA5VW1HUVZ3X3J2X1h4Vm1ITnhtZ1BFZmhhTENHZDNNN2JCV0xDbnVjU1o0QWk2Tm52d1hhZ1g5M1R2T3VSRWZaV1BBRXRKTm1jM012MGg4ZjFfdWl4cXhyb2pmOWpHNVZLWGtQa3d6d2x5VV9PM0xBVVRsbDF5VU4zY1E2X3JRLWE3bzVKRGhGNUtLV3FiOFpreENFaE5XQ01qU2ZKLU52VFVpOXAtbEhpRXhqcWlvS3JMMTRyWW12?oc=5",
-      "source": "la Repubblica",
-      "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "societa'"
-      ],
-      "publishedAt": "2026-04-08T07:00:00.000Z",
-      "excerpt": "Sequestrato il telefono di Caroccia, faro sulla società con Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "repubblica.it__la repubblica__caso delmastro moglie caroccia lacrime pm lui ci ha solo aiutato__2026-04-08T07:00:00.000Z",
-      "title": "Caso Delmastro, la moglie di Caroccia in lacrime ai pm: “Lui ci ha solo aiutato”",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWWJ4eEFxSk9SZVB6ZGt6WUVvZmQ5b3IwRXl2RXZIQ2N5RmFfWVVxRDNUWThwUHE2Qi1pdWEwbThyT1BqUmJKNUZjSXJwRzR2a1ZuZDBjZ2dGazh3a0QwR1FGaUZuUEUyNTliTVVqZmFWZzdzS1pOczRUNjc0SjVJQi10bFVnWjI5aW9XN1VMWnFMdEV4Mk9VZ2puaU5xUmJfMHZWMHJLd1RzaE14a1hoQWROYnhjMGpj0gG-AUFVX3lxTE9nRU8waEhESmpGblRQV1l6N01aMXZnY3R1S21GVmd6aTdpZEFJOEpaTnpiSkk2OTFMNWVMV1IybjhyelpLcENpaXQ5dUZSNFlibFVNUVdpN2NSWV9vb2JpT0taLWdUZkxqUHd0aXRreWt3RnJHcU13OXAtSlYwcWFBZDhwLUQ2SVNkZFZwSTF6a3pvRzRySlZMeTBLNW43djA2NDYySkZYdFFSSHQwX2d0ZUJUN0RSSk1uUVhyVUE?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWWJ4eEFxSk9SZVB6ZGt6WUVvZmQ5b3IwRXl2RXZIQ2N5RmFfWVVxRDNUWThwUHE2Qi1pdWEwbThyT1BqUmJKNUZjSXJwRzR2a1ZuZDBjZ2dGazh3a0QwR1FGaUZuUEUyNTliTVVqZmFWZzdzS1pOczRUNjc0SjVJQi10bFVnWjI5aW9XN1VMWnFMdEV4Mk9VZ2puaU5xUmJfMHZWMHJLd1RzaE14a1hoQWROYnhjMGpj0gG-AUFVX3lxTE9nRU8waEhESmpGblRQV1l6N01aMXZnY3R1S21GVmd6aTdpZEFJOEpaTnpiSkk2OTFMNWVMV1IybjhyelpLcENpaXQ5dUZSNFlibFVNUVdpN2NSWV9vb2JpT0taLWdUZkxqUHd0aXRreWt3RnJHcU13OXAtSlYwcWFBZDhwLUQ2SVNkZFZwSTF6a3pvRzRySlZMeTBLNW43djA2NDYySkZYdFFSSHQwX2d0ZUJUN0RSSk1uUVhyVUE?oc=5",
-      "source": "la Repubblica",
-      "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-04-08T07:00:00.000Z",
-      "excerpt": "Caso Delmastro, la moglie di Caroccia in lacrime ai pm: “Lui ci ha solo aiutato”",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "repubblica.it__la repubblica__sequestro boss clan senese patrimonio milione euro conti rosso__2026-04-08T07:00:00.000Z",
-      "title": "Sequestro ai boss del clan Senese: patrimonio di un milione di euro con conti in rosso",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWpzU0lubUxhdUtMblVyMDlqYXdqM3RJQUs3cXBtQmtlcERraXFmWHJYX0JaenFOanZDZUZNSVU2cGh6U2cwZGdIbHkzUkEzZ1IxVlhSM1hwUGIydG1KVjh2eGlJS19Ub1BlQ043aEVzdnk5MUZyZzdwQlJMLVJLLTNkUkRudktFQXdJdTNhbFpkOFdnMFpVMXVBYnBndWxvaHNoVkVnWmRudlo0Q3lOc1VEeDRfd9IBuwFBVV95cUxNMTExQnpkR0hvV1FBTGM0OURRenBKSUYwQkl2NGVCMnBWZGdqSXNZWjNteURyS1RaSWdQbEthQXY3c2Y3UUp1NVZNa1Nra3U4ajFCWm8yNk1fTUlpNXZiQkpvNVFRTEVPZnFSYWlsaE81TUJJQzJBNEZ1S1d4MDhwck02bWdWWVFBeG5jcG1BMUtHUjhkNFpuXzFjOW9LcjdNS0NjS0V2N1RxMlBrLXVMaFdfX21EbzFjWTZN?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWpzU0lubUxhdUtMblVyMDlqYXdqM3RJQUs3cXBtQmtlcERraXFmWHJYX0JaenFOanZDZUZNSVU2cGh6U2cwZGdIbHkzUkEzZ1IxVlhSM1hwUGIydG1KVjh2eGlJS19Ub1BlQ043aEVzdnk5MUZyZzdwQlJMLVJLLTNkUkRudktFQXdJdTNhbFpkOFdnMFpVMXVBYnBndWxvaHNoVkVnWmRudlo0Q3lOc1VEeDRfd9IBuwFBVV95cUxNMTExQnpkR0hvV1FBTGM0OURRenBKSUYwQkl2NGVCMnBWZGdqSXNZWjNteURyS1RaSWdQbEthQXY3c2Y3UUp1NVZNa1Nra3U4ajFCWm8yNk1fTUlpNXZiQkpvNVFRTEVPZnFSYWlsaE81TUJJQzJBNEZ1S1d4MDhwck02bWdWWVFBeG5jcG1BMUtHUjhkNFpuXzFjOW9LcjdNS0NjS0V2N1RxMlBrLXVMaFdfX21EbzFjWTZN?oc=5",
-      "source": "la Repubblica",
-      "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-08T07:00:00.000Z",
-      "excerpt": "Sequestro ai boss del clan Senese: patrimonio di un milione di euro con conti in rosso",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "corriere.it__corriere roma__sequestri clan senese retroscena ristoranti caseifici idrocarburi riciclare__2026-04-08T07:00:00.000Z",
-      "title": "Sequestri al clan Senese, i retroscena: ristoranti, caseifici e idrocarburi per riciclare",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPRllmRl90SXN5R3RYVmlBVWJKa0JsYlhqZlAtV1M5M1NHSWEydGQ3SUZBLVJ4OFhSLWhpSFBjRFhqRHhnS242bHpRUzh2cWdSOHZlUVlqY3pVNUtiZXlUWTROeUxUaGNyU09ySmRsTEtnam9nT216TWxhUnhoTlQzMmNPdWlFZ0trOTdyVlE5dDRMY0o0bEVRYWlTYlotQUxZN1ZOQlBqM04zQjRXLWpqYVVkaXVtczVvaGRmYkphT3ZvcEhnWDZSTnBKTEdXUDNKYVIxSkFDRExRUGwtbTY4dVF3eHN5cVY2S2tmZnRibGhUNjlKOEs5TEJudmFaMXhlWkdjYVJQcTBQZ21lWk5vbNIBlgJBVV95cUxNNTQ2eTJ1VXRvTEJJNXcwbF9fVWhFVVBGam5uQklWclBwUU42UDN0b0tyREczZC03TVQxM0oxN0ZIV1JPcjkyUHl1TlRLX2podDVFV0RNMFpGaXg1TEVDM2RCT3l4bC0tTFhLWTRtWTh1Y1hOa0ZIRDRIUzVrbzBmSTJfb3pCUkhhOTg5Y0sxWXNyWEJUSHNZS2gxWmdfMUsxR2JUSWZNS3RPQzhfcXZjZEtjdExZV2ktNkR3c1BxUTlnemJ3QUdJRUp6aWZSUVY3Wk1tX3JmY1J3Z2JtRFU2Z0RsYk1pcWRBWVRpSVJuNXVXU3hjMEI4aC1RUWcyLWFTVG80QURfZkVJNzZQQVBETVJIY0RwQQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPRllmRl90SXN5R3RYVmlBVWJKa0JsYlhqZlAtV1M5M1NHSWEydGQ3SUZBLVJ4OFhSLWhpSFBjRFhqRHhnS242bHpRUzh2cWdSOHZlUVlqY3pVNUtiZXlUWTROeUxUaGNyU09ySmRsTEtnam9nT216TWxhUnhoTlQzMmNPdWlFZ0trOTdyVlE5dDRMY0o0bEVRYWlTYlotQUxZN1ZOQlBqM04zQjRXLWpqYVVkaXVtczVvaGRmYkphT3ZvcEhnWDZSTnBKTEdXUDNKYVIxSkFDRExRUGwtbTY4dVF3eHN5cVY2S2tmZnRibGhUNjlKOEs5TEJudmFaMXhlWkdjYVJQcTBQZ21lWk5vbNIBlgJBVV95cUxNNTQ2eTJ1VXRvTEJJNXcwbF9fVWhFVVBGam5uQklWclBwUU42UDN0b0tyREczZC03TVQxM0oxN0ZIV1JPcjkyUHl1TlRLX2podDVFV0RNMFpGaXg1TEVDM2RCT3l4bC0tTFhLWTRtWTh1Y1hOa0ZIRDRIUzVrbzBmSTJfb3pCUkhhOTg5Y0sxWXNyWEJUSHNZS2gxWmdfMUsxR2JUSWZNS3RPQzhfcXZjZEtjdExZV2ktNkR3c1BxUTlnemJ3QUdJRUp6aWZSUVY3Wk1tX3JmY1J3Z2JtRFU2Z0RsYk1pcWRBWVRpSVJuNXVXU3hjMEI4aC1RUWcyLWFTVG80QURfZkVJNzZQQVBETVJIY0RwQQ?oc=5",
-      "source": "Corriere Roma",
-      "sourceHost": "corriere.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-08T07:00:00.000Z",
-      "excerpt": "Sequestri al clan Senese, i retroscena: ristoranti, caseifici e idrocarburi per riciclare",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "corriere.it__corriere roma__clan senese cosi alvise leopoldo l amico pluto gestivano affari spaccio droga__2026-04-08T07:00:00.000Z",
-      "title": "Clan Senese, così Alvise, Leopoldo e l'amico «Pluto» gestivano gli affari e lo spaccio di droga",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQSVk3dXc2N2NXX3B1SHhBcHMySDU0REVGd2daSnhhRmZTdWUwRnlCWENZam9zYTB2YWxDcTZjREFYMFVzdDN0alUtX2tWUW9GeEFjX1ZNdHNKYW1KT3FjWGVKZjhKS2xPUUFYcE1JeHZDZkhDT2pMb0ZwMjRFeUtpSTV4UlBFQVpqRkhMT2wtMWMtN2VCSjB3ZHF1bFJXRWZmcF83V1dqTE1WU1FqTzhmbFFKZmhfNkdxVFJZWUR2S1B5TmlSWkJNa2pOUkdPTGlaTVE5T2FmWHU5SFpIbXBhclJaeDNiTFFubGVHNEt2UHZOR0QtWUhyVEVLeGhUOWNNVUh2MlcydmZwTWswbWtzNmpveUpnb2_SAZwCQVVfeXFMTXQ3c0VZVGRwaUhDNndydUJzd3o5blh5RkpWYXNiSFJhc1pyM3lyMHE4Y2NrcHl6Um90aDZNdFk1Rk1sbHAzTFA2dGtUc0NUa3BUZUI5bno5YTNGZVo5bXhjU1R6OGRaeU5MeWdsdVZRMFFfODltMEs2OVFvRDRxYmF1NHREZW52dU9wZVVRYTRpU2lLTXlKa1BhRUJOUUxnaGktY0JiUmZCMUN5WUhmSG1SOWY0RldJeHlfWTNoeGgydGl4UkVnY2NOVGdPeWpJeHpvdnlaOEtDN2JFbWNHMFJhenkyc0xrM2FOaGJNN2pWYXZHRGMwT2x3YU14aDVpRi1LbEdQMDVQUlZFZDAzVFhBWGQ4aXlUMGI4U1Q?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQSVk3dXc2N2NXX3B1SHhBcHMySDU0REVGd2daSnhhRmZTdWUwRnlCWENZam9zYTB2YWxDcTZjREFYMFVzdDN0alUtX2tWUW9GeEFjX1ZNdHNKYW1KT3FjWGVKZjhKS2xPUUFYcE1JeHZDZkhDT2pMb0ZwMjRFeUtpSTV4UlBFQVpqRkhMT2wtMWMtN2VCSjB3ZHF1bFJXRWZmcF83V1dqTE1WU1FqTzhmbFFKZmhfNkdxVFJZWUR2S1B5TmlSWkJNa2pOUkdPTGlaTVE5T2FmWHU5SFpIbXBhclJaeDNiTFFubGVHNEt2UHZOR0QtWUhyVEVLeGhUOWNNVUh2MlcydmZwTWswbWtzNmpveUpnb2_SAZwCQVVfeXFMTXQ3c0VZVGRwaUhDNndydUJzd3o5blh5RkpWYXNiSFJhc1pyM3lyMHE4Y2NrcHl6Um90aDZNdFk1Rk1sbHAzTFA2dGtUc0NUa3BUZUI5bno5YTNGZVo5bXhjU1R6OGRaeU5MeWdsdVZRMFFfODltMEs2OVFvRDRxYmF1NHREZW52dU9wZVVRYTRpU2lLTXlKa1BhRUJOUUxnaGktY0JiUmZCMUN5WUhmSG1SOWY0RldJeHlfWTNoeGgydGl4UkVnY2NOVGdPeWpJeHpvdnlaOEtDN2JFbWNHMFJhenkyc0xrM2FOaGJNN2pWYXZHRGMwT2x3YU14aDVpRi1LbEdQMDVQUlZFZDAzVFhBWGQ4aXlUMGI4U1Q?oc=5",
-      "source": "Corriere Roma",
-      "sourceHost": "corriere.it",
-      "queryLabel": "Soci e societa'",
-      "matchedTerms": [
-        "Caroccia",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl",
-        "clan Senese"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-08T07:00:00.000Z",
-      "excerpt": "Clan Senese, così Alvise, Leopoldo e l'amico «Pluto» gestivano gli affari e lo spaccio di droga",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "fanpage.it__fanpage__meloni spieghi rapporti clan senese fratelli d italia invece prendersela coi giornali__2026-04-08T07:00:00.000Z",
-      "title": "Meloni spieghi i rapporti tra il clan Senese e Fratelli d’Italia, invece di prendersela coi giornali",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMmpCZHJkczBBOTFYUG9CbnhVbzl2d01qT2lEbzlRMkRsd0d5a2ZDMld4dlV6amxsUlVoWnhGYTRNMUxjQ2N4TW5veHU4RjE3eDE0QzlZYmF4LTBVN3FOb3hEYnhUVVg1ZkNHLXY5Y0x3clFCR1FFV3VtYy05eXYyNFh1aDhIamhMSmVGTDhrOFhFZWVudnRYb0lLQXJsSXhYd2cxMjJuWlc5ZHRveUxOVG5jRVZubEFUSm4tMndzMng3dkk2RHVhdkxDMA?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMmpCZHJkczBBOTFYUG9CbnhVbzl2d01qT2lEbzlRMkRsd0d5a2ZDMld4dlV6amxsUlVoWnhGYTRNMUxjQ2N4TW5veHU4RjE3eDE0QzlZYmF4LTBVN3FOb3hEYnhUVVg1ZkNHLXY5Y0x3clFCR1FFV3VtYy05eXYyNFh1aDhIamhMSmVGTDhrOFhFZWVudnRYb0lLQXJsSXhYd2cxMjJuWlc5ZHRveUxOVG5jRVZubEFUSm4tMndzMng3dkk2RHVhdkxDMA?oc=5",
-      "source": "Fanpage",
-      "sourceHost": "fanpage.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-08T07:00:00.000Z",
-      "excerpt": "Meloni spieghi i rapporti tra il clan Senese e Fratelli d’Italia, invece di prendersela coi giornali",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "fanpage.it__fanpage__delmastro moglie caroccia lacrime colpa nostra associato senese non volevamo danneggiarlo__2026-04-08T07:00:00.000Z",
-      "title": "Delmastro, la moglie di Caroccia in lacrime: \"Per colpa nostra associato ai Senese, non volevamo danneggiarlo\"",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZncwZmJXUWJTZmFkMk5fTDJ4dkNxRjQyY09QOGtGT1A0Wm8zaWVGSFlEbHp5OV9KVmQ2cVN6c1BpT3YtOVpwbmRrQ3otWUJORHBpVzl0WHZIQUdFY2pfeDhyMEJxckFFNUtLdnNDWkN0V3lLLXRwbzZZWnhoTnFCSWh2NzRMWGhtUzczRXE4LUlYRXk4T09SbmNLYzJGWTd3UFhsaG9FOUVuT3daVEt4MGZOR3AzNE9zR01tdkVoM05EOWFYWkxSZ0lzX3F4WnJTSFRlVg?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZncwZmJXUWJTZmFkMk5fTDJ4dkNxRjQyY09QOGtGT1A0Wm8zaWVGSFlEbHp5OV9KVmQ2cVN6c1BpT3YtOVpwbmRrQ3otWUJORHBpVzl0WHZIQUdFY2pfeDhyMEJxckFFNUtLdnNDWkN0V3lLLXRwbzZZWnhoTnFCSWh2NzRMWGhtUzczRXE4LUlYRXk4T09SbmNLYzJGWTd3UFhsaG9FOUVuT3daVEt4MGZOR3AzNE9zR01tdkVoM05EOWFYWkxSZ0lzX3F4WnJTSFRlVg?oc=5",
-      "source": "Fanpage",
-      "sourceHost": "fanpage.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "societa'"
-      ],
-      "publishedAt": "2026-04-08T07:00:00.000Z",
-      "excerpt": "Delmastro, la moglie di Caroccia in lacrime: \"Per colpa nostra associato ai Senese, non volevamo danneggiarlo\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "today.it__today.it__caso delmastro sequestrato telefono mauro caroccia cosa si cerca nei messaggi__2026-04-08T07:00:00.000Z",
-      "title": "Caso Delmastro, sequestrato il telefono a Mauro Caroccia: cosa si cerca nei messaggi",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeTVkMGhVcGlyamRCeTZmdnc1LVRoRnU1d2ktMlRCTEdWdUQzeW83OEJCMlZPVXZVYTNJWGNWWTdmd21DTmxaWU8wV3RLc0Z2QlFzQ2JiQkNBRGtKSElvcEpKVVJuYUphQ3AwdmhzSVBrZEVVVkF3X054U1JUUGM2bXlKU0wxVF82eGdXT1Bn0gGOAUFVX3lxTE9xc193TXMyWGxKQ1dDZkp1SnNPVkl2RmJzdWFFajNpQjRldWVrOElzR3JTODBfQldVYjJSQXNfZUZoeWxjcWJWUEI5djhJSUY5M3kyS1lWb3FUU2tIc2pLTTVjTmliWmNnUGMxUmhOY0hJR2owU3A1cXJrRnJOUGcxdkZpaE12X0V3UjNhR1E?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeTVkMGhVcGlyamRCeTZmdnc1LVRoRnU1d2ktMlRCTEdWdUQzeW83OEJCMlZPVXZVYTNJWGNWWTdmd21DTmxaWU8wV3RLc0Z2QlFzQ2JiQkNBRGtKSElvcEpKVVJuYUphQ3AwdmhzSVBrZEVVVkF3X054U1JUUGM2bXlKU0wxVF82eGdXT1Bn0gGOAUFVX3lxTE9xc193TXMyWGxKQ1dDZkp1SnNPVkl2RmJzdWFFajNpQjRldWVrOElzR3JTODBfQldVYjJSQXNfZUZoeWxjcWJWUEI5djhJSUY5M3kyS1lWb3FUU2tIc2pLTTVjTmliWmNnUGMxUmhOY0hJR2owU3A1cXJrRnJOUGcxdkZpaE12X0V3UjNhR1E?oc=5",
-      "source": "today.it",
-      "sourceHost": "today.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-08T07:00:00.000Z",
-      "excerpt": "Caso Delmastro, sequestrato il telefono a Mauro Caroccia: cosa si cerca nei messaggi",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "huffingtonpost.it__huffpost italia__filo arianna meloni piomba piemonte sistemare caos post delmastro__2026-04-08T07:00:00.000Z",
-      "title": "Il Filo di Arianna. Meloni piomba in Piemonte per sistemare il caos del post-Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbDEyb0dzMmtfMXRFanRFbUd3TFRWdXlvTTV4WHFEeWY0R254ZGRGMGxYODBNUUZjaFFxcmhxQkNZWmFlNlNiTWhLRUMycVpKUlVPeVg0ZU1LRGNFU05RV3E1ZVdaTThZSnpQRHhNd3ZPeE5YeHhXTG00VDhEYzExbTB4d2I1ZjVYcFBsUHRjT0pGQkZIZU5jdFJ5WkE5YkVPQmtaNFRTcEJ4dmdIbWxNUWJvUFU3NzFqOGtRQU1kSlRmOGZjdDljcWhibzVpTFo0NWd6QnFPaHBNWHFscEVZWVl3czNPNE5qay1Z?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbDEyb0dzMmtfMXRFanRFbUd3TFRWdXlvTTV4WHFEeWY0R254ZGRGMGxYODBNUUZjaFFxcmhxQkNZWmFlNlNiTWhLRUMycVpKUlVPeVg0ZU1LRGNFU05RV3E1ZVdaTThZSnpQRHhNd3ZPeE5YeHhXTG00VDhEYzExbTB4d2I1ZjVYcFBsUHRjT0pGQkZIZU5jdFJ5WkE5YkVPQmtaNFRTcEJ4dmdIbWxNUWJvUFU3NzFqOGtRQU1kSlRmOGZjdDljcWhibzVpTFo0NWd6QnFPaHBNWHFscEVZWVl3czNPNE5qay1Z?oc=5",
-      "source": "HuffPost Italia",
-      "sourceHost": "huffingtonpost.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "territorio"
-      ],
-      "publishedAt": "2026-04-08T07:00:00.000Z",
-      "excerpt": "Il Filo di Arianna. Meloni piomba in Piemonte per sistemare il caos del post-Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilgiornale.it__il giornale__dda setaccia telefono caroccia faro sul prestito delmastro locale__2026-04-08T07:00:00.000Z",
-      "title": "La Dda setaccia il telefono di Caroccia. Faro sul prestito di Delmastro al locale",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOblVWbVh6elJHU0xmdnVqcldTOGt2dDhuUmxNOXNJelQ0bWZtZy1RMEk2SU9NcU8xOGJ6RkdIQkVYT01fdVJGMXBtS3ZwNnpBZzF3R3c3ejRHcHV4MkZfdFphZzhobWZPRVRDX0cyV2VYYVU4X3R0WjZib29DelluS3FJdWtPVEwtbzRWSlRnY3J1ZWMtZkJDQnBQcTg2UnJadVU0OG1wTkdfU1hUWmFLTA?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOblVWbVh6elJHU0xmdnVqcldTOGt2dDhuUmxNOXNJelQ0bWZtZy1RMEk2SU9NcU8xOGJ6RkdIQkVYT01fdVJGMXBtS3ZwNnpBZzF3R3c3ejRHcHV4MkZfdFphZzhobWZPRVRDX0cyV2VYYVU4X3R0WjZib29DelluS3FJdWtPVEwtbzRWSlRnY3J1ZWMtZkJDQnBQcTg2UnJadVU0OG1wTkdfU1hUWmFLTA?oc=5",
-      "source": "il Giornale",
-      "sourceHost": "ilgiornale.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-08T07:00:00.000Z",
-      "excerpt": "La Dda setaccia il telefono di Caroccia. Faro sul prestito di Delmastro al locale",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "liberoquotidiano.it__libero quotidiano__sequestrato telefono caroccia setaccio messaggi delmastro libero quotidiano it__2026-04-08T07:00:00.000Z",
-      "title": "Sequestrato il telefono di Caroccia: al setaccio i messaggi con Delmastro | Libero Quotidiano.it",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcUpQanJNeUdQMktYUGh3YkZVdmZ4RHNPUXRUejNiWDFKM1RUNXg4a3FFaDdqc2NQbFJGSVZLWW45cXZqM21KR09NbGNQQWplZlFlLXo5UHNFVU0zZ2JaUUlrWC1iNi1KbXVKcXVRblVZZ2kxdl9SalYzOW1IWUk2d2phT09uRVhhYVl2VVRaSlNMdFBCNGZMSloxUmc1OVcyTUQwUE1FMkRwREhGSVdlS3RNcDBxV3NFcjNDS044Q1NfckVMTi1Z0gHLAUFVX3lxTE5kbUo2UW00Und3THotWjNpQVNiUjRxaHFhcUtyYmtoM1NnNGhESlhmdVlaMktCOEdwTmdOWm1qUHQxRlZCQUF1NHZodW94Xzc2X1RsQVF2ZEd1V2tSMlFTWUlrZjVRQ3BVR2hKUUx6amw3NXlIUS1VOGxGeUstRzlGNEUzdGdiZEpfRUdtbzFfR3RYY3h0bVVHNEYwa2lXZi1pcFpVSnVRMVluaE9ieVRON1hYWkF0YTREelE4UVotaXF5bkQ1X2NmanpN?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcUpQanJNeUdQMktYUGh3YkZVdmZ4RHNPUXRUejNiWDFKM1RUNXg4a3FFaDdqc2NQbFJGSVZLWW45cXZqM21KR09NbGNQQWplZlFlLXo5UHNFVU0zZ2JaUUlrWC1iNi1KbXVKcXVRblVZZ2kxdl9SalYzOW1IWUk2d2phT09uRVhhYVl2VVRaSlNMdFBCNGZMSloxUmc1OVcyTUQwUE1FMkRwREhGSVdlS3RNcDBxV3NFcjNDS044Q1NfckVMTi1Z0gHLAUFVX3lxTE5kbUo2UW00Und3THotWjNpQVNiUjRxaHFhcUtyYmtoM1NnNGhESlhmdVlaMktCOEdwTmdOWm1qUHQxRlZCQUF1NHZodW94Xzc2X1RsQVF2ZEd1V2tSMlFTWUlrZjVRQ3BVR2hKUUx6amw3NXlIUS1VOGxGeUstRzlGNEUzdGdiZEpfRUdtbzFfR3RYY3h0bVVHNEYwa2lXZi1pcFpVSnVRMVluaE9ieVRON1hYWkF0YTREelE4UVotaXF5bkQ1X2NmanpN?oc=5",
-      "source": "Libero Quotidiano",
-      "sourceHost": "liberoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-08T07:00:00.000Z",
-      "excerpt": "Sequestrato il telefono di Caroccia: al setaccio i messaggi con Delmastro | Libero Quotidiano.it",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "rainews.it__rainews__moglie caroccia noi delmastro stata manna cielo__2026-04-08T07:00:00.000Z",
-      "title": "La moglie di Caroccia: \"Per noi Delmastro è stata una manna dal cielo\"",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcVQtWU1hZnF1cXN4TFVXTkhjSGJrcTl2eHM5cDZqbkpQZndOLXp0TWZEbGQ0aURwTlQ3cTdsQ1VKQ1B3MmJoTkZEcHRGOGRsSll0N2xOYko4QzkwMkFfZkp2MFA1YmpQVWxaQWltREhyalZJbUIzalV6S0NySzU4UlRyNGNyTGhqdDV2R0VxdkZsNmh6TVJpcGtqVmY2MFI3cGE1SHJRLWlUaDBqdGJySHBxV0FTaXg0NU84WERaWGVpVDZtUGxBbUNMcmwwVTU4QlZ5amVZLWJFZWEtNFdxS3VnSkt1cjFSbGdvbWxJZTZKd9IB9wFBVV95cUxNTnRYZHhmaUhSMDFSV20xX0t3SGhvT2lwSlZDZXlIV0IxMEw1N1JFYWtJT3FPMkNEb3FLQUFaUGdoZWZXb3VlWlA1TXktY0V0ZFlWdzFMZ2hZZ20yYjI4RmN1aEVIYldxcnNPel95ZHI4alJYZUE1a2lXSWx5WmFfMmk1aHo0NjV5aFJiX3NnbHdTSk9rYl8tYVJtclB1cmlPQW10NVFCSGZZb1RIbXFPMjZGOE02M2h3Wklkc0xHa2F5bThRNFJvOXlQNzJPYk5uS0RrZFpnZTBsUUZGdnltdkF0NzRSc3JZYjJvaTE1QWRnTDE5SlhZ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcVQtWU1hZnF1cXN4TFVXTkhjSGJrcTl2eHM5cDZqbkpQZndOLXp0TWZEbGQ0aURwTlQ3cTdsQ1VKQ1B3MmJoTkZEcHRGOGRsSll0N2xOYko4QzkwMkFfZkp2MFA1YmpQVWxaQWltREhyalZJbUIzalV6S0NySzU4UlRyNGNyTGhqdDV2R0VxdkZsNmh6TVJpcGtqVmY2MFI3cGE1SHJRLWlUaDBqdGJySHBxV0FTaXg0NU84WERaWGVpVDZtUGxBbUNMcmwwVTU4QlZ5amVZLWJFZWEtNFdxS3VnSkt1cjFSbGdvbWxJZTZKd9IB9wFBVV95cUxNTnRYZHhmaUhSMDFSV20xX0t3SGhvT2lwSlZDZXlIV0IxMEw1N1JFYWtJT3FPMkNEb3FLQUFaUGdoZWZXb3VlWlA1TXktY0V0ZFlWdzFMZ2hZZ20yYjI4RmN1aEVIYldxcnNPel95ZHI4alJYZUE1a2lXSWx5WmFfMmk1aHo0NjV5aFJiX3NnbHdTSk9rYl8tYVJtclB1cmlPQW10NVFCSGZZb1RIbXFPMjZGOE02M2h3Wklkc0xHa2F5bThRNFJvOXlQNzJPYk5uS0RrZFpnZTBsUUZGdnltdkF0NzRSc3JZYjJvaTE1QWRnTDE5SlhZ?oc=5",
-      "source": "RaiNews",
-      "sourceHost": "rainews.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-08T07:00:00.000Z",
-      "excerpt": "La moglie di Caroccia: \"Per noi Delmastro è stata una manna dal cielo\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__cellulare segreto caroccia pm caccia degli sms delmastro__2026-04-08T07:00:00.000Z",
-      "title": "Il cellulare segreto di Caroccia: i pm a caccia degli sms con Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNejBCc2VpT3BPcVF2ZEpFSmVmMTNCaFBUaEVUTkJfaDNXcjFZTmtiWWhiRDVsUW84WTU3Yi1DcEhhVzBNNEpNQkItUlJ3eHlKMk5Ybm9CcHpGaUFTQUF0eGo0Q3VwVG5Hd0N0UVF4cGR6d0RldGs2cmlDRTRLdlhtRUNfTGtZUVU5YWttT1FhQzZjdzMtR0diMHZ3RFp1dmlGOHlZYnRON3RRbXIzSjZSVHNJS1IzelNGY3FETy02dFRPZ3lNQ21oRTJUYlotNHRtdDdMdEtkQS1oQ00?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNejBCc2VpT3BPcVF2ZEpFSmVmMTNCaFBUaEVUTkJfaDNXcjFZTmtiWWhiRDVsUW84WTU3Yi1DcEhhVzBNNEpNQkItUlJ3eHlKMk5Ybm9CcHpGaUFTQUF0eGo0Q3VwVG5Hd0N0UVF4cGR6d0RldGs2cmlDRTRLdlhtRUNfTGtZUVU5YWttT1FhQzZjdzMtR0diMHZ3RFp1dmlGOHlZYnRON3RRbXIzSjZSVHNJS1IzelNGY3FETy02dFRPZ3lNQ21oRTJUYlotNHRtdDdMdEtkQS1oQ00?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-04-08T07:00:00.000Z",
-      "excerpt": "Il cellulare segreto di Caroccia: i pm a caccia degli sms con Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     }

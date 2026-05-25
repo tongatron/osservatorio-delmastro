@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T21:32:26.142Z",
+  "generatedAt": "2026-05-25T22:29:38.914Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-04-10T21:32:26.142Z",
-    "to": "2026-05-25T21:32:26.142Z",
+    "from": "2026-04-10T22:29:38.914Z",
+    "to": "2026-05-25T22:29:38.914Z",
     "days": 45
   },
   "sources": [
@@ -160,6 +160,10 @@
       "articleCount": 3
     },
     {
+      "label": "affaritaliani.it",
+      "articleCount": 3
+    },
+    {
       "label": "adnkronos.com",
       "articleCount": 3
     },
@@ -176,10 +180,6 @@
       "articleCount": 2
     },
     {
-      "label": "affaritaliani.it",
-      "articleCount": 2
-    },
-    {
       "label": "ilbiellese.it",
       "articleCount": 1
     },
@@ -191,18 +191,18 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 202,
-      "uniqueArticles": 100
+      "fetchedArticles": 204,
+      "uniqueArticles": 101
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 55,
-      "uniqueArticles": 13
+      "fetchedArticles": 51,
+      "uniqueArticles": 12
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 46,
-      "uniqueArticles": 3
+      "fetchedArticles": 47,
+      "uniqueArticles": 4
     },
     {
       "label": "Bisteccheria",
@@ -226,7 +226,7 @@
     },
     {
       "tag": "giudiziaria",
-      "count": 14
+      "count": 15
     },
     {
       "tag": "bisteccheria",
@@ -242,10 +242,6 @@
     }
   ],
   "timeline": [
-    {
-      "date": "2026-04-10",
-      "count": 0
-    },
     {
       "date": "2026-04-11",
       "count": 3
@@ -292,7 +288,7 @@
     },
     {
       "date": "2026-04-22",
-      "count": 18
+      "count": 19
     },
     {
       "date": "2026-04-23",
@@ -425,6 +421,10 @@
     {
       "date": "2026-05-25",
       "count": 1
+    },
+    {
+      "date": "2026-05-26",
+      "count": 0
     }
   ],
   "articles": [
@@ -2246,6 +2246,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "affaritaliani.it__affaritaliani__cospito procura roma chiede l assoluzione delmastro__2026-04-22T07:00:00.000Z",
+      "title": "Cospito, la procura di Roma chiede l’assoluzione per Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSndWaTVrWHI2LWc2cDVBRG9iZDRvNndmNHRoeXZpdVB5RTJsSWVvUV9nNi1VNmJLaXdzRy01TEhaZ0JjZEZrN0puMkFOdzgwRlZ1ZlZsRzlLeFZQM0pTeXNkWU45QTN4b3pYcHNnYUJ1WDN2YTVFZVFxVmxlWC1pMGIzeXJoZnVyNHVEWWR6SURtUTN3LU5ibkFfNW1razEzdEZqUUdB?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSndWaTVrWHI2LWc2cDVBRG9iZDRvNndmNHRoeXZpdVB5RTJsSWVvUV9nNi1VNmJLaXdzRy01TEhaZ0JjZEZrN0puMkFOdzgwRlZ1ZlZsRzlLeFZQM0pTeXNkWU45QTN4b3pYcHNnYUJ1WDN2YTVFZVFxVmxlWC1pMGIzeXJoZnVyNHVEWWR6SURtUTN3LU5ibkFfNW1razEzdEZqUUdB?oc=5",
+      "source": "Affaritaliani",
+      "sourceHost": "affaritaliani.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-04-22T07:00:00.000Z",
+      "excerpt": "Cospito, la procura di Roma chiede l’assoluzione per Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "lastampa.it__la stampa__caso delmastro guardia finanza pronta indagare sulla societa biellese__2026-04-21T07:00:00.000Z",
       "title": "Caso Delmastro, la Guardia di finanza pronta a indagare sulla società biellese",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOckllUHZPN3ozQ3FMUzBERmVSMmNiSnBMV1p3X0NPaVpCRDd6Y1FiSjV0cnZlRzA4WkNsRGRvMUFmckJqbFg3NnhlUTRuZ2dJeGhZWlZaZkhZYUwxVXd1Q2RsbkczTGdMYjRuQUthQ0pmaFk1emE5VGtVcEtZX2s0V3dwYTJyVWlvUUxGS0N3aFdZVHZrLXZkc3R0dDZmdk1UajJmOVBOVVB0TGJmOWM4VU0ybk9lUjgxVjR6NkJWU1hManNGNGdncy1VTHNLME0xRjBn0gHYAUFVX3lxTFBZSkJTS2pzQTlfZ1laYnpzZ1M3LTJHMzIzVWhuekhQTFMxTmxaYVRxRUlNMVBIMkhqSkFjOFBQUW8zWmtvSTdJeHFTUGdiZldqX2FPN2VuUDRqV1otSzZMdTFYLXphdWN5b1ZUR3E2WVRpMTBYSVhROE5BeTFVcHg2QVVOeTNRNzF3emRvZ0tVdkpQTnFyV00wUTBHT3lTTTR3bmsyVldJWWhmX2QxaTlCUUZHQjlMLWxWamR4WnlBTHE5aVRwcVEyblM2VDRfLXJiLWFHaWl5Rw?oc=5",
@@ -2421,14 +2441,11 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbEhpWklVd29fUmVwZHRSeFE4Q2J0blVWMmp0QzJHR09pRmJmOE5VNlhYNUU4NXcwQXVveUZ4amZkMHA1cVNsYjBrT3FrcGQydXdZQjhSekJMTTNuZkxZcXUwdzk5MFJLRWV1RzJHdTJ6RDItU1poX0VHRFg4V3gxNkpja1g5eDg5MVlJdF9QSU4zcDBx?oc=5",
       "source": "Open",
       "sourceHost": "open.online",
-      "queryLabel": "Soci e societa'",
+      "queryLabel": "Persone collegate",
       "matchedTerms": [
-        "Caroccia",
+        "Elena Chiorino",
         "Cristiano Franceschini",
         "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl",
         "clan Senese"
       ],
       "tags": [

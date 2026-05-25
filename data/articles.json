@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T05:42:31.177Z",
+  "generatedAt": "2026-05-25T07:51:55.724Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,38 +94,38 @@
     ]
   },
   "window": {
-    "from": "2026-04-10T05:42:31.177Z",
-    "to": "2026-05-25T05:42:31.177Z",
+    "from": "2026-04-10T07:51:55.724Z",
+    "to": "2026-05-25T07:51:55.724Z",
     "days": 45
   },
   "sources": [
     {
       "label": "repubblica.it",
-      "articleCount": 20
-    },
-    {
-      "label": "ilfattoquotidiano.it",
       "articleCount": 19
     },
     {
+      "label": "ilfattoquotidiano.it",
+      "articleCount": 17
+    },
+    {
       "label": "lastampa.it",
-      "articleCount": 12
+      "articleCount": 10
     },
     {
       "label": "corriere.it",
-      "articleCount": 9
+      "articleCount": 8
     },
     {
       "label": "rainews.it",
       "articleCount": 8
     },
     {
-      "label": "ilgiornale.it",
+      "label": "fanpage.it",
       "articleCount": 6
     },
     {
-      "label": "fanpage.it",
-      "articleCount": 6
+      "label": "ilgiornale.it",
+      "articleCount": 5
     },
     {
       "label": "newsbiella.it",
@@ -160,10 +160,6 @@
       "articleCount": 3
     },
     {
-      "label": "affaritaliani.it",
-      "articleCount": 3
-    },
-    {
       "label": "adnkronos.com",
       "articleCount": 3
     },
@@ -173,6 +169,10 @@
     },
     {
       "label": "ilpost.it",
+      "articleCount": 2
+    },
+    {
+      "label": "affaritaliani.it",
       "articleCount": 2
     },
     {
@@ -191,50 +191,50 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 212,
-      "uniqueArticles": 105
+      "fetchedArticles": 196,
+      "uniqueArticles": 97
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 64,
+      "fetchedArticles": 63,
       "uniqueArticles": 15
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 37,
+      "fetchedArticles": 33,
       "uniqueArticles": 1
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 46,
+      "fetchedArticles": 43,
       "uniqueArticles": 1
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 30,
+      "fetchedArticles": 28,
       "uniqueArticles": 1
     }
   ],
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 66
+      "count": 63
     },
     {
       "tag": "politica",
-      "count": 25
+      "count": 24
     },
     {
       "tag": "giudiziaria",
-      "count": 17
+      "count": 14
     },
     {
       "tag": "bisteccheria",
-      "count": 12
+      "count": 11
     },
     {
       "tag": "territorio",
-      "count": 9
+      "count": 8
     },
     {
       "tag": "societa'",
@@ -244,7 +244,7 @@
   "timeline": [
     {
       "date": "2026-04-10",
-      "count": 7
+      "count": 0
     },
     {
       "date": "2026-04-11",
@@ -292,7 +292,7 @@
     },
     {
       "date": "2026-04-22",
-      "count": 19
+      "count": 18
     },
     {
       "date": "2026-04-23",
@@ -2212,26 +2212,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "affaritaliani.it__affaritaliani__cospito procura roma chiede l assoluzione delmastro__2026-04-22T07:00:00.000Z",
-      "title": "Cospito, la procura di Roma chiede l’assoluzione per Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSndWaTVrWHI2LWc2cDVBRG9iZDRvNndmNHRoeXZpdVB5RTJsSWVvUV9nNi1VNmJLaXdzRy01TEhaZ0JjZEZrN0puMkFOdzgwRlZ1ZlZsRzlLeFZQM0pTeXNkWU45QTN4b3pYcHNnYUJ1WDN2YTVFZVFxVmxlWC1pMGIzeXJoZnVyNHVEWWR6SURtUTN3LU5ibkFfNW1razEzdEZqUUdB?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSndWaTVrWHI2LWc2cDVBRG9iZDRvNndmNHRoeXZpdVB5RTJsSWVvUV9nNi1VNmJLaXdzRy01TEhaZ0JjZEZrN0puMkFOdzgwRlZ1ZlZsRzlLeFZQM0pTeXNkWU45QTN4b3pYcHNnYUJ1WDN2YTVFZVFxVmxlWC1pMGIzeXJoZnVyNHVEWWR6SURtUTN3LU5ibkFfNW1razEzdEZqUUdB?oc=5",
-      "source": "Affaritaliani",
-      "sourceHost": "affaritaliani.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-04-22T07:00:00.000Z",
-      "excerpt": "Cospito, la procura di Roma chiede l’assoluzione per Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "lastampa.it__la stampa__caso delmastro guardia finanza pronta indagare sulla societa biellese__2026-04-21T07:00:00.000Z",
       "title": "Caso Delmastro, la Guardia di finanza pronta a indagare sulla società biellese",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOckllUHZPN3ozQ3FMUzBERmVSMmNiSnBMV1p3X0NPaVpCRDd6Y1FiSjV0cnZlRzA4WkNsRGRvMUFmckJqbFg3NnhlUTRuZ2dJeGhZWlZaZkhZYUwxVXd1Q2RsbkczTGdMYjRuQUthQ0pmaFk1emE5VGtVcEtZX2s0V3dwYTJyVWlvUUxGS0N3aFdZVHZrLXZkc3R0dDZmdk1UajJmOVBOVVB0TGJmOWM4VU0ybk9lUjgxVjR6NkJWU1hManNGNGdncy1VTHNLME0xRjBn0gHYAUFVX3lxTFBZSkJTS2pzQTlfZ1laYnpzZ1M3LTJHMzIzVWhuekhQTFMxTmxaYVRxRUlNMVBIMkhqSkFjOFBQUW8zWmtvSTdJeHFTUGdiZldqX2FPN2VuUDRqV1otSzZMdTFYLXphdWN5b1ZUR3E2WVRpMTBYSVhROE5BeTFVcHg2QVVOeTNRNzF3emRvZ0tVdkpQTnFyV00wUTBHT3lTTTR3bmsyVldJWWhmX2QxaTlCUUZHQjlMLWxWamR4WnlBTHE5aVRwcVEyblM2VDRfLXJiLWFHaWl5Rw?oc=5",
@@ -2798,147 +2778,6 @@
       ],
       "publishedAt": "2026-04-11T07:00:00.000Z",
       "excerpt": "Ma cos’è questa storia dei rapporti tra il Clan Senese e i pezzi grossi di Fratelli d’Italia?",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "repubblica.it__la repubblica__meloni aula sussurri piantedosi delmastro santanche evitano parlamento__2026-04-10T07:00:00.000Z",
-      "title": "Meloni in aula, i sussurri di Piantedosi. Delmastro e Santanchè evitano il Parlamento",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONzlEeXpXOU0xTzBJMWdoLUNKUkJwN3ZmVF9pR201T1FsNU56bjd0bkFEY0U5MUdZenpiR0poR1h3aTllb01qbEV0MHZKWWRzczl0UmhiUEwtOV9UT1Itd0lYSGVXZ09fc0FnSEdDdkFERjNVYVN4Zm5sS2lPVGRsRnVfbUlpSk5yVGNTclZ4T3RwdUxHOE01WjI5TlVoQWV1WlpzcXg2dmw5MTDSAbABQVVfeXFMUGxybzliMENMZ2dhbFc0cXVWSXptSmFyLWRyd1ZybWFnSUU4MjJ0alcybmZ1QWpvMWVxSEJWTVUyNEpDVnVQVlU1SHQtbG4zRU1FUmRKd1pXdjNYcVByczlld3pSQWQ5Ukk2NG9vd2t6RmdsQi1NT0FRU1Z0QWpIOGZXOVJ4U1RkLW9IRzhadWt5VEpWclktQzBMbGNUUmtBcGxRaVpCbFE0Rk9WcnVVaTA?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONzlEeXpXOU0xTzBJMWdoLUNKUkJwN3ZmVF9pR201T1FsNU56bjd0bkFEY0U5MUdZenpiR0poR1h3aTllb01qbEV0MHZKWWRzczl0UmhiUEwtOV9UT1Itd0lYSGVXZ09fc0FnSEdDdkFERjNVYVN4Zm5sS2lPVGRsRnVfbUlpSk5yVGNTclZ4T3RwdUxHOE01WjI5TlVoQWV1WlpzcXg2dmw5MTDSAbABQVVfeXFMUGxybzliMENMZ2dhbFc0cXVWSXptSmFyLWRyd1ZybWFnSUU4MjJ0alcybmZ1QWpvMWVxSEJWTVUyNEpDVnVQVlU1SHQtbG4zRU1FUmRKd1pXdjNYcVByczlld3pSQWQ5Ukk2NG9vd2t6RmdsQi1NT0FRU1Z0QWpIOGZXOVJ4U1RkLW9IRzhadWt5VEpWclktQzBMbGNUUmtBcGxRaVpCbFE0Rk9WcnVVaTA?oc=5",
-      "source": "la Repubblica",
-      "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-10T07:00:00.000Z",
-      "excerpt": "Meloni in aula, i sussurri di Piantedosi. Delmastro e Santanchè evitano il Parlamento",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "corriere.it__corriere torino__chi daniela cameroni nuova assessora regionale che prende posto elena chiorino marrone delega lavoro__2026-04-10T07:00:00.000Z",
-      "title": "Chi è Daniela Cameroni, la nuova assessora regionale che prende il posto di Elena Chiorino. A Marrone la delega al Lavoro",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQTWI0WW9MUkw0c0hWbkpJcF9WczJNaGRFdC1WQUhybXlmSzdQN2xjaGpsUnN1bm83cFRLdHNjM3ozLVFmOGJBZ2pBOEg4UDhNdVhiTENaU1Z1RjBvTzlnQUhqckdNUlhWZ0MxVUp3MkRYT09RaExSTVR0YnM5SEptSVBSeFRqMGthTy14UjBsR0p5c01hTV8wX0tNUjlMbGpDRlM4dVJEekFDNzZkQXlGUXdJb3lCSlhUd3dzNXNOLXVkdnlVZ3JJOW9xcV9oX2pMeExWYW9IUUNFN00wWWlqc1ROcld0T0owREJVbXdobkRXNk1KMno1VEYxN0xUTjEyOVhMeGJyN3lnN3F3MlZnOXdfcVBMbG10dG4tbW9xQ1k4YTA3WmNleldMczVaV3hwXzR4YXRYNjZoekxFeVJNbdIBxgJBVV95cUxQT1FfNzROZDVCR3ZndVBRSC1Sa2U4VGNiVXFjeW02V0NHVURNejdfT0R4djhNWXoyay03ODdFXzJaN1U1a1RndzJfLWFGbjd6M1JGNHd5ZkhJVDRab2FBSjFHV0JxdkFGYl9GNE90WmRuX3NVejVJNEdxbWR2eDZndVpFOFltMGs1M0tyNWFXUmticGV5ME53UHFseWE0NWJQaFlwQVoxWDJOckFhQ0p3MVVCRXRVSkt1TFVVRnJuU0pRbW11RTRFc2lUTlczZ2twWFFZZ0J1Y3lldFNLcnB6SkRuR256ZDZ5TWo2bl9wc2xhaS1YenM5RUU1am5aTVFGX194U2xDdTZIVXFBMWo5dWhBWF8tM211S1hSVjVJQkVNN1ZRVS11aHlTa0Zqb1JfZi1JaFduRl8wckJpQ1JvckI2MWtjdw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQTWI0WW9MUkw0c0hWbkpJcF9WczJNaGRFdC1WQUhybXlmSzdQN2xjaGpsUnN1bm83cFRLdHNjM3ozLVFmOGJBZ2pBOEg4UDhNdVhiTENaU1Z1RjBvTzlnQUhqckdNUlhWZ0MxVUp3MkRYT09RaExSTVR0YnM5SEptSVBSeFRqMGthTy14UjBsR0p5c01hTV8wX0tNUjlMbGpDRlM4dVJEekFDNzZkQXlGUXdJb3lCSlhUd3dzNXNOLXVkdnlVZ3JJOW9xcV9oX2pMeExWYW9IUUNFN00wWWlqc1ROcld0T0owREJVbXdobkRXNk1KMno1VEYxN0xUTjEyOVhMeGJyN3lnN3F3MlZnOXdfcVBMbG10dG4tbW9xQ1k4YTA3WmNleldMczVaV3hwXzR4YXRYNjZoekxFeVJNbdIBxgJBVV95cUxQT1FfNzROZDVCR3ZndVBRSC1Sa2U4VGNiVXFjeW02V0NHVURNejdfT0R4djhNWXoyay03ODdFXzJaN1U1a1RndzJfLWFGbjd6M1JGNHd5ZkhJVDRab2FBSjFHV0JxdkFGYl9GNE90WmRuX3NVejVJNEdxbWR2eDZndVpFOFltMGs1M0tyNWFXUmticGV5ME53UHFseWE0NWJQaFlwQVoxWDJOckFhQ0p3MVVCRXRVSkt1TFVVRnJuU0pRbW11RTRFc2lUTlczZ2twWFFZZ0J1Y3lldFNLcnB6SkRuR256ZDZ5TWo2bl9wc2xhaS1YenM5RUU1am5aTVFGX194U2xDdTZIVXFBMWo5dWhBWF8tM211S1hSVjVJQkVNN1ZRVS11aHlTa0Zqb1JfZi1JaFduRl8wckJpQ1JvckI2MWtjdw?oc=5",
-      "source": "Corriere Torino",
-      "sourceHost": "corriere.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "territorio"
-      ],
-      "publishedAt": "2026-04-10T07:00:00.000Z",
-      "excerpt": "Chi è Daniela Cameroni, la nuova assessora regionale che prende il posto di Elena Chiorino. A Marrone la delega al Lavoro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "lastampa.it__la stampa__dopo caso bisteccheria arriva daniela cameroni posto chiorino chi nuova assessora__2026-04-10T07:00:00.000Z",
-      "title": "Dopo il caso Bisteccheria arriva Daniela Cameroni al posto di Chiorino: chi è la nuova assessora",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1pwMzZRZDN6RU9reHlHMmpYSWcyeDRjc1JQWkpyUWRXaThhU09aQTgtbW52NEpsSXEzX2dGM2pRMkJmTU5WNi1MNW15b05Vb2ZMZFRJazFOZDl0UFFiWW1XbUZlaE1qZVlMTUZTQnhTN2psTzgwOWZiZjl4RV9MWDFiUUF5QWZoTW5ZenRzeENrNG0yUzRaTHE2am0wQmFRZ0trZGRIVTFWLTk4ZGZtclNxdVVOY2ZWdjBN0gHAAUFVX3lxTE9mQzU2QWZMMEpucnpXNGlvMnYxNjhiUFdhemtaX1pxdGxEVGo2ZWpOZTVEc1NYdkFoeVNOV2p3OXY1a0E3cFdnUW9hU1lRZnRZN2xoRHJDcC1Dalc5ZDFYZV9JNzg2bUxWMFFmQ0hwZVpMamdhbk15d192TjNYTWtoMlNUWU4zXzEtc2RxZVMyQ2M2VVhyTllTSHJDTmFPNXIwV19BV0F1cFpKM1BFQWVybEs4WElWUVVNRXZfdWFaYQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1pwMzZRZDN6RU9reHlHMmpYSWcyeDRjc1JQWkpyUWRXaThhU09aQTgtbW52NEpsSXEzX2dGM2pRMkJmTU5WNi1MNW15b05Vb2ZMZFRJazFOZDl0UFFiWW1XbUZlaE1qZVlMTUZTQnhTN2psTzgwOWZiZjl4RV9MWDFiUUF5QWZoTW5ZenRzeENrNG0yUzRaTHE2am0wQmFRZ0trZGRIVTFWLTk4ZGZtclNxdVVOY2ZWdjBN0gHAAUFVX3lxTE9mQzU2QWZMMEpucnpXNGlvMnYxNjhiUFdhemtaX1pxdGxEVGo2ZWpOZTVEc1NYdkFoeVNOV2p3OXY1a0E3cFdnUW9hU1lRZnRZN2xoRHJDcC1Dalc5ZDFYZV9JNzg2bUxWMFFmQ0hwZVpMamdhbk15d192TjNYTWtoMlNUWU4zXzEtc2RxZVMyQ2M2VVhyTllTSHJDTmFPNXIwV19BV0F1cFpKM1BFQWVybEs4WElWUVVNRXZfdWFaYQ?oc=5",
-      "source": "La Stampa",
-      "sourceHost": "lastampa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "bisteccheria"
-      ],
-      "publishedAt": "2026-04-10T07:00:00.000Z",
-      "excerpt": "Dopo il caso Bisteccheria arriva Daniela Cameroni al posto di Chiorino: chi è la nuova assessora",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "lastampa.it__la stampa__l addio delmastro scuote l entourage napolillo lascia dap__2026-04-10T07:00:00.000Z",
-      "title": "L’addio di Delmastro scuote l’entourage: Napolillo lascia il Dap",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeGNFNWx6LTVhSmxsQlFNVjNxVXJwOTE2ajZCODRRaU5SZi1HUGVuS1RKc3A2ang1UDBHR0tGcy1vYzhTNGw1eTdCSFNMWnRpdk94eDVMUjVZX3AyblBoTnlGSkV0eUx3ZWxfN29PVkNTQ24yYmJDWnRtbFNnWEltWFE0SXYwYXFiMUNCbHVqM2ZTc1dWZzljenBmQ1Vtc2g0NmFsRjFEV2pBSk9QM1JtdWZVMC1aYWoxanBta9IBwgFBVV95cUxNemFXdndYSG4zMEZmeWhRYzNWQlJRWTVRZVFhTFJHLWs5Y0N6blM1OFZQeGt3NzU2b3EyTEFnOHZaVm1xVUQzMk4zcUZmWXpQdkdBdGxXYkNrN2d4eVFMSUI4NGFoTWtjdk1mZ0NuT2FxV0ZZRC1XQ0NwalBSaXI0dmRDZ0lrYm9aUzdESXR4M19kQU5wY0hXQlppcVJjNFZjOTFWV01OUXdnTGE4Q0x6X05yZXFlaTN3NzFFc2tOTVg2Zw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeGNFNWx6LTVhSmxsQlFNVjNxVXJwOTE2ajZCODRRaU5SZi1HUGVuS1RKc3A2ang1UDBHR0tGcy1vYzhTNGw1eTdCSFNMWnRpdk94eDVMUjVZX3AyblBoTnlGSkV0eUx3ZWxfN29PVkNTQ24yYmJDWnRtbFNnWEltWFE0SXYwYXFiMUNCbHVqM2ZTc1dWZzljenBmQ1Vtc2g0NmFsRjFEV2pBSk9QM1JtdWZVMC1aYWoxanBta9IBwgFBVV95cUxNemFXdndYSG4zMEZmeWhRYzNWQlJRWTVRZVFhTFJHLWs5Y0N6blM1OFZQeGt3NzU2b3EyTEFnOHZaVm1xVUQzMk4zcUZmWXpQdkdBdGxXYkNrN2d4eVFMSUI4NGFoTWtjdk1mZ0NuT2FxV0ZZRC1XQ0NwalBSaXI0dmRDZ0lrYm9aUzdESXR4M19kQU5wY0hXQlppcVJjNFZjOTFWV01OUXdnTGE4Q0x6X05yZXFlaTN3NzFFc2tOTVg2Zw?oc=5",
-      "source": "La Stampa",
-      "sourceHost": "lastampa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-10T07:00:00.000Z",
-      "excerpt": "L’addio di Delmastro scuote l’entourage: Napolillo lascia il Dap",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilgiornale.it__il giornale__altro che conniventi criminalita sessanta operazioni contro clan senese__2026-04-10T07:00:00.000Z",
-      "title": "Altro che conniventi con la criminalità. Sessanta operazioni contro il clan Senese",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYURpOWV0TmN2X1ZhYlAweUkxbWNXMkw2ekk5c0tXVFliSnNGS1ZhZm1Qb2J0UHNSTVROMVZGWXNkTGhLSUJUYUVMNUFOYm5WNDRTZElndm9Bd0l6VnJtZFNoaG1DN2RjRnQ0NlMtVGxLbGFYZVhUV19ZckQ4V1FRWXR4LUtiNTN6TTl4R2ZTcU9NMzdENnRnV2g1bFJvMGhiaTNKMnpQbEV5V2xFNVVn?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYURpOWV0TmN2X1ZhYlAweUkxbWNXMkw2ekk5c0tXVFliSnNGS1ZhZm1Qb2J0UHNSTVROMVZGWXNkTGhLSUJUYUVMNUFOYm5WNDRTZElndm9Bd0l6VnJtZFNoaG1DN2RjRnQ0NlMtVGxLbGFYZVhUV19ZckQ4V1FRWXR4LUtiNTN6TTl4R2ZTcU9NMzdENnRnV2g1bFJvMGhiaTNKMnpQbEV5V2xFNVVn?oc=5",
-      "source": "il Giornale",
-      "sourceHost": "ilgiornale.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-10T07:00:00.000Z",
-      "excerpt": "Altro che conniventi con la criminalità. Sessanta operazioni contro il clan Senese",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro pm indagano sui rapporti fratelli caroccia__2026-04-10T07:00:00.000Z",
-      "title": "Caso Delmastro, i pm indagano sui rapporti tra i fratelli Caroccia",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSEpMQXFHNU9pZ0xjVllIVE5DTjQxV3ZGWE5mdkQzbm5GWWx3M05NcGxtVUQyTzZGb2l1Rm5QdVExXzZmU3BORUFEODBTaTJFY0lucGZ4RXNPdkZLUTlSYl9raVVaV295eUdSSHgwQ0c2NmctUXRuTVBwbnVrbHVUM2Y4S0dUWlEyZmN6RnZRSlpfVGREcjllVmRLVlRsbWFfazI1T2xpMnpVREhYOW50QWpGcXg4TWNBdXZyN0xZUzNTbWNpMEtSaHBrTndTTllBeFJTOA?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSEpMQXFHNU9pZ0xjVllIVE5DTjQxV3ZGWE5mdkQzbm5GWWx3M05NcGxtVUQyTzZGb2l1Rm5QdVExXzZmU3BORUFEODBTaTJFY0lucGZ4RXNPdkZLUTlSYl9raVVaV295eUdSSHgwQ0c2NmctUXRuTVBwbnVrbHVUM2Y4S0dUWlEyZmN6RnZRSlpfVGREcjllVmRLVlRsbWFfazI1T2xpMnpVREhYOW50QWpGcXg4TWNBdXZyN0xZUzNTbWNpMEtSaHBrTndTTllBeFJTOA?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-04-10T07:00:00.000Z",
-      "excerpt": "Caso Delmastro, i pm indagano sui rapporti tra i fratelli Caroccia",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__l antimafia indaghi anche fdi mossa meloni uscire dall angolo partito vuol processare delmastro__2026-04-10T07:00:00.000Z",
-      "title": "“L’Antimafia indaghi anche su Fdi”. La mossa di Meloni per uscire dall’angolo. E il partito vuol “processare” Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQLVFJbEFUUnZaOHlsTF84SEptSV9taUNLWkx3WUZuMjNZVi0tN1doNWtTcjR3LWdyNi00ZDlKMWd4MUFQaVFxcFV0cWpQbldaVmphVVhWLXVhY29rTXVSZ2FuVGg2ZHU2UjBBZVZDLUE0OVVrVHdWLUlXSE9SV2tWNFl0WTBxSW5QS2VXdy0zOWZKOFJKTTF1NUtQZDlCYzlBekNQMEJCbzNta2hrbThLVkQxdllfX0hTdTZGYl9oZ0sxcUQ5cVg0WS1LTDJNNmh1cmpMeGxXSWtnT1VmNjByUFRaUHlFWlpob0J0RmZPZ3lWbXF6NTJkSEl3WFRFYzN0aDNKeVJKY3ZpMy1WdjJwanN3?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQLVFJbEFUUnZaOHlsTF84SEptSV9taUNLWkx3WUZuMjNZVi0tN1doNWtTcjR3LWdyNi00ZDlKMWd4MUFQaVFxcFV0cWpQbldaVmphVVhWLXVhY29rTXVSZ2FuVGg2ZHU2UjBBZVZDLUE0OVVrVHdWLUlXSE9SV2tWNFl0WTBxSW5QS2VXdy0zOWZKOFJKTTF1NUtQZDlCYzlBekNQMEJCbzNta2hrbThLVkQxdllfX0hTdTZGYl9oZ0sxcUQ5cVg0WS1LTDJNNmh1cmpMeGxXSWtnT1VmNjByUFRaUHlFWlpob0J0RmZPZ3lWbXF6NTJkSEl3WFRFYzN0aDNKeVJKY3ZpMy1WdjJwanN3?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "politica",
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-04-10T07:00:00.000Z",
-      "excerpt": "“L’Antimafia indaghi anche su Fdi”. La mossa di Meloni per uscire dall’angolo. E il partito vuol “processare” Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     }

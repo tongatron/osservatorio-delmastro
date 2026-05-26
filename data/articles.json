@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T17:14:58.418Z",
+  "generatedAt": "2026-05-26T18:20:37.799Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-04-11T17:14:58.418Z",
-    "to": "2026-05-26T17:14:58.418Z",
+    "from": "2026-04-11T18:20:37.799Z",
+    "to": "2026-05-26T18:20:37.799Z",
     "days": 45
   },
   "sources": [
@@ -108,16 +108,16 @@
       "articleCount": 18
     },
     {
+      "label": "lastampa.it",
+      "articleCount": 12
+    },
+    {
       "label": "rainews.it",
       "articleCount": 11
     },
     {
-      "label": "lastampa.it",
-      "articleCount": 11
-    },
-    {
       "label": "corriere.it",
-      "articleCount": 9
+      "articleCount": 8
     },
     {
       "label": "ilgiornale.it",
@@ -191,13 +191,18 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 222,
-      "uniqueArticles": 111
+      "fetchedArticles": 220,
+      "uniqueArticles": 110
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 71,
-      "uniqueArticles": 15
+      "fetchedArticles": 76,
+      "uniqueArticles": 16
+    },
+    {
+      "label": "Persone collegate",
+      "fetchedArticles": 59,
+      "uniqueArticles": 5
     },
     {
       "label": "Bisteccheria",
@@ -205,14 +210,9 @@
       "uniqueArticles": 3
     },
     {
-      "label": "Persone collegate",
-      "fetchedArticles": 56,
-      "uniqueArticles": 3
-    },
-    {
       "label": "Filone giudiziario",
       "fetchedArticles": 44,
-      "uniqueArticles": 2
+      "uniqueArticles": 1
     },
     {
       "label": "Territorio",
@@ -227,11 +227,11 @@
     },
     {
       "tag": "politica",
-      "count": 25
+      "count": 24
     },
     {
       "tag": "giudiziaria",
-      "count": 21
+      "count": 22
     },
     {
       "tag": "bisteccheria",
@@ -405,7 +405,7 @@
     },
     {
       "date": "2026-05-20",
-      "count": 27
+      "count": 26
     },
     {
       "date": "2026-05-21",
@@ -429,7 +429,7 @@
     },
     {
       "date": "2026-05-26",
-      "count": 14
+      "count": 15
     }
   ],
   "articles": [
@@ -599,10 +599,10 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ansa.it__ansa__delmastro finii locale caroccia perche era carino__2026-05-26T12:35:11.000Z",
+      "id": "ansa.it__ansa__delmastro finii locale caroccia perche era carino__2026-05-26T12:35:12.000Z",
       "title": "Delmastro, 'finii nel locale dei Caroccia perché era carino'",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYjZJN3lOaWtrTTVMVVRpSXBRZ0t3eXB1TnoxT0gxaTIzS0VrekF6X0VnZWowT0F3SFdRS0g2aVI3Qnc1c2haYWNDMXdrU2JpSkNoQ2lwQmFoVnA1Sk5BN0NGWndjeGEzVHZ6YTJ3QjU2el83UkVOaVBMU28xekl5dUI1QUEtc2QwRGNHTU0tR3czeVVOdzdJbzVkN1NFeDNRZGNQbzFqMlpVMm4zVjN3UnNjR0Nfd3Axc25OYWFWdXFncjI3ZkRQbUVQSHFyWFFMVFhkbk5JR0RiM2EtR2N6bC1n0gHiAUFVX3lxTFBiNkk3eU5pa2tNNUxVVGlJcFFnS3d5cHVOejFPSDFpMjNLRWt6QXpfRWdlajBPQXdIV1FLSDZpUjdCdzVzaFphY0Mxd2tTYmlKQ2hDaXBCYWhWcDVKTkE3Q0Zad2N4YTNUdnphMndCNTZ6XzdSRU5pUExTbzF6SXl1QjVBQS1zZDBEY0dNTS1HdzN5VU53N0lvNWQ3U0V4M1FkY1BvMWoyWlUybjNWM3dSc2NHQ193cDFzbk5hYVZ1cWdyMjdmRFBtRVBIcXJYUUxUWGRuTklHRGIzYS1HY3psLWc?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYjZJN3lOaWtrTTVMVVRpSXBRZ0t3eXB1TnoxT0gxaTIzS0VrekF6X0VnZWowT0F3SFdRS0g2aVI3Qnc1c2haYWNDMXdrU2JpSkNoQ2lwQmFoVnA1Sk5BN0NGWndjeGEzVHZ6YTJ3QjU2el83UkVOaVBMU28xekl5dUI1QUEtc2QwRGNHTU0tR3czeVVOdzdJbzVkN1NFeDNRZGNQbzFqMlpVMm4zVjN3UnNjR0Nfd3Axc25OYWFWdXFncjI3ZkRQbUVQSHFyWFFMVFhkbk5JR0RiM2EtR2N6bC1n0gHiAUFVX3lxTFBiNkk3eU5pa2tNNUxVVGlJcFFnS3d5cHVOejFPSDFpMjNLRWt6QXpfRWdlajBPQXdIV1FLSDZpUjdCdzVzaFphY0Mxd2tTYmlKQ2hDaXBCYWhWcDVKTkE3Q0Zad2N4YTNUdnphMndCNTZ6XzdSRU5pUExTbzF6SXl1QjVBQS1zZDBEY0dNTS1HdzN5VU53N0lvNWQ3U0V4M1FkY1BvMWoyWlUybjNWM3dSc2NHQ193cDFzbk5hYVZ1cWdyMjdmRFBtRVBIcXJYUUxUWGRuTklHRGIzYS1HY3psLWc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZk83OUd5SHJIS1RrOFNLLUxmSXdrSy1XUXdrbXJRcXVTc3pOTC1uSHZnNjdZVTVGdTctelB2Z3ltVHlmOHA2R3hndmlSX2xhemEtTVgxaC1KdDhTekRKZ2ZuYlptNl91RUhERXNtckF3N2RyYmdSeW1Od2M0VGVrNF9idS1Ba00yYnlPUHZNNTlLY3ZLYkFCOGg3SE5BMVZ1Tmd6WG5BV2pnN2taYnpoWDNzUlN3eE1uOWJacDB3cE04WUZzVE5ZY0VLcktXQnYwVW9OYW9tNTIzSkxFcl9LTnUzcmMzT2dJMGVz0gHrAUFVX3lxTE5mTzc5R3lIckhLVGs4U0stTGZJd2tLLVdRd2ttclFxdVNzek5MLW5Idmc2N1lVNUZ1Ny16UHZneW1UeWY4cDZHeGd2aVJfbGF6YS1NWDFoLUp0OFN6REpnZm5iWm02X3VFSERFc21yQXc3ZHJiZ1J5bU53YzRUZWs0X2J1LUFrTTJieU9Qdk01OUtjdktiQUI4aDdITkExVnVOZ3pYbkFXamc3a1piemhYM3NSU3d4TW45YlpwMHdwTThZRnNUTlljRUtyS1dCdjBVb05hb201MjNKTEVyX0tOdTNyYzNPZ0kwZXM?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZk83OUd5SHJIS1RrOFNLLUxmSXdrSy1XUXdrbXJRcXVTc3pOTC1uSHZnNjdZVTVGdTctelB2Z3ltVHlmOHA2R3hndmlSX2xhemEtTVgxaC1KdDhTekRKZ2ZuYlptNl91RUhERXNtckF3N2RyYmdSeW1Od2M0VGVrNF9idS1Ba00yYnlPUHZNNTlLY3ZLYkFCOGg3SE5BMVZ1Tmd6WG5BV2pnN2taYnpoWDNzUlN3eE1uOWJacDB3cE04WUZzVE5ZY0VLcktXQnYwVW9OYW9tNTIzSkxFcl9LTnUzcmMzT2dJMGVz0gHrAUFVX3lxTE5mTzc5R3lIckhLVGs4U0stTGZJd2tLLVdRd2ttclFxdVNzek5MLW5Idmc2N1lVNUZ1Ny16UHZneW1UeWY4cDZHeGd2aVJfbGF6YS1NWDFoLUp0OFN6REpnZm5iWm02X3VFSERFc21yQXc3ZHJiZ1J5bU53YzRUZWs0X2J1LUFrTTJieU9Qdk01OUtjdktiQUI4aDdITkExVnVOZ3pYbkFXamc3a1piemhYM3NSU3d4TW45YlpwMHdwTThZRnNUTlljRUtyS1dCdjBVb05hb201MjNKTEVyX0tOdTNyYzNPZ0kwZXM?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
@@ -613,8 +613,28 @@
       "tags": [
         "altro"
       ],
-      "publishedAt": "2026-05-26T12:35:11.000Z",
+      "publishedAt": "2026-05-26T12:35:12.000Z",
       "excerpt": "Delmastro, 'finii nel locale dei Caroccia perché era carino'",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "lastampa.it__la stampa__antimafia delmastro finii dai caroccia perche era locale carino dovevo googlare__2026-05-26T12:34:00.000Z",
+      "title": "Antimafia, Delmastro: “Finii dai Caroccia perché era un locale carino, dovevo googlare”",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHNLTnc5VTI4eEI1QkppUElwYjdHQmV2UDlGS2FuREI4enpKd2k3Ykh3c0VFcHladEtBdllMaEFhM0xFNjZsN3VUQXFrMWlOck5QM3gwdnk0S2d5UzByeHJhMk83SWR5VWhQUmVRSFVxZ1hRYzBjbHpGbnBBQ1ZySUpmbWpMMnF0RFd4YmlRb0RkU0NFNEEtbnc1RlpRZmVSUGZXMTR3NUJpc28tVW5NbE5Jc2RoTUHSAbwBQVVfeXFMTTF4RjJFbnZpOThnMUM3M2l4WEdVbWQyak91S2FLaFJ3aFhJYm4zcERYdnItMjJyQ1hwd3B4UmtfTFlzMzhOUTdPcURwcDMwRkljNG9VWkNLZllORnpWcWROcW04SENyUnN4TXAtSWIzSllMNkh6YlpxUm1yVVh5Yl9qd1FUaXh5WEdvNVpzT3ZPcjl5dHBKb21ENk5jR1NYcVNhcFNDdnNXcS1hMHNfNUVJYmlrN0NZWWhmblY?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHNLTnc5VTI4eEI1QkppUElwYjdHQmV2UDlGS2FuREI4enpKd2k3Ykh3c0VFcHladEtBdllMaEFhM0xFNjZsN3VUQXFrMWlOck5QM3gwdnk0S2d5UzByeHJhMk83SWR5VWhQUmVRSFVxZ1hRYzBjbHpGbnBBQ1ZySUpmbWpMMnF0RFd4YmlRb0RkU0NFNEEtbnc1RlpRZmVSUGZXMTR3NUJpc28tVW5NbE5Jc2RoTUHSAbwBQVVfeXFMTTF4RjJFbnZpOThnMUM3M2l4WEdVbWQyak91S2FLaFJ3aFhJYm4zcERYdnItMjJyQ1hwd3B4UmtfTFlzMzhOUTdPcURwcDMwRkljNG9VWkNLZllORnpWcWROcW04SENyUnN4TXAtSWIzSllMNkh6YlpxUm1yVVh5Yl9qd1FUaXh5WEdvNVpzT3ZPcjl5dHBKb21ENk5jR1NYcVNhcFNDdnNXcS1hMHNfNUVJYmlrN0NZWWhmblY?oc=5",
+      "source": "La Stampa",
+      "sourceHost": "lastampa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-05-26T12:34:00.000Z",
+      "excerpt": "Antimafia, Delmastro: “Finii dai Caroccia perché era un locale carino, dovevo googlare”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -625,10 +645,12 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHNLTnc5VTI4eEI1QkppUElwYjdHQmV2UDlGS2FuREI4enpKd2k3Ykh3c0VFcHladEtBdllMaEFhM0xFNjZsN3VUQXFrMWlOck5QM3gwdnk0S2d5UzByeHJhMk83SWR5VWhQUmVRSFVxZ1hRYzBjbHpGbnBBQ1ZySUpmbWpMMnF0RFd4YmlRb0RkU0NFNEEtbnc1RlpRZmVSUGZXMTR3NUJpc28tVW5NbE5Jc2RoTUHSAbwBQVVfeXFMTTF4RjJFbnZpOThnMUM3M2l4WEdVbWQyak91S2FLaFJ3aFhJYm4zcERYdnItMjJyQ1hwd3B4UmtfTFlzMzhOUTdPcURwcDMwRkljNG9VWkNLZllORnpWcWROcW04SENyUnN4TXAtSWIzSllMNkh6YlpxUm1yVVh5Yl9qd1FUaXh5WEdvNVpzT3ZPcjl5dHBKb21ENk5jR1NYcVNhcFNDdnNXcS1hMHNfNUVJYmlrN0NZWWhmblY?oc=5",
       "source": "La Stampa",
       "sourceHost": "lastampa.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Persone collegate",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Elena Chiorino",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "clan Senese"
       ],
       "tags": [
         "giudiziaria"
@@ -679,8 +701,8 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfoglio.it__il foglio__delmastro locale caroccia era simpatico grave leggerezza non consultare google__2026-05-26T12:20:00.000Z",
-      "title": "Delmastro: \"Il locale dei Caroccia? Era simpatico. Grave leggerezza non consultare Google\"",
+      "id": "ilfoglio.it__il foglio__delmastro locale caroccia era simpatico ho sbagliato non consultare google__2026-05-26T12:20:00.000Z",
+      "title": "Delmastro: \"Il locale dei Caroccia? Era simpatico. Ho sbagliato a non consultare Google\"",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ3dXOFEyR0lrWHc0UlRvLVUtLTc2UmlfMmRfYzB5YnIzZWowWWhMdFdSQVI2ajFVQnZwM2RFS1huaVBEZHNubGVqV3I3NjFlNm5tUjJZd2h4MFZ0a0tac2lhcEFubGNoYmxsQk1Sd2JyajhDTGpFbWZObnBoS0dZT0dPLUhRQ2VTZVZQUTQwbXZnNTRFbUREM2J6QVI2YjgxN05maXJ1ZzBvbFZTUDZmRWI4VVVhU1ZGYWkwMHJCMzBaS1ZTZXJLLVlSa1A0eTNfTW9Hdldzc0EtbFk?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ3dXOFEyR0lrWHc0UlRvLVUtLTc2UmlfMmRfYzB5YnIzZWowWWhMdFdSQVI2ajFVQnZwM2RFS1huaVBEZHNubGVqV3I3NjFlNm5tUjJZd2h4MFZ0a0tac2lhcEFubGNoYmxsQk1Sd2JyajhDTGpFbWZObnBoS0dZT0dPLUhRQ2VTZVZQUTQwbXZnNTRFbUREM2J6QVI2YjgxN05maXJ1ZzBvbFZTUDZmRWI4VVVhU1ZGYWkwMHJCMzBaS1ZTZXJLLVlSa1A0eTNfTW9Hdldzc0EtbFk?oc=5",
       "source": "Il Foglio",
@@ -694,7 +716,7 @@
         "altro"
       ],
       "publishedAt": "2026-05-26T12:20:00.000Z",
-      "excerpt": "Delmastro: \"Il locale dei Caroccia? Era simpatico. Grave leggerezza non consultare Google\"",
+      "excerpt": "Delmastro: \"Il locale dei Caroccia? Era simpatico. Ho sbagliato a non consultare Google\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -745,10 +767,15 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VRUE5WVFhUE90VFlpMXRtbXBYVHpBUDYwSGFEMVF4WW4waEpIQXBWTG1UbWVQN0pmWTljNXpYaUF6czE1UTdoUk84bDdUeFJ6VU52OXhidlBBUjh4?oc=5",
       "source": "Il Foglio",
       "sourceHost": "ilfoglio.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
       ],
       "tags": [
         "altro"
@@ -916,26 +943,6 @@
       ],
       "publishedAt": "2026-05-20T22:01:00.000Z",
       "excerpt": "Cospito, Delmastro condannato a 8 mesi pure in Appello: “Ricorrerò in Cassazione”",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "corriere.it__corriere roma__andrea delmastro confermata condanna appello caso cospito l ex sottosegretario faremo ricorso__2026-05-20T18:35:58.000Z",
-      "title": "Andrea Delmastro: confermata la condanna in Appello per il caso Cospito. L'ex sottosegretario: «Faremo ricorso»",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRzNYN0FyU2FzSGVDOW5EMGVxVVpPU2lZZ3QyYlo4Z3RDUENaQk5uNWJtbEdfb0Jydm85bTNqQmtfb0dnX0t1cVlLNjdqZ2M1QkQtT1B5TnB0XzRZZXNjMzBEdFFoTGtlWVRYV2haZmNldFY3Y2ZWem91MmVSUllEaFh6ZFoxQ0pFRHlTdVIydjBpQzc1Y0VJSGlIZjcycDBvanN0SEpZQTg4c2wwajNTQWFReEFqSjdKREpJbi1USDg3eGcyeGQtSTRQSXdNM3cxNlhWcGZmTUrSAd4BQVVfeXFMTkNRd1pPNVlzT3RfOWpNZlpIMWVUQl8yUjVvSnNBdmFDWXJaRlBYbk5GU3p4MmtJOER4eE1QWDBRNmE0TkNKaWh5OVVxREJoV0FGbFZKWllmMjBMTndEdUZHZ3VZVmVxUm9US2dMVkxHSmFyU0lBV29wbGY2M1FuLWdnd2ZLeVVFRWh0SmIzZjdTZUw4T3VXWlRnZEtybUZTQ3FMUlJFOHFzSEJYNTZOeDRtOE1FeUlBVzVKOHRMUGhocDZsWFlCM1JLelpzdnpiVEs0cXdnMFgtXzFqZDBR?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRzNYN0FyU2FzSGVDOW5EMGVxVVpPU2lZZ3QyYlo4Z3RDUENaQk5uNWJtbEdfb0Jydm85bTNqQmtfb0dnX0t1cVlLNjdqZ2M1QkQtT1B5TnB0XzRZZXNjMzBEdFFoTGtlWVRYV2haZmNldFY3Y2ZWem91MmVSUllEaFh6ZFoxQ0pFRHlTdVIydjBpQzc1Y0VJSGlIZjcycDBvanN0SEpZQTg4c2wwajNTQWFReEFqSjdKREpJbi1USDg3eGcyeGQtSTRQSXdNM3cxNlhWcGZmTUrSAd4BQVVfeXFMTkNRd1pPNVlzT3RfOWpNZlpIMWVUQl8yUjVvSnNBdmFDWXJaRlBYbk5GU3p4MmtJOER4eE1QWDBRNmE0TkNKaWh5OVVxREJoV0FGbFZKWllmMjBMTndEdUZHZ3VZVmVxUm9US2dMVkxHSmFyU0lBV29wbGY2M1FuLWdnd2ZLeVVFRWh0SmIzZjdTZUw4T3VXWlRnZEtybUZTQ3FMUlJFOHFzSEJYNTZOeDRtOE1FeUlBVzVKOHRMUGhocDZsWFlCM1JLelpzdnpiVEs0cXdnMFgtXzFqZDBR?oc=5",
-      "source": "Corriere Roma",
-      "sourceHost": "corriere.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "politica"
-      ],
-      "publishedAt": "2026-05-20T18:35:58.000Z",
-      "excerpt": "Andrea Delmastro: confermata la condanna in Appello per il caso Cospito. L'ex sottosegretario: «Faremo ricorso»",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

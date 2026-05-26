@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T21:07:30.501Z",
+  "generatedAt": "2026-05-26T22:05:10.177Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,14 +94,14 @@
     ]
   },
   "window": {
-    "from": "2026-04-11T21:07:30.501Z",
-    "to": "2026-05-26T21:07:30.501Z",
+    "from": "2026-04-11T22:05:10.177Z",
+    "to": "2026-05-26T22:05:10.177Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 19
+      "articleCount": 20
     },
     {
       "label": "repubblica.it",
@@ -191,18 +191,18 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 218,
-      "uniqueArticles": 109
+      "fetchedArticles": 223,
+      "uniqueArticles": 111
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 71,
-      "uniqueArticles": 16
+      "fetchedArticles": 72,
+      "uniqueArticles": 15
     },
     {
       "label": "Persone collegate",
       "fetchedArticles": 60,
-      "uniqueArticles": 5
+      "uniqueArticles": 4
     },
     {
       "label": "Bisteccheria",
@@ -211,7 +211,7 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 41,
+      "fetchedArticles": 42,
       "uniqueArticles": 1
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "tag": "giudiziaria",
-      "count": 21
+      "count": 22
     },
     {
       "tag": "bisteccheria",
@@ -247,10 +247,6 @@
     }
   ],
   "timeline": [
-    {
-      "date": "2026-04-11",
-      "count": 0
-    },
     {
       "date": "2026-04-12",
       "count": 1
@@ -430,9 +426,33 @@
     {
       "date": "2026-05-26",
       "count": 14
+    },
+    {
+      "date": "2026-05-27",
+      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro spiega caso bistecche d italia antimafia non ho cercato google chi fosse caroccia__2026-05-26T22:01:00.000Z",
+      "title": "Delmastro spiega il caso Bistecche d’Italia in Antimafia: “Non ho cercato su Google chi fosse Caroccia”",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWlNqOXU0YUo2clNmRkREMkVPU3lQREFhUjctckNHNFJ6SUFwdlFYdGlQeHdyZTcybUczWjNsU095ZFROeFM2QVdseHlGcnB5OXN3YzJCOVZTdzJCTGtNUl9KLXZqa3hiRC1DY05lX0ZGYkVBWG5tMy12X3RsMmxlcHUwXzdwRElXOXJBM25obGZzUWQycThsYW1GV1pnSzZLbnJJRkdBa0E2Q2c2Ujkxd3pEcWhfWE9VQ1JLUlRXTUZ2LUJOM0ZXRmE1RGtrYVFuSV9GNGh0dmRzWGdmTC1YWkx4cDI1dzJjYWkycFB6WkhQUU9Ja3JBaTJZWjZSZWo4dXc?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWlNqOXU0YUo2clNmRkREMkVPU3lQREFhUjctckNHNFJ6SUFwdlFYdGlQeHdyZTcybUczWjNsU095ZFROeFM2QVdseHlGcnB5OXN3YzJCOVZTdzJCTGtNUl9KLXZqa3hiRC1DY05lX0ZGYkVBWG5tMy12X3RsMmxlcHUwXzdwRElXOXJBM25obGZzUWQycThsYW1GV1pnSzZLbnJJRkdBa0E2Q2c2Ujkxd3pEcWhfWE9VQ1JLUlRXTUZ2LUJOM0ZXRmE1RGtrYVFuSV9GNGh0dmRzWGdmTC1YWkx4cDI1dzJjYWkycFB6WkhQUU9Ja3JBaTJZWjZSZWo4dXc?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-05-26T22:01:00.000Z",
+      "excerpt": "Delmastro spiega il caso Bistecche d’Italia in Antimafia: “Non ho cercato su Google chi fosse Caroccia”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
     {
       "id": "ilgiornale.it__il giornale__delmastro non mi ritengo inadeguato ma persona che ha commesso errore__2026-05-26T15:04:31.000Z",
       "title": "Delmastro: \"Non mi ritengo inadeguato ma una persona che ha commesso un errore\"",
@@ -1681,28 +1701,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "tgcom24.mediaset.it__tgcom24__roma spaccio tentato omicidio arrestate 18 persone vicine clan senese__2026-05-06T07:00:00.000Z",
-      "title": "Roma, spaccio e tentato omicidio: arrestate 18 persone vicine al clan Senese",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT0RvWXQyMWdrZ0Z4Y1hyVm9mOHdnOVU1YUcyVkVYZkhueHZxcGZlWjlaay1GT1lOc3lWZ3VCQ2ZDZGlsNTZVdERHcG1uNWxzb29neGdFS1dKTGdNQTZwLVZ4Um1VNjUxRDl2NHJVa0NSRDBuZEdpVFZ4cWRmNEZqYzFCRTRoZ1FzOWNGZXlxb19tS0VpM1VCWmhLakJfNEdsVjdxemY5eVdaN0NzNzJ0UlVZUmZXMS1aTy03VFVfR1NkRnVhQVRpdC1SY3hlRXJRQkc4ctIBaEFVX3lxTE9NWUJRcUlRZnJIdXdNTHh6cTVTZWdERlBRelNQR0xQeUNTMnBjNTVGMnpnU0ozOHFCSllGWUlhQ095MXd3M0Z2YTNSVFRqclJKSkpjMmprNFNZQTdsSWN6aDN1S1ozeUJX?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT0RvWXQyMWdrZ0Z4Y1hyVm9mOHdnOVU1YUcyVkVYZkhueHZxcGZlWjlaay1GT1lOc3lWZ3VCQ2ZDZGlsNTZVdERHcG1uNWxzb29neGdFS1dKTGdNQTZwLVZ4Um1VNjUxRDl2NHJVa0NSRDBuZEdpVFZ4cWRmNEZqYzFCRTRoZ1FzOWNGZXlxb19tS0VpM1VCWmhLakJfNEdsVjdxemY5eVdaN0NzNzJ0UlVZUmZXMS1aTy03VFVfR1NkRnVhQVRpdC1SY3hlRXJRQkc4ctIBaEFVX3lxTE9NWUJRcUlRZnJIdXdNTHh6cTVTZWdERlBRelNQR0xQeUNTMnBjNTVGMnpnU0ozOHFCSllGWUlhQ095MXd3M0Z2YTNSVFRqclJKSkpjMmprNFNZQTdsSWN6aDN1S1ozeUJX?oc=5",
-      "source": "Tgcom24",
-      "sourceHost": "tgcom24.mediaset.it",
-      "queryLabel": "Persone collegate",
-      "matchedTerms": [
-        "Elena Chiorino",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "clan Senese"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-06T07:00:00.000Z",
-      "excerpt": "Roma, spaccio e tentato omicidio: arrestate 18 persone vicine al clan Senese",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "newsbiella.it__newsbiella.it__paraggio minoranza 5 forchette srl non ha piu sede presso mio studio__2026-05-06T07:00:00.000Z",
       "title": "Paraggio alla minoranza: \"Le 5 Forchette Srl non ha più sede presso il mio studio\"",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbGJlOFh1OWJocjJpZW44ZnBndkVFSnhBOUllVU44ZGIwVUVlYWxwNUN5c2laaC1jQm0xNkZFTVI4emJJTmxma2RMTjZhSWhsZF9FQWhXbmRuRExBZnBudjF4eFlWVEl5NGpzYzhSNFZIZEJPbHFvaXhlRE5JNzZHRWZaamZaQTdDMG9fOERoQ0JOck9sRDBLOHBGN05hdTN2ZXE0UXVXVGM2TkRBUVFDWUE0VmRtV0RPcE5NTm9GZDVxdzVpUnVmTExwTW9ObUJ3cUttdkJQejFTV3dzaDQ3X0xRUW5zb0pfTnRHN3o3RHZvazNvX0h5b9IB6wFBVV95cUxQTXFWV3BjOUF3eEJUMnI5MFNLbDF1T01Eb2xYRkwtckJDTW1pREdncDQxNFFPOGtyc0tHcFhPOWp5aXgtVUJmbjZvLUI3ajBKeGJFYkNVTWZXT3daaTM1TlhZR3hNZVpEUFVkLUlWejBRZTA3YlZuQmNhUlEzeGFwSzlqRmdfSUVON1ZLRnd0a0NzbVIwaTJKZUM0Q2t4dkowT3V5NFhhUDVDYWRHZURtUl9XX09LMmtYYWdrYXh6UnM3Yzc4Y0kxaDhoT0VGLXZad0JTeV85QTdYcjlmWHpyYzQzOEFWbWgxRlRJ?oc=5",
@@ -1818,6 +1816,31 @@
       ],
       "publishedAt": "2026-05-06T07:00:00.000Z",
       "excerpt": "Clan Senese, 18 arresti. Blitz della polizia a Roma: \"metodi mafiosi\" e \"spaccio\"",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "tgcom24.mediaset.it__tgcom24__roma spaccio tentato omicidio arrestate 18 persone vicine clan senese__2026-05-06T05:48:20.000Z",
+      "title": "Roma, spaccio e tentato omicidio: arrestate 18 persone vicine al clan Senese",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT0RvWXQyMWdrZ0Z4Y1hyVm9mOHdnOVU1YUcyVkVYZkhueHZxcGZlWjlaay1GT1lOc3lWZ3VCQ2ZDZGlsNTZVdERHcG1uNWxzb29neGdFS1dKTGdNQTZwLVZ4Um1VNjUxRDl2NHJVa0NSRDBuZEdpVFZ4cWRmNEZqYzFCRTRoZ1FzOWNGZXlxb19tS0VpM1VCWmhLakJfNEdsVjdxemY5eVdaN0NzNzJ0UlVZUmZXMS1aTy03VFVfR1NkRnVhQVRpdC1SY3hlRXJRQkc4ctIBaEFVX3lxTE9NWUJRcUlRZnJIdXdNTHh6cTVTZWdERlBRelNQR0xQeUNTMnBjNTVGMnpnU0ozOHFCSllGWUlhQ095MXd3M0Z2YTNSVFRqclJKSkpjMmprNFNZQTdsSWN6aDN1S1ozeUJX?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT0RvWXQyMWdrZ0Z4Y1hyVm9mOHdnOVU1YUcyVkVYZkhueHZxcGZlWjlaay1GT1lOc3lWZ3VCQ2ZDZGlsNTZVdERHcG1uNWxzb29neGdFS1dKTGdNQTZwLVZ4Um1VNjUxRDl2NHJVa0NSRDBuZEdpVFZ4cWRmNEZqYzFCRTRoZ1FzOWNGZXlxb19tS0VpM1VCWmhLakJfNEdsVjdxemY5eVdaN0NzNzJ0UlVZUmZXMS1aTy03VFVfR1NkRnVhQVRpdC1SY3hlRXJRQkc4ctIBaEFVX3lxTE9NWUJRcUlRZnJIdXdNTHh6cTVTZWdERlBRelNQR0xQeUNTMnBjNTVGMnpnU0ozOHFCSllGWUlhQ095MXd3M0Z2YTNSVFRqclJKSkpjMmprNFNZQTdsSWN6aDN1S1ozeUJX?oc=5",
+      "source": "Tgcom24",
+      "sourceHost": "tgcom24.mediaset.it",
+      "queryLabel": "Soci e societa'",
+      "matchedTerms": [
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-06T05:48:20.000Z",
+      "excerpt": "Roma, spaccio e tentato omicidio: arrestate 18 persone vicine al clan Senese",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2629,15 +2652,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbUJ1NW11R1NyOU4zczNJQ1NsZ2dSZ0c0NnJWcy1tSDI2dXhWU2xSYkVDeEJHeUZiV2xmVU9tUGZ1bThwclMwUFJVbUplb25JWWlvNGVjS3R6alFsS3dBZ2tVcm8wSTdZSVZRWlZUY3ozUFBnMGhCeVY1WEdyWHBxR19wZU9yT2cwYlpJajdrWlAtZXo5WkNUdDVHbjRQYkVpT2daY0xDaVpzUkhkVmFRa0VKRWl5NUNBWnhYMEluQU16c0dlVnZ4NjUyVW52UnBn?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Soci e societa'",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Caroccia",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl",
-        "clan Senese"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "politica"

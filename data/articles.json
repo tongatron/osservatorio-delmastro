@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T21:15:03.247Z",
+  "generatedAt": "2026-05-29T22:09:23.231Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-04-14T21:15:03.247Z",
-    "to": "2026-05-29T21:15:03.247Z",
+    "from": "2026-04-14T22:09:23.231Z",
+    "to": "2026-05-29T22:09:23.231Z",
     "days": 45
   },
   "sources": [
@@ -156,15 +156,15 @@
       "articleCount": 4
     },
     {
-      "label": "newsbiella.it",
-      "articleCount": 4
-    },
-    {
       "label": "liberoquotidiano.it",
       "articleCount": 4
     },
     {
       "label": "open.online",
+      "articleCount": 3
+    },
+    {
+      "label": "newsbiella.it",
       "articleCount": 3
     },
     {
@@ -196,8 +196,8 @@
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 95,
-      "uniqueArticles": 13
+      "fetchedArticles": 91,
+      "uniqueArticles": 11
     },
     {
       "label": "Bisteccheria",
@@ -206,12 +206,12 @@
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 75,
-      "uniqueArticles": 4
+      "fetchedArticles": 76,
+      "uniqueArticles": 5
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 73,
+      "fetchedArticles": 75,
       "uniqueArticles": 2
     },
     {
@@ -235,22 +235,18 @@
     },
     {
       "tag": "bisteccheria",
-      "count": 19
+      "count": 18
     },
     {
       "tag": "societa'",
-      "count": 7
+      "count": 6
     },
     {
       "tag": "territorio",
-      "count": 6
+      "count": 5
     }
   ],
   "timeline": [
-    {
-      "date": "2026-04-14",
-      "count": 0
-    },
     {
       "date": "2026-04-15",
       "count": 3
@@ -337,7 +333,7 @@
     },
     {
       "date": "2026-05-06",
-      "count": 12
+      "count": 11
     },
     {
       "date": "2026-05-07",
@@ -430,6 +426,10 @@
     {
       "date": "2026-05-29",
       "count": 3
+    },
+    {
+      "date": "2026-05-30",
+      "count": 0
     }
   ],
   "articles": [
@@ -1788,26 +1788,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "huffingtonpost.it__huffpost italia__confermata appello condanna 8 mesi andrea delmastro sul caso cospito__2026-05-20T14:57:00.000Z",
-      "title": "Confermata in appello la condanna a 8 mesi per Andrea Delmastro sul caso Cospito",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeFRidXo5RXpMaDgzdkFUNm9pQVNKOWt0Y0pvaDEzVThqWWY5OGFqV0lIQzhmT0ROaU9IS2dkZDEycnFTMHY4WDN6OG1IanFOekJ3OEpqRnhRX0FnWkM0YW9jd1VqeUxOYkg5Wm9PQTJVVy1YX0N3MkwwNVlBSHRQQzdIWWFFbldiSWdlZkZ6Z3RabDFmMXdlNUpuMlViblVQVm5LYncwSzFEY3JnaGpwTmYySXJXTk51Tm11TzFfTzZGdXJzNDVqMWNCUE04UWhuQ1M5MXdrMWJDTGtOVlE?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeFRidXo5RXpMaDgzdkFUNm9pQVNKOWt0Y0pvaDEzVThqWWY5OGFqV0lIQzhmT0ROaU9IS2dkZDEycnFTMHY4WDN6OG1IanFOekJ3OEpqRnhRX0FnWkM0YW9jd1VqeUxOYkg5Wm9PQTJVVy1YX0N3MkwwNVlBSHRQQzdIWWFFbldiSWdlZkZ6Z3RabDFmMXdlNUpuMlViblVQVm5LYncwSzFEY3JnaGpwTmYySXJXTk51Tm11TzFfTzZGdXJzNDVqMWNCUE04UWhuQ1M5MXdrMWJDTGtOVlE?oc=5",
-      "source": "HuffPost Italia",
-      "sourceHost": "huffingtonpost.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-20T14:57:00.000Z",
-      "excerpt": "Confermata in appello la condanna a 8 mesi per Andrea Delmastro sul caso Cospito",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ansa.it__ansa__confermata appello condanna delmastro caso cospito__2026-05-20T14:56:17.000Z",
       "title": "Confermata in appello la condanna a Delmastro per il caso Cospito",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTW1DLVA5RWtmNEltT1dfNG16RjRMYzRkSnF1OG1oeFlzVGNlS3VBY21hTWQ2SnJHRTBEQm9yZlVTNzBpY25BRHN6SzF0N2dfOHByQVRUYTZDSGFIME5RVWJyMGdDTUpiQjgwQUloVnVlNGtJMXFHVmh1NXJaVGRnZFpEcEMwd04zcy01WncyT1d6cUZ0RUZzZ1N6MmpkTzFMR05mSS15NjR0d1FWRjNEbWdfMFVESG5meDdBUWdYalB3aUxPaW5zRFNOWUk2NEtGUGJHWFRWbjQxcjM4R2RMYWRKUGZ4Zks5WTY3UTMyUFhTUdIB9wFBVV95cUxQRThkSzNuNi1Tblk3amt2M3NRbE8yVnVNbWRvLTBTS29YTDYxeUI1RWZ4RmRaOGVZb29NNUV4Wnl1T2pMQXRmdFRBVVdWNkJuMjJ5R09kZlc4MmJfTU1FRjA1RnM5RnJSbVFGT01lYko0WXVGOVpYTU1JYV9YZnhDODJNZWEyWlJPUWhNVDhtZ2JBVzhFeWpobFZORGRpR1N2OUtSTzFFLTN0Tmd3SFU3ck5IQmNseTJPVUZCblZLc0NPQTJJSGhiRk9iRTVnekFjM3JoMlFvZDU5cll5VlBESzJOQ1pwdnkzcmtVVEtzTjZkTWpCbHBr?oc=5",
@@ -2004,6 +1984,26 @@
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Confermata la condanna per Andrea Delmastro per il caso dell'anarchico Alfredo Cospito",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "huffingtonpost.it__huffpost italia__confermata appello condanna 8 mesi andrea delmastro sul caso cospito__2026-05-20T07:00:00.000Z",
+      "title": "Confermata in appello la condanna a 8 mesi per Andrea Delmastro sul caso Cospito",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeFRidXo5RXpMaDgzdkFUNm9pQVNKOWt0Y0pvaDEzVThqWWY5OGFqV0lIQzhmT0ROaU9IS2dkZDEycnFTMHY4WDN6OG1IanFOekJ3OEpqRnhRX0FnWkM0YW9jd1VqeUxOYkg5Wm9PQTJVVy1YX0N3MkwwNVlBSHRQQzdIWWFFbldiSWdlZkZ6Z3RabDFmMXdlNUpuMlViblVQVm5LYncwSzFEY3JnaGpwTmYySXJXTk51Tm11TzFfTzZGdXJzNDVqMWNCUE04UWhuQ1M5MXdrMWJDTGtOVlE?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeFRidXo5RXpMaDgzdkFUNm9pQVNKOWt0Y0pvaDEzVThqWWY5OGFqV0lIQzhmT0ROaU9IS2dkZDEycnFTMHY4WDN6OG1IanFOekJ3OEpqRnhRX0FnWkM0YW9jd1VqeUxOYkg5Wm9PQTJVVy1YX0N3MkwwNVlBSHRQQzdIWWFFbldiSWdlZkZ6Z3RabDFmMXdlNUpuMlViblVQVm5LYncwSzFEY3JnaGpwTmYySXJXTk51Tm11TzFfTzZGdXJzNDVqMWNCUE04UWhuQ1M5MXdrMWJDTGtOVlE?oc=5",
+      "source": "HuffPost Italia",
+      "sourceHost": "huffingtonpost.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "excerpt": "Confermata in appello la condanna a 8 mesi per Andrea Delmastro sul caso Cospito",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2502,14 +2502,11 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdkNHOFg2MmVmVmpXR2VEUHBkb2lyRGJiQUhGSGtQeEdjOE5zbjhUTUZwVXhSYUYyQ2xJVXNTczJCNTBrbjhoOGRJSFJGdDhPRXJpckl4NEdrMERNVEFXazZodEw0QVRGSFdRcmxRTktHX3hJWnBJUHQ4aklFQjFqNmtNSVBLQnVVc1kzd3VkS1ZxMGtvcExjbWF2clNvREgtOU9fVTZPWnJqSE0yRUlha1hqRlhjM1RYdzZxdlFVdUFtU1Q1OWZ2a9IBzAFBVV95cUxPTHNNcnJoeVNZVXZ6Ulc1NmhYdFJrSTkweFE1ZlROMHpxRXdmQ2RVTmo2c21KZnRJM3ZwREtKMERYY3ZOUDhJeEt3SmdSS3UyOU9aUnFRNTlLN3VGazl3MUxOamxMMjQzbHd4a0ZPNWVJeVVhSl9iMmhrbDNQVENyODdSVkRPaXFDd2hXcVNhZzRsNTYwMHhDNUdhNWw4TXFIX2xEenRkVFJmdDZYYm9nTGNUNzVWdjQ2c2NsX0V4UE9vT1JZemZFWmN1Yi0?oc=5",
       "source": "Libero Quotidiano",
       "sourceHost": "liberoquotidiano.it",
-      "queryLabel": "Soci e societa'",
+      "queryLabel": "Persone collegate",
       "matchedTerms": [
-        "Caroccia",
+        "Elena Chiorino",
         "Cristiano Franceschini",
         "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl",
         "clan Senese"
       ],
       "tags": [
@@ -2517,33 +2514,6 @@
       ],
       "publishedAt": "2026-05-06T07:00:00.000Z",
       "excerpt": "Roma: spaccio e tentato omicidio, 18 persone arrestate vicine a clan Senese | Libero Quotidiano.it",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "newsbiella.it__newsbiella.it__paraggio minoranza 5 forchette srl non ha piu sede presso mio studio__2026-05-06T07:00:00.000Z",
-      "title": "Paraggio alla minoranza: \"Le 5 Forchette Srl non ha più sede presso il mio studio\"",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbGJlOFh1OWJocjJpZW44ZnBndkVFSnhBOUllVU44ZGIwVUVlYWxwNUN5c2laaC1jQm0xNkZFTVI4emJJTmxma2RMTjZhSWhsZF9FQWhXbmRuRExBZnBudjF4eFlWVEl5NGpzYzhSNFZIZEJPbHFvaXhlRE5JNzZHRWZaamZaQTdDMG9fOERoQ0JOck9sRDBLOHBGN05hdTN2ZXE0UXVXVGM2TkRBUVFDWUE0VmRtV0RPcE5NTm9GZDVxdzVpUnVmTExwTW9ObUJ3cUttdkJQejFTV3dzaDQ3X0xRUW5zb0pfTnRHN3o3RHZvazNvX0h5b9IB6wFBVV95cUxQTXFWV3BjOUF3eEJUMnI5MFNLbDF1T01Eb2xYRkwtckJDTW1pREdncDQxNFFPOGtyc0tHcFhPOWp5aXgtVUJmbjZvLUI3ajBKeGJFYkNVTWZXT3daaTM1TlhZR3hNZVpEUFVkLUlWejBRZTA3YlZuQmNhUlEzeGFwSzlqRmdfSUVON1ZLRnd0a0NzbVIwaTJKZUM0Q2t4dkowT3V5NFhhUDVDYWRHZURtUl9XX09LMmtYYWdrYXh6UnM3Yzc4Y0kxaDhoT0VGLXZad0JTeV85QTdYcjlmWHpyYzQzOEFWbWgxRlRJ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbGJlOFh1OWJocjJpZW44ZnBndkVFSnhBOUllVU44ZGIwVUVlYWxwNUN5c2laaC1jQm0xNkZFTVI4emJJTmxma2RMTjZhSWhsZF9FQWhXbmRuRExBZnBudjF4eFlWVEl5NGpzYzhSNFZIZEJPbHFvaXhlRE5JNzZHRWZaamZaQTdDMG9fOERoQ0JOck9sRDBLOHBGN05hdTN2ZXE0UXVXVGM2TkRBUVFDWUE0VmRtV0RPcE5NTm9GZDVxdzVpUnVmTExwTW9ObUJ3cUttdkJQejFTV3dzaDQ3X0xRUW5zb0pfTnRHN3o3RHZvazNvX0h5b9IB6wFBVV95cUxQTXFWV3BjOUF3eEJUMnI5MFNLbDF1T01Eb2xYRkwtckJDTW1pREdncDQxNFFPOGtyc0tHcFhPOWp5aXgtVUJmbjZvLUI3ajBKeGJFYkNVTWZXT3daaTM1TlhZR3hNZVpEUFVkLUlWejBRZTA3YlZuQmNhUlEzeGFwSzlqRmdfSUVON1ZLRnd0a0NzbVIwaTJKZUM0Q2t4dkowT3V5NFhhUDVDYWRHZURtUl9XX09LMmtYYWdrYXh6UnM3Yzc4Y0kxaDhoT0VGLXZad0JTeV85QTdYcjlmWHpyYzQzOEFWbWgxRlRJ?oc=5",
-      "source": "Newsbiella.it",
-      "sourceHost": "newsbiella.it",
-      "queryLabel": "Soci e societa'",
-      "matchedTerms": [
-        "Caroccia",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl",
-        "clan Senese"
-      ],
-      "tags": [
-        "societa'",
-        "bisteccheria",
-        "territorio"
-      ],
-      "publishedAt": "2026-05-06T07:00:00.000Z",
-      "excerpt": "Paraggio alla minoranza: \"Le 5 Forchette Srl non ha più sede presso il mio studio\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

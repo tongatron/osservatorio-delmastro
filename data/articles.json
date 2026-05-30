@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T20:55:57.481Z",
+  "generatedAt": "2026-05-30T21:27:46.398Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-04-15T20:55:57.481Z",
-    "to": "2026-05-30T20:55:57.481Z",
+    "from": "2026-04-15T21:27:46.398Z",
+    "to": "2026-05-30T21:27:46.398Z",
     "days": 45
   },
   "sources": [
@@ -144,10 +144,6 @@
       "articleCount": 5
     },
     {
-      "label": "tg24.sky.it",
-      "articleCount": 5
-    },
-    {
       "label": "adnkronos.com",
       "articleCount": 5
     },
@@ -172,6 +168,10 @@
       "articleCount": 3
     },
     {
+      "label": "tg24.sky.it",
+      "articleCount": 2
+    },
+    {
       "label": "agi.it",
       "articleCount": 2
     },
@@ -191,17 +191,17 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 253,
-      "uniqueArticles": 126
+      "fetchedArticles": 246,
+      "uniqueArticles": 123
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 95,
+      "fetchedArticles": 93,
       "uniqueArticles": 13
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 68,
+      "fetchedArticles": 66,
       "uniqueArticles": 4
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 68,
+      "fetchedArticles": 66,
       "uniqueArticles": 1
     },
     {
@@ -223,7 +223,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 66
+      "count": 63
     },
     {
       "tag": "giudiziaria",
@@ -277,7 +277,7 @@
     },
     {
       "date": "2026-04-22",
-      "count": 16
+      "count": 15
     },
     {
       "date": "2026-04-23",
@@ -389,7 +389,7 @@
     },
     {
       "date": "2026-05-20",
-      "count": 30
+      "count": 28
     },
     {
       "date": "2026-05-21",
@@ -1630,6 +1630,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "rainews.it__rainews__appello conferma condanna delmastro__2026-05-20T15:30:00.000Z",
+      "title": "Appello conferma la condanna a Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOek41RmtmbG1GQTVjTXJxa0JaRXcyS3YzNkJodlE4MUFJTHdPdW92QW9mRlpROEZkRjVyMmVnWlZXN2VZWUUtaGN5SWlVaUYwV0xlQ2FsbVFtQW91REo0R2FNV0M4Y1ptcnZubVBNSENJOTBiX0NjaEJJQ0dKT0dCck54X05zQTBQVTRJOTZrSXJpRVh0Zl9FRnpnSkNLT0JTVERtWUg1R0NEVXNDN0J4NTh3aERzTTlTRTlCbzNBUzTSAcYBQVVfeXFMTkd3WVZNclNHenlaTkQ2MUJLRGRIUk1EbkJVUXI4MWlKYjlUR04zMmlLdXh5NlY3OHFfbmhrR01TMWQ5QUlQM1U0QXpOWFNnSndQVTF5dENXQkZGb3hURG5xVTN1VGZmYTlxVHk2M1VET09LVFpFU01lZFZQV1RHT1dnSVhxN1JYR2stdVpmVG9wTlZjeXNRWDlkQTd3dFlELUhFS1doLXp0YWlEUC1OQkRQemttRW1WX2FleVFRVjlnVVFIY0ln?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOek41RmtmbG1GQTVjTXJxa0JaRXcyS3YzNkJodlE4MUFJTHdPdW92QW9mRlpROEZkRjVyMmVnWlZXN2VZWUUtaGN5SWlVaUYwV0xlQ2FsbVFtQW91REo0R2FNV0M4Y1ptcnZubVBNSENJOTBiX0NjaEJJQ0dKT0dCck54X05zQTBQVTRJOTZrSXJpRVh0Zl9FRnpnSkNLT0JTVERtWUg1R0NEVXNDN0J4NTh3aERzTTlTRTlCbzNBUzTSAcYBQVVfeXFMTkd3WVZNclNHenlaTkQ2MUJLRGRIUk1EbkJVUXI4MWlKYjlUR04zMmlLdXh5NlY3OHFfbmhrR01TMWQ5QUlQM1U0QXpOWFNnSndQVTF5dENXQkZGb3hURG5xVTN1VGZmYTlxVHk2M1VET09LVFpFU01lZFZQV1RHT1dnSVhxN1JYR2stdVpmVG9wTlZjeXNRWDlkQTd3dFlELUhFS1doLXp0YWlEUC1OQkRQemttRW1WX2FleVFRVjlnVVFIY0ln?oc=5",
+      "source": "RaiNews",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-20T15:30:00.000Z",
+      "excerpt": "Appello conferma la condanna a Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "rainews.it__rainews__confermata appello condanna 8 mesi andrea delmastro__2026-05-20T15:29:00.000Z",
       "title": "Confermata in Appello la condanna a 8 mesi per Andrea Delmastro",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUVdnQ24zT0xXNUtGRm1vRzF6R3VnNFdXUjFDdkcwSWdCMjRzdnBSenQ0QUxqWnRFR3M5MGtqcFQ5YWtiaUdFakVMeGRnSF9KYTlJUl9qbUlyM0dwOHhaclhrVjExd0U0dnEzcVlCWmFMQ0RYRWZZTHJQS0dVZDVnck41UzJHeDh2OU94djV6dVB4OWE1R0RMT0hTYXVGNUZoN3UwbDMzcEdHc2c3Wno2TG00eXB3dS1uZVRNcGh0UmM2VWEtVElua0wzZTdJN0N6NHZhbmpISVVheG9OdGpSeVp1djFSXzZhejllYUk2a9IB9AFBVV95cUxOZ0pROWdRVXJLQ1Y1eHgzU0NWSGZKbU4yRU9RWlFvNGJBUFI4ck0xZ3gxZ0ZjTk8wX05rUnU3Y2tlbkxiaTc1X2JCMGRvU2Yxd0JDMExBVVhwSVFNTElvcFl3bU1tT2NXVjd2MUFYR2t0X3pjUC1YRExhTVpEOGw0NFU5ZGNwNVpNODFScC1XWTVFNGEtRkQzMC16b2N1ZVJncDljZzQ3Ui1hWG5OZ0tQX29wREhzc2ZGWF9idERIVmZFUVZJM18xSndDa3VkSjB3OE1tTll5a3kyWVFFdFh6VXd1Z09TRTRDeEhxdkJNbDhEWmlB?oc=5",
@@ -1910,46 +1930,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "tg24.sky.it__sky tg24__caso cospito confermata appello condanna 8 mesi delmastro__2026-05-20T07:00:00.000Z",
-      "title": "Caso Cospito, confermata in Appello la condanna di 8 mesi a Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONU5NZkQxdFhEQ2dKbkdHY0pnUW5FSC03U0xIaHVNa2hVRmcwQWZUVWpJUlZsRkpSMVA5X2R4NklzdlN4QVZjQ1FwQTBKeTdYTHN4LTVNWTJRRmxpX2V6VUVqSzNYOGRqZUlCVU1GbnMtNmtKbVNKeXp3YXkwWE5jRTZZekhWWjl1NVV5N1Vn?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONU5NZkQxdFhEQ2dKbkdHY0pnUW5FSC03U0xIaHVNa2hVRmcwQWZUVWpJUlZsRkpSMVA5X2R4NklzdlN4QVZjQ1FwQTBKeTdYTHN4LTVNWTJRRmxpX2V6VUVqSzNYOGRqZUlCVU1GbnMtNmtKbVNKeXp3YXkwWE5jRTZZekhWWjl1NVV5N1Vn?oc=5",
-      "source": "Sky TG24",
-      "sourceHost": "tg24.sky.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-20T07:00:00.000Z",
-      "excerpt": "Caso Cospito, confermata in Appello la condanna di 8 mesi a Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "tg24.sky.it__sky tg24__caso delmastro condanna 8 mesi confermata appello__2026-05-20T07:00:00.000Z",
-      "title": "Caso Delmastro, condanna a 8 mesi confermata in appello",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUdXaGNETktYeG9zY19mZVR6dVZjUTIzcXpEbHotbmlFVng3eGxJUWh4VlktUW1ESThwUmlJQ21mUzg1UFdwNEtTd1VWTk41NnpWNUJCeWswazBOYzBobkNvOGhSNEtqRXN6NGRGeWNaMFRMVlJmU3htN1MyOFMyc2VkR0Jkc0pkak1LUEM5Z1ZTNUo3Vy16NC16OUI0NWxYQ1pDWGlGQnBURzUz?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUdXaGNETktYeG9zY19mZVR6dVZjUTIzcXpEbHotbmlFVng3eGxJUWh4VlktUW1ESThwUmlJQ21mUzg1UFdwNEtTd1VWTk41NnpWNUJCeWswazBOYzBobkNvOGhSNEtqRXN6NGRGeWNaMFRMVlJmU3htN1MyOFMyc2VkR0Jkc0pkak1LUEM5Z1ZTNUo3Vy16NC16OUI0NWxYQ1pDWGlGQnBURzUz?oc=5",
-      "source": "Sky TG24",
-      "sourceHost": "tg24.sky.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-20T07:00:00.000Z",
-      "excerpt": "Caso Delmastro, condanna a 8 mesi confermata in appello",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "tgcom24.mediaset.it__tgcom24__caso cospito confermata appello condanna delmastro otto mesi faremo ricorso cassazione__2026-05-20T07:00:00.000Z",
       "title": "Caso Cospito, confermata in appello la condanna a Delmastro a otto mesi. \"Faremo ricorso in Cassazione\"",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3VUOVdFbDlCSk9ybmJwdXRVcDBDUHJPOUJYTjVjaG1nbDZkYThHR2k1S2cxamNIcFc1T01YcE41MVBCNTN5aGlPQk1MVFFzaGtxUFR6TGUwN3JxQ3dickdxU29CLThDSV9wZTFHczVrMTdQWmV2WVpXMFJwQzlsMzA0NnJKYVVMbHk1cXlTMUczS1dDOG9fdGNiMUVuYmpVaTlNekZKWEh3bnlSOHhHUVFIQdIBaEFVX3lxTFBuMGJTNEw2aG9SVS1ocklDbWJNS3VNWXdLdEp6ekJmWUloQ3NXeUwtVVp6QTIxczBlWEFCSDU0Q2lGaXFWUUd6eG9Oak02R0dkdXZGZmlBM21WOXhCb05GSk5HRHozaU1k?oc=5",
@@ -2046,26 +2026,6 @@
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Andrea Delmastro, confermata la condanna a 8 mesi per il caso-Cospito | Libero Quotidiano.it",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "rainews.it__rainews__appello conferma condanna delmastro__2026-05-20T07:00:00.000Z",
-      "title": "Appello conferma la condanna a Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOek41RmtmbG1GQTVjTXJxa0JaRXcyS3YzNkJodlE4MUFJTHdPdW92QW9mRlpROEZkRjVyMmVnWlZXN2VZWUUtaGN5SWlVaUYwV0xlQ2FsbVFtQW91REo0R2FNV0M4Y1ptcnZubVBNSENJOTBiX0NjaEJJQ0dKT0dCck54X05zQTBQVTRJOTZrSXJpRVh0Zl9FRnpnSkNLT0JTVERtWUg1R0NEVXNDN0J4NTh3aERzTTlTRTlCbzNBUzTSAcYBQVVfeXFMTkd3WVZNclNHenlaTkQ2MUJLRGRIUk1EbkJVUXI4MWlKYjlUR04zMmlLdXh5NlY3OHFfbmhrR01TMWQ5QUlQM1U0QXpOWFNnSndQVTF5dENXQkZGb3hURG5xVTN1VGZmYTlxVHk2M1VET09LVFpFU01lZFZQV1RHT1dnSVhxN1JYR2stdVpmVG9wTlZjeXNRWDlkQTd3dFlELUhFS1doLXp0YWlEUC1OQkRQemttRW1WX2FleVFRVjlnVVFIY0ln?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOek41RmtmbG1GQTVjTXJxa0JaRXcyS3YzNkJodlE4MUFJTHdPdW92QW9mRlpROEZkRjVyMmVnWlZXN2VZWUUtaGN5SWlVaUYwV0xlQ2FsbVFtQW91REo0R2FNV0M4Y1ptcnZubVBNSENJOTBiX0NjaEJJQ0dKT0dCck54X05zQTBQVTRJOTZrSXJpRVh0Zl9FRnpnSkNLT0JTVERtWUg1R0NEVXNDN0J4NTh3aERzTTlTRTlCbzNBUzTSAcYBQVVfeXFMTkd3WVZNclNHenlaTkQ2MUJLRGRIUk1EbkJVUXI4MWlKYjlUR04zMmlLdXh5NlY3OHFfbmhrR01TMWQ5QUlQM1U0QXpOWFNnSndQVTF5dENXQkZGb3hURG5xVTN1VGZmYTlxVHk2M1VET09LVFpFU01lZFZQV1RHT1dnSVhxN1JYR2stdVpmVG9wTlZjeXNRWDlkQTd3dFlELUhFS1doLXp0YWlEUC1OQkRQemttRW1WX2FleVFRVjlnVVFIY0ln?oc=5",
-      "source": "RaiNews",
-      "sourceHost": "rainews.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-20T07:00:00.000Z",
-      "excerpt": "Appello conferma la condanna a Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -3049,26 +3009,6 @@
       ],
       "publishedAt": "2026-04-22T07:00:00.000Z",
       "excerpt": "Cinque nuovi sottosegretari. Balboni batte Kelany per il dopo Delmastro, c'è il contentino per Barelli (di G. Ucciero)",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "tg24.sky.it__sky tg24__caso cospito pg roma chiede l assoluzione andrea delmastro__2026-04-22T07:00:00.000Z",
-      "title": "Caso Cospito, Pg Roma chiede l'assoluzione per Andrea Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPczRnUmpXUE43V1dIS3JVdUthUmRhOU5qZS1ZbGZ2ZUhrQy1UUFl0ZTlQY0F2eTFLbGpINmgtZFB3ZExhNEZxRGF0WjJaUVB2OENCUHQ2XzA2YkZjbWNTZDJMVWt6M2lKX21GT1VNTEJDbk5jOV9ReFpOUDF0V2s4QjNjVjRQcXpHdUhhZmFOcw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPczRnUmpXUE43V1dIS3JVdUthUmRhOU5qZS1ZbGZ2ZUhrQy1UUFl0ZTlQY0F2eTFLbGpINmgtZFB3ZExhNEZxRGF0WjJaUVB2OENCUHQ2XzA2YkZjbWNTZDJMVWt6M2lKX21GT1VNTEJDbk5jOV9ReFpOUDF0V2s4QjNjVjRQcXpHdUhhZmFOcw?oc=5",
-      "source": "Sky TG24",
-      "sourceHost": "tg24.sky.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-22T07:00:00.000Z",
-      "excerpt": "Caso Cospito, Pg Roma chiede l'assoluzione per Andrea Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

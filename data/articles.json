@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T02:24:52.378Z",
+  "generatedAt": "2026-05-30T03:48:40.009Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-04-15T02:24:52.378Z",
-    "to": "2026-05-30T02:24:52.378Z",
+    "from": "2026-04-15T03:48:40.009Z",
+    "to": "2026-05-30T03:48:40.009Z",
     "days": 45
   },
   "sources": [
@@ -160,6 +160,10 @@
       "articleCount": 4
     },
     {
+      "label": "tg24.sky.it",
+      "articleCount": 3
+    },
+    {
       "label": "today.it",
       "articleCount": 3
     },
@@ -170,10 +174,6 @@
     {
       "label": "tgcom24.mediaset.it",
       "articleCount": 3
-    },
-    {
-      "label": "tg24.sky.it",
-      "articleCount": 2
     },
     {
       "label": "ilpost.it",
@@ -191,13 +191,13 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 252,
-      "uniqueArticles": 126
+      "fetchedArticles": 254,
+      "uniqueArticles": 127
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 95,
-      "uniqueArticles": 13
+      "fetchedArticles": 97,
+      "uniqueArticles": 14
     },
     {
       "label": "Bisteccheria",
@@ -206,8 +206,8 @@
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 75,
-      "uniqueArticles": 5
+      "fetchedArticles": 74,
+      "uniqueArticles": 4
     },
     {
       "label": "Filone giudiziario",
@@ -223,7 +223,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 66
+      "count": 67
     },
     {
       "tag": "giudiziaria",
@@ -389,7 +389,7 @@
     },
     {
       "date": "2026-05-20",
-      "count": 27
+      "count": 28
     },
     {
       "date": "2026-05-21",
@@ -1930,6 +1930,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "tg24.sky.it__sky tg24__caso cospito confermata appello condanna 8 mesi delmastro__2026-05-20T07:00:00.000Z",
+      "title": "Caso Cospito, confermata in Appello la condanna di 8 mesi a Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONU5NZkQxdFhEQ2dKbkdHY0pnUW5FSC03U0xIaHVNa2hVRmcwQWZUVWpJUlZsRkpSMVA5X2R4NklzdlN4QVZjQ1FwQTBKeTdYTHN4LTVNWTJRRmxpX2V6VUVqSzNYOGRqZUlCVU1GbnMtNmtKbVNKeXp3YXkwWE5jRTZZekhWWjl1NVV5N1Vn?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONU5NZkQxdFhEQ2dKbkdHY0pnUW5FSC03U0xIaHVNa2hVRmcwQWZUVWpJUlZsRkpSMVA5X2R4NklzdlN4QVZjQ1FwQTBKeTdYTHN4LTVNWTJRRmxpX2V6VUVqSzNYOGRqZUlCVU1GbnMtNmtKbVNKeXp3YXkwWE5jRTZZekhWWjl1NVV5N1Vn?oc=5",
+      "source": "Sky TG24",
+      "sourceHost": "tg24.sky.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "excerpt": "Caso Cospito, confermata in Appello la condanna di 8 mesi a Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "tgcom24.mediaset.it__tgcom24__caso cospito confermata appello condanna delmastro otto mesi faremo ricorso cassazione__2026-05-20T07:00:00.000Z",
       "title": "Caso Cospito, confermata in appello la condanna a Delmastro a otto mesi. \"Faremo ricorso in Cassazione\"",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3VUOVdFbDlCSk9ybmJwdXRVcDBDUHJPOUJYTjVjaG1nbDZkYThHR2k1S2cxamNIcFc1T01YcE41MVBCNTN5aGlPQk1MVFFzaGtxUFR6TGUwN3JxQ3dickdxU29CLThDSV9wZTFHczVrMTdQWmV2WVpXMFJwQzlsMzA0NnJKYVVMbHk1cXlTMUczS1dDOG9fdGNiMUVuYmpVaTlNekZKWEh3bnlSOHhHUVFIQdIBaEFVX3lxTFBuMGJTNEw2aG9SVS1ocklDbWJNS3VNWXdLdEp6ekJmWUloQ3NXeUwtVVp6QTIxczBlWEFCSDU0Q2lGaXFWUUd6eG9Oak02R0dkdXZGZmlBM21WOXhCb05GSk5HRHozaU1k?oc=5",
@@ -2464,11 +2484,14 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdkNHOFg2MmVmVmpXR2VEUHBkb2lyRGJiQUhGSGtQeEdjOE5zbjhUTUZwVXhSYUYyQ2xJVXNTczJCNTBrbjhoOGRJSFJGdDhPRXJpckl4NEdrMERNVEFXazZodEw0QVRGSFdRcmxRTktHX3hJWnBJUHQ4aklFQjFqNmtNSVBLQnVVc1kzd3VkS1ZxMGtvcExjbWF2clNvREgtOU9fVTZPWnJqSE0yRUlha1hqRlhjM1RYdzZxdlFVdUFtU1Q1OWZ2a9IBzAFBVV95cUxPTHNNcnJoeVNZVXZ6Ulc1NmhYdFJrSTkweFE1ZlROMHpxRXdmQ2RVTmo2c21KZnRJM3ZwREtKMERYY3ZOUDhJeEt3SmdSS3UyOU9aUnFRNTlLN3VGazl3MUxOamxMMjQzbHd4a0ZPNWVJeVVhSl9iMmhrbDNQVENyODdSVkRPaXFDd2hXcVNhZzRsNTYwMHhDNUdhNWw4TXFIX2xEenRkVFJmdDZYYm9nTGNUNzVWdjQ2c2NsX0V4UE9vT1JZemZFWmN1Yi0?oc=5",
       "source": "Libero Quotidiano",
       "sourceHost": "liberoquotidiano.it",
-      "queryLabel": "Persone collegate",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Elena Chiorino",
+        "Caroccia",
         "Cristiano Franceschini",
         "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
         "clan Senese"
       ],
       "tags": [

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T20:32:05.588Z",
+  "generatedAt": "2026-05-31T21:27:33.588Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-04-16T20:32:05.588Z",
-    "to": "2026-05-31T20:32:05.588Z",
+    "from": "2026-04-16T21:27:33.588Z",
+    "to": "2026-05-31T21:27:33.588Z",
     "days": 45
   },
   "sources": [
@@ -113,19 +113,19 @@
     },
     {
       "label": "lastampa.it",
-      "articleCount": 13
+      "articleCount": 12
     },
     {
       "label": "corriere.it",
       "articleCount": 10
     },
     {
-      "label": "ansa.it",
+      "label": "ilgiornale.it",
       "articleCount": 9
     },
     {
-      "label": "ilgiornale.it",
-      "articleCount": 9
+      "label": "ansa.it",
+      "articleCount": 8
     },
     {
       "label": "fanpage.it",
@@ -187,27 +187,27 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 264,
-      "uniqueArticles": 130
+      "fetchedArticles": 257,
+      "uniqueArticles": 127
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 95,
+      "fetchedArticles": 94,
       "uniqueArticles": 13
     },
     {
       "label": "Bisteccheria",
       "fetchedArticles": 68,
-      "uniqueArticles": 3
+      "uniqueArticles": 4
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 72,
+      "fetchedArticles": 71,
       "uniqueArticles": 3
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 72,
+      "fetchedArticles": 71,
       "uniqueArticles": 2
     },
     {
@@ -219,7 +219,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 67
+      "count": 65
     },
     {
       "tag": "giudiziaria",
@@ -269,7 +269,7 @@
     },
     {
       "date": "2026-04-22",
-      "count": 17
+      "count": 16
     },
     {
       "date": "2026-04-23",
@@ -325,7 +325,7 @@
     },
     {
       "date": "2026-05-06",
-      "count": 12
+      "count": 11
     },
     {
       "date": "2026-05-07",
@@ -2066,26 +2066,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "rainews.it__rainews__delmastro confermata appello condanna caso cospito faremo ricorso cassazione__2026-05-20T07:00:00.000Z",
-      "title": "Delmastro, confermata in appello la condanna per il caso Cospito: \"Faremo ricorso in Cassazione\"",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTHNCQzFGLVpMVXVsTmRfZXlzaTJWOV8xZm5HMi1tVWJ2OXMtOUgtTnQ5SDhwZHhhSVRxNUp3RnBOYW9vWkdHay13WWdKSEpET2dFa250ejNPR3FIaXlvNVppWGxSZVR5QWljUEVpWEw2anMzUmpzS1VGUzJWRkJGR3hFd0lwUzE2ZHNhZWpRSkpLU1hiNGxndVpEb09wWmVXWXc1bUN0aGY5MERQb1k1eFVMV25zZ2FyVFByT3ZtTTZEV1FFTEp5RGU2VVRrZTVETTMwNUpWQTVieWVTb1ZZeNIB5gFBVV95cUxNcUFvQ3VxcjJibDNuN3NveTZmSFQwRlpkVkEtbFVJOHhfV0p0RVctX25raExaYWJXNk1TczZLWlhMZDhPZFE4WkswdDYxb2xyRGFtYXI1ckpXcURUc0x4ZkVRT3Q4U0ZqeThrNExld2UyMGVLZk0zZm1kMjlNWlpkdUp2cUxGdHE3blJDalRUVXNLZG9XMnBzT3FLR0NBZXBmQUp6ZU1jQmJZV25ydHFidjdkc1BkRWhEYzIxcm9ubVpBYjFXWTlhcHd5NlFmYzNWWHVwbzZ2N2EzOERXMXNxU0NXOUNjZw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTHNCQzFGLVpMVXVsTmRfZXlzaTJWOV8xZm5HMi1tVWJ2OXMtOUgtTnQ5SDhwZHhhSVRxNUp3RnBOYW9vWkdHay13WWdKSEpET2dFa250ejNPR3FIaXlvNVppWGxSZVR5QWljUEVpWEw2anMzUmpzS1VGUzJWRkJGR3hFd0lwUzE2ZHNhZWpRSkpLU1hiNGxndVpEb09wWmVXWXc1bUN0aGY5MERQb1k1eFVMV25zZ2FyVFByT3ZtTTZEV1FFTEp5RGU2VVRrZTVETTMwNUpWQTVieWVTb1ZZeNIB5gFBVV95cUxNcUFvQ3VxcjJibDNuN3NveTZmSFQwRlpkVkEtbFVJOHhfV0p0RVctX25raExaYWJXNk1TczZLWlhMZDhPZFE4WkswdDYxb2xyRGFtYXI1ckpXcURUc0x4ZkVRT3Q4U0ZqeThrNExld2UyMGVLZk0zZm1kMjlNWlpkdUp2cUxGdHE3blJDalRUVXNLZG9XMnBzT3FLR0NBZXBmQUp6ZU1jQmJZV25ydHFidjdkc1BkRWhEYzIxcm9ubVpBYjFXWTlhcHd5NlFmYzNWWHVwbzZ2N2EzOERXMXNxU0NXOUNjZw?oc=5",
-      "source": "RaiNews",
-      "sourceHost": "rainews.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-20T07:00:00.000Z",
-      "excerpt": "Delmastro, confermata in appello la condanna per il caso Cospito: \"Faremo ricorso in Cassazione\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "rainews.it__rainews__delmastro confermata appello condanna 8 mesi__2026-05-20T07:00:00.000Z",
       "title": "Delmastro, confermata in appello la condanna a 8 mesi",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZW5UbEdVVjNVRVY4TEdHWFQ5VVdSVk10VkFqQWtXTnpzb29zSXR5dEtjajRFYWJZTDVlMTdIbHdMWVdLWlVvZTQ1V1Jna1lPcnRWVmc3dkduVWw3ZG15cEFab3FwNzRXMW5UMFoweTEwMmZiQlAxc2NQeHU3eUxzbzd1OVI5eGxzZl9VSEFUMHNTNm5oT2R3MDh4eXFGMFFFOVpYem04TlZSQTNKYnh3WktuQVRDdzNRV2tQLVdUZUY1bjY1OTFJcEhpams2THZnWlZpWWJ0YnJ4akg30gHiAUFVX3lxTFA4em5KbGx2b1dkQXNZM0s1Q1oxSGtuajgyLWFoOGhZOW85Q0Q1Wjh2c3pYQXNfWjRlQ3VmMUE2V0lxVTY4ZmdldkRveXFaT2hGbm51NFRFSnRiZjRJeUU1dXJWZmdSOHBlZE9ZVWpzLTlwb3hFY2dRRzJya0loTkhUeHJHRWdVdlA5Q3hLNy1PN2xSN1Z6dTR1MFo2YXNVZVlSTXBySjA5NXo4TlBSNU1QdDZQM1VEV0dhOXExcENDNk9TNy1FQkVzS2ZsWjE1dDJNSWdlV3hLRTRwTy1CRWNfdkE?oc=5",
@@ -2102,6 +2082,26 @@
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Delmastro, confermata in appello la condanna a 8 mesi",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "rainews.it__rainews__delmastro confermata appello condanna caso cospito faremo ricorso cassazione__2026-05-20T07:00:00.000Z",
+      "title": "Delmastro, confermata in appello la condanna per il caso Cospito: \"Faremo ricorso in Cassazione\"",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTHNCQzFGLVpMVXVsTmRfZXlzaTJWOV8xZm5HMi1tVWJ2OXMtOUgtTnQ5SDhwZHhhSVRxNUp3RnBOYW9vWkdHay13WWdKSEpET2dFa250ejNPR3FIaXlvNVppWGxSZVR5QWljUEVpWEw2anMzUmpzS1VGUzJWRkJGR3hFd0lwUzE2ZHNhZWpRSkpLU1hiNGxndVpEb09wWmVXWXc1bUN0aGY5MERQb1k1eFVMV25zZ2FyVFByT3ZtTTZEV1FFTEp5RGU2VVRrZTVETTMwNUpWQTVieWVTb1ZZeNIB5gFBVV95cUxNcUFvQ3VxcjJibDNuN3NveTZmSFQwRlpkVkEtbFVJOHhfV0p0RVctX25raExaYWJXNk1TczZLWlhMZDhPZFE4WkswdDYxb2xyRGFtYXI1ckpXcURUc0x4ZkVRT3Q4U0ZqeThrNExld2UyMGVLZk0zZm1kMjlNWlpkdUp2cUxGdHE3blJDalRUVXNLZG9XMnBzT3FLR0NBZXBmQUp6ZU1jQmJZV25ydHFidjdkc1BkRWhEYzIxcm9ubVpBYjFXWTlhcHd5NlFmYzNWWHVwbzZ2N2EzOERXMXNxU0NXOUNjZw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTHNCQzFGLVpMVXVsTmRfZXlzaTJWOV8xZm5HMi1tVWJ2OXMtOUgtTnQ5SDhwZHhhSVRxNUp3RnBOYW9vWkdHay13WWdKSEpET2dFa250ejNPR3FIaXlvNVppWGxSZVR5QWljUEVpWEw2anMzUmpzS1VGUzJWRkJGR3hFd0lwUzE2ZHNhZWpRSkpLU1hiNGxndVpEb09wWmVXWXc1bUN0aGY5MERQb1k1eFVMV25zZ2FyVFByT3ZtTTZEV1FFTEp5RGU2VVRrZTVETTMwNUpWQTVieWVTb1ZZeNIB5gFBVV95cUxNcUFvQ3VxcjJibDNuN3NveTZmSFQwRlpkVkEtbFVJOHhfV0p0RVctX25raExaYWJXNk1TczZLWlhMZDhPZFE4WkswdDYxb2xyRGFtYXI1ckpXcURUc0x4ZkVRT3Q4U0ZqeThrNExld2UyMGVLZk0zZm1kMjlNWlpkdUp2cUxGdHE3blJDalRUVXNLZG9XMnBzT3FLR0NBZXBmQUp6ZU1jQmJZV25ydHFidjdkc1BkRWhEYzIxcm9ubVpBYjFXWTlhcHd5NlFmYzNWWHVwbzZ2N2EzOERXMXNxU0NXOUNjZw?oc=5",
+      "source": "RaiNews",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "excerpt": "Delmastro, confermata in appello la condanna per il caso Cospito: \"Faremo ricorso in Cassazione\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2420,26 +2420,6 @@
       ],
       "publishedAt": "2026-05-06T07:00:00.000Z",
       "excerpt": "Roma, sequestri di persona e tentati omicidi: 18 arresti tra i narcotrafficanti vicini al clan Senese. Indagati due poliziotti",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "lastampa.it__la stampa__caso delmastro caroccia l assessore paraggio si sfila non sono piu io loro commercialista__2026-05-06T07:00:00.000Z",
-      "title": "Caso Delmastro-Caroccia, l’assessore Paraggio si sfila: “Non sono più io il loro commercialista”",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSzlQOVItUXpGSHdCdmMweDVTSzE0QlVGYXhHc1ZjMnYtREdZdElJTElzdlplVjV0TVlnNnhWTDg5dXB2OGVQcnpreVpWMUNzS1dKTjlUVVM1WHlUbG10YzFZbV9ISHdLYXlPT0IwWkd3SWJFNzZ1V1R0aTVuNlVqZ0QzYmE0RTNrMzZlUnRhdFN5VU1YR3RMTUt0ZEViR3QzaDJ0NWRlcXFseS10aDVEWkt3UkMxcnBKdGZJNW1URDNuY3JER0ZTNldxMTB4MUHSAdQBQVVfeXFMTVRhdWppcFMwRWJmVFhpWmxYMDZfeHlpY3FWd2NWcUxZbVNfZzdSbUNsM3doRVVocDRiSE5ka21KRFdLbnMwRjF1VW9zTWNtS2Q4MjJFSXJZRGx3V2lTLUQ5ZmZKYXp3UjMxTUNKcmw4cmpkN0dxSzREcmdvNmZ6UzNXNWJXdDlpY2c4MUtfcVZ3M3BtUktMT1MyZUJzNl9Bd2kwNm9nTl9wd0JLN1M1aV9KRmRFb0hUWVlIU2RfWE1ibmNOLWpDZmh0ZGpnZFBNU3BhZEk?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSzlQOVItUXpGSHdCdmMweDVTSzE0QlVGYXhHc1ZjMnYtREdZdElJTElzdlplVjV0TVlnNnhWTDg5dXB2OGVQcnpreVpWMUNzS1dKTjlUVVM1WHlUbG10YzFZbV9ISHdLYXlPT0IwWkd3SWJFNzZ1V1R0aTVuNlVqZ0QzYmE0RTNrMzZlUnRhdFN5VU1YR3RMTUt0ZEViR3QzaDJ0NWRlcXFseS10aDVEWkt3UkMxcnBKdGZJNW1URDNuY3JER0ZTNldxMTB4MUHSAdQBQVVfeXFMTVRhdWppcFMwRWJmVFhpWmxYMDZfeHlpY3FWd2NWcUxZbVNfZzdSbUNsM3doRVVocDRiSE5ka21KRFdLbnMwRjF1VW9zTWNtS2Q4MjJFSXJZRGx3V2lTLUQ5ZmZKYXp3UjMxTUNKcmw4cmpkN0dxSzREcmdvNmZ6UzNXNWJXdDlpY2c4MUtfcVZ3M3BtUktMT1MyZUJzNl9Bd2kwNm9nTl9wd0JLN1M1aV9KRmRFb0hUWVlIU2RfWE1ibmNOLWpDZmh0ZGpnZFBNU3BhZEk?oc=5",
-      "source": "La Stampa",
-      "sourceHost": "lastampa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-06T07:00:00.000Z",
-      "excerpt": "Caso Delmastro-Caroccia, l’assessore Paraggio si sfila: “Non sono più io il loro commercialista”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2971,36 +2951,16 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ansa.it__ansa__cospito pg roma chiede l assoluzione delmastro__2026-04-22T07:00:00.000Z",
-      "title": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdnV6NXhZX2ZvRW5aWldOa1pCeHN0MUl1UXg1cEtkQVhGaDNUeDV1ZUZUamxSRm5JSENfbjFMUWs1akJQaTZ3SC12UmRpUHl3Vm9oVWtzQVlwRktUV204WFVfOVJrVm9zbE9tb19oVVFmSHBscGduWXlOaUkwR0tWYmJid2k5QnNoUmdOYVU1Y0s3WUFTVi1IWlVROG1jZXFhVXNZLU1fWDFKVHcyb01VOGpMMWtCT1VvRE5LeEJIdW9FbTU3eFhUNm9MV1l0SUVlaVR0cjRR0gHbAUFVX3lxTE1XUF96Ym9EQXprX1h4RXBCWUtPUVNIQnpVU1FhcFNkRlBMODRwd1hrblNUb1Y4OG8yTzl1S05DSHlFVklDVThDSkhNNWtGQmdkU3RLei1xa1FmS09IMjRoOWNhWjBDX0dEQmlPa1lhUHYyT2gtOV9NZUUzcllUaE5STks5d2RXSFNMTkgtdGRVYjRJM0pCMGJTNHg5TkFYUlhqWGpiT2MtVDVYYnBGa1ZiLWZGMEw4RXRFdW9XLS1fTGlIS2NhbDd2cWRVS3ZUNFpXeDNoTktvVWRLcw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdnV6NXhZX2ZvRW5aWldOa1pCeHN0MUl1UXg1cEtkQVhGaDNUeDV1ZUZUamxSRm5JSENfbjFMUWs1akJQaTZ3SC12UmRpUHl3Vm9oVWtzQVlwRktUV204WFVfOVJrVm9zbE9tb19oVVFmSHBscGduWXlOaUkwR0tWYmJid2k5QnNoUmdOYVU1Y0s3WUFTVi1IWlVROG1jZXFhVXNZLU1fWDFKVHcyb01VOGpMMWtCT1VvRE5LeEJIdW9FbTU3eFhUNm9MV1l0SUVlaVR0cjRR0gHbAUFVX3lxTE1XUF96Ym9EQXprX1h4RXBCWUtPUVNIQnpVU1FhcFNkRlBMODRwd1hrblNUb1Y4OG8yTzl1S05DSHlFVklDVThDSkhNNWtGQmdkU3RLei1xa1FmS09IMjRoOWNhWjBDX0dEQmlPa1lhUHYyT2gtOV9NZUUzcllUaE5STks5d2RXSFNMTkgtdGRVYjRJM0pCMGJTNHg5TkFYUlhqWGpiT2MtVDVYYnBGa1ZiLWZGMEw4RXRFdW9XLS1fTGlIS2NhbDd2cWRVS3ZUNFpXeDNoTktvVWRLcw?oc=5",
-      "source": "ANSA",
-      "sourceHost": "ansa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-22T07:00:00.000Z",
-      "excerpt": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ansa.it__ansa__caso cospito pg chiede l assoluzione delmastro__2026-04-22T07:00:00.000Z",
       "title": "Il caso Cospito, il pg chiede l'assoluzione per Delmastro",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcmVrVkRMWDlic1g0dkExXzNsbjFZOXlhYjU0cHItLWFybnAyQlVxbks5eklCd05EVEZ6d1JNSGd6cVZLd0plRWVwRHF3U0Z2bzJhblZQa0pXLW85QUlYaHpoVXZhWUlIMVVmWkpncXRZNmM5eFBvVGxfNHN5YnMtNHV6SHZHUFhsVzRoaVJPeWVoYmRKZFk2bmtqVU9XWU5kQ1lHbWxOTzNaZXZKeExmVzdYeUlWbEZaN0llMHpqT3gxdWU5c2pYQ1lUT09WYnU3VUI3eGxTLVNXSklM0gHiAUFVX3lxTFA1UjBQWmJUN240Mk13MEV4c0owYWF1cDU1ZGNqQ0d2YWNmYmZEZDdnRWdUdEU3NnV5UVpGak9rQVpzbzhfRWhkNUlybEdRNHBCUExWSnNDQkppU09UNEl4NmV2NFVCMkJ3WWtDVVlfQlNKWjd3UUNuRHBFcHFpVkNFZndJaEFiVUQ4aTVGMGtHY001X2xwbHB5MUF5WjhaMTNVd1ZyVmw4S3FWNGNENzJjeEFhcVYxcXJwTlNEdElXd293aEJ1aE1TMnVQSEFBVHJ2WEJyNHBNYl9CM2F1ZjN5Rnc?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcmVrVkRMWDlic1g0dkExXzNsbjFZOXlhYjU0cHItLWFybnAyQlVxbks5eklCd05EVEZ6d1JNSGd6cVZLd0plRWVwRHF3U0Z2bzJhblZQa0pXLW85QUlYaHpoVXZhWUlIMVVmWkpncXRZNmM5eFBvVGxfNHN5YnMtNHV6SHZHUFhsVzRoaVJPeWVoYmRKZFk2bmtqVU9XWU5kQ1lHbWxOTzNaZXZKeExmVzdYeUlWbEZaN0llMHpqT3gxdWU5c2pYQ1lUT09WYnU3VUI3eGxTLVNXSklM0gHiAUFVX3lxTFA1UjBQWmJUN240Mk13MEV4c0owYWF1cDU1ZGNqQ0d2YWNmYmZEZDdnRWdUdEU3NnV5UVpGak9rQVpzbzhfRWhkNUlybEdRNHBCUExWSnNDQkppU09UNEl4NmV2NFVCMkJ3WWtDVVlfQlNKWjd3UUNuRHBFcHFpVkNFZndJaEFiVUQ4aTVGMGtHY001X2xwbHB5MUF5WjhaMTNVd1ZyVmw4S3FWNGNENzJjeEFhcVYxcXJwTlNEdElXd293aEJ1aE1TMnVQSEFBVHJ2WEJyNHBNYl9CM2F1ZjN5Rnc?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "altro"

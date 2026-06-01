@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T08:07:39.935Z",
+  "generatedAt": "2026-06-01T10:19:55.111Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-04-17T08:07:39.935Z",
-    "to": "2026-06-01T08:07:39.935Z",
+    "from": "2026-04-17T10:19:55.111Z",
+    "to": "2026-06-01T10:19:55.111Z",
     "days": 45
   },
   "sources": [
@@ -136,6 +136,10 @@
       "articleCount": 6
     },
     {
+      "label": "newsbiella.it",
+      "articleCount": 5
+    },
+    {
       "label": "affaritaliani.it",
       "articleCount": 5
     },
@@ -157,10 +161,6 @@
     },
     {
       "label": "ilfoglio.it",
-      "articleCount": 4
-    },
-    {
-      "label": "newsbiella.it",
       "articleCount": 4
     },
     {
@@ -187,18 +187,13 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 266,
-      "uniqueArticles": 130
+      "fetchedArticles": 268,
+      "uniqueArticles": 131
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 92,
+      "fetchedArticles": 93,
       "uniqueArticles": 12
-    },
-    {
-      "label": "Persone collegate",
-      "fetchedArticles": 71,
-      "uniqueArticles": 3
     },
     {
       "label": "Bisteccheria",
@@ -206,9 +201,14 @@
       "uniqueArticles": 2
     },
     {
+      "label": "Persone collegate",
+      "fetchedArticles": 69,
+      "uniqueArticles": 2
+    },
+    {
       "label": "Filone giudiziario",
-      "fetchedArticles": 70,
-      "uniqueArticles": 1
+      "fetchedArticles": 65,
+      "uniqueArticles": 2
     },
     {
       "label": "Territorio",
@@ -234,12 +234,12 @@
       "count": 18
     },
     {
-      "tag": "societa'",
+      "tag": "territorio",
       "count": 7
     },
     {
-      "tag": "territorio",
-      "count": 6
+      "tag": "societa'",
+      "count": 7
     }
   ],
   "timeline": [
@@ -425,10 +425,30 @@
     },
     {
       "date": "2026-06-01",
-      "count": 0
+      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "newsbiella.it__newsbiella.it__gal montagne biellesi francesca delmastro stata confermata presidente si parte bandi rivolti enti pubblici__2026-06-01T09:40:00.000Z",
+      "title": "GAL Montagne Biellesi, Francesca Delmastro è stata confermata presidente: “Si parte con i bandi rivolti agli enti pubblici”",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSTd1c243U09PQUJTalY0MUE2Skc4WEw3WlczNFZVTXhxYkRta3BxbjU1Uk16aDVldmh4OFBCNUF1OUxZQ1BxeXdLamRNMkR6SGROT0ZaSF95X2R3aWdyYnVhMWFxelpkTkNPRU1qeE5jcmQ1OFhXS1JyRkl2Y3VkR2N2RENoNEw1Z0xRZzdrZmJqcGxJMzZXT1kyT2tYUExJMjVLaXNhTHFSTnFadTFyUEFGaksyakxtVjk5Nk1JUXk1NGNnWGkzYlJhenFKZG8tN1A1ZzYyeEk3aWpobmNWdzVHRFFORmNiSmpYckhKSXJ4UGxLLWVxZjB6cktfWlUweWQyQUlzVWotU1BCVVHSAYACQVVfeXFMT0QtSG82d2J1VlYzdURkZHZnYTlRU05hODdWSjh2UnprYXBPcWlUeFczU2wzcTJHMGtCTi04VEZITXdlT3hqMkpQZTJqNVNYREpWc1k4azVKZmRNb0Z6MHhaS0NMcDFSRGRIYl9Wc2lGVEVZZ2ZXVFdOVEJsUnRBeXJ5aGJYS2gyN2M2UDQxZ3JPYXEydHlnZ1Z3cE1rNFlDLWVDMzRLbXRrbUFJa1NndExwTWZfYzRJNFNPa1EyU09wNHZIQmVSUjV1R19GdGFsb0RHN0tIQW15Zlk5a2RpNmhNaFJxay1oVTJCNDVjUVptVmU5WGxlRWRWTzhDbnRKbQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSTd1c243U09PQUJTalY0MUE2Skc4WEw3WlczNFZVTXhxYkRta3BxbjU1Uk16aDVldmh4OFBCNUF1OUxZQ1BxeXdLamRNMkR6SGROT0ZaSF95X2R3aWdyYnVhMWFxelpkTkNPRU1qeE5jcmQ1OFhXS1JyRkl2Y3VkR2N2RENoNEw1Z0xRZzdrZmJqcGxJMzZXT1kyT2tYUExJMjVLaXNhTHFSTnFadTFyUEFGaksyakxtVjk5Nk1JUXk1NGNnWGkzYlJhenFKZG8tN1A1ZzYyeEk3aWpobmNWdzVHRFFORmNiSmpYckhKSXJ4UGxLLWVxZjB6cktfWlUweWQyQUlzVWotU1BCVVHSAYACQVVfeXFMT0QtSG82d2J1VlYzdURkZHZnYTlRU05hODdWSjh2UnprYXBPcWlUeFczU2wzcTJHMGtCTi04VEZITXdlT3hqMkpQZTJqNVNYREpWc1k4azVKZmRNb0Z6MHhaS0NMcDFSRGRIYl9Wc2lGVEVZZ2ZXVFdOVEJsUnRBeXJ5aGJYS2gyN2M2UDQxZ3JPYXEydHlnZ1Z3cE1rNFlDLWVDMzRLbXRrbUFJa1NndExwTWZfYzRJNFNPa1EyU09wNHZIQmVSUjV1R19GdGFsb0RHN0tIQW15Zlk5a2RpNmhNaFJxay1oVTJCNDVjUVptVmU5WGxlRWRWTzhDbnRKbQ?oc=5",
+      "source": "Newsbiella.it",
+      "sourceHost": "newsbiella.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "territorio"
+      ],
+      "publishedAt": "2026-06-01T09:40:00.000Z",
+      "excerpt": "GAL Montagne Biellesi, Francesca Delmastro è stata confermata presidente: “Si parte con i bandi rivolti agli enti pubblici”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
     {
       "id": "lastampa.it__la stampa__delmastro confermata presidenza gal montagne biellesi__2026-05-30T15:22:00.000Z",
       "title": "Delmastro confermata alla presidenza del Gal Montagne Biellesi",
@@ -1546,26 +1566,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilgiornale.it__il giornale__giudice ribalta pg condannato delmastro__2026-05-21T10:04:58.000Z",
-      "title": "Il giudice ribalta il Pg: condannato Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSnNwazZFM2Rzem1BRlFVMmVuMTA3Nm5YVDZiSkU3RE1ZRXhfMHpTRkxOWTg0RHFXRG1DSERPTHFPTXhRVDdYRmlPSFlsNkpyQ0daaExJOFh2dzRiS2JEMGN0YkRiZXlhZm1NNUJ0TnYzZ2VyUm84RGVXTTI4dlhxdDN5RkdUMHJuVk9xSElyQVRwSFlOMGE0?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSnNwazZFM2Rzem1BRlFVMmVuMTA3Nm5YVDZiSkU3RE1ZRXhfMHpTRkxOWTg0RHFXRG1DSERPTHFPTXhRVDdYRmlPSFlsNkpyQ0daaExJOFh2dzRiS2JEMGN0YkRiZXlhZm1NNUJ0TnYzZ2VyUm84RGVXTTI4dlhxdDN5RkdUMHJuVk9xSElyQVRwSFlOMGE0?oc=5",
-      "source": "il Giornale",
-      "sourceHost": "ilgiornale.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-21T10:04:58.000Z",
-      "excerpt": "Il giudice ribalta il Pg: condannato Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "newsbiella.it__newsbiella.it__caso cospito confermata appello condanna 8 mesi delmastro faremo ricorso cassazione__2026-05-21T07:20:00.000Z",
       "title": "Caso Cospito, confermata in Appello condanna a 8 mesi per Delmastro: “Faremo ricorso in Cassazione”",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQR2FzWml0Y3NmV3JlS2N1dFJiTmJPM0czbEszdnBDazNmUnhaWHFxOXVPNlQ4MFExcENfMzVxWEtCbXN0WF9ENlA1Tkcza2xnaTA2UGVjOXV0TDFKcXNUOWg5UDY0dXhfUTd6ZVRTOVNhalJBbFpmZEp5X1ZWb0M5WkRjcmJiVUZ0RzdxU1FRUlRlVnFFSVQyYUF3aDZyal9mbjhpbkVvOFVfRlhnb3lxTTJ2ZWV6ODVvQnAxQm5Bc3NTUHd6UXpWd25RWTlNb1ZVUnE1b0V2UkNmd2xYcW5EVTUtRWFnYjZSOWx6UGZTQVFobU5vREkyWUx4Y3dZV0RHUTJibDF4S1hIQXZO0gH_AUFVX3lxTE5tTjJJOE03RUI4cnpQWE5ZXzc2SlVSc0NLS1NBT0RNMUVVN21BdW5TYzIwRG1QRnNhbWI2dWNGN1JMbEd0V3phQ3NxTWFnd3NxeWRXUVNmQkNKWTItNHFMc1ZGdHdlWV9SUDlJd1RKU2doRjZhSVJFTDZ1eXpjZ0NxN1JWNUZSX28xbzMwa0FJa0ltdTVPb09zQkdhcERaU0FucGh1cmVEX253RXhzY2FlWjRWUlNkTUh5WVlveUVGMjNLUjM4V1FpSVRjMVZyZ2xfb09TRDlfa004WldPbHViZG0zTWZoR0dwVlhMZlVuWmQ2NlJkSUJtSXB1Rnlscw?oc=5",
@@ -1582,6 +1582,26 @@
       ],
       "publishedAt": "2026-05-21T07:20:00.000Z",
       "excerpt": "Caso Cospito, confermata in Appello condanna a 8 mesi per Delmastro: “Faremo ricorso in Cassazione”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilgiornale.it__il giornale__giudice ribalta pg condannato delmastro__2026-05-21T07:00:00.000Z",
+      "title": "Il giudice ribalta il Pg: condannato Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSnNwazZFM2Rzem1BRlFVMmVuMTA3Nm5YVDZiSkU3RE1ZRXhfMHpTRkxOWTg0RHFXRG1DSERPTHFPTXhRVDdYRmlPSFlsNkpyQ0daaExJOFh2dzRiS2JEMGN0YkRiZXlhZm1NNUJ0TnYzZ2VyUm84RGVXTTI4dlhxdDN5RkdUMHJuVk9xSElyQVRwSFlOMGE0?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSnNwazZFM2Rzem1BRlFVMmVuMTA3Nm5YVDZiSkU3RE1ZRXhfMHpTRkxOWTg0RHFXRG1DSERPTHFPTXhRVDdYRmlPSFlsNkpyQ0daaExJOFh2dzRiS2JEMGN0YkRiZXlhZm1NNUJ0TnYzZ2VyUm84RGVXTTI4dlhxdDN5RkdUMHJuVk9xSElyQVRwSFlOMGE0?oc=5",
+      "source": "il Giornale",
+      "sourceHost": "ilgiornale.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-21T07:00:00.000Z",
+      "excerpt": "Il giudice ribalta il Pg: condannato Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2126,26 +2146,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "quotidiano.net__quotidiano nazionale__confermata appello condanna delmastro caso cospito__2026-05-20T07:00:00.000Z",
-      "title": "Confermata in appello la condanna a Delmastro per il caso Cospito",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXBhX1pWUmtoVjBjQ2ZBVWtwUGRURnUxWXFMY18wT1A4bUM4ZHZrTTVfcGtzWFhzUnN0YTlycTZuQWRzM3Uzc3JqNXRrV3pZRG1LWEpGalBaMFpNSkxFdFVkTm1PNW80ZW5DeXhSa2dYM0Z4Vm1XUDV0bnAxeW9GaGZ6aExqQQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXBhX1pWUmtoVjBjQ2ZBVWtwUGRURnUxWXFMY18wT1A4bUM4ZHZrTTVfcGtzWFhzUnN0YTlycTZuQWRzM3Uzc3JqNXRrV3pZRG1LWEpGalBaMFpNSkxFdFVkTm1PNW80ZW5DeXhSa2dYM0Z4Vm1XUDV0bnAxeW9GaGZ6aExqQQ?oc=5",
-      "source": "Quotidiano Nazionale",
-      "sourceHost": "quotidiano.net",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-20T07:00:00.000Z",
-      "excerpt": "Confermata in appello la condanna a Delmastro per il caso Cospito",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "quotidiano.net__quotidiano nazionale__caso cospito confermata anche appello condanna delmastro l ex sottosegretario non ho intenzione fermarmi qui__2026-05-20T07:00:00.000Z",
       "title": "Caso Cospito, confermata anche in appello la condanna a Delmastro. L’ex sottosegretario: “Non ho intenzione di fermarmi qui”",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR1hoanR1MHFBb0lNX05yTVRIbFI2RFBvNHEzZVZwUUJLS3R0UWttbm50WWV3Z2NHVlVsRGhsdHE0ZExrT21vQUIxMGZxMDlRVmpULXJncUs0bi1HTWxqMFI4NVRjYlV0WlNxem5IMWpQRmcwLWluV1A0VTdIbGp2cTBjdXZlVmoxaExHLU5nSQ?oc=5",
@@ -2162,6 +2162,26 @@
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Caso Cospito, confermata anche in appello la condanna a Delmastro. L’ex sottosegretario: “Non ho intenzione di fermarmi qui”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "quotidiano.net__quotidiano nazionale__confermata appello condanna delmastro caso cospito__2026-05-20T07:00:00.000Z",
+      "title": "Confermata in appello la condanna a Delmastro per il caso Cospito",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXBhX1pWUmtoVjBjQ2ZBVWtwUGRURnUxWXFMY18wT1A4bUM4ZHZrTTVfcGtzWFhzUnN0YTlycTZuQWRzM3Uzc3JqNXRrV3pZRG1LWEpGalBaMFpNSkxFdFVkTm1PNW80ZW5DeXhSa2dYM0Z4Vm1XUDV0bnAxeW9GaGZ6aExqQQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXBhX1pWUmtoVjBjQ2ZBVWtwUGRURnUxWXFMY18wT1A4bUM4ZHZrTTVfcGtzWFhzUnN0YTlycTZuQWRzM3Uzc3JqNXRrV3pZRG1LWEpGalBaMFpNSkxFdFVkTm1PNW80ZW5DeXhSa2dYM0Z4Vm1XUDV0bnAxeW9GaGZ6aExqQQ?oc=5",
+      "source": "Quotidiano Nazionale",
+      "sourceHost": "quotidiano.net",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "excerpt": "Confermata in appello la condanna a Delmastro per il caso Cospito",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

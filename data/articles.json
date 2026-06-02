@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T21:35:41.763Z",
+  "generatedAt": "2026-06-02T22:48:29.229Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-04-18T21:35:41.763Z",
-    "to": "2026-06-02T21:35:41.763Z",
+    "from": "2026-04-18T22:48:29.229Z",
+    "to": "2026-06-02T22:48:29.229Z",
     "days": 45
   },
   "sources": [
@@ -196,19 +196,19 @@
       "uniqueArticles": 11
     },
     {
+      "label": "Bisteccheria",
+      "fetchedArticles": 66,
+      "uniqueArticles": 2
+    },
+    {
       "label": "Persone collegate",
-      "fetchedArticles": 67,
+      "fetchedArticles": 68,
       "uniqueArticles": 2
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 71,
+      "fetchedArticles": 70,
       "uniqueArticles": 2
-    },
-    {
-      "label": "Bisteccheria",
-      "fetchedArticles": 64,
-      "uniqueArticles": 1
     },
     {
       "label": "Territorio",
@@ -243,10 +243,6 @@
     }
   ],
   "timeline": [
-    {
-      "date": "2026-04-18",
-      "count": 0
-    },
     {
       "date": "2026-04-19",
       "count": 0
@@ -425,6 +421,10 @@
     },
     {
       "date": "2026-06-02",
+      "count": 0
+    },
+    {
+      "date": "2026-06-03",
       "count": 0
     }
   ],
@@ -812,6 +812,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "ansa.it__ansa__pm roma chiede autorizzazione camera chat delmastro caroccia__2026-05-27T12:22:58.000Z",
+      "title": "Pm Roma chiede autorizzazione alla Camera per chat tra Delmastro e Caroccia",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMHJFaEU2MWQ1S203OE5XenJXUGZWdEo1MW1WZkFpeGNFMkMwYUc1UkdtSEQ1ZXZSajhQZmRVU3Qtc0RpQUUyekxoUk1YWE8tZW9CcU9pdUFSOWhWckFxUy00NzUzVWhOTlZ5Wll6Z1J5dXoydWZpdW1TSjJNcFFJS3FWQ2dEWk1NdXl4TlF6S2dTU000U1M2dFM2LUxXdDF4ZS13NUIzNGVjUVZ6YnE0XzZ5Z3hqX214czl6NTdwYUJ5d3hoakdHZVQzUHdXZmlBRHlyOXotZ2w2bGp6VjdUdnljdVg3ejAtMVI4VXBFUHdUYVYtZU14S3RB?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMHJFaEU2MWQ1S203OE5XenJXUGZWdEo1MW1WZkFpeGNFMkMwYUc1UkdtSEQ1ZXZSajhQZmRVU3Qtc0RpQUUyekxoUk1YWE8tZW9CcU9pdUFSOWhWckFxUy00NzUzVWhOTlZ5Wll6Z1J5dXoydWZpdW1TSjJNcFFJS3FWQ2dEWk1NdXl4TlF6S2dTU000U1M2dFM2LUxXdDF4ZS13NUIzNGVjUVZ6YnE0XzZ5Z3hqX214czl6NTdwYUJ5d3hoakdHZVQzUHdXZmlBRHlyOXotZ2w2bGp6VjdUdnljdVg3ejAtMVI4VXBFUHdUYVYtZU14S3RB?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-05-27T12:22:58.000Z",
+      "excerpt": "Pm Roma chiede autorizzazione alla Camera per chat tra Delmastro e Caroccia",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "agi.it__agi__delmastro procura chiede acquisire chat carroccia__2026-05-27T12:19:37.000Z",
       "title": "Delmastro, la procura chiede di acquisire le chat con Carroccia",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNckxJa05kQ0lBbmNXb0poN09BQmdfR2I2ZjFaSUFuSF9iZ01GMGtVZlBtTUFyMVFKX2gxTEdRcTROMVpaZ2MtUUViWUZ0S25RVFlfejQ3ODVsVV9PaURaUm9nLS1iX2hRc0xjUzJXUHBUdDh5VjZuRGZtR183M3VpbUtfZC1yUQ?oc=5",
@@ -887,26 +907,6 @@
         "giudiziaria"
       ],
       "publishedAt": "2026-05-27T11:51:40.000Z",
-      "excerpt": "Pm Roma chiede autorizzazione alla Camera per chat tra Delmastro e Caroccia",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ansa.it__ansa__pm roma chiede autorizzazione camera chat delmastro caroccia__2026-05-27T11:43:00.000Z",
-      "title": "Pm Roma chiede autorizzazione alla Camera per chat tra Delmastro e Caroccia",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeEc2VmlOeE9sSlRjX0xuUFRSaFUzcUxJZXNMQ2VLcW8zUlhNWlNtNWZLMzJSWkZKZ0R5UFo4WkN5VWx3aldnNjZkYU80MjZBbS1CR1lYU0tLY2dwaGprX2Yyc0QwenlYS0JYajVEdFl1cEdOV1prV0NGSzkwWWZ5QVBQNFdHakYyaERGaHItMDBkTkhTNFI4VDVZekdQdVpodXVDQUlMSWJIUEVuUnR6STBJLWp0b01GVWJuMGlrQ2xEU3lDTDFkZUh1M1hFOGs0cnVJa1BzVTgwMW1sMWtRTmt1d1ZEVzI2bTJuSWVIa0dVWFZI0gH6AUFVX3lxTE4wckVoRTYxZDVLbTc4Tld6cldQZlZ0SjUxbVZmQWl4Y0UyQzBhRzVSR21IRDVldlJqOFBmZFVTdC1zRGlBRTJ6TGhSTVhYTy1lb0JxT2l1QVI5aFZyQXFTLTQ3NTNVaE5OVnlaWXpnUnl1ejJ1Zml1bVNKMk1wUUlLcVZDZ0RaTU11eXhOUXpLZ1NTTTRTUzZ0UzYtTFd0MXhlLXc1QjM0ZWNRVnpicTRfNnlneGpfbXhzOXo1N3BhQnl3eGhqR0dlVDNQd1dmaUFEeXI5ei1nbDZsanpWN1R2eWN1WDd6MC0xUjhVcEVQd1RhVi1lTXhLdEE?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeEc2VmlOeE9sSlRjX0xuUFRSaFUzcUxJZXNMQ2VLcW8zUlhNWlNtNWZLMzJSWkZKZ0R5UFo4WkN5VWx3aldnNjZkYU80MjZBbS1CR1lYU0tLY2dwaGprX2Yyc0QwenlYS0JYajVEdFl1cEdOV1prV0NGSzkwWWZ5QVBQNFdHakYyaERGaHItMDBkTkhTNFI4VDVZekdQdVpodXVDQUlMSWJIUEVuUnR6STBJLWp0b01GVWJuMGlrQ2xEU3lDTDFkZUh1M1hFOGs0cnVJa1BzVTgwMW1sMWtRTmt1d1ZEVzI2bTJuSWVIa0dVWFZI0gH6AUFVX3lxTE4wckVoRTYxZDVLbTc4Tld6cldQZlZ0SjUxbVZmQWl4Y0UyQzBhRzVSR21IRDVldlJqOFBmZFVTdC1zRGlBRTJ6TGhSTVhYTy1lb0JxT2l1QVI5aFZyQXFTLTQ3NTNVaE5OVnlaWXpnUnl1ejJ1Zml1bVNKMk1wUUlLcVZDZ0RaTU11eXhOUXpLZ1NTTTRTUzZ0UzYtTFd0MXhlLXc1QjM0ZWNRVnpicTRfNnlneGpfbXhzOXo1N3BhQnl3eGhqR0dlVDNQd1dmaUFEeXI5ei1nbDZsanpWN1R2eWN1WDd6MC0xUjhVcEVQd1RhVi1lTXhLdEE?oc=5",
-      "source": "ANSA",
-      "sourceHost": "ansa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-05-27T11:43:00.000Z",
       "excerpt": "Pm Roma chiede autorizzazione alla Camera per chat tra Delmastro e Caroccia",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
@@ -2884,26 +2884,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ansa.it__ansa__cospito pg roma chiede l assoluzione delmastro__2026-04-22T07:00:00.000Z",
-      "title": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdnV6NXhZX2ZvRW5aWldOa1pCeHN0MUl1UXg1cEtkQVhGaDNUeDV1ZUZUamxSRm5JSENfbjFMUWs1akJQaTZ3SC12UmRpUHl3Vm9oVWtzQVlwRktUV204WFVfOVJrVm9zbE9tb19oVVFmSHBscGduWXlOaUkwR0tWYmJid2k5QnNoUmdOYVU1Y0s3WUFTVi1IWlVROG1jZXFhVXNZLU1fWDFKVHcyb01VOGpMMWtCT1VvRE5LeEJIdW9FbTU3eFhUNm9MV1l0SUVlaVR0cjRR0gHbAUFVX3lxTE1XUF96Ym9EQXprX1h4RXBCWUtPUVNIQnpVU1FhcFNkRlBMODRwd1hrblNUb1Y4OG8yTzl1S05DSHlFVklDVThDSkhNNWtGQmdkU3RLei1xa1FmS09IMjRoOWNhWjBDX0dEQmlPa1lhUHYyT2gtOV9NZUUzcllUaE5STks5d2RXSFNMTkgtdGRVYjRJM0pCMGJTNHg5TkFYUlhqWGpiT2MtVDVYYnBGa1ZiLWZGMEw4RXRFdW9XLS1fTGlIS2NhbDd2cWRVS3ZUNFpXeDNoTktvVWRLcw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdnV6NXhZX2ZvRW5aWldOa1pCeHN0MUl1UXg1cEtkQVhGaDNUeDV1ZUZUamxSRm5JSENfbjFMUWs1akJQaTZ3SC12UmRpUHl3Vm9oVWtzQVlwRktUV204WFVfOVJrVm9zbE9tb19oVVFmSHBscGduWXlOaUkwR0tWYmJid2k5QnNoUmdOYVU1Y0s3WUFTVi1IWlVROG1jZXFhVXNZLU1fWDFKVHcyb01VOGpMMWtCT1VvRE5LeEJIdW9FbTU3eFhUNm9MV1l0SUVlaVR0cjRR0gHbAUFVX3lxTE1XUF96Ym9EQXprX1h4RXBCWUtPUVNIQnpVU1FhcFNkRlBMODRwd1hrblNUb1Y4OG8yTzl1S05DSHlFVklDVThDSkhNNWtGQmdkU3RLei1xa1FmS09IMjRoOWNhWjBDX0dEQmlPa1lhUHYyT2gtOV9NZUUzcllUaE5STks5d2RXSFNMTkgtdGRVYjRJM0pCMGJTNHg5TkFYUlhqWGpiT2MtVDVYYnBGa1ZiLWZGMEw4RXRFdW9XLS1fTGlIS2NhbDd2cWRVS3ZUNFpXeDNoTktvVWRLcw?oc=5",
-      "source": "ANSA",
-      "sourceHost": "ansa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-22T07:00:00.000Z",
-      "excerpt": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ansa.it__ansa__caso cospito pg chiede l assoluzione delmastro__2026-04-22T07:00:00.000Z",
       "title": "Il caso Cospito, il pg chiede l'assoluzione per Delmastro",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcmVrVkRMWDlic1g0dkExXzNsbjFZOXlhYjU0cHItLWFybnAyQlVxbks5eklCd05EVEZ6d1JNSGd6cVZLd0plRWVwRHF3U0Z2bzJhblZQa0pXLW85QUlYaHpoVXZhWUlIMVVmWkpncXRZNmM5eFBvVGxfNHN5YnMtNHV6SHZHUFhsVzRoaVJPeWVoYmRKZFk2bmtqVU9XWU5kQ1lHbWxOTzNaZXZKeExmVzdYeUlWbEZaN0llMHpqT3gxdWU5c2pYQ1lUT09WYnU3VUI3eGxTLVNXSklM0gHiAUFVX3lxTFA1UjBQWmJUN240Mk13MEV4c0owYWF1cDU1ZGNqQ0d2YWNmYmZEZDdnRWdUdEU3NnV5UVpGak9rQVpzbzhfRWhkNUlybEdRNHBCUExWSnNDQkppU09UNEl4NmV2NFVCMkJ3WWtDVVlfQlNKWjd3UUNuRHBFcHFpVkNFZndJaEFiVUQ4aTVGMGtHY001X2xwbHB5MUF5WjhaMTNVd1ZyVmw4S3FWNGNENzJjeEFhcVYxcXJwTlNEdElXd293aEJ1aE1TMnVQSEFBVHJ2WEJyNHBNYl9CM2F1ZjN5Rnc?oc=5",
@@ -2920,6 +2900,26 @@
       ],
       "publishedAt": "2026-04-22T07:00:00.000Z",
       "excerpt": "Il caso Cospito, il pg chiede l'assoluzione per Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ansa.it__ansa__cospito pg roma chiede l assoluzione delmastro__2026-04-22T07:00:00.000Z",
+      "title": "++ Cospito, Pg Roma chiede l'assoluzione per Delmastro ++",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOTVscUlzR1dDUy1QbWxXT0dISF81MEFWc3VsRUFTbEl4VFNYcHNEQzZPRWpxQXB3SWp2QjV3djVsUko3eXhwdXVyZktPNHZFTExVcUFtQ2JORkdIUWpnaXFWbVpNa1kxYllwcFFQQUt5MVI0Z2ZOS0JtY0ROaTZRWGNjN3RZV0JBRHJWUVN6RVdpS2lKcjJJdzJlQ1RfbER6aUI0cGRBYkZmN1ZsMVh2Y1J3NVhjZGtvR2hlTEFxSGVhVU9UV0xNQjBXQjNzU1l1MFJ3aU1kVldHb00?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOTVscUlzR1dDUy1QbWxXT0dISF81MEFWc3VsRUFTbEl4VFNYcHNEQzZPRWpxQXB3SWp2QjV3djVsUko3eXhwdXVyZktPNHZFTExVcUFtQ2JORkdIUWpnaXFWbVpNa1kxYllwcFFQQUt5MVI0Z2ZOS0JtY0ROaTZRWGNjN3RZV0JBRHJWUVN6RVdpS2lKcjJJdzJlQ1RfbER6aUI0cGRBYkZmN1ZsMVh2Y1J3NVhjZGtvR2hlTEFxSGVhVU9UV0xNQjBXQjNzU1l1MFJ3aU1kVldHb00?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-22T07:00:00.000Z",
+      "excerpt": "++ Cospito, Pg Roma chiede l'assoluzione per Delmastro ++",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T07:04:51.691Z",
+  "generatedAt": "2026-06-04T08:49:41.745Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-04-20T07:04:51.691Z",
-    "to": "2026-06-04T07:04:51.691Z",
+    "from": "2026-04-20T08:49:41.745Z",
+    "to": "2026-06-04T08:49:41.745Z",
     "days": 45
   },
   "sources": [
@@ -172,33 +172,33 @@
       "articleCount": 2
     },
     {
+      "label": "agi.it",
+      "articleCount": 2
+    },
+    {
       "label": "open.online",
       "articleCount": 2
     },
     {
       "label": "ilpost.it",
       "articleCount": 2
-    },
-    {
-      "label": "agi.it",
-      "articleCount": 1
     }
   ],
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 248,
-      "uniqueArticles": 122
+      "fetchedArticles": 250,
+      "uniqueArticles": 123
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 79,
+      "fetchedArticles": 73,
       "uniqueArticles": 11
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 63,
-      "uniqueArticles": 2
+      "fetchedArticles": 64,
+      "uniqueArticles": 3
     },
     {
       "label": "Persone collegate",
@@ -207,8 +207,8 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 62,
-      "uniqueArticles": 1
+      "fetchedArticles": 64,
+      "uniqueArticles": 2
     },
     {
       "label": "Territorio",
@@ -219,7 +219,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 61
+      "count": 62
     },
     {
       "tag": "giudiziaria",
@@ -365,7 +365,7 @@
     },
     {
       "date": "2026-05-20",
-      "count": 27
+      "count": 28
     },
     {
       "date": "2026-05-21",
@@ -1597,6 +1597,26 @@
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Confermata in appello la condanna a Delmastro per il caso Cospito",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "agi.it__agi__caso cospito confermata appello condanna 8 mesi delmastro faremo ricorso__2026-05-20T07:00:00.000Z",
+      "title": "Caso Cospito: confermata in appello la condanna a 8 mesi per Delmastro. \"Faremo ricorso\"",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMjd1dGZ2VzFONUlvNmdwTHltOUtkRkp3b2RqUmlRQzRSTjk3UEVQQ20wTHpuUXNVYkQwcDZKaWJQd0hmalhkeXBfaEJZck55R1pTUDJBcms5VXFEN2F2QUlLVE1hWnVXSVAwbWtFdk1yWWM2NVI5Ni1XX1lNV1lNeURwdTlHOTNlbHB3ZW9KV1VQZUk?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMjd1dGZ2VzFONUlvNmdwTHltOUtkRkp3b2RqUmlRQzRSTjk3UEVQQ20wTHpuUXNVYkQwcDZKaWJQd0hmalhkeXBfaEJZck55R1pTUDJBcms5VXFEN2F2QUlLVE1hWnVXSVAwbWtFdk1yWWM2NVI5Ni1XX1lNV1lNeURwdTlHOTNlbHB3ZW9KV1VQZUk?oc=5",
+      "source": "AGI",
+      "sourceHost": "agi.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "excerpt": "Caso Cospito: confermata in appello la condanna a 8 mesi per Delmastro. \"Faremo ricorso\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2844,26 +2864,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ansa.it__ansa__cospito pg roma chiede l assoluzione delmastro__2026-04-22T07:00:00.000Z",
-      "title": "++ Cospito, Pg Roma chiede l'assoluzione per Delmastro ++",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOTVscUlzR1dDUy1QbWxXT0dISF81MEFWc3VsRUFTbEl4VFNYcHNEQzZPRWpxQXB3SWp2QjV3djVsUko3eXhwdXVyZktPNHZFTExVcUFtQ2JORkdIUWpnaXFWbVpNa1kxYllwcFFQQUt5MVI0Z2ZOS0JtY0ROaTZRWGNjN3RZV0JBRHJWUVN6RVdpS2lKcjJJdzJlQ1RfbER6aUI0cGRBYkZmN1ZsMVh2Y1J3NVhjZGtvR2hlTEFxSGVhVU9UV0xNQjBXQjNzU1l1MFJ3aU1kVldHb00?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOTVscUlzR1dDUy1QbWxXT0dISF81MEFWc3VsRUFTbEl4VFNYcHNEQzZPRWpxQXB3SWp2QjV3djVsUko3eXhwdXVyZktPNHZFTExVcUFtQ2JORkdIUWpnaXFWbVpNa1kxYllwcFFQQUt5MVI0Z2ZOS0JtY0ROaTZRWGNjN3RZV0JBRHJWUVN6RVdpS2lKcjJJdzJlQ1RfbER6aUI0cGRBYkZmN1ZsMVh2Y1J3NVhjZGtvR2hlTEFxSGVhVU9UV0xNQjBXQjNzU1l1MFJ3aU1kVldHb00?oc=5",
-      "source": "ANSA",
-      "sourceHost": "ansa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-04-22T07:00:00.000Z",
-      "excerpt": "++ Cospito, Pg Roma chiede l'assoluzione per Delmastro ++",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ansa.it__ansa__caso cospito pg chiede l assoluzione delmastro__2026-04-22T07:00:00.000Z",
       "title": "Il caso Cospito, il pg chiede l'assoluzione per Delmastro",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcmVrVkRMWDlic1g0dkExXzNsbjFZOXlhYjU0cHItLWFybnAyQlVxbks5eklCd05EVEZ6d1JNSGd6cVZLd0plRWVwRHF3U0Z2bzJhblZQa0pXLW85QUlYaHpoVXZhWUlIMVVmWkpncXRZNmM5eFBvVGxfNHN5YnMtNHV6SHZHUFhsVzRoaVJPeWVoYmRKZFk2bmtqVU9XWU5kQ1lHbWxOTzNaZXZKeExmVzdYeUlWbEZaN0llMHpqT3gxdWU5c2pYQ1lUT09WYnU3VUI3eGxTLVNXSklM0gHiAUFVX3lxTFA1UjBQWmJUN240Mk13MEV4c0owYWF1cDU1ZGNqQ0d2YWNmYmZEZDdnRWdUdEU3NnV5UVpGak9rQVpzbzhfRWhkNUlybEdRNHBCUExWSnNDQkppU09UNEl4NmV2NFVCMkJ3WWtDVVlfQlNKWjd3UUNuRHBFcHFpVkNFZndJaEFiVUQ4aTVGMGtHY001X2xwbHB5MUF5WjhaMTNVd1ZyVmw4S3FWNGNENzJjeEFhcVYxcXJwTlNEdElXd293aEJ1aE1TMnVQSEFBVHJ2WEJyNHBNYl9CM2F1ZjN5Rnc?oc=5",
@@ -2880,6 +2880,26 @@
       ],
       "publishedAt": "2026-04-22T07:00:00.000Z",
       "excerpt": "Il caso Cospito, il pg chiede l'assoluzione per Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ansa.it__ansa__cospito pg roma chiede l assoluzione delmastro__2026-04-22T07:00:00.000Z",
+      "title": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQkJvenk4Q180RFY3LTlUc0RHdmx0SVhfeXBrT1p3bmRvX1ZQMjY5VVZ3U3F0Ukw1R3piLVhwNkFVZnRxVjRKQXpvajduWm5xd2wxSFgyMm1XWHg5anFfZ3NGNUJtZEVQc1VJRmZwY1VKY1VobDFHTkw1dHYweWVzUEZRRGZvSElXeVpGRC1xbVUtbVNwUnhzX0FCTzJhU1FiYWRNbVlybkJ1Nkw0Mk51a2Zsc1oxaG14bTBCMWtwVHotbHE4T0pnbG1rXzN2a1FhRVJfZmFOS3BNMG_SAeABQVVfeXFMTWliUzc5eGtIbVRtXzFLX3oyS2JWRWdhc0dZTTV2TEFDVkxVZDFJcnljc0ExR0dOTnd6cmxhLUE3dUNxdnFoTE5hNXJnTnh4djk1cEZWazJCMlBzVU81NkpZbG5yWEdYcEotOWtRRC1wV0tNSTFObzhMOTYwWjRDM0Y5SG0xQ3dwNlVEVUFpa2Zad2lrQlczZmtzSlNUS0dDZXlESTlWLV9QVWQyMV9YaEhIanU2YzZvaVRGN0s4bnk5cm1kaE9wYjVIa2NRbEluWXNwQ2F0emRUbm1sbDJoZWY?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQkJvenk4Q180RFY3LTlUc0RHdmx0SVhfeXBrT1p3bmRvX1ZQMjY5VVZ3U3F0Ukw1R3piLVhwNkFVZnRxVjRKQXpvajduWm5xd2wxSFgyMm1XWHg5anFfZ3NGNUJtZEVQc1VJRmZwY1VKY1VobDFHTkw1dHYweWVzUEZRRGZvSElXeVpGRC1xbVUtbVNwUnhzX0FCTzJhU1FiYWRNbVlybkJ1Nkw0Mk51a2Zsc1oxaG14bTBCMWtwVHotbHE4T0pnbG1rXzN2a1FhRVJfZmFOS3BNMG_SAeABQVVfeXFMTWliUzc5eGtIbVRtXzFLX3oyS2JWRWdhc0dZTTV2TEFDVkxVZDFJcnljc0ExR0dOTnd6cmxhLUE3dUNxdnFoTE5hNXJnTnh4djk1cEZWazJCMlBzVU81NkpZbG5yWEdYcEotOWtRRC1wV0tNSTFObzhMOTYwWjRDM0Y5SG0xQ3dwNlVEVUFpa2Zad2lrQlczZmtzSlNUS0dDZXlESTlWLV9QVWQyMV9YaEhIanU2YzZvaVRGN0s4bnk5cm1kaE9wYjVIa2NRbEluWXNwQ2F0emRUbm1sbDJoZWY?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-04-22T07:00:00.000Z",
+      "excerpt": "Cospito, Pg Roma chiede l'assoluzione per Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

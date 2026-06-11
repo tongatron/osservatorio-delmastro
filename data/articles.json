@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T07:10:10.942Z",
+  "generatedAt": "2026-06-11T09:03:02.674Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-04-27T07:10:10.942Z",
-    "to": "2026-06-11T07:10:10.942Z",
+    "from": "2026-04-27T09:03:02.674Z",
+    "to": "2026-06-11T09:03:02.674Z",
     "days": 45
   },
   "sources": [
@@ -112,12 +112,16 @@
       "articleCount": 12
     },
     {
+      "label": "lastampa.it",
+      "articleCount": 9
+    },
+    {
       "label": "ansa.it",
       "articleCount": 8
     },
     {
       "label": "corriere.it",
-      "articleCount": 8
+      "articleCount": 7
     },
     {
       "label": "ilgiornale.it",
@@ -129,10 +133,6 @@
     },
     {
       "label": "huffingtonpost.it",
-      "articleCount": 5
-    },
-    {
-      "label": "lastampa.it",
       "articleCount": 5
     },
     {
@@ -187,8 +187,8 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 192,
-      "uniqueArticles": 93
+      "fetchedArticles": 210,
+      "uniqueArticles": 102
     },
     {
       "label": "Soci e societa'",
@@ -196,18 +196,18 @@
       "uniqueArticles": 8
     },
     {
-      "label": "Bisteccheria",
-      "fetchedArticles": 60,
-      "uniqueArticles": 6
-    },
-    {
       "label": "Persone collegate",
       "fetchedArticles": 63,
       "uniqueArticles": 3
     },
     {
+      "label": "Bisteccheria",
+      "fetchedArticles": 53,
+      "uniqueArticles": 0
+    },
+    {
       "label": "Filone giudiziario",
-      "fetchedArticles": 45,
+      "fetchedArticles": 47,
       "uniqueArticles": 0
     },
     {
@@ -219,7 +219,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 48
+      "count": 52
     },
     {
       "tag": "giudiziaria",
@@ -234,12 +234,12 @@
       "count": 13
     },
     {
-      "tag": "territorio",
+      "tag": "societa'",
       "count": 5
     },
     {
-      "tag": "societa'",
-      "count": 5
+      "tag": "territorio",
+      "count": 4
     }
   ],
   "timeline": [
@@ -261,7 +261,7 @@
     },
     {
       "date": "2026-05-01",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-02",
@@ -297,7 +297,7 @@
     },
     {
       "date": "2026-05-10",
-      "count": 2
+      "count": 3
     },
     {
       "date": "2026-05-11",
@@ -337,7 +337,7 @@
     },
     {
       "date": "2026-05-20",
-      "count": 27
+      "count": 28
     },
     {
       "date": "2026-05-21",
@@ -373,11 +373,11 @@
     },
     {
       "date": "2026-05-29",
-      "count": 3
+      "count": 2
     },
     {
       "date": "2026-05-30",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-31",
@@ -510,10 +510,30 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ansa.it__ansa__non lasciamoli respirare proposta archiviazione delmastro__2026-05-29T07:00:00.000Z",
+      "id": "lastampa.it__la stampa__delmastro confermata presidenza gal montagne biellesi__2026-05-30T07:00:00.000Z",
+      "title": "Delmastro confermata alla presidenza del Gal Montagne Biellesi",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW1jQnF1czNCVWxucWNDTzlVOUtNVnFGbDFjaEtDRWZoR01NTkItVXZXY0JSYnNVSWFlN0lTYjZxMFVZNGJjUnN2RHF0RmRGaTN1Y2thMng2cmgwM3hySE9iZmZrU2lxQVRaYmtsTmR3c0preVNzcWhkTnlnZ0dyVXA0Sk5wcjJDa0prUFNWOXdmR3AtTTNYc2IwaE5XcmExbGJKVmNIS1U1ZWU3elZpYXdhenV4TzExMUpzN1RhaFFXa2130gHKAUFVX3lxTE1VeXRxaDVrVzF6LWVjX1ktMmRYVVBiRngzRmo2UEJyZnR4LWt3cUI2Z2xCY2JQRXdkZDJ3b2N2T3RIQU45Nlo2RVRHRGMxOEppVGJneE9SWXV5RWlTZXVuZW9uMXZ0YXJndm5hV1BZSm9ZemI3d09iaC05MlluZElOcE9uQThBb1R1SWt6Y05JN2FIWkc5NGNLb3hMbHhLYXlIa21ETENOcGkyVVlRaG1WX25jbWR6MFJ2TTljUDNrXzJSenkxTkNWQ1E?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQW1jQnF1czNCVWxucWNDTzlVOUtNVnFGbDFjaEtDRWZoR01NTkItVXZXY0JSYnNVSWFlN0lTYjZxMFVZNGJjUnN2RHF0RmRGaTN1Y2thMng2cmgwM3hySE9iZmZrU2lxQVRaYmtsTmR3c0preVNzcWhkTnlnZ0dyVXA0Sk5wcjJDa0prUFNWOXdmR3AtTTNYc2IwaE5XcmExbGJKVmNIS1U1ZWU3elZpYXdhenV4TzExMUpzN1RhaFFXa2130gHKAUFVX3lxTE1VeXRxaDVrVzF6LWVjX1ktMmRYVVBiRngzRmo2UEJyZnR4LWt3cUI2Z2xCY2JQRXdkZDJ3b2N2T3RIQU45Nlo2RVRHRGMxOEppVGJneE9SWXV5RWlTZXVuZW9uMXZ0YXJndm5hV1BZSm9ZemI3d09iaC05MlluZElOcE9uQThBb1R1SWt6Y05JN2FIWkc5NGNLb3hMbHhLYXlIa21ETENOcGkyVVlRaG1WX25jbWR6MFJ2TTljUDNrXzJSenkxTkNWQ1E?oc=5",
+      "source": "La Stampa",
+      "sourceHost": "lastampa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-30T07:00:00.000Z",
+      "excerpt": "Delmastro confermata alla presidenza del Gal Montagne Biellesi",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ansa.it__ansa__non lasciamoli respirare proposta archiviazione delmastro__2026-05-29T09:14:52.000Z",
       "title": "'Non lasciamoli respirare', proposta archiviazione per Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQamppbF9DOERiN09UNWh1ajhQcWotMlFPZi15RmhZTUNOZDBTbExfb3ppcWVGR0hfZklwa1JwM215ZjQ4VE1IUHRUZlE5SDlrOFBTak5EbUpGNFFtc3I2VkRyZ2FEdk5hcGdYZHF5ZjRNckd5UFFiRHU3MUUxRzdnM21QTFZBR1N3WklzQ1FXTkFpQnhFTEtaeVM4U2FoZ2d0aVR0N3Y5MTB2cUdPeFJ1Sjl4bUNacjNWVHFYMDcwVVN3dDlmck9vX3BVLU5TTlBOQjRXMjJWSXc3WTRxQVR3TXRIbG1Ed9IB6wFBVV95cUxOTG82UHpJNUMtQUxmQnMzeFhmcjFCUU1WcHhsbWdlRTBJdkVlY0gza1NCclNTN1hGVWR2Y2dwTm05YW9hei0zeTZOTUlrNDV3aVNSaXlibGwxa2NtNWVLcU5taVBUZnp3RGdLWm1NbEFneUJxV2luY01VNTlXSmVUWEZITWRsT2tUdTl5X2wxZmlnOVJRQWtNQUpzaDYydXROaGpBMVVhTkR5eGl2WjJsY2ZpdFhpWGFSR3FnUWk3MEJ2djBtaWdqRDRta1hJOFdHYkpFWHhiSzBmNEw2Ti1EaThIQTdwd1dPbUdr?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQamppbF9DOERiN09UNWh1ajhQcWotMlFPZi15RmhZTUNOZDBTbExfb3ppcWVGR0hfZklwa1JwM215ZjQ4VE1IUHRUZlE5SDlrOFBTak5EbUpGNFFtc3I2VkRyZ2FEdk5hcGdYZHF5ZjRNckd5UFFiRHU3MUUxRzdnM21QTFZBR1N3WklzQ1FXTkFpQnhFTEtaeVM4U2FoZ2d0aVR0N3Y5MTB2cUdPeFJ1Sjl4bUNacjNWVHFYMDcwVVN3dDlmck9vX3BVLU5TTlBOQjRXMjJWSXc3WTRxQVR3TXRIbG1Ed9IB6wFBVV95cUxOTG82UHpJNUMtQUxmQnMzeFhmcjFCUU1WcHhsbWdlRTBJdkVlY0gza1NCclNTN1hGVWR2Y2dwTm05YW9hei0zeTZOTUlrNDV3aVNSaXlibGwxa2NtNWVLcU5taVBUZnp3RGdLWm1NbEFneUJxV2luY01VNTlXSmVUWEZITWRsT2tUdTl5X2wxZmlnOVJRQWtNQUpzaDYydXROaGpBMVVhTkR5eGl2WjJsY2ZpdFhpWGFSR3FnUWk3MEJ2djBtaWdqRDRta1hJOFdHYkpFWHhiSzBmNEw2Ti1EaThIQTdwd1dPbUdr?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTG82UHpJNUMtQUxmQnMzeFhmcjFCUU1WcHhsbWdlRTBJdkVlY0gza1NCclNTN1hGVWR2Y2dwTm05YW9hei0zeTZOTUlrNDV3aVNSaXlibGwxa2NtNWVLcU5taVBUZnp3RGdLWm1NbEFneUJxV2luY01VNTlXSmVUWEZITWRsT2tUdTl5X2wxZmlnOVJRQWtNQUpzaDYydXROaGpBMVVhTkR5eGl2WjJsY2ZpdFhpWGFSR3FnUWk3MEJ2djBtaWdqRDRta1hJOFdHYkpFWHhiSzBmNEw2Ti1EaThIQTdwd1dPbUdr0gHrAUFVX3lxTE5MbzZQekk1Qy1BTGZCczN4WGZyMUJRTVZweGxtZ2VFMEl2RWVjSDNrU0JyU1M3WEZVZHZjZ3BObTlhb2F6LTN5Nk5NSWs0NXdpU1JpeWJsbDFrY201ZUtxTm1pUFRmendEZ0tabU1sQWd5QnFXaW5jTVU1OVdKZVRYRkhNZGxPa1R1OXlfbDFmaWc5UlFBa01BSnNoNjJ1dE5oakExVWFORHl4aXZaMmxjZml0WGlYYVJHcWdRaTcwQnZ2MG1pZ2pENG1rWEk4V0diSkVYeGJLMGY0TDZOLURpOEhBN3B3V09tR2s?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTG82UHpJNUMtQUxmQnMzeFhmcjFCUU1WcHhsbWdlRTBJdkVlY0gza1NCclNTN1hGVWR2Y2dwTm05YW9hei0zeTZOTUlrNDV3aVNSaXlibGwxa2NtNWVLcU5taVBUZnp3RGdLWm1NbEFneUJxV2luY01VNTlXSmVUWEZITWRsT2tUdTl5X2wxZmlnOVJRQWtNQUpzaDYydXROaGpBMVVhTkR5eGl2WjJsY2ZpdFhpWGFSR3FnUWk3MEJ2djBtaWdqRDRta1hJOFdHYkpFWHhiSzBmNEw2Ti1EaThIQTdwd1dPbUdr0gHrAUFVX3lxTE5MbzZQekk1Qy1BTGZCczN4WGZyMUJRTVZweGxtZ2VFMEl2RWVjSDNrU0JyU1M3WEZVZHZjZ3BObTlhb2F6LTN5Nk5NSWs0NXdpU1JpeWJsbDFrY201ZUtxTm1pUFRmendEZ0tabU1sQWd5QnFXaW5jTVU1OVdKZVRYRkhNZGxPa1R1OXlfbDFmaWc5UlFBa01BSnNoNjJ1dE5oakExVWFORHl4aXZaMmxjZml0WGlYYVJHcWdRaTcwQnZ2MG1pZ2pENG1rWEk4V0diSkVYeGJLMGY0TDZOLURpOEhBN3B3V09tR2s?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
@@ -524,28 +544,8 @@
       "tags": [
         "altro"
       ],
-      "publishedAt": "2026-05-29T07:00:00.000Z",
+      "publishedAt": "2026-05-29T09:14:52.000Z",
       "excerpt": "'Non lasciamoli respirare', proposta archiviazione per Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "corriere.it__corriere torino__non lasciamo respirare chi sta dietro vetro oscurato dell auto penitenziaria chiesta l archiviazione andrea delmastro__2026-05-29T07:00:00.000Z",
-      "title": "«Non lasciamo respirare chi sta dietro il vetro oscurato dell'auto della penitenziaria». Chiesta l'archiviazione per Andrea Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOcUFUU3AxU1g1RzB0OV9yUkw2UTNYd2lwaTljSDVxWUJ6MDBhajhxRkdxb1UxUG5WRWh4dlNMcEJydUNKQ1RMcldPclNSd2tRemxXMEVlTmFnYk9SV2NGalRTRVdBN19CSTVwbFhTWURrV3NzRk55aEp2T2FiS0VFLU5UVzZVeTA2OUd0c1hGM3RBQ1NEVkF4a2ZtSjFCdm9uMVhkNmNaWVlIR1VHWUNrUXJVMGFYY1hhX3RTMjJScEdISnhxVVBydGlub2N2MWJ0Rm1CbUR1TXVPTEdsWERoNUEyczl1dEFlSWw4bWpYZTNaeWpyM2NHb1I0U3FsU1lYLUVhUmUwMC1UUUJLNDNfaWJiYkNybk1JOXVVY3ZpWmx1T2JHM3h6UWh5a0MwdndySHdfQ2pKNVI0OHo2UkNaeTJiVXlmQU5GcXZtaVNXNNIB1AJBVV95cUxNVEpMVkhIc0NUeUVVbkVRTE9kNUtUUXQ4RnBNSS1PUUhKaHZTamhweGZwd3J4NGQycERfU3A0RENvbHJOc0ZDSDdUX1dzc2RKQUlkR21jaG55ZmZLWjRHaEJUV3BYTTg4bWoySmdDUF8wT3lqTGVoeldWUzhQTWVZMFVjMzcwZkFjcmhxajhxREpMenR0clViT25LWGNiMkV2WEhpR2N4b0txMWg0OEdxTDR4NEhITW5MRGtNbEMxN0hHZmp1T2dySF84VXlpOFVDdXhiRDAzcG9PZGprcEt1T2lMak1fenZRUzIyXzcxRGZKSWh1RGpYNURTN0wyc2EwbmZ0bXBEQXhfUnQwQVYxS1dTWENFckpUcENwRUx2MGZoYm5XTGI1UmpuUHA3V3Boc1g0VFd5MUJCN215WnEzVG1PbVBNQUhhc3E5STBjQ3NPRlhZ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOcUFUU3AxU1g1RzB0OV9yUkw2UTNYd2lwaTljSDVxWUJ6MDBhajhxRkdxb1UxUG5WRWh4dlNMcEJydUNKQ1RMcldPclNSd2tRemxXMEVlTmFnYk9SV2NGalRTRVdBN19CSTVwbFhTWURrV3NzRk55aEp2T2FiS0VFLU5UVzZVeTA2OUd0c1hGM3RBQ1NEVkF4a2ZtSjFCdm9uMVhkNmNaWVlIR1VHWUNrUXJVMGFYY1hhX3RTMjJScEdISnhxVVBydGlub2N2MWJ0Rm1CbUR1TXVPTEdsWERoNUEyczl1dEFlSWw4bWpYZTNaeWpyM2NHb1I0U3FsU1lYLUVhUmUwMC1UUUJLNDNfaWJiYkNybk1JOXVVY3ZpWmx1T2JHM3h6UWh5a0MwdndySHdfQ2pKNVI0OHo2UkNaeTJiVXlmQU5GcXZtaVNXNNIB1AJBVV95cUxNVEpMVkhIc0NUeUVVbkVRTE9kNUtUUXQ4RnBNSS1PUUhKaHZTamhweGZwd3J4NGQycERfU3A0RENvbHJOc0ZDSDdUX1dzc2RKQUlkR21jaG55ZmZLWjRHaEJUV3BYTTg4bWoySmdDUF8wT3lqTGVoeldWUzhQTWVZMFVjMzcwZkFjcmhxajhxREpMenR0clViT25LWGNiMkV2WEhpR2N4b0txMWg0OEdxTDR4NEhITW5MRGtNbEMxN0hHZmp1T2dySF84VXlpOFVDdXhiRDAzcG9PZGprcEt1T2lMak1fenZRUzIyXzcxRGZKSWh1RGpYNURTN0wyc2EwbmZ0bXBEQXhfUnQwQVYxS1dTWENFckpUcENwRUx2MGZoYm5XTGI1UmpuUHA3V3Boc1g0VFd5MUJCN215WnEzVG1PbVBNQUhhc3E5STBjQ3NPRlhZ?oc=5",
-      "source": "Corriere Torino",
-      "sourceHost": "corriere.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "territorio"
-      ],
-      "publishedAt": "2026-05-29T07:00:00.000Z",
-      "excerpt": "«Non lasciamo respirare chi sta dietro il vetro oscurato dell'auto della penitenziaria». Chiesta l'archiviazione per Andrea Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -591,6 +591,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "huffingtonpost.it__huffpost italia__grave incoerente se delmastro non consegna chat caroccia pm v musacchio__2026-05-28T07:00:00.000Z",
+      "title": "Grave e incoerente se Delmastro non consegna le chat con Caroccia ai pm (di V. Musacchio)",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMXlIUTk2UExfNmY3WjlzSHViMzF6R0JRUHByNU00TkcyN09jZm83amp5WUVFTFF2WnQ5a2FzWEVJbHI1M3ZCVkxqQ2xfa3ZEZkJEaHBXYXZITmo1RUU1TkYxbEQ5cU1jVHNCb1hRNjFOYWRObVVrZkpnY0c1dHo3eWlmclhYMmxyUjV4V3R2TURIMjlUVmVvMjI5WFh4a2NpMzFTakhUVHRvUDVjU3NxUjJ4T2h3b0pZX0dIOElB?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMXlIUTk2UExfNmY3WjlzSHViMzF6R0JRUHByNU00TkcyN09jZm83amp5WUVFTFF2WnQ5a2FzWEVJbHI1M3ZCVkxqQ2xfa3ZEZkJEaHBXYXZITmo1RUU1TkYxbEQ5cU1jVHNCb1hRNjFOYWRObVVrZkpnY0c1dHo3eWlmclhYMmxyUjV4V3R2TURIMjlUVmVvMjI5WFh4a2NpMzFTakhUVHRvUDVjU3NxUjJ4T2h3b0pZX0dIOElB?oc=5",
+      "source": "HuffPost Italia",
+      "sourceHost": "huffingtonpost.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-05-28T07:00:00.000Z",
+      "excerpt": "Grave e incoerente se Delmastro non consegna le chat con Caroccia ai pm (di V. Musacchio)",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "huffingtonpost.it__huffpost italia__delmastro come scajola se stesso sua insaputa__2026-05-28T07:00:00.000Z",
       "title": "Delmastro come Scajola, è se stesso a sua insaputa",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRnZEWWVSbmpjRGs2MmdaQXFYV1JqdEc0dzZJWU1HUW9qSF9YX2pJcjBNaHhPdWF3VTdESktINUhySHF1U2tJMXJXYy1fWllaOXFOMGNucTRCSk1xRGlWei02NjhsZWdMb3cyNE1uay12Tk80QUxzYjc3REk5V1NaR1d4cS1xdXFNZzBLck1FR2txaFcwY1FNYUFVLVAyMkFxbUhia2RDTG83aEZFOEpoQUpaNjI1dDZ1QkQ4RE1vZE1SNzRWcmVQd2lvVQ?oc=5",
@@ -607,26 +627,6 @@
       ],
       "publishedAt": "2026-05-28T07:00:00.000Z",
       "excerpt": "Delmastro come Scajola, è se stesso a sua insaputa",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "huffingtonpost.it__huffpost italia__grave incoerente se delmastro non consegna chat caroccia pm v musacchio__2026-05-28T07:00:00.000Z",
-      "title": "Grave e incoerente se Delmastro non consegna le chat con Caroccia ai pm (di V. Musacchio)",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMXlIUTk2UExfNmY3WjlzSHViMzF6R0JRUHByNU00TkcyN09jZm83amp5WUVFTFF2WnQ5a2FzWEVJbHI1M3ZCVkxqQ2xfa3ZEZkJEaHBXYXZITmo1RUU1TkYxbEQ5cU1jVHNCb1hRNjFOYWRObVVrZkpnY0c1dHo3eWlmclhYMmxyUjV4V3R2TURIMjlUVmVvMjI5WFh4a2NpMzFTakhUVHRvUDVjU3NxUjJ4T2h3b0pZX0dIOElB?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMXlIUTk2UExfNmY3WjlzSHViMzF6R0JRUHByNU00TkcyN09jZm83amp5WUVFTFF2WnQ5a2FzWEVJbHI1M3ZCVkxqQ2xfa3ZEZkJEaHBXYXZITmo1RUU1TkYxbEQ5cU1jVHNCb1hRNjFOYWRObVVrZkpnY0c1dHo3eWlmclhYMmxyUjV4V3R2TURIMjlUVmVvMjI5WFh4a2NpMzFTakhUVHRvUDVjU3NxUjJ4T2h3b0pZX0dIOElB?oc=5",
-      "source": "HuffPost Italia",
-      "sourceHost": "huffingtonpost.it",
-      "queryLabel": "Bisteccheria",
-      "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-05-28T07:00:00.000Z",
-      "excerpt": "Grave e incoerente se Delmastro non consegna le chat con Caroccia ai pm (di V. Musacchio)",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -677,10 +677,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0lUeGxKNHJJSHJwR3B0dWs2MEhucy14LWplWnpqTnI4REFwbDJMaGgyeFBOYTFYU0VYQngtcmYxOE9mdjV4SUEteThNYnpNeWpaRkw5a2NsSDA3ZmtONDJQRko3T21LUXViYjBLRFkydWFlZ0dHcWhBTVUwdWJOazlIcGtVLVQ1ZlV3MjNtUDk1UFVIcDAzOFFPZDJwVDNZMmpNSHVDZXA4QlNMdnQxcjRBcGpYRW1oM3J4WmRoRFQ2R1BtOUJB?oc=5",
       "source": "Affaritaliani",
       "sourceHost": "affaritaliani.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "bisteccheria"
@@ -799,10 +799,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeHZjRzZieENNMkhGMnJSQ3Bmam1IeUN4eEVzazJWaWswTVo1V3pyM1B5SmtzaG93M1MwNEEwZ3B0dUM1TXJmSl92eWRuX0xsSGRhOHMxZmlnMWg2ajF2dTFVc1BxVkl5RjR0bEFycHBmZXdETGpuZlFOd2pvdUM2VFg3VWYtbEE2RkxwR1kza3FCOG5EOWVIVGdPOWRreXprcGpsa2VzZHNVYkhFUEHSAbMBQVVfeXFMTlF6eVNZU0tKaG45ek1CVEhRWUtPUURGdzZvd1B1LS00UXhNNFdkYVQxQ0JCUG56d2ZTamw4RFNvYkFQaHdMbWlPTHM1VDFHdVppY1hYTVNONWlhS0p1Zm1pV0hHaTdEd1pHNWhVU3NqYVhZQk5ENjZYTDFsZlNPLU52d2RHeWZGeWNRblpSMkJyc1lKaS1xWGh3QkNoem1oSXU3c1F4NVN4UlIyY0hPcFZYejQ?oc=5",
       "source": "La Stampa",
       "sourceHost": "lastampa.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "giudiziaria"
@@ -1243,10 +1243,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHNLTnc5VTI4eEI1QkppUElwYjdHQmV2UDlGS2FuREI4enpKd2k3Ykh3c0VFcHladEtBdllMaEFhM0xFNjZsN3VUQXFrMWlOck5QM3gwdnk0S2d5UzByeHJhMk83SWR5VWhQUmVRSFVxZ1hRYzBjbHpGbnBBQ1ZySUpmbWpMMnF0RFd4YmlRb0RkU0NFNEEtbnc1RlpRZmVSUGZXMTR3NUJpc28tVW5NbE5Jc2RoTUHSAbwBQVVfeXFMTTF4RjJFbnZpOThnMUM3M2l4WEdVbWQyak91S2FLaFJ3aFhJYm4zcERYdnItMjJyQ1hwd3B4UmtfTFlzMzhOUTdPcURwcDMwRkljNG9VWkNLZllORnpWcWROcW04SENyUnN4TXAtSWIzSllMNkh6YlpxUm1yVVh5Yl9qd1FUaXh5WEdvNVpzT3ZPcjl5dHBKb21ENk5jR1NYcVNhcFNDdnNXcS1hMHNfNUVJYmlrN0NZWWhmblY?oc=5",
       "source": "La Stampa",
       "sourceHost": "lastampa.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "giudiziaria"
@@ -1747,16 +1747,36 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObld4dGVpdkhIZE5uSnhsTTVWSkJNTTFCb0sycDBSLW5sMy1Gc2FZQVFTOHdMSndaRG5aUzRNSVJkN214UTJrV0xnc3h6Z1l6WjdpYzFXNnlnYkc3cktQbjdycHVCRW1Tem5jQ1NFU2J1aTdvNGFra2Z1U2dGblhiQU1vT2piYmdIY2d4aFNHN2Zyd1ByYlF1N3l3Vnc1UEY1S2VDMDBzdm9yRUloR2ZESUJQazJJaGtwT1J5LTJ4WlVvZXhSd1oyLWNSYTNiUVpwbzFhU1JlQ0tpYi1DdFE?oc=5",
       "source": "La Stampa",
       "sourceHost": "lastampa.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "altro"
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Caso Cospito, confermata la condanna in Appello per Delmastro: la lettura della sentenza",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "lastampa.it__la stampa__caso cospito confermata condanna delmastro legale faremo ricorso cassazione__2026-05-20T07:00:00.000Z",
+      "title": "Caso Cospito, confermata la condanna a Delmastro. Il legale: “Faremo ricorso in Cassazione”",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXdmZ0FJV1hHVmdSdzlLVE1pUW9FZ1AzNXo5aURxNUoyUDE4bzh1aUMxbG1JbHM2cERhd1JaNUNab3N0OEdJVXNWYlgyRmhGZTQxd05CSUVMV3pMZ1NzcWh4bkpESTBNSUdQcjdKblZPUnNYLUZmNDlyQ19aRnBzemNTRVQwZlZjMEpJNGVCM3ZaSDRtTjZuZ0Z6NmVhQ2lHTm5rMy1FSkJtaDQwVWVDN2pFMNIBuAFBVV95cUxNSGpERm5LeDNDTmJjdzliQVM3TDkwS0tGYVdoWjFTY1oxMVEyOGRUamQ1R3l5ZE5UaUNRMXZlMEktaldLVjNfSVRJWTZMQTZxMVZZSHBoQm10TmdWNzlVTlN5cTdTdWktM2FUVTBjZnByQ2VIX1hYdGNMeFdfaE1oYnVmbFpnMUNBQjFZRHJtZlVHRFVjTUlqRE95b3piWmkzc0VrYUR1N090c3pBWmV0MV9oZS1rR0Vw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXdmZ0FJV1hHVmdSdzlLVE1pUW9FZ1AzNXo5aURxNUoyUDE4bzh1aUMxbG1JbHM2cERhd1JaNUNab3N0OEdJVXNWYlgyRmhGZTQxd05CSUVMV3pMZ1NzcWh4bkpESTBNSUdQcjdKblZPUnNYLUZmNDlyQ19aRnBzemNTRVQwZlZjMEpJNGVCM3ZaSDRtTjZuZ0Z6NmVhQ2lHTm5rMy1FSkJtaDQwVWVDN2pFMNIBuAFBVV95cUxNSGpERm5LeDNDTmJjdzliQVM3TDkwS0tGYVdoWjFTY1oxMVEyOGRUamQ1R3l5ZE5UaUNRMXZlMEktaldLVjNfSVRJWTZMQTZxMVZZSHBoQm10TmdWNzlVTlN5cTdTdWktM2FUVTBjZnByQ2VIX1hYdGNMeFdfaE1oYnVmbFpnMUNBQjFZRHJtZlVHRFVjTUlqRE95b3piWmkzc0VrYUR1N090c3pBWmV0MV9oZS1rR0Vw?oc=5",
+      "source": "La Stampa",
+      "sourceHost": "lastampa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "excerpt": "Caso Cospito, confermata la condanna a Delmastro. Il legale: “Faremo ricorso in Cassazione”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2186,6 +2206,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "lastampa.it__la stampa__risiko presidenze greggio all atl delmastro resta gal__2026-05-10T07:00:00.000Z",
+      "title": "Il risiko delle presidenze: con Greggio all’Atl Delmastro resta al Gal",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbENENjlJWm9YLXBWeTlVT3dESEdCTEVYa2JpUXVDQ2s1RW9wQ2RHSDRDQ3g3YzhWT1R5STNNOGYxaGxsZnNlUVMzS0loSW1PWlhRMTF1VmszQXhiVnIzS1B2UERQQUZZbzlDbjBuSTFZM2NteDRvNjNEZXVIWVpMNWJTT3JEM21VcjJZSUpVbzY1TUJPMjBaUVIxWGE3YlB5WWs3NmNyVzlWMFhqOWxhbF9vVDE0QXljaGpqTUhWOEJtQ3lX0gHKAUFVX3lxTE91VXZSN19NZFllRTdOdHBqMFpfdTZSR3psRzNIbFdWTmpZLUVxbl91VGdZdEo0N0ZKdWNxVEY5OTBHMVBNOXhfUGxaSmxJczJsRGl6ZWV4Q1RSNk9RU3k4dkJjcDRqYXRXRUJ2UmQya1hMdHM1X2hiZTczcDRPNm5vWnJPVlJua00zZWdrYXJaQUl3MzYwOFpYUnhMbTR2WVJZRHJWZmM5Q0hWU01rbkFjeXlZUjAzam5yejBsejBaNG41YmJLbHgwbWc?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbENENjlJWm9YLXBWeTlVT3dESEdCTEVYa2JpUXVDQ2s1RW9wQ2RHSDRDQ3g3YzhWT1R5STNNOGYxaGxsZnNlUVMzS0loSW1PWlhRMTF1VmszQXhiVnIzS1B2UERQQUZZbzlDbjBuSTFZM2NteDRvNjNEZXVIWVpMNWJTT3JEM21VcjJZSUpVbzY1TUJPMjBaUVIxWGE3YlB5WWs3NmNyVzlWMFhqOWxhbF9vVDE0QXljaGpqTUhWOEJtQ3lX0gHKAUFVX3lxTE91VXZSN19NZFllRTdOdHBqMFpfdTZSR3psRzNIbFdWTmpZLUVxbl91VGdZdEo0N0ZKdWNxVEY5OTBHMVBNOXhfUGxaSmxJczJsRGl6ZWV4Q1RSNk9RU3k4dkJjcDRqYXRXRUJ2UmQya1hMdHM1X2hiZTczcDRPNm5vWnJPVlJua00zZWdrYXJaQUl3MzYwOFpYUnhMbTR2WVJZRHJWZmM5Q0hWU01rbkFjeXlZUjAzam5yejBsejBaNG41YmJLbHgwbWc?oc=5",
+      "source": "La Stampa",
+      "sourceHost": "lastampa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-10T07:00:00.000Z",
+      "excerpt": "Il risiko delle presidenze: con Greggio all’Atl Delmastro resta al Gal",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "ilgiornale.it__il giornale__caso delmastro l opposizione nei guai firme farlocche__2026-05-10T07:00:00.000Z",
       "title": "Il caso Delmastro: l’opposizione nei guai per \"firme farlocche\"",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYk8tQVo2QkhaOE5JN1k3T2dSM3VUMmxyZHJKcEV2YVdQaVFMZnhTUXdoM0kyRnltZGUwTjZoMlVWZFNlNUctdmZKSnd5YWsyZVRHbURobGRXbTBoTWVWLV9jOVFnSDhzdE5YOVdoZ2xlUms1MFVrQ2E3MzRFZnFQLTRYQXB5UTUtakhWQ2l5UnNGVEJDM0NYTE1pSm5VS0F1QWJEQ2F0TXE?oc=5",
@@ -2530,6 +2570,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "lastampa.it__la stampa__scontro provincia comune sulla presidenza gal ramella sceglie lega posto delmastro__2026-05-01T07:00:00.000Z",
+      "title": "Scontro Provincia Comune sulla presidenza del Gal: Ramella sceglie La Lega al posto di Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPV0J1SzFlYXl3d3BWRnVSTEhleWstZHVZMVhhRzVfSGR5MndJM09hSG5IaWlDOFVvVEtlUTZhOUx1VGdablNtOV9sY3I5QWZ6SE43TFFKMnI0OERCaGxkbXNMTGVEOXlaeHdxWGR6bkdHRnlPRFpobGhETDkxZkdSblc5cXJlWUVFLTl4MGhtRUNlNEVlY092UXFsb2NPS1Zod0lmTjZkMGprMmU5amk0N2pVV0ZiZDZ0QkZTRGFjTmd2VUdMSFFXRkx6VGJteHRZMlBockhWRVRIMFBfT1hBcG5TUldZUXByQmZiZ3JGRzXSAfYBQVVfeXFMTUMwQm9uVjJweVAzYnZCZkNjb3FWNHNZbWpjWUxWRl9RNXZmQ0VqdXpaTjhlTFR1MHpqS1NkbDdaTzR6WU4tSXlDZWhjaTdyYlc1cVh5VENsdWxhYnRtN1E3eW1FSmNLanBBMjlDNWg3NnVRbGFNWkNQZjBqV1JxUVNrd2NUOFhNVVktQ2JnR2Izc25wQ01RSmJES01RYkNRSm5CMGc2UUFTVURfUEFmTEtPRDN6OUhkelBZN09nUmg3Nlo1NFhHcjlFQ1dDbTk2c081SkNkTmExSmxqZzc4ODJMMm1fcjJEenVaNFZOd0w2S0ZQa1FB?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPV0J1SzFlYXl3d3BWRnVSTEhleWstZHVZMVhhRzVfSGR5MndJM09hSG5IaWlDOFVvVEtlUTZhOUx1VGdablNtOV9sY3I5QWZ6SE43TFFKMnI0OERCaGxkbXNMTGVEOXlaeHdxWGR6bkdHRnlPRFpobGhETDkxZkdSblc5cXJlWUVFLTl4MGhtRUNlNEVlY092UXFsb2NPS1Zod0lmTjZkMGprMmU5amk0N2pVV0ZiZDZ0QkZTRGFjTmd2VUdMSFFXRkx6VGJteHRZMlBockhWRVRIMFBfT1hBcG5TUldZUXByQmZiZ3JGRzXSAfYBQVVfeXFMTUMwQm9uVjJweVAzYnZCZkNjb3FWNHNZbWpjWUxWRl9RNXZmQ0VqdXpaTjhlTFR1MHpqS1NkbDdaTzR6WU4tSXlDZWhjaTdyYlc1cVh5VENsdWxhYnRtN1E3eW1FSmNLanBBMjlDNWg3NnVRbGFNWkNQZjBqV1JxUVNrd2NUOFhNVVktQ2JnR2Izc25wQ01RSmJES01RYkNRSm5CMGc2UUFTVURfUEFmTEtPRDN6OUhkelBZN09nUmg3Nlo1NFhHcjlFQ1dDbTk2c081SkNkTmExSmxqZzc4ODJMMm1fcjJEenVaNFZOd0w2S0ZQa1FB?oc=5",
+      "source": "La Stampa",
+      "sourceHost": "lastampa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-01T07:00:00.000Z",
+      "excerpt": "Scontro Provincia Comune sulla presidenza del Gal: Ramella sceglie La Lega al posto di Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "repubblica.it__la repubblica__voi antimafia delmastro lui caroccia ero incredulo__2026-04-30T07:00:00.000Z",
       "title": "Lo Voi in Antimafia su Delmastro: “Lui e Caroccia? Ero incredulo”",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVmlmWGNPVE9rUkZZWTBJSU56SENDOGFlc2xQMXJsRUZlcU85UU9FRVRzWmtBVUlrdjYycEFJTW5SMDNYSEVZeldMTDZIQjhEYTRVT2ZkalpLMFJsb1Fld1l2TmdpRTZORnJORVMxV3YxMkR6MDl3WnVzVTRzT1NkYTBRNWVTaXB4T1Y0dERycnpJQ0lwVHB5MDlQQng4dHdfN2UzRThLSXU3M1hXVHl30gG0AUFVX3lxTE8yTnJHS3RJWVhEM1FqV0ZnYnFSWklBemx0TGZCSC1VWTBFY201OFJvUng1bHhiY3Q1RDV3bHg0ejVESGFyeXJoX2tESlU5WEdYcDhaRUowa2JZdlRLSHRxMVNHam1kc2pVdDdQN3BXZ2k4QVh6a0VOVDd2dkRxMHhzd3QzOTBSQlo2cHRYcTF2QlU2VmV1NUh2YjY3UDV2YnZubWstMHVCbnAwQTJYQlhFSUVtWg?oc=5",
@@ -2596,10 +2656,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUhGcVQwUEhpVU4yd2UzdGNJbjhFeDNFSFdNV2tlRUhNVUd6alJnNmNmMHdOOHM0MmZ2V2FJYl80eU1rWUxEVlljaUdxeWdkNHVqWVdFOWg3M3hCZU5SVFVzeDVEV3B2ano1OTN5eGszSGRxQlNQMl9BeDE0VHNrQmtDTkZqZnRmTnpObWhjaExGeVdIcXRV0gGcAUFVX3lxTE9OcUdKVk9OUk1ZVjZDdlZyMWRuSG9yRE1TS2t6d0RpRWEyNVp4NlJwS19LcF9JQWZSMkZzd1lGeFpSYXRQZ0p2ZC1Jc0oyNzZPMUo4eUJvLTZvcWx4M0pNSlBNOGYxckpGdTNUMkJhMnVxb1hVbkU1aXEzc0ltdEdvN3NtaTlUMzNfQmFPUzVMaVZCRlVUdWo2T2hfbw?oc=5",
       "source": "La Stampa",
       "sourceHost": "lastampa.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "giudiziaria",

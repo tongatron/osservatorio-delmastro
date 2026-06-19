@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T14:10:27.346Z",
+  "generatedAt": "2026-06-19T15:42:25.178Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-05-05T14:10:27.346Z",
-    "to": "2026-06-19T14:10:27.346Z",
+    "from": "2026-05-05T15:42:25.178Z",
+    "to": "2026-06-19T15:42:25.178Z",
     "days": 45
   },
   "sources": [
@@ -187,27 +187,27 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 196,
-      "uniqueArticles": 96
+      "fetchedArticles": 197,
+      "uniqueArticles": 97
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 51,
+      "fetchedArticles": 52,
       "uniqueArticles": 7
     },
     {
-      "label": "Bisteccheria",
-      "fetchedArticles": 52,
+      "label": "Persone collegate",
+      "fetchedArticles": 54,
       "uniqueArticles": 1
     },
     {
-      "label": "Persone collegate",
-      "fetchedArticles": 57,
-      "uniqueArticles": 1
+      "label": "Bisteccheria",
+      "fetchedArticles": 51,
+      "uniqueArticles": 0
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 45,
+      "fetchedArticles": 46,
       "uniqueArticles": 0
     },
     {
@@ -1303,10 +1303,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHNLTnc5VTI4eEI1QkppUElwYjdHQmV2UDlGS2FuREI4enpKd2k3Ykh3c0VFcHladEtBdllMaEFhM0xFNjZsN3VUQXFrMWlOck5QM3gwdnk0S2d5UzByeHJhMk83SWR5VWhQUmVRSFVxZ1hRYzBjbHpGbnBBQ1ZySUpmbWpMMnF0RFd4YmlRb0RkU0NFNEEtbnc1RlpRZmVSUGZXMTR3NUJpc28tVW5NbE5Jc2RoTUHSAbwBQVVfeXFMTTF4RjJFbnZpOThnMUM3M2l4WEdVbWQyak91S2FLaFJ3aFhJYm4zcERYdnItMjJyQ1hwd3B4UmtfTFlzMzhOUTdPcURwcDMwRkljNG9VWkNLZllORnpWcWROcW04SENyUnN4TXAtSWIzSllMNkh6YlpxUm1yVVh5Yl9qd1FUaXh5WEdvNVpzT3ZPcjl5dHBKb21ENk5jR1NYcVNhcFNDdnNXcS1hMHNfNUVJYmlrN0NZWWhmblY?oc=5",
       "source": "La Stampa",
       "sourceHost": "lastampa.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "giudiziaria"
@@ -1961,26 +1961,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfoglio.it__il foglio__delmastro condannato appello caso cospito__2026-05-20T07:00:00.000Z",
-      "title": "Delmastro condannato in appello per il caso Cospito",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHl0MXNBRFhrRS1qQ0hsNzFqWG50TFlrXzJYZ2ZfSV96RHdwVThBMXlLbmZSeklaZjQ3VUNoeE1xLWFoUU1Vbi1CVzNiRk9wanZnVTdzLUowU3hDekxXM2YwbGwwQ1FHRTRXNFFCMmM4LUktaVJWbGh3bW01bWxfQlNYSFlMZDdBVTEzUmQ5T3RIeVQyR3BUSmJ1NUpDQmk0OWFHdUg1eXNBT0c3c0E?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHl0MXNBRFhrRS1qQ0hsNzFqWG50TFlrXzJYZ2ZfSV96RHdwVThBMXlLbmZSeklaZjQ3VUNoeE1xLWFoUU1Vbi1CVzNiRk9wanZnVTdzLUowU3hDekxXM2YwbGwwQ1FHRTRXNFFCMmM4LUktaVJWbGh3bW01bWxfQlNYSFlMZDdBVTEzUmQ5T3RIeVQyR3BUSmJ1NUpDQmk0OWFHdUg1eXNBT0c3c0E?oc=5",
-      "source": "Il Foglio",
-      "sourceHost": "ilfoglio.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-20T07:00:00.000Z",
-      "excerpt": "Delmastro condannato in appello per il caso Cospito",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ilfoglio.it__il foglio__paradosso delmastro condannato anche appello dopo tre richieste assoluzione__2026-05-20T07:00:00.000Z",
       "title": "Paradosso Delmastro: condannato anche in appello dopo tre richieste di assoluzione",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZlBIMG9meXAzYXJmaHpLem1Vc2c2SWpaX0JoekMzbkVjZ18xOEx0eW00MTZod2NtS0FXV3hCVktja1FIaGZvWjF5RmJMRnhCVU40Vnd2V21hNFRwdzh6RVI2aUZCeUNyQnNuOXVxLUhJaXh3MTFQa3ZQT0xfaVpwNVNDbWZaX3pXR2pRcHMwbHQ5RmNkcjd6b3Y1Ykd5RFB6WXhMSDBSSWVBeGxWRFk3M2Y2U0xJc0VtU05MZks3T1RPZ3A5LTdVb3ptSVdBbFViSVV0RExn?oc=5",
@@ -1997,6 +1977,26 @@
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Paradosso Delmastro: condannato anche in appello dopo tre richieste di assoluzione",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilfoglio.it__il foglio__delmastro condannato appello caso cospito__2026-05-20T07:00:00.000Z",
+      "title": "Delmastro condannato in appello per il caso Cospito",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHl0MXNBRFhrRS1qQ0hsNzFqWG50TFlrXzJYZ2ZfSV96RHdwVThBMXlLbmZSeklaZjQ3VUNoeE1xLWFoUU1Vbi1CVzNiRk9wanZnVTdzLUowU3hDekxXM2YwbGwwQ1FHRTRXNFFCMmM4LUktaVJWbGh3bW01bWxfQlNYSFlMZDdBVTEzUmQ5T3RIeVQyR3BUSmJ1NUpDQmk0OWFHdUg1eXNBT0c3c0E?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHl0MXNBRFhrRS1qQ0hsNzFqWG50TFlrXzJYZ2ZfSV96RHdwVThBMXlLbmZSeklaZjQ3VUNoeE1xLWFoUU1Vbi1CVzNiRk9wanZnVTdzLUowU3hDekxXM2YwbGwwQ1FHRTRXNFFCMmM4LUktaVJWbGh3bW01bWxfQlNYSFlMZDdBVTEzUmQ5T3RIeVQyR3BUSmJ1NUpDQmk0OWFHdUg1eXNBT0c3c0E?oc=5",
+      "source": "Il Foglio",
+      "sourceHost": "ilfoglio.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "excerpt": "Delmastro condannato in appello per il caso Cospito",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2081,26 +2081,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "rainews.it__rainews__delmastro confermata appello condanna caso cospito faremo ricorso cassazione__2026-05-20T07:00:00.000Z",
-      "title": "Delmastro, confermata in appello la condanna per il caso Cospito: \"Faremo ricorso in Cassazione\"",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTHNCQzFGLVpMVXVsTmRfZXlzaTJWOV8xZm5HMi1tVWJ2OXMtOUgtTnQ5SDhwZHhhSVRxNUp3RnBOYW9vWkdHay13WWdKSEpET2dFa250ejNPR3FIaXlvNVppWGxSZVR5QWljUEVpWEw2anMzUmpzS1VGUzJWRkJGR3hFd0lwUzE2ZHNhZWpRSkpLU1hiNGxndVpEb09wWmVXWXc1bUN0aGY5MERQb1k1eFVMV25zZ2FyVFByT3ZtTTZEV1FFTEp5RGU2VVRrZTVETTMwNUpWQTVieWVTb1ZZeNIB5gFBVV95cUxNcUFvQ3VxcjJibDNuN3NveTZmSFQwRlpkVkEtbFVJOHhfV0p0RVctX25raExaYWJXNk1TczZLWlhMZDhPZFE4WkswdDYxb2xyRGFtYXI1ckpXcURUc0x4ZkVRT3Q4U0ZqeThrNExld2UyMGVLZk0zZm1kMjlNWlpkdUp2cUxGdHE3blJDalRUVXNLZG9XMnBzT3FLR0NBZXBmQUp6ZU1jQmJZV25ydHFidjdkc1BkRWhEYzIxcm9ubVpBYjFXWTlhcHd5NlFmYzNWWHVwbzZ2N2EzOERXMXNxU0NXOUNjZw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTHNCQzFGLVpMVXVsTmRfZXlzaTJWOV8xZm5HMi1tVWJ2OXMtOUgtTnQ5SDhwZHhhSVRxNUp3RnBOYW9vWkdHay13WWdKSEpET2dFa250ejNPR3FIaXlvNVppWGxSZVR5QWljUEVpWEw2anMzUmpzS1VGUzJWRkJGR3hFd0lwUzE2ZHNhZWpRSkpLU1hiNGxndVpEb09wWmVXWXc1bUN0aGY5MERQb1k1eFVMV25zZ2FyVFByT3ZtTTZEV1FFTEp5RGU2VVRrZTVETTMwNUpWQTVieWVTb1ZZeNIB5gFBVV95cUxNcUFvQ3VxcjJibDNuN3NveTZmSFQwRlpkVkEtbFVJOHhfV0p0RVctX25raExaYWJXNk1TczZLWlhMZDhPZFE4WkswdDYxb2xyRGFtYXI1ckpXcURUc0x4ZkVRT3Q4U0ZqeThrNExld2UyMGVLZk0zZm1kMjlNWlpkdUp2cUxGdHE3blJDalRUVXNLZG9XMnBzT3FLR0NBZXBmQUp6ZU1jQmJZV25ydHFidjdkc1BkRWhEYzIxcm9ubVpBYjFXWTlhcHd5NlFmYzNWWHVwbzZ2N2EzOERXMXNxU0NXOUNjZw?oc=5",
-      "source": "RaiNews",
-      "sourceHost": "rainews.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-20T07:00:00.000Z",
-      "excerpt": "Delmastro, confermata in appello la condanna per il caso Cospito: \"Faremo ricorso in Cassazione\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "rainews.it__rainews__delmastro confermata appello condanna 8 mesi__2026-05-20T07:00:00.000Z",
       "title": "Delmastro, confermata in appello la condanna a 8 mesi",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZW5UbEdVVjNVRVY4TEdHWFQ5VVdSVk10VkFqQWtXTnpzb29zSXR5dEtjajRFYWJZTDVlMTdIbHdMWVdLWlVvZTQ1V1Jna1lPcnRWVmc3dkduVWw3ZG15cEFab3FwNzRXMW5UMFoweTEwMmZiQlAxc2NQeHU3eUxzbzd1OVI5eGxzZl9VSEFUMHNTNm5oT2R3MDh4eXFGMFFFOVpYem04TlZSQTNKYnh3WktuQVRDdzNRV2tQLVdUZUY1bjY1OTFJcEhpams2THZnWlZpWWJ0YnJ4akg30gHiAUFVX3lxTFA4em5KbGx2b1dkQXNZM0s1Q1oxSGtuajgyLWFoOGhZOW85Q0Q1Wjh2c3pYQXNfWjRlQ3VmMUE2V0lxVTY4ZmdldkRveXFaT2hGbm51NFRFSnRiZjRJeUU1dXJWZmdSOHBlZE9ZVWpzLTlwb3hFY2dRRzJya0loTkhUeHJHRWdVdlA5Q3hLNy1PN2xSN1Z6dTR1MFo2YXNVZVlSTXBySjA5NXo4TlBSNU1QdDZQM1VEV0dhOXExcENDNk9TNy1FQkVzS2ZsWjE1dDJNSWdlV3hLRTRwTy1CRWNfdkE?oc=5",
@@ -2117,6 +2097,26 @@
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Delmastro, confermata in appello la condanna a 8 mesi",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "rainews.it__rainews__delmastro confermata appello condanna caso cospito faremo ricorso cassazione__2026-05-20T07:00:00.000Z",
+      "title": "Delmastro, confermata in appello la condanna per il caso Cospito: \"Faremo ricorso in Cassazione\"",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTHNCQzFGLVpMVXVsTmRfZXlzaTJWOV8xZm5HMi1tVWJ2OXMtOUgtTnQ5SDhwZHhhSVRxNUp3RnBOYW9vWkdHay13WWdKSEpET2dFa250ejNPR3FIaXlvNVppWGxSZVR5QWljUEVpWEw2anMzUmpzS1VGUzJWRkJGR3hFd0lwUzE2ZHNhZWpRSkpLU1hiNGxndVpEb09wWmVXWXc1bUN0aGY5MERQb1k1eFVMV25zZ2FyVFByT3ZtTTZEV1FFTEp5RGU2VVRrZTVETTMwNUpWQTVieWVTb1ZZeNIB5gFBVV95cUxNcUFvQ3VxcjJibDNuN3NveTZmSFQwRlpkVkEtbFVJOHhfV0p0RVctX25raExaYWJXNk1TczZLWlhMZDhPZFE4WkswdDYxb2xyRGFtYXI1ckpXcURUc0x4ZkVRT3Q4U0ZqeThrNExld2UyMGVLZk0zZm1kMjlNWlpkdUp2cUxGdHE3blJDalRUVXNLZG9XMnBzT3FLR0NBZXBmQUp6ZU1jQmJZV25ydHFidjdkc1BkRWhEYzIxcm9ubVpBYjFXWTlhcHd5NlFmYzNWWHVwbzZ2N2EzOERXMXNxU0NXOUNjZw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTHNCQzFGLVpMVXVsTmRfZXlzaTJWOV8xZm5HMi1tVWJ2OXMtOUgtTnQ5SDhwZHhhSVRxNUp3RnBOYW9vWkdHay13WWdKSEpET2dFa250ejNPR3FIaXlvNVppWGxSZVR5QWljUEVpWEw2anMzUmpzS1VGUzJWRkJGR3hFd0lwUzE2ZHNhZWpRSkpLU1hiNGxndVpEb09wWmVXWXc1bUN0aGY5MERQb1k1eFVMV25zZ2FyVFByT3ZtTTZEV1FFTEp5RGU2VVRrZTVETTMwNUpWQTVieWVTb1ZZeNIB5gFBVV95cUxNcUFvQ3VxcjJibDNuN3NveTZmSFQwRlpkVkEtbFVJOHhfV0p0RVctX25raExaYWJXNk1TczZLWlhMZDhPZFE4WkswdDYxb2xyRGFtYXI1ckpXcURUc0x4ZkVRT3Q4U0ZqeThrNExld2UyMGVLZk0zZm1kMjlNWlpkdUp2cUxGdHE3blJDalRUVXNLZG9XMnBzT3FLR0NBZXBmQUp6ZU1jQmJZV25ydHFidjdkc1BkRWhEYzIxcm9ubVpBYjFXWTlhcHd5NlFmYzNWWHVwbzZ2N2EzOERXMXNxU0NXOUNjZw?oc=5",
+      "source": "RaiNews",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "excerpt": "Delmastro, confermata in appello la condanna per il caso Cospito: \"Faremo ricorso in Cassazione\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

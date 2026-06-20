@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T07:33:22.911Z",
+  "generatedAt": "2026-06-20T09:13:33.421Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-05-06T07:33:22.911Z",
-    "to": "2026-06-20T07:33:22.911Z",
+    "from": "2026-05-06T09:13:33.421Z",
+    "to": "2026-06-20T09:13:33.421Z",
     "days": 45
   },
   "sources": [
@@ -128,6 +128,10 @@
       "articleCount": 6
     },
     {
+      "label": "huffingtonpost.it",
+      "articleCount": 5
+    },
+    {
       "label": "fanpage.it",
       "articleCount": 4
     },
@@ -145,10 +149,6 @@
     },
     {
       "label": "newsbiella.it",
-      "articleCount": 3
-    },
-    {
-      "label": "huffingtonpost.it",
       "articleCount": 3
     },
     {
@@ -187,18 +187,8 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 177,
-      "uniqueArticles": 87
-    },
-    {
-      "label": "Bisteccheria",
-      "fetchedArticles": 51,
-      "uniqueArticles": 2
-    },
-    {
-      "label": "Persone collegate",
-      "fetchedArticles": 48,
-      "uniqueArticles": 1
+      "fetchedArticles": 187,
+      "uniqueArticles": 92
     },
     {
       "label": "Soci e societa'",
@@ -206,8 +196,18 @@
       "uniqueArticles": 1
     },
     {
+      "label": "Bisteccheria",
+      "fetchedArticles": 49,
+      "uniqueArticles": 0
+    },
+    {
+      "label": "Persone collegate",
+      "fetchedArticles": 47,
+      "uniqueArticles": 0
+    },
+    {
       "label": "Filone giudiziario",
-      "fetchedArticles": 41,
+      "fetchedArticles": 42,
       "uniqueArticles": 0
     },
     {
@@ -219,7 +219,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "giudiziaria",
@@ -227,7 +227,7 @@
     },
     {
       "tag": "politica",
-      "count": 11
+      "count": 12
     },
     {
       "tag": "bisteccheria",
@@ -269,7 +269,7 @@
     },
     {
       "date": "2026-05-12",
-      "count": 1
+      "count": 2
     },
     {
       "date": "2026-05-13",
@@ -301,7 +301,7 @@
     },
     {
       "date": "2026-05-20",
-      "count": 25
+      "count": 26
     },
     {
       "date": "2026-05-21",
@@ -637,10 +637,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMXlIUTk2UExfNmY3WjlzSHViMzF6R0JRUHByNU00TkcyN09jZm83amp5WUVFTFF2WnQ5a2FzWEVJbHI1M3ZCVkxqQ2xfa3ZEZkJEaHBXYXZITmo1RUU1TkYxbEQ5cU1jVHNCb1hRNjFOYWRObVVrZkpnY0c1dHo3eWlmclhYMmxyUjV4V3R2TURIMjlUVmVvMjI5WFh4a2NpMzFTakhUVHRvUDVjU3NxUjJ4T2h3b0pZX0dIOElB?oc=5",
       "source": "HuffPost Italia",
       "sourceHost": "huffingtonpost.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "giudiziaria"
@@ -657,12 +657,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRnZEWWVSbmpjRGs2MmdaQXFYV1JqdEc0dzZJWU1HUW9qSF9YX2pJcjBNaHhPdWF3VTdESktINUhySHF1U2tJMXJXYy1fWllaOXFOMGNucTRCSk1xRGlWei02NjhsZWdMb3cyNE1uay12Tk80QUxzYjc3REk5V1NaR1d4cS1xdXFNZzBLck1FR2txaFcwY1FNYUFVLVAyMkFxbUhia2RDTG83aEZFOEpoQUpaNjI1dDZ1QkQ4RE1vZE1SNzRWcmVQd2lvVQ?oc=5",
       "source": "HuffPost Italia",
       "sourceHost": "huffingtonpost.it",
-      "queryLabel": "Persone collegate",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Elena Chiorino",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "clan Senese"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "altro"
@@ -793,11 +791,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "corriere.it__roma.corriere.it__delmastro procura chiede acquisire tutte chat caroccia bisteccheria ristoratore favoriva riciclaggio boss senese__2026-05-27T07:00:00.000Z",
+      "id": "corriere.it__corriere roma__delmastro procura chiede acquisire tutte chat caroccia bisteccheria ristoratore favoriva riciclaggio boss senese__2026-05-27T07:00:00.000Z",
       "title": "Delmastro, la procura chiede di acquisire tutte le chat con Caroccia: «Con la Bisteccheria il ristoratore favoriva il riciclaggio del boss Senese»",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbDBjZi00LVNsLUtjazFlOHc2cHBsN1REYlByN3hTeV8xUURlNkNETmMwXzdwam0wZS1hTDF6VDctcVY1VW5GZkIwbXBveXgyRWxNQ1lNaC15TkFxUExpWlJCV1hPX1dSTUtJX0h2bDNnbWEwQWl2Um9MYnpIU0YxQlZ5M3NyQVJRN2xDdldKUTFPUTdqUmxQeUpGdUk0c3RTWVNjSmNCc1RuYnhURlZjTzZuaE1fdWZaUGdGeXBfUnNVVjRvaUZEU0RtTFhiZ1nSAdQBQVVfeXFMUFlQdlVlNUZkZUszeG9rVXF0NHRkREhKTExDYng0eVU5eTJfVW1FZVA5aDZEVTF4bk5nZUxSc0lBQVRXRWswNE1ranAzdTViR21HN3JGLXowTGJPNGx4U29tNTJkakRjdUp0OWtvalFKa0RybHpDUUdnRnNuck9xeFAwMFMxd3Zwem1KVDl6Rlcwb2RYUklVY2h0NGFvUG5HYUVOZVpRM3NrbUYtMEpOOTByZUgyOGFHT3RBQ2VhdFJJWmJOMjZqWW9UdWFOSW93WnM2TE4?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbDBjZi00LVNsLUtjazFlOHc2cHBsN1REYlByN3hTeV8xUURlNkNETmMwXzdwam0wZS1hTDF6VDctcVY1VW5GZkIwbXBveXgyRWxNQ1lNaC15TkFxUExpWlJCV1hPX1dSTUtJX0h2bDNnbWEwQWl2Um9MYnpIU0YxQlZ5M3NyQVJRN2xDdldKUTFPUTdqUmxQeUpGdUk0c3RTWVNjSmNCc1RuYnhURlZjTzZuaE1fdWZaUGdGeXBfUnNVVjRvaUZEU0RtTFhiZ1nSAdQBQVVfeXFMUFlQdlVlNUZkZUszeG9rVXF0NHRkREhKTExDYng0eVU5eTJfVW1FZVA5aDZEVTF4bk5nZUxSc0lBQVRXRWswNE1ranAzdTViR21HN3JGLXowTGJPNGx4U29tNTJkakRjdUp0OWtvalFKa0RybHpDUUdnRnNuck9xeFAwMFMxd3Zwem1KVDl6Rlcwb2RYUklVY2h0NGFvUG5HYUVOZVpRM3NrbUYtMEpOOTByZUgyOGFHT3RBQ2VhdFJJWmJOMjZqWW9UdWFOSW93WnM2TE4?oc=5",
-      "source": "roma.corriere.it",
+      "source": "Corriere Roma",
       "sourceHost": "corriere.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1278,11 +1276,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "corriere.it__roma.corriere.it__delmastro all antimafia ristorante caroccia leggerezza pagata cara__2026-05-26T07:00:00.000Z",
+      "id": "corriere.it__corriere roma__delmastro all antimafia ristorante caroccia leggerezza pagata cara__2026-05-26T07:00:00.000Z",
       "title": "Delmastro all'Antimafia: «Il ristorante con Caroccia? Una leggerezza pagata cara»",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSHc4M3FwRVVJalk0c2owMWNqd2tyeDVqb0x0b3NwU0RSejJBMmFQcXlHd083Qm9lMXAxX0QyZzNKVEtsWjl0VGVUc05kckFGQ2IydEtobC1JWTNVNkE3WlkydEtUaEtmR3ozYkRWNGZPOGlUUHMxeWI2cFU3aElrUnhaRjVyTGV6QXVhRjFsUGthanozQXI1TE1Sclc0ampJVWN4Mzg0X0YwVHhZeU9JTkFuOXdNRGF3blhVNWJLb0cyWE9xbkd3X1FZbWtXZ2V0LTFBajM0Q1ZpZms0dFNEVHliTjZicWx6RlRsY2hCeXXSAfYBQVVfeXFMT3IxMzFybDZzT0ZWSDNmZzRzZFhUNmpJY3lIRThyeGF4VXVFOXZZcmJpdURJcGwwQ1BiVS15S01KUE9NQmtRb0dXb2dOb0Q3YjNyMC05Y2kyNVRpcmpja1luOGdobGJ2YWpJMFhHX1pINGxqQnR4RTFRMm0wU1dXWUF4ODFzdkVoRDR3enVzUjBleTJWSEFoTlh0dDNHelc5RU5oUlp4RTZSeDV1YUVlZkNhU2JKcUNzSEp4aldSel8zU0pOeVgxSzYzMVM5b3l5S280V05qbjFaWjVFUXJTSVFHZkIyUGpPbXNLUmpUT1lHNERXaWxB?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSHc4M3FwRVVJalk0c2owMWNqd2tyeDVqb0x0b3NwU0RSejJBMmFQcXlHd083Qm9lMXAxX0QyZzNKVEtsWjl0VGVUc05kckFGQ2IydEtobC1JWTNVNkE3WlkydEtUaEtmR3ozYkRWNGZPOGlUUHMxeWI2cFU3aElrUnhaRjVyTGV6QXVhRjFsUGthanozQXI1TE1Sclc0ampJVWN4Mzg0X0YwVHhZeU9JTkFuOXdNRGF3blhVNWJLb0cyWE9xbkd3X1FZbWtXZ2V0LTFBajM0Q1ZpZms0dFNEVHliTjZicWx6RlRsY2hCeXXSAfYBQVVfeXFMT3IxMzFybDZzT0ZWSDNmZzRzZFhUNmpJY3lIRThyeGF4VXVFOXZZcmJpdURJcGwwQ1BiVS15S01KUE9NQmtRb0dXb2dOb0Q3YjNyMC05Y2kyNVRpcmpja1luOGdobGJ2YWpJMFhHX1pINGxqQnR4RTFRMm0wU1dXWUF4ODFzdkVoRDR3enVzUjBleTJWSEFoTlh0dDNHelc5RU5oUlp4RTZSeDV1YUVlZkNhU2JKcUNzSEp4aldSel8zU0pOeVgxSzYzMVM5b3l5S280V05qbjFaWjVFUXJTSVFHZkIyUGpPbXNLUmpUT1lHNERXaWxB?oc=5",
-      "source": "roma.corriere.it",
+      "source": "Corriere Roma",
       "sourceHost": "corriere.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1345,10 +1343,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOEh6MFdVQm1ncFpuLTBwY0RvcFNxck5SY05PWkhwV1JRM3ZJYldzVVc0SXhvQWtQcjVlVWxja3JjUHk1TTZLVVVYTDNwdC1YQ0Q4NV9jci1hamhSSHdkTWFzcVFJWlVzaFpfYUlWOVlqTU5OcF84YmtldHpIV0l6b1A4RG8wLTl5WThZdldZTkpvX2VpdGt2dnlUdmd5S1ozaE5ZTFdrZDJHTmxteFFqS3liUW93MFpSYVhkb1V6QnJYZzRiT2t0SDN1S1pJRlpLMWhZMklvNmhzRkx1U0RxQ05BMmh2RjBZcUI4b0pDaTQ?oc=5",
       "source": "HuffPost Italia",
       "sourceHost": "huffingtonpost.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "giudiziaria"
@@ -1542,11 +1540,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "corriere.it__roma.corriere.it__andrea delmastro sara sentito martedi commissione antimafia sul caso bisteccheria d italia rapporti caroccia__2026-05-22T07:00:00.000Z",
+      "id": "corriere.it__corriere roma__andrea delmastro sara sentito martedi commissione antimafia sul caso bisteccheria d italia rapporti caroccia__2026-05-22T07:00:00.000Z",
       "title": "Andrea Delmastro sarà sentito martedì in Commissione Antimafia sul «caso Bisteccheria d'Italia» e i rapporti con Caroccia",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZ3JLRW5pLXI2MEZ2amFzVGd2T2lUV19kVzkyTVdaQVdKVWd3c2dqRS1OUXQxcjQzaWt6bnFqSUZPQ01PRjNaWkFNUVJMbTI5N2xxeFluM3pJbWNIeEN1RFZmclRQeHVLUmNBQklQdldCdk1uRnVJUk9mUEt6QWtVNTRDM0NtWXo2RWVhelZTY2x1MEJwaFJ6YzlRalp1OENQTkhObFR5UkgtazhsVjhFLUs3djkxSzlwajZaVlNhWDh4bHR6MVpfZDZsODA2bjBfX0lvdHRmZ1NWUXFrdk9ycVJoa1hSX1pNS1d5WUFqaE95Z9IB9wFBVV95cUxOYXQ5a3A5TXNRbU5PbGx1NTltUGZWbmVBNkpSMm9BRHhBOVZsWG5KRDVXRFVnc2k4UDg4bWVOYWE0VDdHbDI0NEx2bG9XRnlMXy1pRVZLQjBYLVNmTlBqWlhJb29ocXZRcVRoRlh5RkpXcWJXSTlhMDNGZFlobkYzUzlsdFZJSVIwc0JVSG1UbGF6R3Z3bWhNWWdTOGZVQWJBWkZfZTBrNGFBdnhPaDBHekl6T0hHYW81QjZ3SnZFRjdKWHpPemRtckJRYkhneV95aW4xWnZwVkVfdGNfNVc0cXFoMUtmRDg1OFFncW95amJfWDk0U3ZB?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZ3JLRW5pLXI2MEZ2amFzVGd2T2lUV19kVzkyTVdaQVdKVWd3c2dqRS1OUXQxcjQzaWt6bnFqSUZPQ01PRjNaWkFNUVJMbTI5N2xxeFluM3pJbWNIeEN1RFZmclRQeHVLUmNBQklQdldCdk1uRnVJUk9mUEt6QWtVNTRDM0NtWXo2RWVhelZTY2x1MEJwaFJ6YzlRalp1OENQTkhObFR5UkgtazhsVjhFLUs3djkxSzlwajZaVlNhWDh4bHR6MVpfZDZsODA2bjBfX0lvdHRmZ1NWUXFrdk9ycVJoa1hSX1pNS1d5WUFqaE95Z9IB9wFBVV95cUxOYXQ5a3A5TXNRbU5PbGx1NTltUGZWbmVBNkpSMm9BRHhBOVZsWG5KRDVXRFVnc2k4UDg4bWVOYWE0VDdHbDI0NEx2bG9XRnlMXy1pRVZLQjBYLVNmTlBqWlhJb29ocXZRcVRoRlh5RkpXcWJXSTlhMDNGZFlobkYzUzlsdFZJSVIwc0JVSG1UbGF6R3Z3bWhNWWdTOGZVQWJBWkZfZTBrNGFBdnhPaDBHekl6T0hHYW81QjZ3SnZFRjdKWHpPemRtckJRYkhneV95aW4xWnZwVkVfdGNfNVc0cXFoMUtmRDg1OFFncW95amJfWDk0U3ZB?oc=5",
-      "source": "roma.corriere.it",
+      "source": "Corriere Roma",
       "sourceHost": "corriere.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1743,11 +1741,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "corriere.it__roma.corriere.it__andrea delmastro confermata condanna appello caso cospito l ex sottosegretario faremo ricorso__2026-05-20T07:00:00.000Z",
+      "id": "corriere.it__corriere roma__andrea delmastro confermata condanna appello caso cospito l ex sottosegretario faremo ricorso__2026-05-20T07:00:00.000Z",
       "title": "Andrea Delmastro: confermata la condanna in Appello per il caso Cospito. L'ex sottosegretario: «Faremo ricorso»",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRzNYN0FyU2FzSGVDOW5EMGVxVVpPU2lZZ3QyYlo4Z3RDUENaQk5uNWJtbEdfb0Jydm85bTNqQmtfb0dnX0t1cVlLNjdqZ2M1QkQtT1B5TnB0XzRZZXNjMzBEdFFoTGtlWVRYV2haZmNldFY3Y2ZWem91MmVSUllEaFh6ZFoxQ0pFRHlTdVIydjBpQzc1Y0VJSGlIZjcycDBvanN0SEpZQTg4c2wwajNTQWFReEFqSjdKREpJbi1USDg3eGcyeGQtSTRQSXdNM3cxNlhWcGZmTUrSAd4BQVVfeXFMTkNRd1pPNVlzT3RfOWpNZlpIMWVUQl8yUjVvSnNBdmFDWXJaRlBYbk5GU3p4MmtJOER4eE1QWDBRNmE0TkNKaWh5OVVxREJoV0FGbFZKWllmMjBMTndEdUZHZ3VZVmVxUm9US2dMVkxHSmFyU0lBV29wbGY2M1FuLWdnd2ZLeVVFRWh0SmIzZjdTZUw4T3VXWlRnZEtybUZTQ3FMUlJFOHFzSEJYNTZOeDRtOE1FeUlBVzVKOHRMUGhocDZsWFlCM1JLelpzdnpiVEs0cXdnMFgtXzFqZDBR?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRzNYN0FyU2FzSGVDOW5EMGVxVVpPU2lZZ3QyYlo4Z3RDUENaQk5uNWJtbEdfb0Jydm85bTNqQmtfb0dnX0t1cVlLNjdqZ2M1QkQtT1B5TnB0XzRZZXNjMzBEdFFoTGtlWVRYV2haZmNldFY3Y2ZWem91MmVSUllEaFh6ZFoxQ0pFRHlTdVIydjBpQzc1Y0VJSGlIZjcycDBvanN0SEpZQTg4c2wwajNTQWFReEFqSjdKREpJbi1USDg3eGcyeGQtSTRQSXdNM3cxNlhWcGZmTUrSAd4BQVVfeXFMTkNRd1pPNVlzT3RfOWpNZlpIMWVUQl8yUjVvSnNBdmFDWXJaRlBYbk5GU3p4MmtJOER4eE1QWDBRNmE0TkNKaWh5OVVxREJoV0FGbFZKWllmMjBMTndEdUZHZ3VZVmVxUm9US2dMVkxHSmFyU0lBV29wbGY2M1FuLWdnd2ZLeVVFRWh0SmIzZjdTZUw4T3VXWlRnZEtybUZTQ3FMUlJFOHFzSEJYNTZOeDRtOE1FeUlBVzVKOHRMUGhocDZsWFlCM1JLelpzdnpiVEs0cXdnMFgtXzFqZDBR?oc=5",
-      "source": "roma.corriere.it",
+      "source": "Corriere Roma",
       "sourceHost": "corriere.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1859,6 +1857,26 @@
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Delmastro condannato per il caso Cospito, la conferma in appello per l’ex sottosegretario: di cosa era accusato e cosa succede ora",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "huffingtonpost.it__huffpost italia__confermata appello condanna 8 mesi andrea delmastro sul caso cospito__2026-05-20T07:00:00.000Z",
+      "title": "Confermata in appello la condanna a 8 mesi per Andrea Delmastro sul caso Cospito",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeFRidXo5RXpMaDgzdkFUNm9pQVNKOWt0Y0pvaDEzVThqWWY5OGFqV0lIQzhmT0ROaU9IS2dkZDEycnFTMHY4WDN6OG1IanFOekJ3OEpqRnhRX0FnWkM0YW9jd1VqeUxOYkg5Wm9PQTJVVy1YX0N3MkwwNVlBSHRQQzdIWWFFbldiSWdlZkZ6Z3RabDFmMXdlNUpuMlViblVQVm5LYncwSzFEY3JnaGpwTmYySXJXTk51Tm11TzFfTzZGdXJzNDVqMWNCUE04UWhuQ1M5MXdrMWJDTGtOVlE?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeFRidXo5RXpMaDgzdkFUNm9pQVNKOWt0Y0pvaDEzVThqWWY5OGFqV0lIQzhmT0ROaU9IS2dkZDEycnFTMHY4WDN6OG1IanFOekJ3OEpqRnhRX0FnWkM0YW9jd1VqeUxOYkg5Wm9PQTJVVy1YX0N3MkwwNVlBSHRQQzdIWWFFbldiSWdlZkZ6Z3RabDFmMXdlNUpuMlViblVQVm5LYncwSzFEY3JnaGpwTmYySXJXTk51Tm11TzFfTzZGdXJzNDVqMWNCUE04UWhuQ1M5MXdrMWJDTGtOVlE?oc=5",
+      "source": "HuffPost Italia",
+      "sourceHost": "huffingtonpost.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "excerpt": "Confermata in appello la condanna a 8 mesi per Andrea Delmastro sul caso Cospito",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2159,6 +2177,26 @@
       ],
       "publishedAt": "2026-05-12T07:00:00.000Z",
       "excerpt": "Giustizia, ancora tensioni. Braccio di ferro tra FdI e Lega sulle deleghe di Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "huffingtonpost.it__huffpost italia__fine casini mai l eredita delmastro fa litigare fdi lega spuntano meloniani__2026-05-12T07:00:00.000Z",
+      "title": "Fine casini mai. L'eredità di Delmastro fa litigare FdI e Lega. La spuntano i meloniani",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUURRbW83Vk5KYnBIUGFaRnFmMDRiMTZKemxSRU9PUVNJMHZyc0pnTG1VRmk0RmdQeWRMaDRsMW5MVktDMFRTUnl1NzBIa3UxWENRSXowQ3NNenBLemdwaHRfNXQxOHNsWDNIdnpqMS1iYTRkRTZPeS1yN201Q2w5Z2tlQ0otX2RwcHdUVFpQT1NUNGViSk5ONXA4dC05aDNUTGZHU3FrRlE1SlZoQk1nYTlMWXU5Rnd3WGpwTlNRNlNfXzdVckpha3o2V1NrTGlIU2ozWg?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUURRbW83Vk5KYnBIUGFaRnFmMDRiMTZKemxSRU9PUVNJMHZyc0pnTG1VRmk0RmdQeWRMaDRsMW5MVktDMFRTUnl1NzBIa3UxWENRSXowQ3NNenBLemdwaHRfNXQxOHNsWDNIdnpqMS1iYTRkRTZPeS1yN201Q2w5Z2tlQ0otX2RwcHdUVFpQT1NUNGViSk5ONXA4dC05aDNUTGZHU3FrRlE1SlZoQk1nYTlMWXU5Rnd3WGpwTlNRNlNfXzdVckpha3o2V1NrTGlIU2ozWg?oc=5",
+      "source": "HuffPost Italia",
+      "sourceHost": "huffingtonpost.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica"
+      ],
+      "publishedAt": "2026-05-12T07:00:00.000Z",
+      "excerpt": "Fine casini mai. L'eredità di Delmastro fa litigare FdI e Lega. La spuntano i meloniani",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

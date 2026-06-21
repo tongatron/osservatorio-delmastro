@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T09:26:12.506Z",
+  "generatedAt": "2026-06-21T10:44:38.316Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-05-07T09:26:12.506Z",
-    "to": "2026-06-21T09:26:12.506Z",
+    "from": "2026-05-07T10:44:38.316Z",
+    "to": "2026-06-21T10:44:38.316Z",
     "days": 45
   },
   "sources": [
@@ -160,12 +160,12 @@
       "articleCount": 3
     },
     {
-      "label": "open.online",
+      "label": "agi.it",
       "articleCount": 2
     },
     {
-      "label": "agi.it",
-      "articleCount": 1
+      "label": "open.online",
+      "articleCount": 2
     },
     {
       "label": "affaritaliani.it",
@@ -191,22 +191,22 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 186,
-      "uniqueArticles": 91
+      "fetchedArticles": 190,
+      "uniqueArticles": 93
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 42,
-      "uniqueArticles": 2
+      "fetchedArticles": 41,
+      "uniqueArticles": 1
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 43,
+      "fetchedArticles": 49,
       "uniqueArticles": 0
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 46,
+      "fetchedArticles": 47,
       "uniqueArticles": 0
     },
     {
@@ -223,7 +223,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 41
+      "count": 42
     },
     {
       "tag": "giudiziaria",
@@ -301,7 +301,7 @@
     },
     {
       "date": "2026-05-20",
-      "count": 27
+      "count": 28
     },
     {
       "date": "2026-05-21",
@@ -801,15 +801,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNckxJa05kQ0lBbmNXb0poN09BQmdfR2I2ZjFaSUFuSF9iZ01GMGtVZlBtTUFyMVFKX2gxTEdRcTROMVpaZ2MtUUViWUZ0S25RVFlfejQ3ODVsVV9PaURaUm9nLS1iX2hRc0xjUzJXUHBUdDh5VjZuRGZtR183M3VpbUtfZC1yUQ?oc=5",
       "source": "AGI",
       "sourceHost": "agi.it",
-      "queryLabel": "Soci e societa'",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Caroccia",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl",
-        "clan Senese"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "giudiziaria"
@@ -1666,6 +1661,26 @@
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Confermata in appello la condanna a Delmastro per il caso Cospito",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "agi.it__agi__caso cospito confermata appello condanna 8 mesi delmastro faremo ricorso__2026-05-20T07:00:00.000Z",
+      "title": "Caso Cospito: confermata in appello la condanna a 8 mesi per Delmastro. \"Faremo ricorso\"",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMjd1dGZ2VzFONUlvNmdwTHltOUtkRkp3b2RqUmlRQzRSTjk3UEVQQ20wTHpuUXNVYkQwcDZKaWJQd0hmalhkeXBfaEJZck55R1pTUDJBcms5VXFEN2F2QUlLVE1hWnVXSVAwbWtFdk1yWWM2NVI5Ni1XX1lNV1lNeURwdTlHOTNlbHB3ZW9KV1VQZUk?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMjd1dGZ2VzFONUlvNmdwTHltOUtkRkp3b2RqUmlRQzRSTjk3UEVQQ20wTHpuUXNVYkQwcDZKaWJQd0hmalhkeXBfaEJZck55R1pTUDJBcms5VXFEN2F2QUlLVE1hWnVXSVAwbWtFdk1yWWM2NVI5Ni1XX1lNV1lNeURwdTlHOTNlbHB3ZW9KV1VQZUk?oc=5",
+      "source": "AGI",
+      "sourceHost": "agi.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "excerpt": "Caso Cospito: confermata in appello la condanna a 8 mesi per Delmastro. \"Faremo ricorso\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

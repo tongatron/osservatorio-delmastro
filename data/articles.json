@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T21:26:26.964Z",
+  "generatedAt": "2026-06-22T22:15:14.429Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-05-08T21:26:26.964Z",
-    "to": "2026-06-22T21:26:26.964Z",
+    "from": "2026-05-08T22:15:14.429Z",
+    "to": "2026-06-22T22:15:14.429Z",
     "days": 45
   },
   "sources": [
@@ -136,6 +136,10 @@
       "articleCount": 4
     },
     {
+      "label": "adnkronos.com",
+      "articleCount": 3
+    },
+    {
       "label": "newsbiella.it",
       "articleCount": 3
     },
@@ -156,16 +160,16 @@
       "articleCount": 3
     },
     {
-      "label": "adnkronos.com",
-      "articleCount": 2
-    },
-    {
       "label": "agi.it",
       "articleCount": 2
     },
     {
       "label": "open.online",
       "articleCount": 2
+    },
+    {
+      "label": "affaritaliani.it",
+      "articleCount": 1
     },
     {
       "label": "ilpost.it",
@@ -187,13 +191,13 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 194,
-      "uniqueArticles": 95
+      "fetchedArticles": 202,
+      "uniqueArticles": 99
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 57,
-      "uniqueArticles": 3
+      "fetchedArticles": 49,
+      "uniqueArticles": 1
     },
     {
       "label": "Soci e societa'",
@@ -201,13 +205,13 @@
       "uniqueArticles": 1
     },
     {
-      "label": "Filone giudiziario",
-      "fetchedArticles": 44,
+      "label": "Persone collegate",
+      "fetchedArticles": 52,
       "uniqueArticles": 0
     },
     {
-      "label": "Persone collegate",
-      "fetchedArticles": 47,
+      "label": "Filone giudiziario",
+      "fetchedArticles": 44,
       "uniqueArticles": 0
     },
     {
@@ -219,7 +223,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 41
+      "count": 42
     },
     {
       "tag": "giudiziaria",
@@ -227,7 +231,7 @@
     },
     {
       "tag": "bisteccheria",
-      "count": 14
+      "count": 15
     },
     {
       "tag": "politica",
@@ -243,10 +247,6 @@
     }
   ],
   "timeline": [
-    {
-      "date": "2026-05-08",
-      "count": 0
-    },
     {
       "date": "2026-05-09",
       "count": 0
@@ -293,7 +293,7 @@
     },
     {
       "date": "2026-05-20",
-      "count": 27
+      "count": 28
     },
     {
       "date": "2026-05-21",
@@ -325,7 +325,7 @@
     },
     {
       "date": "2026-05-28",
-      "count": 6
+      "count": 7
     },
     {
       "date": "2026-05-29",
@@ -426,6 +426,10 @@
     {
       "date": "2026-06-22",
       "count": 1
+    },
+    {
+      "date": "2026-06-23",
+      "count": 0
     }
   ],
   "articles": [
@@ -447,7 +451,7 @@
       "publishedAt": "2026-06-22T03:00:00.000Z",
       "excerpt": "Finisce a colpi di querele la lite in strada sulla Bisteccheria",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "rainews.it__rainews__bisteccheria d italia caso senza fine zappala fdi aggredito estremista__2026-06-21T15:01:00.000Z",
@@ -468,7 +472,7 @@
       "publishedAt": "2026-06-21T15:01:00.000Z",
       "excerpt": "Bisteccheria d'Italia, caso senza fine. Zappalà (FdI): \"Aggredito da estremista\"",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "corriere.it__corriere torino__biella andrea delmastro davide zappala elena chiorino coinvolti rissa centro litigio sul caso bisteccherie turba passeggiata gruppo fdi__2026-06-21T13:43:54.000Z",
@@ -489,7 +493,7 @@
       "publishedAt": "2026-06-21T13:43:54.000Z",
       "excerpt": "Biella, Andrea Delmastro, Davide Zappalà e Elena Chiorino coinvolti in una rissa in centro. Il litigio sul caso Bisteccherie turba la passeggiata del gruppo FdI",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "corriere.it__corriere tv__biella tensione centro zappala oppositore denuncia querela dopo confronto strada loro anche andrea delmastro elena chiorino__2026-06-21T11:42:04.000Z",
@@ -509,7 +513,7 @@
       "publishedAt": "2026-06-21T11:42:04.000Z",
       "excerpt": "Biella, tensione in centro tra Zappalà e un oppositore: denuncia e querela dopo il confronto in strada. Con loro anche Andrea Delmastro e Elena Chiorino",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "lastampa.it__la stampa__biella lite spintoni consigliere zappala interviene scorta delmastro__2026-06-21T10:44:00.000Z",
@@ -529,7 +533,7 @@
       "publishedAt": "2026-06-21T10:44:00.000Z",
       "excerpt": "Biella, lite e spintoni con il consigliere Zappalà: interviene la scorta di Delmastro",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "lastampa.it__la stampa__operaio faccia faccia delmastro urla spintoni biella__2026-06-21T10:44:00.000Z",
@@ -549,7 +553,7 @@
       "publishedAt": "2026-06-21T10:44:00.000Z",
       "excerpt": "Operaio faccia a faccia con Delmastro: urla e spintoni a Biella",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "lastampa.it__la stampa__biella lite spintoni strada caso bisteccheria interviene scorta delmastro__2026-06-21T09:15:00.000Z",
@@ -570,7 +574,7 @@
       "publishedAt": "2026-06-21T09:15:00.000Z",
       "excerpt": "Biella, lite con spintoni in strada per il caso Bisteccheria: interviene la scorta di Delmastro",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "repubblica.it__la repubblica__delmastro lite piazza bisteccheria__2026-06-20T22:55:00.000Z",
@@ -590,7 +594,7 @@
       "publishedAt": "2026-06-20T22:55:00.000Z",
       "excerpt": "Delmastro, lite in piazza per la Bisteccheria",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "lastampa.it__la stampa__bcv acque nomine ancora rinviate spettro incompatibilita delmastro gentile__2026-06-16T03:00:00.000Z",
@@ -610,7 +614,7 @@
       "publishedAt": "2026-06-16T03:00:00.000Z",
       "excerpt": "Bcv Acque, nomine ancora rinviate: spettro incompatibilità per Delmastro e Gentile",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ansa.it__ansa__delmastro durante question time camera__2026-06-04T07:00:00.000Z",
@@ -630,7 +634,7 @@
       "publishedAt": "2026-06-04T07:00:00.000Z",
       "excerpt": "Delmastro durante il question time alla Camera",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "repubblica.it__la repubblica__delmastro procura insiste chat ci servono no camera non aiuterebbe__2026-06-04T07:00:00.000Z",
@@ -650,7 +654,7 @@
       "publishedAt": "2026-06-04T07:00:00.000Z",
       "excerpt": "Delmastro, la procura insiste: “Le chat ci servono, un no della Camera non aiuterebbe”",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "adnkronos.com__adnkronos__acquisizione chat delmastro l auspicio procuratore voi cosa ha detto__2026-06-04T07:00:00.000Z",
@@ -659,10 +663,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU3h2QXdOc3UtZ1NHMlU1aTBpVzRNM2VsUXhiWm5vZ2hJUjRNRlJaOGVZQ2UtcFQwMklrVVl2OEgta1dQaU5iWWR4c1FvLXdJbzBzWmhuNjlaRV9SclZXRDV0TnVzQjJoM05fSy01OTIwS2MtSV8xQ0J0VHo4Tkd0bjhNQkNyUQ?oc=5",
       "source": "Adnkronos",
       "sourceHost": "adnkronos.com",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "giudiziaria"
@@ -670,7 +674,7 @@
       "publishedAt": "2026-06-04T07:00:00.000Z",
       "excerpt": "Acquisizione chat Delmastro, l'auspicio del procuratore Lo Voi: cosa ha detto",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "newsbiella.it__newsbiella.it__gal montagne biellesi francesca delmastro stata confermata presidente si parte bandi rivolti enti pubblici__2026-06-01T07:00:00.000Z",
@@ -690,7 +694,7 @@
       "publishedAt": "2026-06-01T07:00:00.000Z",
       "excerpt": "GAL Montagne Biellesi, Francesca Delmastro è stata confermata presidente: “Si parte con i bandi rivolti agli enti pubblici”",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "lastampa.it__la stampa__delmastro confermata presidenza gal montagne biellesi__2026-05-30T07:00:00.000Z",
@@ -710,7 +714,7 @@
       "publishedAt": "2026-05-30T07:00:00.000Z",
       "excerpt": "Delmastro confermata alla presidenza del Gal Montagne Biellesi",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ansa.it__ansa__non lasciamoli respirare proposta archiviazione delmastro__2026-05-29T07:00:00.000Z",
@@ -730,7 +734,7 @@
       "publishedAt": "2026-05-29T07:00:00.000Z",
       "excerpt": "'Non lasciamoli respirare', proposta archiviazione per Delmastro",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "corriere.it__corriere torino__non lasciamo respirare chi sta dietro vetro oscurato dell auto penitenziaria chiesta l archiviazione andrea delmastro__2026-05-29T07:00:00.000Z",
@@ -750,14 +754,14 @@
       "publishedAt": "2026-05-29T07:00:00.000Z",
       "excerpt": "«Non lasciamo respirare chi sta dietro il vetro oscurato dell'auto della penitenziaria». Chiesta l'archiviazione per Andrea Delmastro",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
-      "id": "fanpage.it__fanpage__non lasciamo respirare detenuti chiesta l archiviazione delmastro frasi shock__2026-05-29T07:00:00.000Z",
+      "id": "fanpage.it__fanpage.it__non lasciamo respirare detenuti chiesta l archiviazione delmastro frasi shock__2026-05-29T07:00:00.000Z",
       "title": "“Non lasciamo respirare i detenuti”: chiesta l’archiviazione per Delmastro su frasi shock",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdGlvbldsTjRONDd2VnFtSnFUdDY2cFRRT1hRalhzVEQ1ZEpvR3JROWlORDFjckJOa1F1QzNtYnBpZHBiMFNYWUZycldRdHVqUVgteW9lM2NvT2dMOXRKdnhzSThyYWpoS1k0YXpSR1IzRG5FMldKWE1HcEc0aHBYOXIybVNHVXF5X29PQ0pIZWlrTUF1WlMxSUZHX3FGcVhmeVZmVTVNajJPMXVpVzl4aTFCWTJsT21ZX2c?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdGlvbldsTjRONDd2VnFtSnFUdDY2cFRRT1hRalhzVEQ1ZEpvR3JROWlORDFjckJOa1F1QzNtYnBpZHBiMFNYWUZycldRdHVqUVgteW9lM2NvT2dMOXRKdnhzSThyYWpoS1k0YXpSR1IzRG5FMldKWE1HcEc0aHBYOXIybVNHVXF5X29PQ0pIZWlrTUF1WlMxSUZHX3FGcVhmeVZmVTVNajJPMXVpVzl4aTFCWTJsT21ZX2c?oc=5",
-      "source": "Fanpage",
+      "source": "fanpage.it",
       "sourceHost": "fanpage.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -770,7 +774,7 @@
       "publishedAt": "2026-05-29T07:00:00.000Z",
       "excerpt": "“Non lasciamo respirare i detenuti”: chiesta l’archiviazione per Delmastro su frasi shock",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "repubblica.it__la repubblica__pm chiedono parlamento chat delmastro caroccia fdi frena sinistra attacca__2026-05-28T07:00:00.000Z",
@@ -791,7 +795,7 @@
       "publishedAt": "2026-05-28T07:00:00.000Z",
       "excerpt": "I pm chiedono al Parlamento le chat Delmastro-Caroccia. FdI frena, la sinistra attacca",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "huffingtonpost.it__huffpost italia__grave incoerente se delmastro non consegna chat caroccia pm v musacchio__2026-05-28T07:00:00.000Z",
@@ -811,7 +815,7 @@
       "publishedAt": "2026-05-28T07:00:00.000Z",
       "excerpt": "Grave e incoerente se Delmastro non consegna le chat con Caroccia ai pm (di V. Musacchio)",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "huffingtonpost.it__huffpost italia__delmastro come scajola se stesso sua insaputa__2026-05-28T07:00:00.000Z",
@@ -831,7 +835,7 @@
       "publishedAt": "2026-05-28T07:00:00.000Z",
       "excerpt": "Delmastro come Scajola, è se stesso a sua insaputa",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilgiornale.it__il giornale__pm vogliono chat delmastro__2026-05-28T07:00:00.000Z",
@@ -851,7 +855,7 @@
       "publishedAt": "2026-05-28T07:00:00.000Z",
       "excerpt": "I pm vogliono le chat di Delmastro",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__direzione contraria repubblicani contro trump l accordo iran come quello obama casta continua destra pronta scudare delmastro__2026-05-28T07:00:00.000Z",
@@ -871,7 +875,7 @@
       "publishedAt": "2026-05-28T07:00:00.000Z",
       "excerpt": "In direzione contraria - Repubblicani contro Trump: \"L'accordo in Iran è come quello di Obama\". Casta continua: la destra pronta a scudare Delmastro",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__bistecche d italia immunita extra large parlamento pronto scudo pure delmastro__2026-05-28T07:00:00.000Z",
@@ -891,7 +895,27 @@
       "publishedAt": "2026-05-28T07:00:00.000Z",
       "excerpt": "Bistecche d’Italia, immunità extra-large: Parlamento pronto allo scudo pure per Delmastro",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
+    },
+    {
+      "id": "affaritaliani.it__affaritaliani__bisteccheria d italia chiamiamolo cosi nome scelto delmastro__2026-05-28T07:00:00.000Z",
+      "title": "\"Bisteccheria d'Italia, chiamiamolo così\". Nome scelto da Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0lUeGxKNHJJSHJwR3B0dWs2MEhucy14LWplWnpqTnI4REFwbDJMaGgyeFBOYTFYU0VYQngtcmYxOE9mdjV4SUEteThNYnpNeWpaRkw5a2NsSDA3ZmtONDJQRko3T21LUXViYjBLRFkydWFlZ0dHcWhBTVUwdWJOazlIcGtVLVQ1ZlV3MjNtUDk1UFVIcDAzOFFPZDJwVDNZMmpNSHVDZXA4QlNMdnQxcjRBcGpYRW1oM3J4WmRoRFQ2R1BtOUJB?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0lUeGxKNHJJSHJwR3B0dWs2MEhucy14LWplWnpqTnI4REFwbDJMaGgyeFBOYTFYU0VYQngtcmYxOE9mdjV4SUEteThNYnpNeWpaRkw5a2NsSDA3ZmtONDJQRko3T21LUXViYjBLRFkydWFlZ0dHcWhBTVUwdWJOazlIcGtVLVQ1ZlV3MjNtUDk1UFVIcDAzOFFPZDJwVDNZMmpNSHVDZXA4QlNMdnQxcjRBcGpYRW1oM3J4WmRoRFQ2R1BtOUJB?oc=5",
+      "source": "Affaritaliani",
+      "sourceHost": "affaritaliani.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "bisteccheria"
+      ],
+      "publishedAt": "2026-05-28T07:00:00.000Z",
+      "excerpt": "\"Bisteccheria d'Italia, chiamiamolo così\". Nome scelto da Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ansa.it__ansa__procura vuole acquisire chat delmastro caroccia__2026-05-27T07:00:00.000Z",
@@ -911,7 +935,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "La Procura vuole acquisire le chat tra Delmastro e Caroccia",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ansa.it__ansa__pm roma chiede autorizzazione camera chat delmastro caroccia__2026-05-27T07:00:00.000Z",
@@ -931,7 +955,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Pm Roma chiede autorizzazione alla Camera per chat tra Delmastro e Caroccia",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "agi.it__agi__delmastro procura chiede acquisire chat carroccia__2026-05-27T07:00:00.000Z",
@@ -951,7 +975,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Delmastro, la procura chiede di acquisire le chat con Carroccia",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "repubblica.it__la repubblica__delmastro pm vogliono chat caroccia difesa frasi inopportune ma nulla criminalita__2026-05-27T07:00:00.000Z",
@@ -971,7 +995,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Delmastro, i pm vogliono le chat con Caroccia. La difesa: “Frasi inopportune ma nulla su criminalità”",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "corriere.it__corriere roma__delmastro procura chiede acquisire tutte chat caroccia bisteccheria ristoratore favoriva riciclaggio boss senese__2026-05-27T07:00:00.000Z",
@@ -992,14 +1016,14 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Delmastro, la procura chiede di acquisire tutte le chat con Caroccia: «Con la Bisteccheria il ristoratore favoriva il riciclaggio del boss Senese»",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
-      "id": "fanpage.it__fanpage__l assurda difesa delmastro antimafia finii societa caroccia fare locale carino__2026-05-27T07:00:00.000Z",
+      "id": "fanpage.it__fanpage.it__l assurda difesa delmastro antimafia finii societa caroccia fare locale carino__2026-05-27T07:00:00.000Z",
       "title": "L'assurda difesa di Delmastro in Antimafia: \"Finii in società con Caroccia per fare un locale carino\"",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSzZzdHA5TDhkbmFmVmxUWjBCcGpyT2EtalU4SndBbW9rQkwyQVR1LUl5MWIwUWRxd3hkQTF0V1BPOW1VZmpBamJ5Q0pGQWFUOXlwX0MwUTdpdW9vQk5lOWF5cTVOLVd3UFJFbUFXbWZoUUJ4b0dqZnFleDJEUkN6b0g2WVFUWUM5UmZkYkFzd3E4ZjBmbTh5anpUbEh2OVZoYkw0d0NzbDJCcWlWRlhHUWFjRFM5MUVPS3FQeTJ1VWN1ckdNWUc5TXlB?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSzZzdHA5TDhkbmFmVmxUWjBCcGpyT2EtalU4SndBbW9rQkwyQVR1LUl5MWIwUWRxd3hkQTF0V1BPOW1VZmpBamJ5Q0pGQWFUOXlwX0MwUTdpdW9vQk5lOWF5cTVOLVd3UFJFbUFXbWZoUUJ4b0dqZnFleDJEUkN6b0g2WVFUWUM5UmZkYkFzd3E4ZjBmbTh5anpUbEh2OVZoYkw0d0NzbDJCcWlWRlhHUWFjRFM5MUVPS3FQeTJ1VWN1ckdNWUc5TXlB?oc=5",
-      "source": "Fanpage",
+      "source": "fanpage.it",
       "sourceHost": "fanpage.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1013,7 +1037,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "L'assurda difesa di Delmastro in Antimafia: \"Finii in società con Caroccia per fare un locale carino\"",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "open.online__open__delmastro chat mauro caroccia cosa cercano pm roma bisteccheria riciclaggio boss senese richiesta camera__2026-05-27T07:00:00.000Z",
@@ -1034,7 +1058,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Delmastro e le chat con Mauro Caroccia, cosa cercano i pm di Roma su Bisteccheria e riciclaggio per il boss Senese. La richiesta alla Camera",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "today.it__today.it__caso delmastro pm chiedono camera acquisire chat caroccia__2026-05-27T07:00:00.000Z",
@@ -1054,7 +1078,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Caso Delmastro, i pm chiedono alla Camera di acquisire le chat con Caroccia",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "tg24.sky.it__sky tg24__procura roma chiede acquisizione chat delmastro caroccia__2026-05-27T07:00:00.000Z",
@@ -1074,7 +1098,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Procura Roma chiede acquisizione delle chat tra Delmastro e Caroccia",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "tg24.sky.it__sky tg24__chat delmastro caroccia pm chiede autorizzazione camera__2026-05-27T07:00:00.000Z",
@@ -1094,7 +1118,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Chat tra Delmastro e Caroccia, pm chiede autorizzazione alla Camera",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilgiornale.it__il giornale__mea culpa delmastro minacciato dai boss ho sbagliato fare societa coi caroccia__2026-05-27T07:00:00.000Z",
@@ -1114,7 +1138,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Mea culpa Delmastro: minacciato dai boss, ho sbagliato a fare la società coi Caroccia",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilgiornale.it__il giornale__delmastro procura chiede camera acquisire chat caroccia__2026-05-27T07:00:00.000Z",
@@ -1134,7 +1158,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Delmastro, la procura chiede alla Camera di acquisire le chat con Caroccia",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "rainews.it__rainews__pm roma acquisire chat delmastro__2026-05-27T07:00:00.000Z",
@@ -1154,7 +1178,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Pm Roma: acquisire chat di Delmastro",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "rainews.it__rainews__caso delmastro pm roma chiede autorizzazione camera chat caroccia__2026-05-27T07:00:00.000Z",
@@ -1174,7 +1198,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Caso Delmastro, pm Roma chiede autorizzazione della Camera per chat con Caroccia",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "rainews.it__rainews__caso 5 forchette procura chiede acquisire chat delmastro caroccia__2026-05-27T07:00:00.000Z",
@@ -1195,7 +1219,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Caso \"5 Forchette\", la Procura chiede di acquisire chat tra Delmastro e Caroccia",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "rainews.it__rainews__procura roma chiede autorizzazione camera chat delmastro caroccia__2026-05-27T07:00:00.000Z",
@@ -1215,7 +1239,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Procura di Roma chiede autorizzazione alla Camera per chat tra Delmastro e Caroccia",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "rainews.it__rainews__chat delmastro caroccia pm chiedono autorizzazione camera centro destra verso no__2026-05-27T07:00:00.000Z",
@@ -1235,7 +1259,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Chat tra Delmastro e Caroccia, i pm chiedono autorizzazione alla Camera. Centro-destra verso il no",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro spiega caso bistecche d italia antimafia non ho cercato google chi fosse caroccia__2026-05-27T07:00:00.000Z",
@@ -1255,7 +1279,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Delmastro spiega il caso Bistecche d’Italia in Antimafia: “Non ho cercato su Google chi fosse Caroccia”",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro conte sfida fdi sulle chat caroccia__2026-05-27T07:00:00.000Z",
@@ -1275,7 +1299,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Caso Delmastro: Conte sfida FdI sulle chat con Caroccia",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__bisteccheria d italia procura chiede camere accedere tutte chat andrea delmastro mauro caroccia__2026-05-27T07:00:00.000Z",
@@ -1296,7 +1320,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Bisteccheria d’Italia, la procura chiede alla Camere di accedere a tutte le chat tra Andrea Delmastro e Mauro Caroccia",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "quotidiano.net__quotidiano nazionale__chat delmastro caroccia procura roma chiede l autorizzazione camera acquisirle centrodestra pronto respingere richiesta__2026-05-27T07:00:00.000Z",
@@ -1316,7 +1340,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Chat tra Delmastro e Caroccia, la Procura di Roma chiede l’autorizzazione alla Camera per acquisirle. Centrodestra pronto a respingere la richiesta",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "adnkronos.com__adnkronos__delmastro procura chiede autorizzazione camera acquisire chat caroccia__2026-05-27T07:00:00.000Z",
@@ -1325,10 +1349,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObVVGeGhXbENvSzN0ZzFfb1pSYnl1U1VYRW41ejJTMmY2Ny11bng0Yk10X3JncHVFOWYyVWRLRmZCNVhUY1VVOVlXZmRWQVN1TVNzeHFLQUY0cnNCOGRuekxqQlZCN1ZqR2Flb1pnQXV1ektlc3QxcnZrN3hJVU5Ra19LTjlaNHNDZHp3dTJXN1pMU1VPNFVSWk9SU3BzSXlaejBFbFI3M0lTYlhlMHp1MzRpam1BaHFxdUNMMmx6T212YkpWTmVqVGpFLTJqS1BtN1lIcy1xZw?oc=5",
       "source": "Adnkronos",
       "sourceHost": "adnkronos.com",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "giudiziaria"
@@ -1336,7 +1360,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Delmastro, Procura chiede autorizzazione alla Camera per acquisire chat con Caroccia",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ansa.it__ansa__delmastro antimafia locale caroccia era carino li caso__2026-05-26T07:00:00.000Z",
@@ -1356,7 +1380,7 @@
       "publishedAt": "2026-05-26T07:00:00.000Z",
       "excerpt": "Delmastro in Antimafia, 'locale di Caroccia era carino, lì per caso'",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ansa.it__ansa__delmastro finii locale caroccia perche era carino__2026-05-26T07:00:00.000Z",
@@ -1376,7 +1400,7 @@
       "publishedAt": "2026-05-26T07:00:00.000Z",
       "excerpt": "Delmastro, 'finii nel locale dei Caroccia perché era carino'",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "repubblica.it__repubblica.it__delmastro antimafia finii locale caroccia perche era carino__2026-05-26T07:00:00.000Z",
@@ -1396,7 +1420,7 @@
       "publishedAt": "2026-05-26T07:00:00.000Z",
       "excerpt": "Delmastro in Antimafia: “Finii nel locale dei Caroccia perché era carino”",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "corriere.it__corriere roma__delmastro all antimafia ristorante caroccia leggerezza pagata cara__2026-05-26T07:00:00.000Z",
@@ -1417,7 +1441,7 @@
       "publishedAt": "2026-05-26T07:00:00.000Z",
       "excerpt": "Delmastro all'Antimafia: «Il ristorante con Caroccia? Una leggerezza pagata cara»",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "lastampa.it__la stampa__antimafia delmastro finii dai caroccia perche era locale carino dovevo googlare__2026-05-26T07:00:00.000Z",
@@ -1437,7 +1461,7 @@
       "publishedAt": "2026-05-26T07:00:00.000Z",
       "excerpt": "Antimafia, Delmastro: “Finii dai Caroccia perché era un locale carino, dovevo googlare”",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "today.it__today.it__delmastro dopo caso bisteccheria d italia si converte sono diventato vegetariano non mangio piu carne__2026-05-26T07:00:00.000Z",
@@ -1457,7 +1481,7 @@
       "publishedAt": "2026-05-26T07:00:00.000Z",
       "excerpt": "Delmastro dopo il caso Bisteccheria d'Italia si converte: \"Sono diventato vegetariano, non mangio più carne\"",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "huffingtonpost.it__huffpost italia__delmastro antimafia si trincera non sapevo chi fosse caroccia ma poi ho googlato__2026-05-26T07:00:00.000Z",
@@ -1477,7 +1501,7 @@
       "publishedAt": "2026-05-26T07:00:00.000Z",
       "excerpt": "Delmastro in Antimafia si trincera con \"non sapevo chi fosse Caroccia. Ma poi ho googlato...\"",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilfoglio.it__il foglio__delmastro locale caroccia era simpatico ho sbagliato non consultare google__2026-05-26T07:00:00.000Z",
@@ -1497,7 +1521,7 @@
       "publishedAt": "2026-05-26T07:00:00.000Z",
       "excerpt": "Delmastro: \"Il locale dei Caroccia? Era simpatico. Ho sbagliato a non consultare Google\"",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilgiornale.it__il giornale__delmastro non mi ritengo inadeguato ma persona che ha commesso errore__2026-05-26T07:00:00.000Z",
@@ -1517,7 +1541,7 @@
       "publishedAt": "2026-05-26T07:00:00.000Z",
       "excerpt": "Delmastro: \"Non mi ritengo inadeguato ma una persona che ha commesso un errore\"",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "rainews.it__rainews__delmastro finii locale perche carino__2026-05-26T07:00:00.000Z",
@@ -1537,7 +1561,7 @@
       "publishedAt": "2026-05-26T07:00:00.000Z",
       "excerpt": "Delmastro:finii nel locale perché carino",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "rainews.it__rainews__delmastro antimafia ristorante caroccia leggerezza imperdonabile costata soldi dimissioni__2026-05-26T07:00:00.000Z",
@@ -1559,7 +1583,7 @@
       "publishedAt": "2026-05-26T07:00:00.000Z",
       "excerpt": "Delmastro in Antimafia: \"Ristorante Caroccia? Leggerezza imperdonabile, costata soldi e dimissioni\"",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "rainews.it__rainews__sono vittima anch io delmastro audizione antimafia parla prima volta dopo dimissioni__2026-05-26T07:00:00.000Z",
@@ -1580,7 +1604,7 @@
       "publishedAt": "2026-05-26T07:00:00.000Z",
       "excerpt": "\"Sono vittima anch'io\", Delmastro in audizione antimafia parla per la prima volta dopo dimissioni",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__blog ho ascoltato delmastro antimafia mi sono convinto vittima trappola__2026-05-26T07:00:00.000Z",
@@ -1600,7 +1624,7 @@
       "publishedAt": "2026-05-26T07:00:00.000Z",
       "excerpt": "Blog | Ho ascoltato Delmastro in Antimafia e mi sono convinto: è vittima di una trappola!",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__bisteccheria d italia delmastro mi sento vittima non sapevo chi fosse caroccia bastava guardare google imperdonabile leggerezza politica__2026-05-26T07:00:00.000Z",
@@ -1620,7 +1644,7 @@
       "publishedAt": "2026-05-26T07:00:00.000Z",
       "excerpt": "Bisteccheria d’Italia, Delmastro: “Mi sento vittima, non sapevo chi fosse Caroccia. Bastava guardare su Google, imperdonabile leggerezza politica”",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "quotidiano.net__quotidiano nazionale__delmastro finii locale caroccia perche era carino__2026-05-26T07:00:00.000Z",
@@ -1640,7 +1664,7 @@
       "publishedAt": "2026-05-26T07:00:00.000Z",
       "excerpt": "Delmastro, 'finii nel locale dei Caroccia perché era carino'",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "newsbiella.it__newsbiella.it__gal delmastro greggio verso atl alto piemonte__2026-05-25T07:00:00.000Z",
@@ -1660,7 +1684,7 @@
       "publishedAt": "2026-05-25T07:00:00.000Z",
       "excerpt": "Gal a Delmastro, Greggio verso Atl Alto Piemonte",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "corriere.it__corriere roma__andrea delmastro sara sentito martedi commissione antimafia sul caso bisteccheria d italia rapporti caroccia__2026-05-22T07:00:00.000Z",
@@ -1681,7 +1705,7 @@
       "publishedAt": "2026-05-22T07:00:00.000Z",
       "excerpt": "Andrea Delmastro sarà sentito martedì in Commissione Antimafia sul «caso Bisteccheria d'Italia» e i rapporti con Caroccia",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro condanna cospito testimoni processo tavola lui bisteccheria stato promosso__2026-05-22T07:00:00.000Z",
@@ -1701,7 +1725,7 @@
       "publishedAt": "2026-05-22T07:00:00.000Z",
       "excerpt": "Delmastro e la condanna per Cospito: i testimoni del processo a tavola con lui alla Bisteccheria. E uno è stato promosso",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilgiornale.it__il giornale__giudice ribalta pg condannato delmastro__2026-05-21T07:00:00.000Z",
@@ -1721,7 +1745,7 @@
       "publishedAt": "2026-05-21T07:00:00.000Z",
       "excerpt": "Il giudice ribalta il Pg: condannato Delmastro",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "newsbiella.it__newsbiella.it__caso cospito confermata appello condanna 8 mesi delmastro faremo ricorso cassazione__2026-05-21T07:00:00.000Z",
@@ -1741,7 +1765,7 @@
       "publishedAt": "2026-05-21T07:00:00.000Z",
       "excerpt": "Caso Cospito, confermata in Appello condanna a 8 mesi per Delmastro: “Faremo ricorso in Cassazione”",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__cospito delmastro condannato 8 mesi pure appello ricorrero cassazione__2026-05-21T07:00:00.000Z",
@@ -1761,7 +1785,7 @@
       "publishedAt": "2026-05-21T07:00:00.000Z",
       "excerpt": "Cospito, Delmastro condannato a 8 mesi pure in Appello: “Ricorrerò in Cassazione”",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ansa.it__ansa__confermata appello condanna delmastro caso cospito__2026-05-20T07:00:00.000Z",
@@ -1781,7 +1805,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Confermata in appello la condanna a Delmastro per il caso Cospito",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "agi.it__agi__caso cospito confermata appello condanna 8 mesi delmastro faremo ricorso__2026-05-20T07:00:00.000Z",
@@ -1801,7 +1825,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Caso Cospito: confermata in appello la condanna a 8 mesi per Delmastro. \"Faremo ricorso\"",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "repubblica.it__la repubblica__caso cospito confermata condanna 8 mesi delmastro lettura sentenza__2026-05-20T07:00:00.000Z",
@@ -1821,7 +1845,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Caso Cospito, confermata la condanna a 8 mesi per Delmastro: la lettura della sentenza",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "repubblica.it__la repubblica__caso cospito confermata condanna delmastro otto mesi rivelazione segreto d ufficio__2026-05-20T07:00:00.000Z",
@@ -1841,7 +1865,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Caso Cospito, confermata la condanna a Delmastro: otto mesi per rivelazione di segreto d’ufficio",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "corriere.it__corriere tv__legale delmastro dopo condanna 8 mesi siamo delusi faremo ricorso__2026-05-20T07:00:00.000Z",
@@ -1861,7 +1885,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Il legale di Delmastro dopo la condanna a 8 mesi: «Siamo delusi, faremo ricorso»",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "corriere.it__corriere roma__andrea delmastro confermata condanna appello caso cospito l ex sottosegretario faremo ricorso__2026-05-20T07:00:00.000Z",
@@ -1881,7 +1905,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Andrea Delmastro: confermata la condanna in Appello per il caso Cospito. L'ex sottosegretario: «Faremo ricorso»",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilpost.it__il post__condanna dell ex sottosegretario giustizia andrea delmastro rivelazione segreto d ufficio stata confermata appello__2026-05-20T07:00:00.000Z",
@@ -1901,14 +1925,14 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "La condanna dell'ex sottosegretario alla Giustizia Andrea Delmastro per rivelazione di segreto d'ufficio è stata confermata in appello",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
-      "id": "fanpage.it__fanpage__caso cospito corte d appello conferma condanna 8 mesi andrea delmastro__2026-05-20T07:00:00.000Z",
+      "id": "fanpage.it__fanpage.it__caso cospito corte d appello conferma condanna 8 mesi andrea delmastro__2026-05-20T07:00:00.000Z",
       "title": "Caso Cospito: la Corte d’Appello conferma la condanna a 8 mesi per Andrea Delmastro",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjM4Y3E3UmpDYlRrcEstank3TzRiX2dGT0lWOHVsalA2NndOVHEzVXB4c0w5SU5yN085ekR4OTMxRkM2eWdiRFVMUXAxeElvbDc5YURoQmlxMk91RWRjZUpEa19Zd0Q2UnFLY0pFTlI5bUh4RXZ6Z1BvN3FscUItcVZHTUhYRnF5aDM3eGNIQXRPM0tHd1AxdWpnMnZ2Y3pzSXBfamVYaFlzY1hUOVl3aU9zZC0?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjM4Y3E3UmpDYlRrcEstank3TzRiX2dGT0lWOHVsalA2NndOVHEzVXB4c0w5SU5yN085ekR4OTMxRkM2eWdiRFVMUXAxeElvbDc5YURoQmlxMk91RWRjZUpEa19Zd0Q2UnFLY0pFTlI5bUh4RXZ6Z1BvN3FscUItcVZHTUhYRnF5aDM3eGNIQXRPM0tHd1AxdWpnMnZ2Y3pzSXBfamVYaFlzY1hUOVl3aU9zZC0?oc=5",
-      "source": "Fanpage",
+      "source": "fanpage.it",
       "sourceHost": "fanpage.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -1921,7 +1945,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Caso Cospito: la Corte d’Appello conferma la condanna a 8 mesi per Andrea Delmastro",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "lastampa.it__la stampa__caso cospito confermata condanna appello delmastro lettura sentenza__2026-05-20T07:00:00.000Z",
@@ -1941,7 +1965,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Caso Cospito, confermata la condanna in Appello per Delmastro: la lettura della sentenza",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "lastampa.it__la stampa__caso cospito confermata condanna delmastro legale faremo ricorso cassazione__2026-05-20T07:00:00.000Z",
@@ -1961,7 +1985,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Caso Cospito, confermata la condanna a Delmastro. Il legale: “Faremo ricorso in Cassazione”",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "open.online__open__delmastro condannato caso cospito conferma appello l ex sottosegretario cosa era accusato cosa succede ora__2026-05-20T07:00:00.000Z",
@@ -1981,7 +2005,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Delmastro condannato per il caso Cospito, la conferma in appello per l’ex sottosegretario: di cosa era accusato e cosa succede ora",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "today.it__today.it__confermata condanna andrea delmastro caso dell anarchico alfredo cospito__2026-05-20T07:00:00.000Z",
@@ -2001,7 +2025,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Confermata la condanna per Andrea Delmastro per il caso dell'anarchico Alfredo Cospito",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "huffingtonpost.it__huffpost italia__confermata appello condanna 8 mesi andrea delmastro sul caso cospito__2026-05-20T07:00:00.000Z",
@@ -2021,7 +2045,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Confermata in appello la condanna a 8 mesi per Andrea Delmastro sul caso Cospito",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "tg24.sky.it__sky tg24__caso delmastro condanna 8 mesi confermata appello__2026-05-20T07:00:00.000Z",
@@ -2041,7 +2065,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Caso Delmastro, condanna a 8 mesi confermata in appello",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "tg24.sky.it__sky tg24__caso cospito confermata appello condanna 8 mesi delmastro__2026-05-20T07:00:00.000Z",
@@ -2061,7 +2085,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Caso Cospito, confermata in Appello la condanna di 8 mesi a Delmastro",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "tgcom24.mediaset.it__tgcom24__caso cospito confermata appello condanna delmastro otto mesi faremo ricorso cassazione__2026-05-20T07:00:00.000Z",
@@ -2081,7 +2105,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Caso Cospito, confermata in appello la condanna a Delmastro a otto mesi. \"Faremo ricorso in Cassazione\"",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilfoglio.it__il foglio__delmastro condannato appello caso cospito__2026-05-20T07:00:00.000Z",
@@ -2101,7 +2125,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Delmastro condannato in appello per il caso Cospito",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilfoglio.it__il foglio__paradosso delmastro condannato anche appello dopo tre richieste assoluzione__2026-05-20T07:00:00.000Z",
@@ -2121,7 +2145,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Paradosso Delmastro: condannato anche in appello dopo tre richieste di assoluzione",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilgiornale.it__il giornale__caso cospito confermata appello condanna delmastro__2026-05-20T07:00:00.000Z",
@@ -2141,7 +2165,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Caso Cospito, confermata in appello la condanna a Delmastro",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "liberoquotidiano.it__libero quotidiano__andrea delmastro confermata condanna 8 mesi caso cospito libero quotidiano it__2026-05-20T07:00:00.000Z",
@@ -2161,7 +2185,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Andrea Delmastro, confermata la condanna a 8 mesi per il caso-Cospito | Libero Quotidiano.it",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilbiellese.it__ilbiellese.it__delmastro condannato anche appello__2026-05-20T07:00:00.000Z",
@@ -2181,7 +2205,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Delmastro condannato anche in appello",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "rainews.it__rainews__appello conferma condanna delmastro__2026-05-20T07:00:00.000Z",
@@ -2201,7 +2225,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Appello conferma la condanna a Delmastro",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "rainews.it__rainews__confermata appello condanna delmastro rivelazione segreto d ufficio sul caso cospito__2026-05-20T07:00:00.000Z",
@@ -2221,7 +2245,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Confermata in appello condanna per Delmastro per rivelazione del segreto d'ufficio sul caso Cospito",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "rainews.it__rainews__delmastro confermata appello condanna caso cospito faremo ricorso cassazione__2026-05-20T07:00:00.000Z",
@@ -2241,7 +2265,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Delmastro, confermata in appello la condanna per il caso Cospito: \"Faremo ricorso in Cassazione\"",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "rainews.it__rainews__delmastro confermata appello condanna 8 mesi__2026-05-20T07:00:00.000Z",
@@ -2261,7 +2285,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Delmastro, confermata in appello la condanna a 8 mesi",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__caso cospito appello confermata condanna 8 mesi andrea delmastro__2026-05-20T07:00:00.000Z",
@@ -2281,7 +2305,7 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Caso Cospito, in Appello confermata la condanna a 8 mesi per Andrea Delmastro",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "quotidiano.net__quotidiano nazionale__caso cospito confermata anche appello condanna delmastro l ex sottosegretario non ho intenzione fermarmi qui__2026-05-20T07:00:00.000Z",
@@ -2301,7 +2325,27 @@
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Caso Cospito, confermata anche in appello la condanna a Delmastro. L’ex sottosegretario: “Non ho intenzione di fermarmi qui”",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
+    },
+    {
+      "id": "adnkronos.com__adnkronos__caso cospito confermata appello condanna 8 mesi delmastro__2026-05-20T07:00:00.000Z",
+      "title": "Caso Cospito, confermata in Appello condanna a 8 mesi per Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQVGJkQU4zTmZYTnprb2JhZ2NQbjREMFBpal9ZZXNRem1rRnZ2VnZpM25Tanc1d1JWdjA3emQxalFSNTFXRUI1UjBoSTdvbWxWb0htMDFHZW9JNFJxX3hwVERqUDFBT2REeVpycVI0ODRhN0d4N05NenIwVk1fN1lZZG1nck1RLWY3WUZxTDRaamJtTGt5NnlvQmxqdURSXzkzcWRNRkJ1UVdNdlNtSUFRTlRhUUtwbmIwVFhpZktJaXZOa29JUlJwNFU0MmxaMUFwaS1pODg5eTkzWFBDYlhLNEk2V1piZlJ3WDdYRnptbGZCSUowR2psMkI2ekNyaS1vVzUtRDlyZGlpU3VGMXEwcFVkSmV2Tl96Y3c?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQVGJkQU4zTmZYTnprb2JhZ2NQbjREMFBpal9ZZXNRem1rRnZ2VnZpM25Tanc1d1JWdjA3emQxalFSNTFXRUI1UjBoSTdvbWxWb0htMDFHZW9JNFJxX3hwVERqUDFBT2REeVpycVI0ODRhN0d4N05NenIwVk1fN1lZZG1nck1RLWY3WUZxTDRaamJtTGt5NnlvQmxqdURSXzkzcWRNRkJ1UVdNdlNtSUFRTlRhUUtwbmIwVFhpZktJaXZOa29JUlJwNFU0MmxaMUFwaS1pODg5eTkzWFBDYlhLNEk2V1piZlJ3WDdYRnptbGZCSUowR2psMkI2ekNyaS1vVzUtRDlyZGlpU3VGMXEwcFVkSmV2Tl96Y3c?oc=5",
+      "source": "Adnkronos",
+      "sourceHost": "adnkronos.com",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "excerpt": "Caso Cospito, confermata in Appello condanna a 8 mesi per Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "repubblica.it__repubblica.it__giustizia ancora tensioni braccio ferro fdi lega sulle deleghe delmastro__2026-05-12T07:00:00.000Z",
@@ -2321,7 +2365,7 @@
       "publishedAt": "2026-05-12T07:00:00.000Z",
       "excerpt": "Giustizia, ancora tensioni. Braccio di ferro tra FdI e Lega sulle deleghe di Delmastro",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "huffingtonpost.it__huffpost italia__fine casini mai l eredita delmastro fa litigare fdi lega spuntano meloniani__2026-05-12T07:00:00.000Z",
@@ -2341,7 +2385,7 @@
       "publishedAt": "2026-05-12T07:00:00.000Z",
       "excerpt": "Fine casini mai. L'eredità di Delmastro fa litigare FdI e Lega. La spuntano i meloniani",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "repubblica.it__la repubblica__diablo gigio pascu tre omicidi irrisolti roma clan senese__2026-05-10T07:00:00.000Z",
@@ -2366,7 +2410,7 @@
       "publishedAt": "2026-05-10T07:00:00.000Z",
       "excerpt": "Diablo, Gigio e Pascu: i tre omicidi irrisolti nella Roma del clan Senese",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "lastampa.it__la stampa__risiko presidenze greggio all atl delmastro resta gal__2026-05-10T07:00:00.000Z",
@@ -2386,7 +2430,7 @@
       "publishedAt": "2026-05-10T07:00:00.000Z",
       "excerpt": "Il risiko delle presidenze: con Greggio all’Atl Delmastro resta al Gal",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     },
     {
       "id": "ilgiornale.it__il giornale__caso delmastro l opposizione nei guai firme farlocche__2026-05-10T07:00:00.000Z",
@@ -2406,7 +2450,7 @@
       "publishedAt": "2026-05-10T07:00:00.000Z",
       "excerpt": "Il caso Delmastro: l’opposizione nei guai per \"firme farlocche\"",
       "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
+      "decoderError": "Google News decoder failed with HTTP 429"
     }
   ]
 }

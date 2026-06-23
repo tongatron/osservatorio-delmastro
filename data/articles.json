@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T03:48:52.045Z",
+  "generatedAt": "2026-06-23T05:30:56.121Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-05-09T03:48:52.045Z",
-    "to": "2026-06-23T03:48:52.045Z",
+    "from": "2026-05-09T05:30:56.121Z",
+    "to": "2026-06-23T05:30:56.121Z",
     "days": 45
   },
   "sources": [
@@ -132,10 +132,6 @@
       "articleCount": 5
     },
     {
-      "label": "tg24.sky.it",
-      "articleCount": 4
-    },
-    {
       "label": "adnkronos.com",
       "articleCount": 3
     },
@@ -168,6 +164,14 @@
       "articleCount": 2
     },
     {
+      "label": "affaritaliani.it",
+      "articleCount": 1
+    },
+    {
+      "label": "tg24.sky.it",
+      "articleCount": 1
+    },
+    {
       "label": "ilpost.it",
       "articleCount": 1
     },
@@ -187,12 +191,17 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 200,
-      "uniqueArticles": 98
+      "fetchedArticles": 192,
+      "uniqueArticles": 94
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 55,
+      "fetchedArticles": 56,
+      "uniqueArticles": 2
+    },
+    {
+      "label": "Filone giudiziario",
+      "fetchedArticles": 44,
       "uniqueArticles": 1
     },
     {
@@ -206,11 +215,6 @@
       "uniqueArticles": 0
     },
     {
-      "label": "Filone giudiziario",
-      "fetchedArticles": 44,
-      "uniqueArticles": 0
-    },
-    {
       "label": "Territorio",
       "fetchedArticles": 1,
       "uniqueArticles": 0
@@ -219,15 +223,15 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 42
+      "count": 40
     },
     {
       "tag": "giudiziaria",
-      "count": 34
+      "count": 33
     },
     {
       "tag": "bisteccheria",
-      "count": 14
+      "count": 15
     },
     {
       "tag": "politica",
@@ -289,7 +293,7 @@
     },
     {
       "date": "2026-05-20",
-      "count": 28
+      "count": 26
     },
     {
       "date": "2026-05-21",
@@ -317,11 +321,11 @@
     },
     {
       "date": "2026-05-27",
-      "count": 22
+      "count": 21
     },
     {
       "date": "2026-05-28",
-      "count": 6
+      "count": 7
     },
     {
       "date": "2026-05-29",
@@ -894,6 +898,28 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "affaritaliani.it__affaritaliani__bisteccheria d italia chiamiamolo cosi nome scelto delmastro__2026-05-28T07:00:00.000Z",
+      "title": "\"Bisteccheria d'Italia, chiamiamolo così\". Nome scelto da Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0lUeGxKNHJJSHJwR3B0dWs2MEhucy14LWplWnpqTnI4REFwbDJMaGgyeFBOYTFYU0VYQngtcmYxOE9mdjV4SUEteThNYnpNeWpaRkw5a2NsSDA3ZmtONDJQRko3T21LUXViYjBLRFkydWFlZ0dHcWhBTVUwdWJOazlIcGtVLVQ1ZlV3MjNtUDk1UFVIcDAzOFFPZDJwVDNZMmpNSHVDZXA4QlNMdnQxcjRBcGpYRW1oM3J4WmRoRFQ2R1BtOUJB?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0lUeGxKNHJJSHJwR3B0dWs2MEhucy14LWplWnpqTnI4REFwbDJMaGgyeFBOYTFYU0VYQngtcmYxOE9mdjV4SUEteThNYnpNeWpaRkw5a2NsSDA3ZmtONDJQRko3T21LUXViYjBLRFkydWFlZ0dHcWhBTVUwdWJOazlIcGtVLVQ1ZlV3MjNtUDk1UFVIcDAzOFFPZDJwVDNZMmpNSHVDZXA4QlNMdnQxcjRBcGpYRW1oM3J4WmRoRFQ2R1BtOUJB?oc=5",
+      "source": "Affaritaliani",
+      "sourceHost": "affaritaliani.it",
+      "queryLabel": "Filone giudiziario",
+      "matchedTerms": [
+        "intestazione fittizia di beni",
+        "antimafia",
+        "indagine Delmastro",
+        "pm Torino"
+      ],
+      "tags": [
+        "bisteccheria"
+      ],
+      "publishedAt": "2026-05-28T07:00:00.000Z",
+      "excerpt": "\"Bisteccheria d'Italia, chiamiamolo così\". Nome scelto da Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "ansa.it__ansa__procura vuole acquisire chat delmastro caroccia__2026-05-27T07:00:00.000Z",
       "title": "La Procura vuole acquisire le chat tra Delmastro e Caroccia",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNS3pXT2RmU2pGWlRWRUE4Y3R4cGE2dUR1TEN5OEVGZmRUY2pDU0dHb3M5TGhrYnZKU3VudmZOWHo3Q2pYU0xvZzd3RjlKa2EzaGZUNTlhbHUxeEw4MjBvOWxQaVJMaHd1ZUZiNUg3a3c3bXh6Rmw2ZnFkRTl3RDRzU1JNTHZpbGloZUZyZTFVbGpGQW1VTkVNVWJpOWlXOVh6SC1nVkR2TmxnOHJBQ2JnWG5td25hRFRVUG00LS1EZ2FNT3B1YTRzcDZ1cUlfeTVTblcxeEFlaHJXalJ4QTRiZE1fZ0RFMkI2VmVPdWh2NmdvN2I1ejBQb2FTYjREaElvU0HSAYcCQVVfeXFMTjFCM0dramJfUDh0V3Rhb19jdWRlb0NVdkl2c1lEX1BsX3lSc1JNQzFHSm90Ti1YOGE0THYtR09iQ25DOXpYTFRHMWkybS1Ua3Rzejcxdk9JaTVuVExxQ3RpLVAwTUZqeXBaMTZmTjVwTUh6eEVSRWJsNkM4a0xpMjAwRVBkcThmWWhxOEdwdVQ3dUFBNDJyZnJFdFg2akdBclhyWlhILWhSWG1uOVR4NXdVWFNHV0FhVnY3dHhDRk15cXdfZFoydWl1dmdnck5OX1J0REt2TVJPSTFRSmRFeFk2WXpwMmFGTFJkeXdBUjZlVzV3d1hvdnh0OXh3cVNSSy0wcXF0Z0E?oc=5",
@@ -1057,36 +1083,16 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "tg24.sky.it__sky tg24__procura roma chiede acquisizione chat delmastro caroccia__2026-05-27T07:00:00.000Z",
-      "title": "Procura Roma chiede acquisizione delle chat tra Delmastro e Caroccia",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNXzRxcEFHWmE2NGtnMm9QQi1XckJwaG9GWGVmR3FqSGpJODRBZW96ZjJHSTVWa0N5dmR5c21wZ1RSaUpBQ1haN2FmeWNtRXBCSTkwd0dZVUlsdGtWZWN6X2dNTGFuZ29Iazc0R1BobGcwMnVaWDF1SUxGZDcyZWViaTNaSFdiQXVTRGFMT1VVNHAwNlZxSzdxanhuNjBxNHNjOXlHTERWZzBuSFF2VEROcFYwMWl3TTF3SzdhSzd3?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNXzRxcEFHWmE2NGtnMm9QQi1XckJwaG9GWGVmR3FqSGpJODRBZW96ZjJHSTVWa0N5dmR5c21wZ1RSaUpBQ1haN2FmeWNtRXBCSTkwd0dZVUlsdGtWZWN6X2dNTGFuZ29Iazc0R1BobGcwMnVaWDF1SUxGZDcyZWViaTNaSFdiQXVTRGFMT1VVNHAwNlZxSzdxanhuNjBxNHNjOXlHTERWZzBuSFF2VEROcFYwMWl3TTF3SzdhSzd3?oc=5",
-      "source": "Sky TG24",
-      "sourceHost": "tg24.sky.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-05-27T07:00:00.000Z",
-      "excerpt": "Procura Roma chiede acquisizione delle chat tra Delmastro e Caroccia",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "tg24.sky.it__sky tg24__chat delmastro caroccia pm chiede autorizzazione camera__2026-05-27T07:00:00.000Z",
       "title": "Chat tra Delmastro e Caroccia, pm chiede autorizzazione alla Camera",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbXY5ZXhwZFJtcVpDN1B6VHRheWZCUEpsdUJlMjNxN1pNTUVpc3dacTMzWmZCRFh2emJMR1prVy1rYmVybm1BSjJDWl9DSTdfei1lZzBkeTAzRmtuLXJJRUZoNnc4YmFIS21uMURsOV9oRHo2TWFCeU93YkFwWThzcVFrWGpUaWpSendtQ1BNRTFDZHJPSTh3cEJNbjFydw?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbXY5ZXhwZFJtcVpDN1B6VHRheWZCUEpsdUJlMjNxN1pNTUVpc3dacTMzWmZCRFh2emJMR1prVy1rYmVybm1BSjJDWl9DSTdfei1lZzBkeTAzRmtuLXJJRUZoNnc4YmFIS21uMURsOV9oRHo2TWFCeU93YkFwWThzcVFrWGpUaWpSendtQ1BNRTFDZHJPSTh3cEJNbjFydw?oc=5",
       "source": "Sky TG24",
       "sourceHost": "tg24.sky.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "giudiziaria"
@@ -2020,46 +2026,6 @@
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Confermata in appello la condanna a 8 mesi per Andrea Delmastro sul caso Cospito",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "tg24.sky.it__sky tg24__caso delmastro condanna 8 mesi confermata appello__2026-05-20T07:00:00.000Z",
-      "title": "Caso Delmastro, condanna a 8 mesi confermata in appello",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUdXaGNETktYeG9zY19mZVR6dVZjUTIzcXpEbHotbmlFVng3eGxJUWh4VlktUW1ESThwUmlJQ21mUzg1UFdwNEtTd1VWTk41NnpWNUJCeWswazBOYzBobkNvOGhSNEtqRXN6NGRGeWNaMFRMVlJmU3htN1MyOFMyc2VkR0Jkc0pkak1LUEM5Z1ZTNUo3Vy16NC16OUI0NWxYQ1pDWGlGQnBURzUz?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUdXaGNETktYeG9zY19mZVR6dVZjUTIzcXpEbHotbmlFVng3eGxJUWh4VlktUW1ESThwUmlJQ21mUzg1UFdwNEtTd1VWTk41NnpWNUJCeWswazBOYzBobkNvOGhSNEtqRXN6NGRGeWNaMFRMVlJmU3htN1MyOFMyc2VkR0Jkc0pkak1LUEM5Z1ZTNUo3Vy16NC16OUI0NWxYQ1pDWGlGQnBURzUz?oc=5",
-      "source": "Sky TG24",
-      "sourceHost": "tg24.sky.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-20T07:00:00.000Z",
-      "excerpt": "Caso Delmastro, condanna a 8 mesi confermata in appello",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "tg24.sky.it__sky tg24__caso cospito confermata appello condanna 8 mesi delmastro__2026-05-20T07:00:00.000Z",
-      "title": "Caso Cospito, confermata in Appello la condanna di 8 mesi a Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONU5NZkQxdFhEQ2dKbkdHY0pnUW5FSC03U0xIaHVNa2hVRmcwQWZUVWpJUlZsRkpSMVA5X2R4NklzdlN4QVZjQ1FwQTBKeTdYTHN4LTVNWTJRRmxpX2V6VUVqSzNYOGRqZUlCVU1GbnMtNmtKbVNKeXp3YXkwWE5jRTZZekhWWjl1NVV5N1Vn?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONU5NZkQxdFhEQ2dKbkdHY0pnUW5FSC03U0xIaHVNa2hVRmcwQWZUVWpJUlZsRkpSMVA5X2R4NklzdlN4QVZjQ1FwQTBKeTdYTHN4LTVNWTJRRmxpX2V6VUVqSzNYOGRqZUlCVU1GbnMtNmtKbVNKeXp3YXkwWE5jRTZZekhWWjl1NVV5N1Vn?oc=5",
-      "source": "Sky TG24",
-      "sourceHost": "tg24.sky.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-20T07:00:00.000Z",
-      "excerpt": "Caso Cospito, confermata in Appello la condanna di 8 mesi a Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T05:29:08.742Z",
+  "generatedAt": "2026-06-24T06:53:47.616Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-05-10T05:29:08.742Z",
-    "to": "2026-06-24T05:29:08.742Z",
+    "from": "2026-05-10T06:53:47.616Z",
+    "to": "2026-06-24T06:53:47.616Z",
     "days": 45
   },
   "sources": [
@@ -136,6 +136,10 @@
       "articleCount": 4
     },
     {
+      "label": "adnkronos.com",
+      "articleCount": 3
+    },
+    {
       "label": "newsbiella.it",
       "articleCount": 3
     },
@@ -152,19 +156,15 @@
       "articleCount": 3
     },
     {
-      "label": "ilfoglio.it",
-      "articleCount": 3
-    },
-    {
-      "label": "adnkronos.com",
-      "articleCount": 2
-    },
-    {
       "label": "agi.it",
       "articleCount": 2
     },
     {
       "label": "open.online",
+      "articleCount": 2
+    },
+    {
+      "label": "ilfoglio.it",
       "articleCount": 2
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 47,
+      "fetchedArticles": 45,
       "uniqueArticles": 0
     },
     {
@@ -663,10 +663,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU3h2QXdOc3UtZ1NHMlU1aTBpVzRNM2VsUXhiWm5vZ2hJUjRNRlJaOGVZQ2UtcFQwMklrVVl2OEgta1dQaU5iWWR4c1FvLXdJbzBzWmhuNjlaRV9SclZXRDV0TnVzQjJoM05fSy01OTIwS2MtSV8xQ0J0VHo4Tkd0bjhNQkNyUQ?oc=5",
       "source": "Adnkronos",
       "sourceHost": "adnkronos.com",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "giudiziaria"
@@ -1369,10 +1369,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObVVGeGhXbENvSzN0ZzFfb1pSYnl1U1VYRW41ejJTMmY2Ny11bng0Yk10X3JncHVFOWYyVWRLRmZCNVhUY1VVOVlXZmRWQVN1TVNzeHFLQUY0cnNCOGRuekxqQlZCN1ZqR2Flb1pnQXV1ektlc3QxcnZrN3hJVU5Ra19LTjlaNHNDZHp3dTJXN1pMU1VPNFVSWk9SU3BzSXlaejBFbFI3M0lTYlhlMHp1MzRpam1BaHFxdUNMMmx6T212YkpWTmVqVGpFLTJqS1BtN1lIcy1xZw?oc=5",
       "source": "Adnkronos",
       "sourceHost": "adnkronos.com",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "giudiziaria"
@@ -1530,10 +1530,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ3dXOFEyR0lrWHc0UlRvLVUtLTc2UmlfMmRfYzB5YnIzZWowWWhMdFdSQVI2ajFVQnZwM2RFS1huaVBEZHNubGVqV3I3NjFlNm5tUjJZd2h4MFZ0a0tac2lhcEFubGNoYmxsQk1Sd2JyajhDTGpFbWZObnBoS0dZT0dPLUhRQ2VTZVZQUTQwbXZnNTRFbUREM2J6QVI2YjgxN05maXJ1ZzBvbFZTUDZmRWI4VVVhU1ZGYWkwMHJCMzBaS1ZTZXJLLVlSa1A0eTNfTW9Hdldzc0EtbFk?oc=5",
       "source": "Il Foglio",
       "sourceHost": "ilfoglio.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "altro"
@@ -2134,36 +2134,16 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHl0MXNBRFhrRS1qQ0hsNzFqWG50TFlrXzJYZ2ZfSV96RHdwVThBMXlLbmZSeklaZjQ3VUNoeE1xLWFoUU1Vbi1CVzNiRk9wanZnVTdzLUowU3hDekxXM2YwbGwwQ1FHRTRXNFFCMmM4LUktaVJWbGh3bW01bWxfQlNYSFlMZDdBVTEzUmQ5T3RIeVQyR3BUSmJ1NUpDQmk0OWFHdUg1eXNBT0c3c0E?oc=5",
       "source": "Il Foglio",
       "sourceHost": "ilfoglio.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "altro"
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Delmastro condannato in appello per il caso Cospito",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfoglio.it__il foglio__paradosso delmastro condannato anche appello dopo tre richieste assoluzione__2026-05-20T07:00:00.000Z",
-      "title": "Paradosso Delmastro: condannato anche in appello dopo tre richieste di assoluzione",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZlBIMG9meXAzYXJmaHpLem1Vc2c2SWpaX0JoekMzbkVjZ18xOEx0eW00MTZod2NtS0FXV3hCVktja1FIaGZvWjF5RmJMRnhCVU40Vnd2V21hNFRwdzh6RVI2aUZCeUNyQnNuOXVxLUhJaXh3MTFQa3ZQT0xfaVpwNVNDbWZaX3pXR2pRcHMwbHQ5RmNkcjd6b3Y1Ykd5RFB6WXhMSDBSSWVBeGxWRFk3M2Y2U0xJc0VtU05MZks3T1RPZ3A5LTdVb3ptSVdBbFViSVV0RExn?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZlBIMG9meXAzYXJmaHpLem1Vc2c2SWpaX0JoekMzbkVjZ18xOEx0eW00MTZod2NtS0FXV3hCVktja1FIaGZvWjF5RmJMRnhCVU40Vnd2V21hNFRwdzh6RVI2aUZCeUNyQnNuOXVxLUhJaXh3MTFQa3ZQT0xfaVpwNVNDbWZaX3pXR2pRcHMwbHQ5RmNkcjd6b3Y1Ykd5RFB6WXhMSDBSSWVBeGxWRFk3M2Y2U0xJc0VtU05MZks3T1RPZ3A5LTdVb3ptSVdBbFViSVV0RExn?oc=5",
-      "source": "Il Foglio",
-      "sourceHost": "ilfoglio.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-20T07:00:00.000Z",
-      "excerpt": "Paradosso Delmastro: condannato anche in appello dopo tre richieste di assoluzione",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2344,6 +2324,26 @@
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Caso Cospito, confermata anche in appello la condanna a Delmastro. L’ex sottosegretario: “Non ho intenzione di fermarmi qui”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "adnkronos.com__adnkronos__caso cospito confermata appello condanna 8 mesi delmastro__2026-05-20T07:00:00.000Z",
+      "title": "Caso Cospito, confermata in Appello condanna a 8 mesi per Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQVGJkQU4zTmZYTnprb2JhZ2NQbjREMFBpal9ZZXNRem1rRnZ2VnZpM25Tanc1d1JWdjA3emQxalFSNTFXRUI1UjBoSTdvbWxWb0htMDFHZW9JNFJxX3hwVERqUDFBT2REeVpycVI0ODRhN0d4N05NenIwVk1fN1lZZG1nck1RLWY3WUZxTDRaamJtTGt5NnlvQmxqdURSXzkzcWRNRkJ1UVdNdlNtSUFRTlRhUUtwbmIwVFhpZktJaXZOa29JUlJwNFU0MmxaMUFwaS1pODg5eTkzWFBDYlhLNEk2V1piZlJ3WDdYRnptbGZCSUowR2psMkI2ekNyaS1vVzUtRDlyZGlpU3VGMXEwcFVkSmV2Tl96Y3c?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQVGJkQU4zTmZYTnprb2JhZ2NQbjREMFBpal9ZZXNRem1rRnZ2VnZpM25Tanc1d1JWdjA3emQxalFSNTFXRUI1UjBoSTdvbWxWb0htMDFHZW9JNFJxX3hwVERqUDFBT2REeVpycVI0ODRhN0d4N05NenIwVk1fN1lZZG1nck1RLWY3WUZxTDRaamJtTGt5NnlvQmxqdURSXzkzcWRNRkJ1UVdNdlNtSUFRTlRhUUtwbmIwVFhpZktJaXZOa29JUlJwNFU0MmxaMUFwaS1pODg5eTkzWFBDYlhLNEk2V1piZlJ3WDdYRnptbGZCSUowR2psMkI2ekNyaS1vVzUtRDlyZGlpU3VGMXEwcFVkSmV2Tl96Y3c?oc=5",
+      "source": "Adnkronos",
+      "sourceHost": "adnkronos.com",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "excerpt": "Caso Cospito, confermata in Appello condanna a 8 mesi per Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T21:38:45.467Z",
+  "generatedAt": "2026-06-25T22:37:44.275Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-05-11T21:38:45.467Z",
-    "to": "2026-06-25T21:38:45.467Z",
+    "from": "2026-05-11T22:37:44.275Z",
+    "to": "2026-06-25T22:37:44.275Z",
     "days": 45
   },
   "sources": [
@@ -136,20 +136,16 @@
       "articleCount": 4
     },
     {
-      "label": "adnkronos.com",
-      "articleCount": 3
-    },
-    {
       "label": "fanpage.it",
-      "articleCount": 3
-    },
-    {
-      "label": "quotidiano.net",
       "articleCount": 3
     },
     {
       "label": "ilfoglio.it",
       "articleCount": 3
+    },
+    {
+      "label": "adnkronos.com",
+      "articleCount": 2
     },
     {
       "label": "newsbiella.it",
@@ -161,6 +157,10 @@
     },
     {
       "label": "open.online",
+      "articleCount": 2
+    },
+    {
+      "label": "quotidiano.net",
       "articleCount": 2
     },
     {
@@ -191,22 +191,22 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 196,
-      "uniqueArticles": 95
+      "fetchedArticles": 190,
+      "uniqueArticles": 92
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 53,
-      "uniqueArticles": 0
+      "fetchedArticles": 54,
+      "uniqueArticles": 1
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 51,
+      "fetchedArticles": 50,
       "uniqueArticles": 0
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 43,
+      "fetchedArticles": 41,
       "uniqueArticles": 0
     },
     {
@@ -223,7 +223,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 38
+      "count": 36
     },
     {
       "tag": "giudiziaria",
@@ -247,10 +247,6 @@
     }
   ],
   "timeline": [
-    {
-      "date": "2026-05-11",
-      "count": 0
-    },
     {
       "date": "2026-05-12",
       "count": 2
@@ -285,7 +281,7 @@
     },
     {
       "date": "2026-05-20",
-      "count": 27
+      "count": 26
     },
     {
       "date": "2026-05-21",
@@ -309,7 +305,7 @@
     },
     {
       "date": "2026-05-26",
-      "count": 15
+      "count": 14
     },
     {
       "date": "2026-05-27",
@@ -429,6 +425,10 @@
     },
     {
       "date": "2026-06-25",
+      "count": 0
+    },
+    {
+      "date": "2026-06-26",
       "count": 0
     }
   ],
@@ -884,10 +884,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0lUeGxKNHJJSHJwR3B0dWs2MEhucy14LWplWnpqTnI4REFwbDJMaGgyeFBOYTFYU0VYQngtcmYxOE9mdjV4SUEteThNYnpNeWpaRkw5a2NsSDA3ZmtONDJQRko3T21LUXViYjBLRFkydWFlZ0dHcWhBTVUwdWJOazlIcGtVLVQ1ZlV3MjNtUDk1UFVIcDAzOFFPZDJwVDNZMmpNSHVDZXA4QlNMdnQxcjRBcGpYRW1oM3J4WmRoRFQ2R1BtOUJB?oc=5",
       "source": "Affaritaliani",
       "sourceHost": "affaritaliani.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "bisteccheria"
@@ -1242,26 +1242,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro spiega caso bistecche d italia antimafia non ho cercato google chi fosse caroccia__2026-05-27T07:00:00.000Z",
-      "title": "Delmastro spiega il caso Bistecche d’Italia in Antimafia: “Non ho cercato su Google chi fosse Caroccia”",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWlNqOXU0YUo2clNmRkREMkVPU3lQREFhUjctckNHNFJ6SUFwdlFYdGlQeHdyZTcybUczWjNsU095ZFROeFM2QVdseHlGcnB5OXN3YzJCOVZTdzJCTGtNUl9KLXZqa3hiRC1DY05lX0ZGYkVBWG5tMy12X3RsMmxlcHUwXzdwRElXOXJBM25obGZzUWQycThsYW1GV1pnSzZLbnJJRkdBa0E2Q2c2Ujkxd3pEcWhfWE9VQ1JLUlRXTUZ2LUJOM0ZXRmE1RGtrYVFuSV9GNGh0dmRzWGdmTC1YWkx4cDI1dzJjYWkycFB6WkhQUU9Ja3JBaTJZWjZSZWo4dXc?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWlNqOXU0YUo2clNmRkREMkVPU3lQREFhUjctckNHNFJ6SUFwdlFYdGlQeHdyZTcybUczWjNsU095ZFROeFM2QVdseHlGcnB5OXN3YzJCOVZTdzJCTGtNUl9KLXZqa3hiRC1DY05lX0ZGYkVBWG5tMy12X3RsMmxlcHUwXzdwRElXOXJBM25obGZzUWQycThsYW1GV1pnSzZLbnJJRkdBa0E2Q2c2Ujkxd3pEcWhfWE9VQ1JLUlRXTUZ2LUJOM0ZXRmE1RGtrYVFuSV9GNGh0dmRzWGdmTC1YWkx4cDI1dzJjYWkycFB6WkhQUU9Ja3JBaTJZWjZSZWo4dXc?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-05-27T07:00:00.000Z",
-      "excerpt": "Delmastro spiega il caso Bistecche d’Italia in Antimafia: “Non ho cercato su Google chi fosse Caroccia”",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro conte sfida fdi sulle chat caroccia__2026-05-27T07:00:00.000Z",
       "title": "Caso Delmastro: Conte sfida FdI sulle chat con Caroccia",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV3JGaWxWYktwbUpnRW94NjQwSXQ5LWE2bkJaOXJIdFJkM3JtN2FRVW9uVHZaTGtxTTV2Q2RxdFV0SC0xTjk2UmFhWF84TXNsQm90VEx0dV96TlplYk5xbXNUTVBXRV9UWXB4SUtqcVRZMkdLYl92bEtoWHAta0hfN1llME03NHlSa0dnQ2hCWkk5WVNzVlYzbkNTNXQzUQ?oc=5",
@@ -1299,6 +1279,26 @@
       ],
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Bisteccheria d’Italia, la procura chiede alla Camere di accedere a tutte le chat tra Andrea Delmastro e Mauro Caroccia",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro spiega caso bistecche d italia antimafia non ho cercato google chi fosse caroccia__2026-05-27T07:00:00.000Z",
+      "title": "Delmastro spiega il caso Bistecche d’Italia in Antimafia: “Non ho cercato su Google chi fosse Caroccia”",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWlNqOXU0YUo2clNmRkREMkVPU3lQREFhUjctckNHNFJ6SUFwdlFYdGlQeHdyZTcybUczWjNsU095ZFROeFM2QVdseHlGcnB5OXN3YzJCOVZTdzJCTGtNUl9KLXZqa3hiRC1DY05lX0ZGYkVBWG5tMy12X3RsMmxlcHUwXzdwRElXOXJBM25obGZzUWQycThsYW1GV1pnSzZLbnJJRkdBa0E2Q2c2Ujkxd3pEcWhfWE9VQ1JLUlRXTUZ2LUJOM0ZXRmE1RGtrYVFuSV9GNGh0dmRzWGdmTC1YWkx4cDI1dzJjYWkycFB6WkhQUU9Ja3JBaTJZWjZSZWo4dXc?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWlNqOXU0YUo2clNmRkREMkVPU3lQREFhUjctckNHNFJ6SUFwdlFYdGlQeHdyZTcybUczWjNsU095ZFROeFM2QVdseHlGcnB5OXN3YzJCOVZTdzJCTGtNUl9KLXZqa3hiRC1DY05lX0ZGYkVBWG5tMy12X3RsMmxlcHUwXzdwRElXOXJBM25obGZzUWQycThsYW1GV1pnSzZLbnJJRkdBa0E2Q2c2Ujkxd3pEcWhfWE9VQ1JLUlRXTUZ2LUJOM0ZXRmE1RGtrYVFuSV9GNGh0dmRzWGdmTC1YWkx4cDI1dzJjYWkycFB6WkhQUU9Ja3JBaTJZWjZSZWo4dXc?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-05-27T07:00:00.000Z",
+      "excerpt": "Delmastro spiega il caso Bistecche d’Italia in Antimafia: “Non ho cercato su Google chi fosse Caroccia”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1623,26 +1623,6 @@
       ],
       "publishedAt": "2026-05-26T07:00:00.000Z",
       "excerpt": "Bisteccheria d’Italia, Delmastro: “Mi sento vittima, non sapevo chi fosse Caroccia. Bastava guardare su Google, imperdonabile leggerezza politica”",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "quotidiano.net__quotidiano nazionale__delmastro finii locale caroccia perche era carino__2026-05-26T07:00:00.000Z",
-      "title": "Delmastro, 'finii nel locale dei Caroccia perché era carino'",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWEVPOXVCdVBESzlEc1FHUmF5QUlPQVpIV3FydE5VX3hiNVhqX2J1TlBZNXZDTWdldWR1SWFPOFN1bEcwcS13SHh5TGNDYWszZEdVMk1rNTdNQ1FpMzZDbEJqZ1dHbFZXXzdZTUl2SU5uZVZlSkQ0aWt5TWdLN2Rvc2lR?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWEVPOXVCdVBESzlEc1FHUmF5QUlPQVpIV3FydE5VX3hiNVhqX2J1TlBZNXZDTWdldWR1SWFPOFN1bEcwcS13SHh5TGNDYWszZEdVMk1rNTdNQ1FpMzZDbEJqZ1dHbFZXXzdZTUl2SU5uZVZlSkQ0aWt5TWdLN2Rvc2lR?oc=5",
-      "source": "Quotidiano Nazionale",
-      "sourceHost": "quotidiano.net",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-26T07:00:00.000Z",
-      "excerpt": "Delmastro, 'finii nel locale dei Caroccia perché era carino'",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2264,26 +2244,6 @@
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Caso Cospito, confermata anche in appello la condanna a Delmastro. L’ex sottosegretario: “Non ho intenzione di fermarmi qui”",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "adnkronos.com__adnkronos__caso cospito confermata appello condanna 8 mesi delmastro__2026-05-20T07:00:00.000Z",
-      "title": "Caso Cospito, confermata in Appello condanna a 8 mesi per Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQVGJkQU4zTmZYTnprb2JhZ2NQbjREMFBpal9ZZXNRem1rRnZ2VnZpM25Tanc1d1JWdjA3emQxalFSNTFXRUI1UjBoSTdvbWxWb0htMDFHZW9JNFJxX3hwVERqUDFBT2REeVpycVI0ODRhN0d4N05NenIwVk1fN1lZZG1nck1RLWY3WUZxTDRaamJtTGt5NnlvQmxqdURSXzkzcWRNRkJ1UVdNdlNtSUFRTlRhUUtwbmIwVFhpZktJaXZOa29JUlJwNFU0MmxaMUFwaS1pODg5eTkzWFBDYlhLNEk2V1piZlJ3WDdYRnptbGZCSUowR2psMkI2ekNyaS1vVzUtRDlyZGlpU3VGMXEwcFVkSmV2Tl96Y3c?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQVGJkQU4zTmZYTnprb2JhZ2NQbjREMFBpal9ZZXNRem1rRnZ2VnZpM25Tanc1d1JWdjA3emQxalFSNTFXRUI1UjBoSTdvbWxWb0htMDFHZW9JNFJxX3hwVERqUDFBT2REeVpycVI0ODRhN0d4N05NenIwVk1fN1lZZG1nck1RLWY3WUZxTDRaamJtTGt5NnlvQmxqdURSXzkzcWRNRkJ1UVdNdlNtSUFRTlRhUUtwbmIwVFhpZktJaXZOa29JUlJwNFU0MmxaMUFwaS1pODg5eTkzWFBDYlhLNEk2V1piZlJ3WDdYRnptbGZCSUowR2psMkI2ekNyaS1vVzUtRDlyZGlpU3VGMXEwcFVkSmV2Tl96Y3c?oc=5",
-      "source": "Adnkronos",
-      "sourceHost": "adnkronos.com",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-20T07:00:00.000Z",
-      "excerpt": "Caso Cospito, confermata in Appello condanna a 8 mesi per Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T22:37:44.275Z",
+  "generatedAt": "2026-06-25T23:35:46.383Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-05-11T22:37:44.275Z",
-    "to": "2026-06-25T22:37:44.275Z",
+    "from": "2026-05-11T23:35:46.383Z",
+    "to": "2026-06-25T23:35:46.383Z",
     "days": 45
   },
   "sources": [
@@ -160,15 +160,15 @@
       "articleCount": 2
     },
     {
+      "label": "today.it",
+      "articleCount": 2
+    },
+    {
       "label": "quotidiano.net",
       "articleCount": 2
     },
     {
       "label": "affaritaliani.it",
-      "articleCount": 1
-    },
-    {
-      "label": "today.it",
       "articleCount": 1
     },
     {
@@ -191,13 +191,18 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 190,
-      "uniqueArticles": 92
+      "fetchedArticles": 192,
+      "uniqueArticles": 93
+    },
+    {
+      "label": "Soci e societa'",
+      "fetchedArticles": 48,
+      "uniqueArticles": 1
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 54,
-      "uniqueArticles": 1
+      "fetchedArticles": 53,
+      "uniqueArticles": 0
     },
     {
       "label": "Persone collegate",
@@ -206,12 +211,7 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 41,
-      "uniqueArticles": 0
-    },
-    {
-      "label": "Soci e societa'",
-      "fetchedArticles": 46,
+      "fetchedArticles": 42,
       "uniqueArticles": 0
     },
     {
@@ -227,7 +227,7 @@
     },
     {
       "tag": "giudiziaria",
-      "count": 34
+      "count": 35
     },
     {
       "tag": "bisteccheria",
@@ -309,7 +309,7 @@
     },
     {
       "date": "2026-05-27",
-      "count": 22
+      "count": 23
     },
     {
       "date": "2026-05-28",
@@ -884,10 +884,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0lUeGxKNHJJSHJwR3B0dWs2MEhucy14LWplWnpqTnI4REFwbDJMaGgyeFBOYTFYU0VYQngtcmYxOE9mdjV4SUEteThNYnpNeWpaRkw5a2NsSDA3ZmtONDJQRko3T21LUXViYjBLRFkydWFlZ0dHcWhBTVUwdWJOazlIcGtVLVQ1ZlV3MjNtUDk1UFVIcDAzOFFPZDJwVDNZMmpNSHVDZXA4QlNMdnQxcjRBcGpYRW1oM3J4WmRoRFQ2R1BtOUJB?oc=5",
       "source": "Affaritaliani",
       "sourceHost": "affaritaliani.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "bisteccheria"
@@ -1057,6 +1057,31 @@
       ],
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Delmastro e le chat con Mauro Caroccia, cosa cercano i pm di Roma su Bisteccheria e riciclaggio per il boss Senese. La richiesta alla Camera",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "today.it__today.it__caso delmastro pm chiedono camera acquisire chat caroccia__2026-05-27T07:00:00.000Z",
+      "title": "Caso Delmastro, i pm chiedono alla Camera di acquisire le chat con Caroccia",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGg5OFNMTHlaQzlqMmthX3dHU1I2Mm1Lc2dIY0dUR21iVkpLemZjRENSQnhxdE1jWXBDdjd3Ny1ub09YOTQ5eFEyRGpJWGY3SE5JUUVFN3UzUjczTzJsVWNDaUUwX3ZwVldZNkYwNWFtZnJBeG9LdjAya0tuZDh3VNIBgAFBVV95cUxQNklkelItU1UtalFnYjhhX3JiMktpR3U2Qy1TWGc2VVIya1J2cjgwRDZ1YnBrYlliY0Izbk5hSU8yQkRwdTBBd0s0SzRrMWlpLXV5RXh1WmxQYkY4Y0RNdnRyQ2JUbVV2YUU3U1ozanJqTEs3RHFzMnRydjl5bmJlaQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGg5OFNMTHlaQzlqMmthX3dHU1I2Mm1Lc2dIY0dUR21iVkpLemZjRENSQnhxdE1jWXBDdjd3Ny1ub09YOTQ5eFEyRGpJWGY3SE5JUUVFN3UzUjczTzJsVWNDaUUwX3ZwVldZNkYwNWFtZnJBeG9LdjAya0tuZDh3VNIBgAFBVV95cUxQNklkelItU1UtalFnYjhhX3JiMktpR3U2Qy1TWGc2VVIya1J2cjgwRDZ1YnBrYlliY0Izbk5hSU8yQkRwdTBBd0s0SzRrMWlpLXV5RXh1WmxQYkY4Y0RNdnRyQ2JUbVV2YUU3U1ozanJqTEs3RHFzMnRydjl5bmJlaQ?oc=5",
+      "source": "today.it",
+      "sourceHost": "today.it",
+      "queryLabel": "Soci e societa'",
+      "matchedTerms": [
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-05-27T07:00:00.000Z",
+      "excerpt": "Caso Delmastro, i pm chiedono alla Camera di acquisire le chat con Caroccia",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

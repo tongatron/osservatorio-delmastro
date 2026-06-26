@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T09:17:46.729Z",
+  "generatedAt": "2026-06-26T10:35:03.635Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-05-12T09:17:46.729Z",
-    "to": "2026-06-26T09:17:46.729Z",
+    "from": "2026-05-12T10:35:03.635Z",
+    "to": "2026-06-26T10:35:03.635Z",
     "days": 45
   },
   "sources": [
@@ -116,16 +116,16 @@
       "articleCount": 8
     },
     {
+      "label": "repubblica.it",
+      "articleCount": 7
+    },
+    {
       "label": "ansa.it",
       "articleCount": 7
     },
     {
       "label": "ilgiornale.it",
       "articleCount": 6
-    },
-    {
-      "label": "repubblica.it",
-      "articleCount": 5
     },
     {
       "label": "huffingtonpost.it",
@@ -152,10 +152,6 @@
       "articleCount": 2
     },
     {
-      "label": "affaritaliani.it",
-      "articleCount": 2
-    },
-    {
       "label": "agi.it",
       "articleCount": 2
     },
@@ -170,6 +166,10 @@
     {
       "label": "quotidiano.net",
       "articleCount": 2
+    },
+    {
+      "label": "affaritaliani.it",
+      "articleCount": 1
     },
     {
       "label": "ilpost.it",
@@ -191,22 +191,22 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 178,
-      "uniqueArticles": 86
+      "fetchedArticles": 190,
+      "uniqueArticles": 92
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 58,
-      "uniqueArticles": 5
+      "fetchedArticles": 54,
+      "uniqueArticles": 0
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 51,
+      "fetchedArticles": 52,
       "uniqueArticles": 0
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 41,
+      "fetchedArticles": 42,
       "uniqueArticles": 0
     },
     {
@@ -222,16 +222,16 @@
   ],
   "tagSummary": [
     {
+      "tag": "altro",
+      "count": 36
+    },
+    {
       "tag": "giudiziaria",
       "count": 36
     },
     {
-      "tag": "altro",
-      "count": 34
-    },
-    {
       "tag": "bisteccheria",
-      "count": 15
+      "count": 14
     },
     {
       "tag": "politica",
@@ -281,7 +281,7 @@
     },
     {
       "date": "2026-05-20",
-      "count": 24
+      "count": 26
     },
     {
       "date": "2026-05-21",
@@ -313,7 +313,7 @@
     },
     {
       "date": "2026-05-28",
-      "count": 7
+      "count": 6
     },
     {
       "date": "2026-05-29",
@@ -563,10 +563,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnVUU0Nfc2std3hfMThPTGlIVG1OaHJRdnBOZ2gwbm5EamVINllsVm9sWGxJWnppXzNPOElQMWpsQlVzTzJHNDBkdFRmUVQ4MXY5RlpMSDl6QnNRczJQZndTSVhhLWRFekN4OXNyNzdmUzBjT2Zoa0w1V2FfaXZaUUJlTEJRS2I1cVoxZ0pKSTlzWjlyM1pEVU1qM2tKeUlmaFMyV1hyUWJMT0pW0gGyAUFVX3lxTFBTbzVhZUdobWwtREtkNVYyYWZMVWtKWjJsQ0wwRi1PS1IzMHEtWUpDeXh1MEFKVlJaRnVuMGI2eGptNXhCdDBmcEpZbVdocE5mXzdQay1DaVEyMjdYTy0ya3U5VFZhUFNpakhrLThWTjZHZGlSaWpETTZ2SnBkN1R5TnRsLXRwTUxkc3V2ZWNGNE9ScFhKNjVpc1dST0VpNXdmR0V3QWlRTmExb0hNNE5OaVE?oc=5",
       "source": "la Repubblica",
       "sourceHost": "repubblica.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "bisteccheria"
@@ -623,10 +623,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTFZHU2FuMTJtR0d6VTB0a0lGZURnNHFNT295YXNKclAxRTVUWWF3bkljeE1zYWlkSUxQSWJTa19KdThyOVh4MzJ5VkdKZlhoWXJ6TUplR0lHYk5pclFYaldfM2Rkai11LU0tNEp4el85QjhVLWhYMHc4YmwxRUczSzRDNDRVOWl1MHZWeGFUMW5NX0FxLXJwMEY2alVqNFEyS0drMWJjQXVmM2ZETU9yeVpwVFZoUmh2Ym5OdWdvMTVDQW5DTzBXMmlOM2NEZUFBekwwWGc2a1JJWU3SAeABQVVfeXFMT05LM3JZdnNtVWFtb2hmbFk2bHBpdkFCSmhueWQ3ZHpaZnJoblVIMVNJWldRQi1zMjdqci01aTZCMHFyVF9iNDgyQWxKb3dvbnR5UlZqemxfdmVXZjREaUtwWENZM2FXVzZyNmQ1cHBNMnVhY2d2eHI0X0IzWjN4RjlTbWxTVE9VREIzbWhFc2oybG81ck05blZBRVI1d0RObW41ZnYtWTdvcWU3ZEFBSmtsY3RIRDQzQng4Q3lqdGNVcjRVWVdLZ2ZsRXM4MVRWR2N5Szd3Mjh0ZjBQTFBCVnY?oc=5",
       "source": "la Repubblica",
       "sourceHost": "repubblica.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "giudiziaria"
@@ -763,10 +763,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWkFMRW00b0Nja0JSZlFMUjcwb3gxdTA1aXlSN2ozYjNvY21RcVlCaldxejlESmh4b3hwcnpIcThMZmRLajhYcmxmVHd6TUpIU0pmX2RaTWZDWTktdzNqcXdYLUR2R21xemlFSXZkckNtTlNwdWpTN0R4SVk2NG0wRjNPcjAzTnRPSXBJdkVLOFhGNVkxT3dETzRHVFBXbFQ5TWxF0gGoAUFVX3lxTFBRcmhNTHp0aDdlNHNsY1Ntc01fdEpBamZodl9XVXBqWlNLakNxak9oZGhUMG9PelY2OFh2ZDdKWmpwYkg1a2lUdm1SQVAxZlFmSi16ZnJVNE80dllEdW4zRV80UFVEd1hjOE8xbDlkSWk1ZFdIdzBXblFINGRjUExQTEx6VFZLenREUDMyS0trMmg5cDdTZDlmb3d2UDhoVUJOb0xFeVZaVg?oc=5",
       "source": "la Repubblica",
       "sourceHost": "repubblica.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "politica",
@@ -878,26 +878,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "affaritaliani.it__affaritaliani__bisteccheria d italia chiamiamolo cosi nome scelto delmastro__2026-05-28T07:00:00.000Z",
-      "title": "\"Bisteccheria d'Italia, chiamiamolo così\". Nome scelto da Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0lUeGxKNHJJSHJwR3B0dWs2MEhucy14LWplWnpqTnI4REFwbDJMaGgyeFBOYTFYU0VYQngtcmYxOE9mdjV4SUEteThNYnpNeWpaRkw5a2NsSDA3ZmtONDJQRko3T21LUXViYjBLRFkydWFlZ0dHcWhBTVUwdWJOazlIcGtVLVQ1ZlV3MjNtUDk1UFVIcDAzOFFPZDJwVDNZMmpNSHVDZXA4QlNMdnQxcjRBcGpYRW1oM3J4WmRoRFQ2R1BtOUJB?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0lUeGxKNHJJSHJwR3B0dWs2MEhucy14LWplWnpqTnI4REFwbDJMaGgyeFBOYTFYU0VYQngtcmYxOE9mdjV4SUEteThNYnpNeWpaRkw5a2NsSDA3ZmtONDJQRko3T21LUXViYjBLRFkydWFlZ0dHcWhBTVUwdWJOazlIcGtVLVQ1ZlV3MjNtUDk1UFVIcDAzOFFPZDJwVDNZMmpNSHVDZXA4QlNMdnQxcjRBcGpYRW1oM3J4WmRoRFQ2R1BtOUJB?oc=5",
-      "source": "Affaritaliani",
-      "sourceHost": "affaritaliani.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "bisteccheria"
-      ],
-      "publishedAt": "2026-05-28T07:00:00.000Z",
-      "excerpt": "\"Bisteccheria d'Italia, chiamiamolo così\". Nome scelto da Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ansa.it__ansa__pm roma chiede autorizzazione camera chat delmastro caroccia__2026-05-27T07:00:00.000Z",
       "title": "Pm Roma chiede autorizzazione alla Camera per chat tra Delmastro e Caroccia",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNN1Z3VFNTTy13RWpWWmVibUxteHpCZFNLR2tScTNDMk1QM1pNMzFja0RpMGZySFJ1WWEwM3RQSnlpYXcwYlR1WWw5QVFnNkRadE9IM3VMMWNsRlctOWtyNzdWX2lkTUR3NFp5NGVWUGN3X1NjT0h4N1hkRHhtQzBBOWlEOWpXNGs2SlFwNnVNZkVpRXE4Q0x1S3JBR0QxMDRuX3prdXhpYmd1ZV8xcDRsRm43ZkNsYmlIcDJqbHBFRmpvSDJyMlhQZF9QeUhxdkNSYkE1cjFHQ25ybzFnaXQ2MmhMcXFhM0tlcXdvdHVuOUhPTGFUNFdKYmF6N21Fdw?oc=5",
@@ -964,10 +944,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQldLMFg3cGpuQVlxQjhmVHBMcXJNYzlDbGdDYlFSazJaZkxUWUg2WjZob2NKQXRnTXlMQi1ETF9jMl9ZUml5S2NjeUxKT0xINVBJbTMzT3BraGJtdHBoc1lheUNMQnlHS1FHV3d4dXEzYUwzUmRPcXo4UDhuY0xCVEVSMk42bGlvQUJ6bWkxcy1HaXI0Z0JSX1c3Mkx4cUh1SFFmNWZXMUNSTXNZQ1FVVlZrOXFnSEoxdTQ2V2ljY096WUsta1JpcTlR0gHPAUFVX3lxTFB4U3NoTXl6NEhoN0kxeUZqNTd6TE9RS2N5SWEyR0ZKS3kxYm5DejdFWG1ObFA3UHdGVjJEZC1fd0IyOEZCc3lmNWREdTBwTXBlZ3JXNWE2bkpXOU4zdWNweVpVR3dsb3hKM2VFdEhmZUwybHhPMkZseHJBZ3JQVzQtQ0dQLV8xM2RNcktodFAzNE9VZjhLTnd5dnUxaWZhbUVacnp2WlRzaEdkRllYQ2l2YVZGZWFJTExMdjViRTJfVXBHckRNYTNfeXNFb25HVQ?oc=5",
       "source": "la Repubblica",
       "sourceHost": "repubblica.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "giudiziaria"
@@ -1161,46 +1141,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "rainews.it__rainews__pm roma acquisire chat delmastro__2026-05-27T07:00:00.000Z",
-      "title": "Pm Roma: acquisire chat di Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTzBybm9oWnhmOU5QTDJZUG5zTlYtQU84TTJNbXlCUEE1T2FxLV91RTR0RmFNYVpRRnR1VWRjeUx3QWxYUkQza3FzNTB6M2RlR1lrQ01zVEdCek5JTWgyMk45WWhiOVJZamNoc1d3aDNNMVVvS05zMHJfRWg2a1pHZGJZNUpfeTVnazVXYTU4TG5oLVZWTWg3bHk0RUFUdWlCR1ZxYmhmU09CR1BTTFBUM3dSZG5NUlFNcHfSAb8BQVVfeXFMTVVIdTRLQUU5Vm5hX0hLVURJQi1BVWtSOTIwTEJGNlFUaDV1Z0RmMGM1R1lTbEFqYXRkY2p4cl9pYXEwN0Y4aExiVHdKNnFldEtvd004N2FCaVVVU29EaXRqODB4Z1IxXzNib2U3RERFUlhDTnFUdXZrYUI4UExMY08xV3M0djdhX3IzdDBYbGxyRFRTdVBFV25ra3kwelFockl6NmlmR3IzaGtaME1SVFB6VVF3VW02bm96WURwUGM?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTzBybm9oWnhmOU5QTDJZUG5zTlYtQU84TTJNbXlCUEE1T2FxLV91RTR0RmFNYVpRRnR1VWRjeUx3QWxYUkQza3FzNTB6M2RlR1lrQ01zVEdCek5JTWgyMk45WWhiOVJZamNoc1d3aDNNMVVvS05zMHJfRWg2a1pHZGJZNUpfeTVnazVXYTU4TG5oLVZWTWg3bHk0RUFUdWlCR1ZxYmhmU09CR1BTTFBUM3dSZG5NUlFNcHfSAb8BQVVfeXFMTVVIdTRLQUU5Vm5hX0hLVURJQi1BVWtSOTIwTEJGNlFUaDV1Z0RmMGM1R1lTbEFqYXRkY2p4cl9pYXEwN0Y4aExiVHdKNnFldEtvd004N2FCaVVVU29EaXRqODB4Z1IxXzNib2U3RERFUlhDTnFUdXZrYUI4UExMY08xV3M0djdhX3IzdDBYbGxyRFRTdVBFV25ra3kwelFockl6NmlmR3IzaGtaME1SVFB6VVF3VW02bm96WURwUGM?oc=5",
-      "source": "RaiNews",
-      "sourceHost": "rainews.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-05-27T07:00:00.000Z",
-      "excerpt": "Pm Roma: acquisire chat di Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "rainews.it__rainews__caso delmastro pm roma chiede autorizzazione camera chat caroccia__2026-05-27T07:00:00.000Z",
-      "title": "Caso Delmastro, pm Roma chiede autorizzazione della Camera per chat con Caroccia",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdjNvLUtrRTc4SkFoUVIxMVJWWEhQQzEtSmc5R3BkQXhRbEdvU3lWQTZsc2xYclBnYkNaeGtzM1ZjR1lZdmlVcFRMWmcxM3VCRmM5c2xFRlphaEJUTWxiUlFZeEt5S0tYa1E0MlY4MFplMTVObTdRZ2RMV0tFTEhRQ1RfODhHcFJSVXRFUnlDUFRvSGdWSTFkOXNQUmhpR3l1c09mek10bVdUNGRnMXpzeERCSjlDdVNnS1h1R0lWVHJaRmFFLWdtWDZaTHRMV3VzZ0ItUUROTE5sNXRuU3JvaU1xNVVRQkFhV1ZOWkJld2IzY2RZM1B3b1NJSWxlaHF10gGGAkFVX3lxTE9TMG9mb01ETFFsSVp2ZzUwWDlhN1cyUDRncjhDQjdTVFNEYndHc2pOQWlZc09aOFR2SDFEQk5NMUdkTTl6UVpTUTNXYzVqOUJNVllpSGNfbnAwVG54dVZZLVJZRTA4dkR0a0M3Z0E2ZHlDWVNjZGtwWjdlOV9SR1JMcjBsQ3ZtcndfTVZYakdlWG5yNFFlbWNOZ1ozWnpaaVo3MjN0TEJtNkNoeHpjcy00Y282a1liWFlxXzBtVlliVnhpOHQ2MF9aUkFud2lRMFFORVJhX0ZUbENqZkJnS2xPV0dJeFpqSGs0dlNBRlMyRG5sVmpqekFVRDlsbF9KcC1laC1FZFE?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdjNvLUtrRTc4SkFoUVIxMVJWWEhQQzEtSmc5R3BkQXhRbEdvU3lWQTZsc2xYclBnYkNaeGtzM1ZjR1lZdmlVcFRMWmcxM3VCRmM5c2xFRlphaEJUTWxiUlFZeEt5S0tYa1E0MlY4MFplMTVObTdRZ2RMV0tFTEhRQ1RfODhHcFJSVXRFUnlDUFRvSGdWSTFkOXNQUmhpR3l1c09mek10bVdUNGRnMXpzeERCSjlDdVNnS1h1R0lWVHJaRmFFLWdtWDZaTHRMV3VzZ0ItUUROTE5sNXRuU3JvaU1xNVVRQkFhV1ZOWkJld2IzY2RZM1B3b1NJSWxlaHF10gGGAkFVX3lxTE9TMG9mb01ETFFsSVp2ZzUwWDlhN1cyUDRncjhDQjdTVFNEYndHc2pOQWlZc09aOFR2SDFEQk5NMUdkTTl6UVpTUTNXYzVqOUJNVllpSGNfbnAwVG54dVZZLVJZRTA4dkR0a0M3Z0E2ZHlDWVNjZGtwWjdlOV9SR1JMcjBsQ3ZtcndfTVZYakdlWG5yNFFlbWNOZ1ozWnpaaVo3MjN0TEJtNkNoeHpjcy00Y282a1liWFlxXzBtVlliVnhpOHQ2MF9aUkFud2lRMFFORVJhX0ZUbENqZkJnS2xPV0dJeFpqSGs0dlNBRlMyRG5sVmpqekFVRDlsbF9KcC1laC1FZFE?oc=5",
-      "source": "RaiNews",
-      "sourceHost": "rainews.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-05-27T07:00:00.000Z",
-      "excerpt": "Caso Delmastro, pm Roma chiede autorizzazione della Camera per chat con Caroccia",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "rainews.it__rainews__procura roma chiede autorizzazione camera chat delmastro caroccia__2026-05-27T07:00:00.000Z",
       "title": "Procura di Roma chiede autorizzazione alla Camera per chat tra Delmastro e Caroccia",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaUVVLWI3Mmg5UmdXRHRkX0x0eE81aDh3WXRqdnRuTTRvYlJ2QmNIZHpmUEl6eTh3YUxaTVB6dzFsYnEwUVJVR3Exd01aN3BjWUowNm44YnRZX3daRl9LWkpmZDhkcGxPdFVERjBGT3lxYl9Oc2xrd3Boa19sNjQzQXVtT1gwaFUxbnB1Z2V5Y0J0emt5UDJycVFJWDdhUWNQM2VWWlNIaTdRTzZjWXVQUmQwX1Rlb2NXWE9BSUVTQl93S2NLSTVwQXpHbTdnWk1SQ3E2c1VwVVl0RGY3Zi1LZDZiZHUwTVpiOE80cTRmZlNnSDZ40gH6AUFVX3lxTFB3SmkwTk1KSDVCVzlXS3ZDbWczSldpNUEyckJmVFFtMXFqeWZvN2taYnZrWGl6bmZCbkJ2ZkUyS0JHMFZHUHhsSGhxXzY4M3lBekJtOVg0ZUhYcVdWUEJmMzZsdDBDRG93ZGZUemlXeTd2dWIyR1lhT1A3cElSZXRnODFjVnBUNzh0QW1sVFdiSHJ0LUwwaC1fY1BtY3dEU0RjZGlpa25KeWJhZm9uZGtqenBvdFFsSnF6QjlpYjI5eDVHQTJVYjUzWjdrSUJubUNCZlpuZGR2dDNUWjBHR1BjdEtEQVZWNncxX0dFVEpHbWRaNVpZdjV4RlE?oc=5",
@@ -1237,6 +1177,46 @@
       ],
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Chat tra Delmastro e Caroccia, i pm chiedono autorizzazione alla Camera. Centro-destra verso il no",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "rainews.it__rainews__pm roma acquisire chat delmastro__2026-05-27T07:00:00.000Z",
+      "title": "Pm Roma: acquisire chat di Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTzBybm9oWnhmOU5QTDJZUG5zTlYtQU84TTJNbXlCUEE1T2FxLV91RTR0RmFNYVpRRnR1VWRjeUx3QWxYUkQza3FzNTB6M2RlR1lrQ01zVEdCek5JTWgyMk45WWhiOVJZamNoc1d3aDNNMVVvS05zMHJfRWg2a1pHZGJZNUpfeTVnazVXYTU4TG5oLVZWTWg3bHk0RUFUdWlCR1ZxYmhmU09CR1BTTFBUM3dSZG5NUlFNcHfSAb8BQVVfeXFMTVVIdTRLQUU5Vm5hX0hLVURJQi1BVWtSOTIwTEJGNlFUaDV1Z0RmMGM1R1lTbEFqYXRkY2p4cl9pYXEwN0Y4aExiVHdKNnFldEtvd004N2FCaVVVU29EaXRqODB4Z1IxXzNib2U3RERFUlhDTnFUdXZrYUI4UExMY08xV3M0djdhX3IzdDBYbGxyRFRTdVBFV25ra3kwelFockl6NmlmR3IzaGtaME1SVFB6VVF3VW02bm96WURwUGM?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTzBybm9oWnhmOU5QTDJZUG5zTlYtQU84TTJNbXlCUEE1T2FxLV91RTR0RmFNYVpRRnR1VWRjeUx3QWxYUkQza3FzNTB6M2RlR1lrQ01zVEdCek5JTWgyMk45WWhiOVJZamNoc1d3aDNNMVVvS05zMHJfRWg2a1pHZGJZNUpfeTVnazVXYTU4TG5oLVZWTWg3bHk0RUFUdWlCR1ZxYmhmU09CR1BTTFBUM3dSZG5NUlFNcHfSAb8BQVVfeXFMTVVIdTRLQUU5Vm5hX0hLVURJQi1BVWtSOTIwTEJGNlFUaDV1Z0RmMGM1R1lTbEFqYXRkY2p4cl9pYXEwN0Y4aExiVHdKNnFldEtvd004N2FCaVVVU29EaXRqODB4Z1IxXzNib2U3RERFUlhDTnFUdXZrYUI4UExMY08xV3M0djdhX3IzdDBYbGxyRFRTdVBFV25ra3kwelFockl6NmlmR3IzaGtaME1SVFB6VVF3VW02bm96WURwUGM?oc=5",
+      "source": "RaiNews",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-05-27T07:00:00.000Z",
+      "excerpt": "Pm Roma: acquisire chat di Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "rainews.it__rainews__caso delmastro pm roma chiede autorizzazione camera chat caroccia__2026-05-27T07:00:00.000Z",
+      "title": "Caso Delmastro, pm Roma chiede autorizzazione della Camera per chat con Caroccia",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdjNvLUtrRTc4SkFoUVIxMVJWWEhQQzEtSmc5R3BkQXhRbEdvU3lWQTZsc2xYclBnYkNaeGtzM1ZjR1lZdmlVcFRMWmcxM3VCRmM5c2xFRlphaEJUTWxiUlFZeEt5S0tYa1E0MlY4MFplMTVObTdRZ2RMV0tFTEhRQ1RfODhHcFJSVXRFUnlDUFRvSGdWSTFkOXNQUmhpR3l1c09mek10bVdUNGRnMXpzeERCSjlDdVNnS1h1R0lWVHJaRmFFLWdtWDZaTHRMV3VzZ0ItUUROTE5sNXRuU3JvaU1xNVVRQkFhV1ZOWkJld2IzY2RZM1B3b1NJSWxlaHF10gGGAkFVX3lxTE9TMG9mb01ETFFsSVp2ZzUwWDlhN1cyUDRncjhDQjdTVFNEYndHc2pOQWlZc09aOFR2SDFEQk5NMUdkTTl6UVpTUTNXYzVqOUJNVllpSGNfbnAwVG54dVZZLVJZRTA4dkR0a0M3Z0E2ZHlDWVNjZGtwWjdlOV9SR1JMcjBsQ3ZtcndfTVZYakdlWG5yNFFlbWNOZ1ozWnpaaVo3MjN0TEJtNkNoeHpjcy00Y282a1liWFlxXzBtVlliVnhpOHQ2MF9aUkFud2lRMFFORVJhX0ZUbENqZkJnS2xPV0dJeFpqSGs0dlNBRlMyRG5sVmpqekFVRDlsbF9KcC1laC1FZFE?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdjNvLUtrRTc4SkFoUVIxMVJWWEhQQzEtSmc5R3BkQXhRbEdvU3lWQTZsc2xYclBnYkNaeGtzM1ZjR1lZdmlVcFRMWmcxM3VCRmM5c2xFRlphaEJUTWxiUlFZeEt5S0tYa1E0MlY4MFplMTVObTdRZ2RMV0tFTEhRQ1RfODhHcFJSVXRFUnlDUFRvSGdWSTFkOXNQUmhpR3l1c09mek10bVdUNGRnMXpzeERCSjlDdVNnS1h1R0lWVHJaRmFFLWdtWDZaTHRMV3VzZ0ItUUROTE5sNXRuU3JvaU1xNVVRQkFhV1ZOWkJld2IzY2RZM1B3b1NJSWxlaHF10gGGAkFVX3lxTE9TMG9mb01ETFFsSVp2ZzUwWDlhN1cyUDRncjhDQjdTVFNEYndHc2pOQWlZc09aOFR2SDFEQk5NMUdkTTl6UVpTUTNXYzVqOUJNVllpSGNfbnAwVG54dVZZLVJZRTA4dkR0a0M3Z0E2ZHlDWVNjZGtwWjdlOV9SR1JMcjBsQ3ZtcndfTVZYakdlWG5yNFFlbWNOZ1ozWnpaaVo3MjN0TEJtNkNoeHpjcy00Y282a1liWFlxXzBtVlliVnhpOHQ2MF9aUkFud2lRMFFORVJhX0ZUbENqZkJnS2xPV0dJeFpqSGs0dlNBRlMyRG5sVmpqekFVRDlsbF9KcC1laC1FZFE?oc=5",
+      "source": "RaiNews",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-05-27T07:00:00.000Z",
+      "excerpt": "Caso Delmastro, pm Roma chiede autorizzazione della Camera per chat con Caroccia",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1429,10 +1409,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnc2N2otV3p6UmxZbDRkVmdrSnU4UkZ1ajY0b0pQSnNIOVNlMlB5UDRLVFdtRjdYRk1aV3ZuUWZiNldzZXBwRnJWZ2ctQkRPTUtKc0JaNU1EQ0xkNFQ3RWtuRE5SVV9hd1hPWVoxOGo0V0IxTnJ3QVJNeEk4dWtCRThxbFpXdlBvOHIyY01aeWJsMUstRHI0d0JFSGhweURULVM5ekRoM3pwblFIVEw00gG0AUFVX3lxTFBSOGVQdnI3Y242LUZCMmZBOWpHQ2NmWTBVMVRoNG9lTWpaNldZdnk2ZXdqVlJrbG1rSi1IOG5SQTdZN3N6MHRuQW1yeVZmWV9ReWdLZDNxX3oxcGFwc0dQRlBQNFVVd3NJeFh1WWxrQUpLOVhTUjlPT1dlNHFyS0JwRXpkU1piVjl3a0JNcU51MTk5a2s4d3VPUzhPVl9sUmFfN2JEMGVwbmV4UXc5aG1zZnprWA?oc=5",
       "source": "la Repubblica",
       "sourceHost": "repubblica.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "giudiziaria"
@@ -1804,6 +1784,46 @@
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Caso Cospito: confermata in appello la condanna a 8 mesi per Delmastro. \"Faremo ricorso\"",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "repubblica.it__la repubblica__caso cospito confermata condanna 8 mesi delmastro lettura sentenza__2026-05-20T07:00:00.000Z",
+      "title": "Caso Cospito, confermata la condanna a 8 mesi per Delmastro: la lettura della sentenza",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM1Y2U1NWSlpuOVVsVTZXLWFxWG9fTUZqaXBTdUh3eUluTjQwT0Z2WXFzRjRxX19CSU5rMjBuRVJEb3RLV2k1STRWNGYweVBSQlBHRjhEWnlabDFHUjk1R3NLYkF6LWpSU0tUZmRpa2pPMkx1OGVkVzEySWQwSHpwNzNqempEd3N1WTNOTlByeVg3OU03cS1oS3QtUEJoMnlDMjh0LWY5czBfM1JDWVhpeDlBWmlBbmczeHNNX1ZxMU1tamNiMGVrN0VySVpBTDF3aE5xWHlDWmF5b24x?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM1Y2U1NWSlpuOVVsVTZXLWFxWG9fTUZqaXBTdUh3eUluTjQwT0Z2WXFzRjRxX19CSU5rMjBuRVJEb3RLV2k1STRWNGYweVBSQlBHRjhEWnlabDFHUjk1R3NLYkF6LWpSU0tUZmRpa2pPMkx1OGVkVzEySWQwSHpwNzNqempEd3N1WTNOTlByeVg3OU03cS1oS3QtUEJoMnlDMjh0LWY5czBfM1JDWVhpeDlBWmlBbmczeHNNX1ZxMU1tamNiMGVrN0VySVpBTDF3aE5xWHlDWmF5b24x?oc=5",
+      "source": "la Repubblica",
+      "sourceHost": "repubblica.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "excerpt": "Caso Cospito, confermata la condanna a 8 mesi per Delmastro: la lettura della sentenza",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "repubblica.it__la repubblica__caso cospito confermata condanna delmastro otto mesi rivelazione segreto d ufficio__2026-05-20T07:00:00.000Z",
+      "title": "Caso Cospito, confermata la condanna a Delmastro: otto mesi per rivelazione di segreto d’ufficio",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYzdXUm4wRGZxbW1mMTFzZk9oOVlSbXhuOTAtUUxBeWpucXRiVldQckNQUXI2cG5fTFNGT3pNNEtzREZHbktONzd3YS1pNjBIM0JUZ3h0aE5kV1pQSTRqMnlkNjBJTUdESVZJTWpvQVpKQlZwbkF0OW5QWDlqaGRxUjZfREttQUM2RUNxb18zc3FWQ1VMTXlqWk9LQ2tFenBrSW9INllqVTZxNHBKMEZUUUNFSdIBuAFBVV95cUxQd2N2NUZBVHJFSktVUHJYSDVSdkpyd2hBUTNSLUxpY0o2c2hGSXJNWFZHcHAtNXEtbG9IZVRFa3QtMVNXRUlBRnFKel9RaWdsOVhOdVhlUEJkdWFLLW5Xc1R4UXRNVTB4LUhFbTk0UF9tOUV5Skx0RndCMWpudERiLW9zVmNlLWNlaDdYUG1pcDRuRHZubTRoVlY5MXVkbUt0WU4ySmdRUXhvdnJXYXdMbjF0cm5fOHly?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYzdXUm4wRGZxbW1mMTFzZk9oOVlSbXhuOTAtUUxBeWpucXRiVldQckNQUXI2cG5fTFNGT3pNNEtzREZHbktONzd3YS1pNjBIM0JUZ3h0aE5kV1pQSTRqMnlkNjBJTUdESVZJTWpvQVpKQlZwbkF0OW5QWDlqaGRxUjZfREttQUM2RUNxb18zc3FWQ1VMTXlqWk9LQ2tFenBrSW9INllqVTZxNHBKMEZUUUNFSdIBuAFBVV95cUxQd2N2NUZBVHJFSktVUHJYSDVSdkpyd2hBUTNSLUxpY0o2c2hGSXJNWFZHcHAtNXEtbG9IZVRFa3QtMVNXRUlBRnFKel9RaWdsOVhOdVhlUEJkdWFLLW5Xc1R4UXRNVTB4LUhFbTk0UF9tOUV5Skx0RndCMWpudERiLW9zVmNlLWNlaDdYUG1pcDRuRHZubTRoVlY5MXVkbUt0WU4ySmdRUXhvdnJXYXdMbjF0cm5fOHly?oc=5",
+      "source": "la Repubblica",
+      "sourceHost": "repubblica.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "excerpt": "Caso Cospito, confermata la condanna a Delmastro: otto mesi per rivelazione di segreto d’ufficio",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

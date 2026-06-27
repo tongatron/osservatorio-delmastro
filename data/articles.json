@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T06:40:03.381Z",
+  "generatedAt": "2026-06-27T08:01:16.893Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-05-13T06:40:03.381Z",
-    "to": "2026-06-27T06:40:03.381Z",
+    "from": "2026-05-13T08:01:16.893Z",
+    "to": "2026-06-27T08:01:16.893Z",
     "days": 45
   },
   "sources": [
@@ -144,10 +144,6 @@
       "articleCount": 3
     },
     {
-      "label": "ilfoglio.it",
-      "articleCount": 3
-    },
-    {
       "label": "adnkronos.com",
       "articleCount": 2
     },
@@ -165,6 +161,10 @@
     },
     {
       "label": "quotidiano.net",
+      "articleCount": 2
+    },
+    {
+      "label": "ilfoglio.it",
       "articleCount": 2
     },
     {
@@ -191,13 +191,13 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 189,
-      "uniqueArticles": 93
+      "fetchedArticles": 183,
+      "uniqueArticles": 90
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 53,
-      "uniqueArticles": 0
+      "fetchedArticles": 55,
+      "uniqueArticles": 2
     },
     {
       "label": "Persone collegate",
@@ -222,12 +222,12 @@
   ],
   "tagSummary": [
     {
-      "tag": "altro",
+      "tag": "giudiziaria",
       "count": 36
     },
     {
-      "tag": "giudiziaria",
-      "count": 36
+      "tag": "altro",
+      "count": 35
     },
     {
       "tag": "bisteccheria",
@@ -277,7 +277,7 @@
     },
     {
       "date": "2026-05-20",
-      "count": 26
+      "count": 25
     },
     {
       "date": "2026-05-21",
@@ -1510,10 +1510,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ3dXOFEyR0lrWHc0UlRvLVUtLTc2UmlfMmRfYzB5YnIzZWowWWhMdFdSQVI2ajFVQnZwM2RFS1huaVBEZHNubGVqV3I3NjFlNm5tUjJZd2h4MFZ0a0tac2lhcEFubGNoYmxsQk1Sd2JyajhDTGpFbWZObnBoS0dZT0dPLUhRQ2VTZVZQUTQwbXZnNTRFbUREM2J6QVI2YjgxN05maXJ1ZzBvbFZTUDZmRWI4VVVhU1ZGYWkwMHJCMzBaS1ZTZXJLLVlSa1A0eTNfTW9Hdldzc0EtbFk?oc=5",
       "source": "Il Foglio",
       "sourceHost": "ilfoglio.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "altro"
@@ -2074,36 +2074,16 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHl0MXNBRFhrRS1qQ0hsNzFqWG50TFlrXzJYZ2ZfSV96RHdwVThBMXlLbmZSeklaZjQ3VUNoeE1xLWFoUU1Vbi1CVzNiRk9wanZnVTdzLUowU3hDekxXM2YwbGwwQ1FHRTRXNFFCMmM4LUktaVJWbGh3bW01bWxfQlNYSFlMZDdBVTEzUmQ5T3RIeVQyR3BUSmJ1NUpDQmk0OWFHdUg1eXNBT0c3c0E?oc=5",
       "source": "Il Foglio",
       "sourceHost": "ilfoglio.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "altro"
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Delmastro condannato in appello per il caso Cospito",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfoglio.it__il foglio__paradosso delmastro condannato anche appello dopo tre richieste assoluzione__2026-05-20T07:00:00.000Z",
-      "title": "Paradosso Delmastro: condannato anche in appello dopo tre richieste di assoluzione",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZlBIMG9meXAzYXJmaHpLem1Vc2c2SWpaX0JoekMzbkVjZ18xOEx0eW00MTZod2NtS0FXV3hCVktja1FIaGZvWjF5RmJMRnhCVU40Vnd2V21hNFRwdzh6RVI2aUZCeUNyQnNuOXVxLUhJaXh3MTFQa3ZQT0xfaVpwNVNDbWZaX3pXR2pRcHMwbHQ5RmNkcjd6b3Y1Ykd5RFB6WXhMSDBSSWVBeGxWRFk3M2Y2U0xJc0VtU05MZks3T1RPZ3A5LTdVb3ptSVdBbFViSVV0RExn?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZlBIMG9meXAzYXJmaHpLem1Vc2c2SWpaX0JoekMzbkVjZ18xOEx0eW00MTZod2NtS0FXV3hCVktja1FIaGZvWjF5RmJMRnhCVU40Vnd2V21hNFRwdzh6RVI2aUZCeUNyQnNuOXVxLUhJaXh3MTFQa3ZQT0xfaVpwNVNDbWZaX3pXR2pRcHMwbHQ5RmNkcjd6b3Y1Ykd5RFB6WXhMSDBSSWVBeGxWRFk3M2Y2U0xJc0VtU05MZks3T1RPZ3A5LTdVb3ptSVdBbFViSVV0RExn?oc=5",
-      "source": "Il Foglio",
-      "sourceHost": "ilfoglio.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-20T07:00:00.000Z",
-      "excerpt": "Paradosso Delmastro: condannato anche in appello dopo tre richieste di assoluzione",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

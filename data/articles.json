@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T11:15:05.169Z",
+  "generatedAt": "2026-06-28T12:03:35.181Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-05-14T11:15:05.169Z",
-    "to": "2026-06-28T11:15:05.169Z",
+    "from": "2026-05-14T12:03:35.181Z",
+    "to": "2026-06-28T12:03:35.181Z",
     "days": 45
   },
   "sources": [
@@ -132,14 +132,6 @@
       "articleCount": 4
     },
     {
-      "label": "newsbiella.it",
-      "articleCount": 3
-    },
-    {
-      "label": "fanpage.it",
-      "articleCount": 3
-    },
-    {
       "label": "huffingtonpost.it",
       "articleCount": 3
     },
@@ -149,6 +141,10 @@
     },
     {
       "label": "adnkronos.com",
+      "articleCount": 2
+    },
+    {
+      "label": "newsbiella.it",
       "articleCount": 2
     },
     {
@@ -166,6 +162,10 @@
     {
       "label": "quotidiano.net",
       "articleCount": 2
+    },
+    {
+      "label": "fanpage.it",
+      "articleCount": 1
     },
     {
       "label": "affaritaliani.it",
@@ -191,13 +191,13 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 190,
-      "uniqueArticles": 93
+      "fetchedArticles": 182,
+      "uniqueArticles": 89
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 54,
-      "uniqueArticles": 0
+      "fetchedArticles": 53,
+      "uniqueArticles": 1
     },
     {
       "label": "Persone collegate",
@@ -206,12 +206,12 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 43,
+      "fetchedArticles": 41,
       "uniqueArticles": 0
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 46,
+      "fetchedArticles": 45,
       "uniqueArticles": 0
     },
     {
@@ -227,7 +227,7 @@
     },
     {
       "tag": "altro",
-      "count": 35
+      "count": 33
     },
     {
       "tag": "bisteccheria",
@@ -239,7 +239,7 @@
     },
     {
       "tag": "territorio",
-      "count": 8
+      "count": 7
     },
     {
       "tag": "societa'",
@@ -273,7 +273,7 @@
     },
     {
       "date": "2026-05-20",
-      "count": 26
+      "count": 25
     },
     {
       "date": "2026-05-21",
@@ -293,7 +293,7 @@
     },
     {
       "date": "2026-05-25",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-05-26",
@@ -309,7 +309,7 @@
     },
     {
       "date": "2026-05-29",
-      "count": 3
+      "count": 2
     },
     {
       "date": "2026-05-30",
@@ -757,26 +757,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "fanpage.it__fanpage__non lasciamo respirare detenuti chiesta l archiviazione delmastro frasi shock__2026-05-29T07:00:00.000Z",
-      "title": "“Non lasciamo respirare i detenuti”: chiesta l’archiviazione per Delmastro su frasi shock",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdGlvbldsTjRONDd2VnFtSnFUdDY2cFRRT1hRalhzVEQ1ZEpvR3JROWlORDFjckJOa1F1QzNtYnBpZHBiMFNYWUZycldRdHVqUVgteW9lM2NvT2dMOXRKdnhzSThyYWpoS1k0YXpSR1IzRG5FMldKWE1HcEc0aHBYOXIybVNHVXF5X29PQ0pIZWlrTUF1WlMxSUZHX3FGcVhmeVZmVTVNajJPMXVpVzl4aTFCWTJsT21ZX2c?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdGlvbldsTjRONDd2VnFtSnFUdDY2cFRRT1hRalhzVEQ1ZEpvR3JROWlORDFjckJOa1F1QzNtYnBpZHBiMFNYWUZycldRdHVqUVgteW9lM2NvT2dMOXRKdnhzSThyYWpoS1k0YXpSR1IzRG5FMldKWE1HcEc0aHBYOXIybVNHVXF5X29PQ0pIZWlrTUF1WlMxSUZHX3FGcVhmeVZmVTVNajJPMXVpVzl4aTFCWTJsT21ZX2c?oc=5",
-      "source": "Fanpage",
-      "sourceHost": "fanpage.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-29T07:00:00.000Z",
-      "excerpt": "“Non lasciamo respirare i detenuti”: chiesta l’archiviazione per Delmastro su frasi shock",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "repubblica.it__la repubblica__pm chiedono parlamento chat delmastro caroccia fdi frena sinistra attacca__2026-05-28T07:00:00.000Z",
       "title": "I pm chiedono al Parlamento le chat Delmastro-Caroccia. FdI frena, la sinistra attacca",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWkFMRW00b0Nja0JSZlFMUjcwb3gxdTA1aXlSN2ozYjNvY21RcVlCaldxejlESmh4b3hwcnpIcThMZmRLajhYcmxmVHd6TUpIU0pmX2RaTWZDWTktdzNqcXdYLUR2R21xemlFSXZkckNtTlNwdWpTN0R4SVk2NG0wRjNPcjAzTnRPSXBJdkVLOFhGNVkxT3dETzRHVFBXbFQ5TWxF0gGoAUFVX3lxTFBRcmhNTHp0aDdlNHNsY1Ntc01fdEpBamZodl9XVXBqWlNLakNxak9oZGhUMG9PelY2OFh2ZDdKWmpwYkg1a2lUdm1SQVAxZlFmSi16ZnJVNE80dllEdW4zRV80UFVEd1hjOE8xbDlkSWk1ZFdIdzBXblFINGRjUExQTEx6VFZLenREUDMyS0trMmg5cDdTZDlmb3d2UDhoVUJOb0xFeVZaVg?oc=5",
@@ -985,10 +965,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSzZzdHA5TDhkbmFmVmxUWjBCcGpyT2EtalU4SndBbW9rQkwyQVR1LUl5MWIwUWRxd3hkQTF0V1BPOW1VZmpBamJ5Q0pGQWFUOXlwX0MwUTdpdW9vQk5lOWF5cTVOLVd3UFJFbUFXbWZoUUJ4b0dqZnFleDJEUkN6b0g2WVFUWUM5UmZkYkFzd3E4ZjBmbTh5anpUbEh2OVZoYkw0d0NzbDJCcWlWRlhHUWFjRFM5MUVPS3FQeTJ1VWN1ckdNWUc5TXlB?oc=5",
       "source": "Fanpage",
       "sourceHost": "fanpage.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "giudiziaria",
@@ -1101,26 +1081,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilgiornale.it__il giornale__delmastro procura chiede camera acquisire chat caroccia__2026-05-27T07:00:00.000Z",
-      "title": "Delmastro, la procura chiede alla Camera di acquisire le chat con Caroccia",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdDZkVGhGRDBlMjBrWElxSE54cDVudXAzMy1sQXdueW9qaG5jVml1Rm9vUGJvQkh0NjZPaGNwZnZEZjZ6TjNkY2k2VHpTWW9pU1Q4bVdKRmxjLTNGRFNMTUhEU0ZYQU9GSGJYNmd4cklKVUpaYlk3YjBTaEJSR3laQ3VwVUxiNTdkbzNrSVhyZHkteU52R3U0MWZRNzFOS2UtOEhjYzVpUWV0b1BzSmh2dHotSjZ5WUotMlpZ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdDZkVGhGRDBlMjBrWElxSE54cDVudXAzMy1sQXdueW9qaG5jVml1Rm9vUGJvQkh0NjZPaGNwZnZEZjZ6TjNkY2k2VHpTWW9pU1Q4bVdKRmxjLTNGRFNMTUhEU0ZYQU9GSGJYNmd4cklKVUpaYlk3YjBTaEJSR3laQ3VwVUxiNTdkbzNrSVhyZHkteU52R3U0MWZRNzFOS2UtOEhjYzVpUWV0b1BzSmh2dHotSjZ5WUotMlpZ?oc=5",
-      "source": "il Giornale",
-      "sourceHost": "ilgiornale.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-05-27T07:00:00.000Z",
-      "excerpt": "Delmastro, la procura chiede alla Camera di acquisire le chat con Caroccia",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ilgiornale.it__il giornale__mea culpa delmastro minacciato dai boss ho sbagliato fare societa coi caroccia__2026-05-27T07:00:00.000Z",
       "title": "Mea culpa Delmastro: minacciato dai boss, ho sbagliato a fare la società coi Caroccia",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMHRsRXo3WHlqMkZNQmNSQjl1ZnhtODFlYnFNb0FpSU5rcmhfTkNOSm54MkRQbkZ5SUFnVnhsaWlQa3RxblZOOU55QWd2V0ZCWUxILWxhWk1HUTAtT1ZiWllvZHR3SFN3MWJEQTMtNTBZZmdEczFvdVZBdXFDa29oTTJsMFNmVWNQeWtyLWl3QjVESmhSVGFSZ3loa3VNZnZ3YVR3Vk5DWUVGNzNkc1ZB?oc=5",
@@ -1137,6 +1097,26 @@
       ],
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Mea culpa Delmastro: minacciato dai boss, ho sbagliato a fare la società coi Caroccia",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilgiornale.it__il giornale__delmastro procura chiede camera acquisire chat caroccia__2026-05-27T07:00:00.000Z",
+      "title": "Delmastro, la procura chiede alla Camera di acquisire le chat con Caroccia",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdDZkVGhGRDBlMjBrWElxSE54cDVudXAzMy1sQXdueW9qaG5jVml1Rm9vUGJvQkh0NjZPaGNwZnZEZjZ6TjNkY2k2VHpTWW9pU1Q4bVdKRmxjLTNGRFNMTUhEU0ZYQU9GSGJYNmd4cklKVUpaYlk3YjBTaEJSR3laQ3VwVUxiNTdkbzNrSVhyZHkteU52R3U0MWZRNzFOS2UtOEhjYzVpUWV0b1BzSmh2dHotSjZ5WUotMlpZ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdDZkVGhGRDBlMjBrWElxSE54cDVudXAzMy1sQXdueW9qaG5jVml1Rm9vUGJvQkh0NjZPaGNwZnZEZjZ6TjNkY2k2VHpTWW9pU1Q4bVdKRmxjLTNGRFNMTUhEU0ZYQU9GSGJYNmd4cklKVUpaYlk3YjBTaEJSR3laQ3VwVUxiNTdkbzNrSVhyZHkteU52R3U0MWZRNzFOS2UtOEhjYzVpUWV0b1BzSmh2dHotSjZ5WUotMlpZ?oc=5",
+      "source": "il Giornale",
+      "sourceHost": "ilgiornale.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-05-27T07:00:00.000Z",
+      "excerpt": "Delmastro, la procura chiede alla Camera di acquisire le chat con Caroccia",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1647,26 +1627,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "newsbiella.it__newsbiella.it__gal delmastro greggio verso atl alto piemonte__2026-05-25T07:00:00.000Z",
-      "title": "Gal a Delmastro, Greggio verso Atl Alto Piemonte",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS1lyVGxxd2V4dVYydTlJRkdLclRjY1Qwak5rVnAzVUhZOU1RVUFveEpRZmxmVmx3cE12X0tYQ3o5RVV3S3Y2ejk2NTRzdWQtUzZHYXVhVzZYdEVoYldGU1ZTNGtmT2xjY09GY01UXzliSG9LYXhiQ0g1MjhtNjVOT2NKZnFRZ2tObTIyTHAwZS15eVRPb1hZSXdoX1NqVXoxSUMzbW1TOC1PN1FOMmVOZlRwSzdLZF9iLWdXaEJfeHE5VnFqYjVZNVlYWjh6QdIBwAFBVV95cUxPZUFQMHljb000OGtWSG5fZ05CblNDM2ZzaVFqQlBkTDZqalBRSExfWUg4aTVlWGhfcFhOYlU0ZFdBTlNLS0xIRWZEMzFxM1Z0S3gzcEJtdmw3LWVreVA0dDNPenA1WjhOalMyX2VwTXd5Q0hmNzc4aURUM19fVG5qd3lWQm1XOXRWNUkxbEkxX21UcXVUNUd3QWx5N0ZaYlFUaWU2QzhPU2NHMGswLTE4UkJ5Z3lJVHVfb3ZEQTdyOWc?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS1lyVGxxd2V4dVYydTlJRkdLclRjY1Qwak5rVnAzVUhZOU1RVUFveEpRZmxmVmx3cE12X0tYQ3o5RVV3S3Y2ejk2NTRzdWQtUzZHYXVhVzZYdEVoYldGU1ZTNGtmT2xjY09GY01UXzliSG9LYXhiQ0g1MjhtNjVOT2NKZnFRZ2tObTIyTHAwZS15eVRPb1hZSXdoX1NqVXoxSUMzbW1TOC1PN1FOMmVOZlRwSzdLZF9iLWdXaEJfeHE5VnFqYjVZNVlYWjh6QdIBwAFBVV95cUxPZUFQMHljb000OGtWSG5fZ05CblNDM2ZzaVFqQlBkTDZqalBRSExfWUg4aTVlWGhfcFhOYlU0ZFdBTlNLS0xIRWZEMzFxM1Z0S3gzcEJtdmw3LWVreVA0dDNPenA1WjhOalMyX2VwTXd5Q0hmNzc4aURUM19fVG5qd3lWQm1XOXRWNUkxbEkxX21UcXVUNUd3QWx5N0ZaYlFUaWU2QzhPU2NHMGswLTE4UkJ5Z3lJVHVfb3ZEQTdyOWc?oc=5",
-      "source": "Newsbiella.it",
-      "sourceHost": "newsbiella.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "territorio"
-      ],
-      "publishedAt": "2026-05-25T07:00:00.000Z",
-      "excerpt": "Gal a Delmastro, Greggio verso Atl Alto Piemonte",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "corriere.it__corriere roma__andrea delmastro sara sentito martedi commissione antimafia sul caso bisteccheria d italia rapporti caroccia__2026-05-22T07:00:00.000Z",
       "title": "Andrea Delmastro sarà sentito martedì in Commissione Antimafia sul «caso Bisteccheria d'Italia» e i rapporti con Caroccia",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZ3JLRW5pLXI2MEZ2amFzVGd2T2lUV19kVzkyTVdaQVdKVWd3c2dqRS1OUXQxcjQzaWt6bnFqSUZPQ01PRjNaWkFNUVJMbTI5N2xxeFluM3pJbWNIeEN1RFZmclRQeHVLUmNBQklQdldCdk1uRnVJUk9mUEt6QWtVNTRDM0NtWXo2RWVhelZTY2x1MEJwaFJ6YzlRalp1OENQTkhObFR5UkgtazhsVjhFLUs3djkxSzlwajZaVlNhWDh4bHR6MVpfZDZsODA2bjBfX0lvdHRmZ1NWUXFrdk9ycVJoa1hSX1pNS1d5WUFqaE95Z9IB9wFBVV95cUxOYXQ5a3A5TXNRbU5PbGx1NTltUGZWbmVBNkpSMm9BRHhBOVZsWG5KRDVXRFVnc2k4UDg4bWVOYWE0VDdHbDI0NEx2bG9XRnlMXy1pRVZLQjBYLVNmTlBqWlhJb29ocXZRcVRoRlh5RkpXcWJXSTlhMDNGZFlobkYzUzlsdFZJSVIwc0JVSG1UbGF6R3Z3bWhNWWdTOGZVQWJBWkZfZTBrNGFBdnhPaDBHekl6T0hHYW81QjZ3SnZFRjdKWHpPemRtckJRYkhneV95aW4xWnZwVkVfdGNfNVc0cXFoMUtmRDg1OFFncW95amJfWDk0U3ZB?oc=5",
@@ -1904,26 +1864,6 @@
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "La condanna dell'ex sottosegretario alla Giustizia Andrea Delmastro per rivelazione di segreto d'ufficio è stata confermata in appello",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "fanpage.it__fanpage__caso cospito corte d appello conferma condanna 8 mesi andrea delmastro__2026-05-20T07:00:00.000Z",
-      "title": "Caso Cospito: la Corte d’Appello conferma la condanna a 8 mesi per Andrea Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjM4Y3E3UmpDYlRrcEstank3TzRiX2dGT0lWOHVsalA2NndOVHEzVXB4c0w5SU5yN085ekR4OTMxRkM2eWdiRFVMUXAxeElvbDc5YURoQmlxMk91RWRjZUpEa19Zd0Q2UnFLY0pFTlI5bUh4RXZ6Z1BvN3FscUItcVZHTUhYRnF5aDM3eGNIQXRPM0tHd1AxdWpnMnZ2Y3pzSXBfamVYaFlzY1hUOVl3aU9zZC0?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjM4Y3E3UmpDYlRrcEstank3TzRiX2dGT0lWOHVsalA2NndOVHEzVXB4c0w5SU5yN085ekR4OTMxRkM2eWdiRFVMUXAxeElvbDc5YURoQmlxMk91RWRjZUpEa19Zd0Q2UnFLY0pFTlI5bUh4RXZ6Z1BvN3FscUItcVZHTUhYRnF5aDM3eGNIQXRPM0tHd1AxdWpnMnZ2Y3pzSXBfamVYaFlzY1hUOVl3aU9zZC0?oc=5",
-      "source": "Fanpage",
-      "sourceHost": "fanpage.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-20T07:00:00.000Z",
-      "excerpt": "Caso Cospito: la Corte d’Appello conferma la condanna a 8 mesi per Andrea Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

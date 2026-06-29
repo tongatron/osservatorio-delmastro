@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T21:36:33.854Z",
+  "generatedAt": "2026-06-29T22:30:10.712Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-05-15T21:36:33.854Z",
-    "to": "2026-06-29T21:36:33.854Z",
+    "from": "2026-05-15T22:30:10.712Z",
+    "to": "2026-06-29T22:30:10.712Z",
     "days": 45
   },
   "sources": [
@@ -182,32 +182,36 @@
     {
       "label": "liberoquotidiano.it",
       "articleCount": 1
+    },
+    {
+      "label": "ilbiellese.it",
+      "articleCount": 1
     }
   ],
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 186,
+      "fetchedArticles": 187,
       "uniqueArticles": 92
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 56,
-      "uniqueArticles": 0
+      "fetchedArticles": 57,
+      "uniqueArticles": 1
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 50,
+      "fetchedArticles": 49,
       "uniqueArticles": 0
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 46,
+      "fetchedArticles": 45,
       "uniqueArticles": 0
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 45,
+      "fetchedArticles": 46,
       "uniqueArticles": 0
     },
     {
@@ -223,7 +227,7 @@
     },
     {
       "tag": "altro",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "bisteccheria",
@@ -244,10 +248,6 @@
   ],
   "timeline": [
     {
-      "date": "2026-05-15",
-      "count": 0
-    },
-    {
       "date": "2026-05-16",
       "count": 0
     },
@@ -265,7 +265,7 @@
     },
     {
       "date": "2026-05-20",
-      "count": 25
+      "count": 26
     },
     {
       "date": "2026-05-21",
@@ -425,6 +425,10 @@
     },
     {
       "date": "2026-06-29",
+      "count": 0
+    },
+    {
+      "date": "2026-06-30",
       "count": 0
     }
   ],
@@ -1970,10 +1974,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56c1p0QXFiOUFkdVpMUkZwQW00SDBYV2M2YlVUU1FFSmQ2R05tWnRQZ2U4NHU5X1FDa1FEVjhuRnVNYUQyaUI3WVZKVGFUYXpxWDI1OGlJOE15eWhBaGhwQXZpYU5aOGZTU1Q2RllXWDczMGpr0gF0QVVfeXFMTnVuYTZTVmJGTWF0S0hsZ053TTctWHU4aVJrb2p2VWdkV0hDMFhxcHBPazV3WWRvMVhjbnRRQ21lMERuSjBNLWpVclRyODI3YS1sRURzNWh3VWs2bTN5b0N4YW1FMmZBaG1hdzVtX3hpSGl5bmM?oc=5",
       "source": "today.it",
       "sourceHost": "today.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "altro"
@@ -2140,6 +2144,26 @@
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "Andrea Delmastro, confermata la condanna a 8 mesi per il caso-Cospito | Libero Quotidiano.it",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilbiellese.it__ilbiellese.it__delmastro condannato anche appello__2026-05-20T07:00:00.000Z",
+      "title": "Delmastro condannato anche in appello",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnp0X2hqdXlxTXRIU1NmNGlhV09aanhrcTFDWVBFdFlxUWdrSlhkdUREUWxaZ3d6aU1mNG5RMVhabWtKWEZ6T2tRTHoyTFFNTTFsdU85bDZPRkNPaTdWSTkteU9KTVJHRjR1dVJiSk9ZNkxuaWxGOENjRGxvbGxhTlEyTUFvUmcyY2M3emx0VkNOV3NabnBaQ0t3?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnp0X2hqdXlxTXRIU1NmNGlhV09aanhrcTFDWVBFdFlxUWdrSlhkdUREUWxaZ3d6aU1mNG5RMVhabWtKWEZ6T2tRTHoyTFFNTTFsdU85bDZPRkNPaTdWSTkteU9KTVJHRjR1dVJiSk9ZNkxuaWxGOENjRGxvbGxhTlEyTUFvUmcyY2M3emx0VkNOV3NabnBaQ0t3?oc=5",
+      "source": "ilbiellese.it",
+      "sourceHost": "ilbiellese.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "excerpt": "Delmastro condannato anche in appello",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

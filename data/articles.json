@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T01:11:41.073Z",
+  "generatedAt": "2026-06-30T02:25:42.082Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-05-16T01:11:41.073Z",
-    "to": "2026-06-30T01:11:41.073Z",
+    "from": "2026-05-16T02:25:42.082Z",
+    "to": "2026-06-30T02:25:42.082Z",
     "days": 45
   },
   "sources": [
@@ -191,27 +191,27 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 188,
-      "uniqueArticles": 93
+      "fetchedArticles": 184,
+      "uniqueArticles": 91
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 56,
-      "uniqueArticles": 0
-    },
-    {
-      "label": "Persone collegate",
-      "fetchedArticles": 48,
-      "uniqueArticles": 0
+      "fetchedArticles": 57,
+      "uniqueArticles": 2
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 45,
+      "fetchedArticles": 46,
+      "uniqueArticles": 1
+    },
+    {
+      "label": "Persone collegate",
+      "fetchedArticles": 49,
       "uniqueArticles": 0
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 46,
+      "fetchedArticles": 45,
       "uniqueArticles": 0
     },
     {
@@ -557,6 +557,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "repubblica.it__la repubblica__delmastro lite piazza bisteccheria__2026-06-21T07:00:00.000Z",
+      "title": "Delmastro, lite in piazza per la Bisteccheria",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnVUU0Nfc2std3hfMThPTGlIVG1OaHJRdnBOZ2gwbm5EamVINllsVm9sWGxJWnppXzNPOElQMWpsQlVzTzJHNDBkdFRmUVQ4MXY5RlpMSDl6QnNRczJQZndTSVhhLWRFekN4OXNyNzdmUzBjT2Zoa0w1V2FfaXZaUUJlTEJRS2I1cVoxZ0pKSTlzWjlyM1pEVU1qM2tKeUlmaFMyV1hyUWJMT0pW0gGyAUFVX3lxTFBTbzVhZUdobWwtREtkNVYyYWZMVWtKWjJsQ0wwRi1PS1IzMHEtWUpDeXh1MEFKVlJaRnVuMGI2eGptNXhCdDBmcEpZbVdocE5mXzdQay1DaVEyMjdYTy0ya3U5VFZhUFNpakhrLThWTjZHZGlSaWpETTZ2SnBkN1R5TnRsLXRwTUxkc3V2ZWNGNE9ScFhKNjVpc1dST0VpNXdmR0V3QWlRTmExb0hNNE5OaVE?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnVUU0Nfc2std3hfMThPTGlIVG1OaHJRdnBOZ2gwbm5EamVINllsVm9sWGxJWnppXzNPOElQMWpsQlVzTzJHNDBkdFRmUVQ4MXY5RlpMSDl6QnNRczJQZndTSVhhLWRFekN4OXNyNzdmUzBjT2Zoa0w1V2FfaXZaUUJlTEJRS2I1cVoxZ0pKSTlzWjlyM1pEVU1qM2tKeUlmaFMyV1hyUWJMT0pW0gGyAUFVX3lxTFBTbzVhZUdobWwtREtkNVYyYWZMVWtKWjJsQ0wwRi1PS1IzMHEtWUpDeXh1MEFKVlJaRnVuMGI2eGptNXhCdDBmcEpZbVdocE5mXzdQay1DaVEyMjdYTy0ya3U5VFZhUFNpakhrLThWTjZHZGlSaWpETTZ2SnBkN1R5TnRsLXRwTUxkc3V2ZWNGNE9ScFhKNjVpc1dST0VpNXdmR0V3QWlRTmExb0hNNE5OaVE?oc=5",
+      "source": "la Repubblica",
+      "sourceHost": "repubblica.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "bisteccheria"
+      ],
+      "publishedAt": "2026-06-21T07:00:00.000Z",
+      "excerpt": "Delmastro, lite in piazza per la Bisteccheria",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "lastampa.it__la stampa__biella lite spintoni consigliere zappala interviene scorta delmastro__2026-06-21T07:00:00.000Z",
       "title": "Biella, lite e spintoni con il consigliere Zappalà: interviene la scorta di Delmastro",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWElQWkQ5VW1aV25qNTBCLV9XVTVoR2R1MlJqYm5TamZXSHdHa1FydG9ScGRkYkhuRmIzVWw5UEFtY3QtUVhsVWwtNVFNTTVINUFxdG9aakRwTzRXd0Q4RDBTYll5cmlOcHNrdXIwR01vQVVRV1VCU2RNS1NQdzlUcnZic0RFNjFOS3B0X0ZleUd2a0ZRS1hpOXlScnFKMXVfOFo1cmZVN2g1ZXl0OTM5czF3T1JJbTNP?oc=5",
@@ -573,26 +593,6 @@
       ],
       "publishedAt": "2026-06-21T07:00:00.000Z",
       "excerpt": "Biella, lite e spintoni con il consigliere Zappalà: interviene la scorta di Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "repubblica.it__la repubblica__delmastro lite piazza bisteccheria__2026-06-20T22:55:00.000Z",
-      "title": "Delmastro, lite in piazza per la Bisteccheria",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnVUU0Nfc2std3hfMThPTGlIVG1OaHJRdnBOZ2gwbm5EamVINllsVm9sWGxJWnppXzNPOElQMWpsQlVzTzJHNDBkdFRmUVQ4MXY5RlpMSDl6QnNRczJQZndTSVhhLWRFekN4OXNyNzdmUzBjT2Zoa0w1V2FfaXZaUUJlTEJRS2I1cVoxZ0pKSTlzWjlyM1pEVU1qM2tKeUlmaFMyV1hyUWJMT0pW0gGyAUFVX3lxTFBTbzVhZUdobWwtREtkNVYyYWZMVWtKWjJsQ0wwRi1PS1IzMHEtWUpDeXh1MEFKVlJaRnVuMGI2eGptNXhCdDBmcEpZbVdocE5mXzdQay1DaVEyMjdYTy0ya3U5VFZhUFNpakhrLThWTjZHZGlSaWpETTZ2SnBkN1R5TnRsLXRwTUxkc3V2ZWNGNE9ScFhKNjVpc1dST0VpNXdmR0V3QWlRTmExb0hNNE5OaVE?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnVUU0Nfc2std3hfMThPTGlIVG1OaHJRdnBOZ2gwbm5EamVINllsVm9sWGxJWnppXzNPOElQMWpsQlVzTzJHNDBkdFRmUVQ4MXY5RlpMSDl6QnNRczJQZndTSVhhLWRFekN4OXNyNzdmUzBjT2Zoa0w1V2FfaXZaUUJlTEJRS2I1cVoxZ0pKSTlzWjlyM1pEVU1qM2tKeUlmaFMyV1hyUWJMT0pW0gGyAUFVX3lxTFBTbzVhZUdobWwtREtkNVYyYWZMVWtKWjJsQ0wwRi1PS1IzMHEtWUpDeXh1MEFKVlJaRnVuMGI2eGptNXhCdDBmcEpZbVdocE5mXzdQay1DaVEyMjdYTy0ya3U5VFZhUFNpakhrLThWTjZHZGlSaWpETTZ2SnBkN1R5TnRsLXRwTUxkc3V2ZWNGNE9ScFhKNjVpc1dST0VpNXdmR0V3QWlRTmExb0hNNE5OaVE?oc=5",
-      "source": "la Repubblica",
-      "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "bisteccheria"
-      ],
-      "publishedAt": "2026-06-20T22:55:00.000Z",
-      "excerpt": "Delmastro, lite in piazza per la Bisteccheria",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1349,10 +1349,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRkV6cnM5aTdtRnRzeWpubm1NLU9pUzc4MnBobzYwdGhhMU1tclp0MUFvbThWYWJoOWo3M3M2bWtESWx6cmFRUHBGQzREN05oY1dBRmxOeFRLOHhYT2RGbUpLTmdkR2ROTkttTTFiVklnWjd6cWljWWdCdjJHSm9tNlpxQTVwTTZVanRfdklHTHlJc1E3UGZJRlZKam52ek12cnNlNi1qZU9tXzdaOHVIYXZFendIRWpOQ2g1bmlOOUg1VVd4dFgxSlE4R3o3NVNUYm9RZmtUN09MNWdGS1FnRG8tNmczZ0k?oc=5",
       "source": "Affaritaliani",
       "sourceHost": "affaritaliani.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "giudiziaria"
@@ -1974,10 +1974,12 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56c1p0QXFiOUFkdVpMUkZwQW00SDBYV2M2YlVUU1FFSmQ2R05tWnRQZ2U4NHU5X1FDa1FEVjhuRnVNYUQyaUI3WVZKVGFUYXpxWDI1OGlJOE15eWhBaGhwQXZpYU5aOGZTU1Q2RllXWDczMGpr0gF0QVVfeXFMTnVuYTZTVmJGTWF0S0hsZ053TTctWHU4aVJrb2p2VWdkV0hDMFhxcHBPazV3WWRvMVhjbnRRQ21lMERuSjBNLWpVclRyODI3YS1sRURzNWh3VWs2bTN5b0N4YW1FMmZBaG1hdzVtX3hpSGl5bmM?oc=5",
       "source": "today.it",
       "sourceHost": "today.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Filone giudiziario",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "intestazione fittizia di beni",
+        "antimafia",
+        "indagine Delmastro",
+        "pm Torino"
       ],
       "tags": [
         "altro"

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T11:54:36.118Z",
+  "generatedAt": "2026-07-02T14:21:43.433Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-05-18T11:54:36.118Z",
-    "to": "2026-07-02T11:54:36.118Z",
+    "from": "2026-05-18T14:21:43.433Z",
+    "to": "2026-07-02T14:21:43.433Z",
     "days": 45
   },
   "sources": [
@@ -136,6 +136,10 @@
       "articleCount": 3
     },
     {
+      "label": "fanpage.it",
+      "articleCount": 3
+    },
+    {
       "label": "huffingtonpost.it",
       "articleCount": 3
     },
@@ -149,10 +153,6 @@
     },
     {
       "label": "adnkronos.com",
-      "articleCount": 2
-    },
-    {
-      "label": "fanpage.it",
       "articleCount": 2
     },
     {
@@ -191,12 +191,12 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 188,
-      "uniqueArticles": 93
+      "fetchedArticles": 190,
+      "uniqueArticles": 94
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 42,
+      "fetchedArticles": 56,
       "uniqueArticles": 0
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 43,
+      "fetchedArticles": 45,
       "uniqueArticles": 0
     },
     {
@@ -227,7 +227,7 @@
     },
     {
       "tag": "altro",
-      "count": 34
+      "count": 35
     },
     {
       "tag": "bisteccheria",
@@ -257,7 +257,7 @@
     },
     {
       "date": "2026-05-20",
-      "count": 25
+      "count": 26
     },
     {
       "date": "2026-05-21",
@@ -1904,6 +1904,26 @@
       ],
       "publishedAt": "2026-05-20T07:00:00.000Z",
       "excerpt": "La condanna dell'ex sottosegretario alla Giustizia Andrea Delmastro per rivelazione di segreto d'ufficio è stata confermata in appello",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "fanpage.it__fanpage__caso cospito corte d appello conferma condanna 8 mesi andrea delmastro__2026-05-20T07:00:00.000Z",
+      "title": "Caso Cospito: la Corte d’Appello conferma la condanna a 8 mesi per Andrea Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjM4Y3E3UmpDYlRrcEstank3TzRiX2dGT0lWOHVsalA2NndOVHEzVXB4c0w5SU5yN085ekR4OTMxRkM2eWdiRFVMUXAxeElvbDc5YURoQmlxMk91RWRjZUpEa19Zd0Q2UnFLY0pFTlI5bUh4RXZ6Z1BvN3FscUItcVZHTUhYRnF5aDM3eGNIQXRPM0tHd1AxdWpnMnZ2Y3pzSXBfamVYaFlzY1hUOVl3aU9zZC0?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjM4Y3E3UmpDYlRrcEstank3TzRiX2dGT0lWOHVsalA2NndOVHEzVXB4c0w5SU5yN085ekR4OTMxRkM2eWdiRFVMUXAxeElvbDc5YURoQmlxMk91RWRjZUpEa19Zd0Q2UnFLY0pFTlI5bUh4RXZ6Z1BvN3FscUItcVZHTUhYRnF5aDM3eGNIQXRPM0tHd1AxdWpnMnZ2Y3pzSXBfamVYaFlzY1hUOVl3aU9zZC0?oc=5",
+      "source": "Fanpage",
+      "sourceHost": "fanpage.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-05-20T07:00:00.000Z",
+      "excerpt": "Caso Cospito: la Corte d’Appello conferma la condanna a 8 mesi per Andrea Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

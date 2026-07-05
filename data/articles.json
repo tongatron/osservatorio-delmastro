@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T00:07:30.492Z",
+  "generatedAt": "2026-07-05T04:42:23.288Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,14 +94,14 @@
     ]
   },
   "window": {
-    "from": "2026-05-21T00:07:30.492Z",
-    "to": "2026-07-05T00:07:30.492Z",
+    "from": "2026-05-21T04:42:23.288Z",
+    "to": "2026-07-05T04:42:23.288Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 12
+      "articleCount": 10
     },
     {
       "label": "rainews.it",
@@ -175,12 +175,22 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 139,
-      "uniqueArticles": 69
+      "fetchedArticles": 111,
+      "uniqueArticles": 55
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 52,
+      "fetchedArticles": 60,
+      "uniqueArticles": 9
+    },
+    {
+      "label": "Soci e societa'",
+      "fetchedArticles": 48,
+      "uniqueArticles": 3
+    },
+    {
+      "label": "Territorio",
+      "fetchedArticles": 3,
       "uniqueArticles": 1
     },
     {
@@ -191,16 +201,6 @@
     {
       "label": "Filone giudiziario",
       "fetchedArticles": 40,
-      "uniqueArticles": 0
-    },
-    {
-      "label": "Soci e societa'",
-      "fetchedArticles": 45,
-      "uniqueArticles": 0
-    },
-    {
-      "label": "Territorio",
-      "fetchedArticles": 2,
       "uniqueArticles": 0
     }
   ],
@@ -215,7 +215,7 @@
     },
     {
       "tag": "altro",
-      "count": 13
+      "count": 11
     },
     {
       "tag": "territorio",
@@ -233,7 +233,7 @@
   "timeline": [
     {
       "date": "2026-05-21",
-      "count": 2
+      "count": 1
     },
     {
       "date": "2026-05-22",
@@ -261,7 +261,7 @@
     },
     {
       "date": "2026-05-28",
-      "count": 6
+      "count": 5
     },
     {
       "date": "2026-05-29",
@@ -440,8 +440,8 @@
     {
       "id": "lastampa.it__la stampa__caso delmastro pm chiedono chat essenziali indagini sul clan__2026-07-03T23:00:00.000Z",
       "title": "Caso Delmastro, i pm chiedono le chat. “Essenziali per le indagini sul clan”",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTEZLNGh2QkJCVFQ4TWVfRVFWRnVpWVNuT0lFWFRZckdoNWFxN1dXeW5KdG43ME5ieHlkSmo2bXVQQ3dsSVV2NXVSU2llaDJ2bjM0d1ZPNWVyeE1tMVhiT1ZTUi14R2d1cjkwODZNSXotOHpIT1dtZmxlUVpiUk5XMEl1MXFTVjA2M0EwQWhMbnY5NVBpdzhSRHVUcm1YbGE4RGVINUxZNlg5QmxMLTZyS2NBU1JDOWlYbXRSTmJpcjR5RksxRGdwTWJn0gHPAUFVX3lxTFB6OHc0U3EtODNzb3Z6REhwZUZCWU5mcnVLZS1QX0dRY3FSVHlRemZGTEVHNVhpMGM5TTZ5ZjcwNkhmMlNleF9mTEh6aVhsLWRPMmZhX3oyS0dfbXhoZUE0SHhzVzYxbTd6OUFuV2VxZkwtdVl6WmJfbzZjUHBXZGpmNldRVnQtSUplSGdha051dFpLVlAzckRZdWhkZ0hDMkZhcnhQNFhpUzNPcEtXd2ZsSGhFbTFJVUQwUFI4aElMbVlFN3VDeDZGS25leDdnSQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTEZLNGh2QkJCVFQ4TWVfRVFWRnVpWVNuT0lFWFRZckdoNWFxN1dXeW5KdG43ME5ieHlkSmo2bXVQQ3dsSVV2NXVSU2llaDJ2bjM0d1ZPNWVyeE1tMVhiT1ZTUi14R2d1cjkwODZNSXotOHpIT1dtZmxlUVpiUk5XMEl1MXFTVjA2M0EwQWhMbnY5NVBpdzhSRHVUcm1YbGE4RGVINUxZNlg5QmxMLTZyS2NBU1JDOWlYbXRSTmJpcjR5RksxRGdwTWJn0gHPAUFVX3lxTFB6OHc0U3EtODNzb3Z6REhwZUZCWU5mcnVLZS1QX0dRY3FSVHlRemZGTEVHNVhpMGM5TTZ5ZjcwNkhmMlNleF9mTEh6aVhsLWRPMmZhX3oyS0dfbXhoZUE0SHhzVzYxbTd6OUFuV2VxZkwtdVl6WmJfbzZjUHBXZGpmNldRVnQtSUplSGdha051dFpLVlAzckRZdWhkZ0hDMkZhcnhQNFhpUzNPcEtXd2ZsSGhFbTFJVUQwUFI4aElMbVlFN3VDeDZGS25leDdnSQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQejh3NFNxLTgzc292ekRIcGVGQllOZnJ1S2UtUF9HUWNxUlR5UXpmRkxFRzVYaTBjOU02eWY3MDZIZjJTZXhfZkxIemlYbC1kTzJmYV96MktHX214aGVBNEh4c1c2MW03ejlBbldlcWZMLXVZelpiX282Y1BwV2RqZjZXUVZ0LUlKZUhnYWtOdXRaS1ZQM3JEWXVoZGdIQzJGYXJ4UDRYaVMzT3BLV3dmbEhoRW0xSVVEMFBSOGhJTG1ZRTd1Q3g2RktuZXg3Z0nSAc8BQVVfeXFMUHo4dzRTcS04M3NvdnpESHBlRkJZTmZydUtlLVBfR1FjcVJUeVF6ZkZMRUc1WGkwYzlNNnlmNzA2SGYyU2V4X2ZMSHppWGwtZE8yZmFfejJLR19teGhlQTRIeHNXNjFtN3o5QW5XZXFmTC11WXpaYl9vNmNQcFdkamY2V1FWdC1JSmVIZ2FrTnV0WktWUDNyRFl1aGRnSEMyRmFyeFA0WGlTM09wS1d3ZmxIaEVtMUlVRDBQUjhoSUxtWUU3dUN4NkZLbmV4N2dJ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQejh3NFNxLTgzc292ekRIcGVGQllOZnJ1S2UtUF9HUWNxUlR5UXpmRkxFRzVYaTBjOU02eWY3MDZIZjJTZXhfZkxIemlYbC1kTzJmYV96MktHX214aGVBNEh4c1c2MW03ejlBbldlcWZMLXVZelpiX282Y1BwV2RqZjZXUVZ0LUlKZUhnYWtOdXRaS1ZQM3JEWXVoZGdIQzJGYXJ4UDRYaVMzT3BLV3dmbEhoRW0xSVVEMFBSOGhJTG1ZRTd1Q3g2RktuZXg3Z0nSAc8BQVVfeXFMUHo4dzRTcS04M3NvdnpESHBlRkJZTmZydUtlLVBfR1FjcVJUeVF6ZkZMRUc1WGkwYzlNNnlmNzA2SGYyU2V4X2ZMSHppWGwtZE8yZmFfejJLR19teGhlQTRIeHNXNjFtN3o5QW5XZXFmTC11WXpaYl9vNmNQcFdkamY2V1FWdC1JSmVIZ2FrTnV0WktWUDNyRFl1aGRnSEMyRmFyeFA0WGlTM09wS1d3ZmxIaEVtMUlVRDBQUjhoSUxtWUU3dUN4NkZLbmV4N2dJ?oc=5",
       "source": "La Stampa",
       "sourceHost": "lastampa.it",
       "queryLabel": "Delmastro generale",
@@ -464,10 +464,15 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUUZLM0tyZVZaSFBaRFo4aXFXd0o0amo3Q3F6WGRaT0FtTVBiVE1PNjQ5c0NicTBJQUQwUWppekdpdEhTUU9EZUF0RGRiSG9heHNNcFF0V3JBY2l4d1dLTk04UEVoOTQ1V25XcHpZTGNWQUZTZGc0UWpCdkpiUTVLcmdJQzZteWcxTElwSnZaeUVKMW5UZWNiYUkzRl9nMWVNRjA4WnJUU05iSG1Hc1N5M1NVV2ZrRHVSVGVtblVxa0Z5T1dpWlNDZzFpX1h1RF9kZ1VZ?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
       ],
       "tags": [
         "giudiziaria"
@@ -484,10 +489,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxONzYzRFBPUmFGSXlvNXMteG9NTHJkZW5WT1VPeWVwVlVNZkgtcld4QXZiRWF0b0FzQzVmM0dHTUtlSVRUX0hIbnFjRWZkYjZTTDRpOHJFMkIycnRPOGRsZlFmMzRrNW10ZHp0dXYtZUk4cnhYUjNaY0pBclplaGZLS051aWRvbGsxenBaMy1TNDBFTlFxN20zbTJyamdwNEhCRkZPQmVvdFRZY3RMQ1hsTFhvdXo0M1JlemgxLUZCaHMteEwydURrdGdzalFKWGxXYV81UTM2dkdaZHJOZmhhQ1Y4ZlpNZ25XSGw5RG9UekNkQU9RTm94RWp4QkJ0dF92MkU5ZXZPUFo4UmZoR1Bnd0NoSS1BMVdjcGxVdGVsanZwX1F4aEZpakRwUDVsQzFkVlRFRXNWbTZBeXluRm5halJMMEZHN0JOUGEwX2tvM3BmV3FvcFJtZA?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Territorio",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Biella Delmastro",
+        "Torino Delmastro"
       ],
       "tags": [
         "territorio"
@@ -524,10 +529,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSFdpSGhZTmp0ck4zbFd4dG54dGxaUjZ5VUZZUkxIMGNvWHRIZUV4cDVLQi01OGY3SWFxdFlzeG5Td0gzOEVpTHBMN2VibUZIN0J2bm11ZEo1LUl1OXhIVEFkZFUwenlFVDAtbmpTSmd3dzktU2ZzMWRQTW8ySHgxMkdiOHR4cTktQk5DSmt2ZUVha29QdlZwVjhldjNmckRHNjNVMEVxLTJTNlFOeDlKdWoxVHlVZWpYOEJFVEZIUE5QTk9HTF92VGJWdy1nc0ZOUzJ5ODZ4X3VTSE12anZVQUY5bENYVlZvUHY5VlFTVW1WSTdvR2lTUHNyRGRWeHZrVEVnMA?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "giudiziaria"
@@ -538,10 +543,10 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__la stampa__finisce colpi querele lite strada sulla bisteccheria__2026-06-22T03:00:00.000Z",
+      "id": "lastampa.it__la stampa__finisce colpi querele lite strada sulla bisteccheria__2026-06-22T07:00:00.000Z",
       "title": "Finisce a colpi di querele la lite in strada sulla Bisteccheria",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWtsUzJHWjY1WmtmVEFBZl9jY0pkdEltbVRld3JsOWx1MjJvZUF2dGE5N2t6R2RaSGhKS05NLVN2UTR2RmhRM25yX056cDJieHJRUlZ5cFNfRGZYVno1ZUloaDJSaTNpUHpPekdGajVmNFZoZ0YwRFFoWkVPaV8xRHVvQ3M1WkFvRUtpbmlGZVFtQnVhcVJnSEpJdTJMYURLTUVjZnRIWmM5bE55SGlaYlJzbzRURWU3Y2ZFVtIBwgFBVV95cUxQN2M1emRhWmhhSzFGcHZBVnFOREItUmdmbFk0ak9qbU1IWHZKUG14djZfZUIwT1JfaHRUMWVoeGlPX0VGY2FsOTdQdy1RS1dzRkw1QnpYSmM1VkFMOVhBbGNUMldGazM4cUZEN25fby1RYkc5ZkUyajMyRlJCMGQ1bW42SGxDa3FzRWFGZFNaZlN0R1JSbXZ1VWNKSlJYeGRuN0NuVUdxaXB5OVZ6YnJEZWhZSVpkNXo4M0xpMWdpOVdqZw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWtsUzJHWjY1WmtmVEFBZl9jY0pkdEltbVRld3JsOWx1MjJvZUF2dGE5N2t6R2RaSGhKS05NLVN2UTR2RmhRM25yX056cDJieHJRUlZ5cFNfRGZYVno1ZUloaDJSaTNpUHpPekdGajVmNFZoZ0YwRFFoWkVPaV8xRHVvQ3M1WkFvRUtpbmlGZVFtQnVhcVJnSEpJdTJMYURLTUVjZnRIWmM5bE55SGlaYlJzbzRURWU3Y2ZFVtIBwgFBVV95cUxQN2M1emRhWmhhSzFGcHZBVnFOREItUmdmbFk0ak9qbU1IWHZKUG14djZfZUIwT1JfaHRUMWVoeGlPX0VGY2FsOTdQdy1RS1dzRkw1QnpYSmM1VkFMOVhBbGNUMldGazM4cUZEN25fby1RYkc5ZkUyajMyRlJCMGQ1bW42SGxDa3FzRWFGZFNaZlN0R1JSbXZ1VWNKSlJYeGRuN0NuVUdxaXB5OVZ6YnJEZWhZSVpkNXo4M0xpMWdpOVdqZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWtsUzJHWjY1WmtmVEFBZl9jY0pkdEltbVRld3JsOWx1MjJvZUF2dGE5N2t6R2RaSGhKS05NLVN2UTR2RmhRM25yX056cDJieHJRUlZ5cFNfRGZYVno1ZUloaDJSaTNpUHpPekdGajVmNFZoZ0YwRFFoWkVPaV8xRHVvQ3M1WkFvRUtpbmlGZVFtQnVhcVJnSEpJdTJMYURLTUVjZnRIWmM5bE55SGlaYlJzbzRURWU3Y2ZFVg?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWtsUzJHWjY1WmtmVEFBZl9jY0pkdEltbVRld3JsOWx1MjJvZUF2dGE5N2t6R2RaSGhKS05NLVN2UTR2RmhRM25yX056cDJieHJRUlZ5cFNfRGZYVno1ZUloaDJSaTNpUHpPekdGajVmNFZoZ0YwRFFoWkVPaV8xRHVvQ3M1WkFvRUtpbmlGZVFtQnVhcVJnSEpJdTJMYURLTUVjZnRIWmM5bE55SGlaYlJzbzRURWU3Y2ZFVg?oc=5",
       "source": "La Stampa",
       "sourceHost": "lastampa.it",
       "queryLabel": "Bisteccheria",
@@ -552,7 +557,7 @@
       "tags": [
         "bisteccheria"
       ],
-      "publishedAt": "2026-06-22T03:00:00.000Z",
+      "publishedAt": "2026-06-22T07:00:00.000Z",
       "excerpt": "Finisce a colpi di querele la lite in strada sulla Bisteccheria",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
@@ -747,10 +752,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU3h2QXdOc3UtZ1NHMlU1aTBpVzRNM2VsUXhiWm5vZ2hJUjRNRlJaOGVZQ2UtcFQwMklrVVl2OEgta1dQaU5iWWR4c1FvLXdJbzBzWmhuNjlaRV9SclZXRDV0TnVzQjJoM05fSy01OTIwS2MtSV8xQ0J0VHo4Tkd0bjhNQkNyUQ?oc=5",
       "source": "Adnkronos",
       "sourceHost": "adnkronos.com",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "giudiziaria"
@@ -928,36 +933,21 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSmZsRjFkN1BCbUJZNk9YNmVCdUZmZEp5V2tROXg0SWM2Q1VOWjNuWk9xa2NrWVdFVHZ5OVNCNktpRWk3dnZ6bnBmNVZxcE83enh3VTd3d19ZbldobE5xeF9VM19Vbjd4VmRMSmRNR3gwR0REYkxMaU90NFdhQ2hKZnR0TWxudXJwbTNKLVZwMXItTkZ5UWdsWld1ZVNBa1J2eFBoV21YblMxRi1JUXlhZEk0V1BPbEFRUm9GRmRDUGhCRGhZd1U0Z1VnMVp3emZydm9LODk0WVhtUk5oVkFybkI4aFY3eUZIeDNIeWN2UFU?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
       ],
       "tags": [
         "altro"
       ],
       "publishedAt": "2026-05-28T07:00:00.000Z",
       "excerpt": "Bistecche d’Italia, immunità extra-large: Parlamento pronto allo scudo pure per Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__direzione contraria repubblicani contro trump l accordo iran come quello obama casta continua destra pronta scudare delmastro__2026-05-28T07:00:00.000Z",
-      "title": "In direzione contraria - Repubblicani contro Trump: \"L'accordo in Iran è come quello di Obama\". Casta continua: la destra pronta a scudare Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNSlVUYWp3QnJZODkyWjRwc0pHMmZhdFBGSXMzRlZhaUpCanJRQlh4YURlb0JkM2hTRGtWRERQNVdmdjVsZDRTTkdTZ3FtWTkxeGp5cnhfR2dwN2JtX0JmWlFQY1pvSTliSDktUVpZMUF3YnM0SmxDNDh2VEJ5a0xPb3FSZjZ5R0RLNEdlYW5FWmpHd3pVQ0Rob2RUWDZscTZSdVpDSW1uOE5FdnR4RnhoNG5rVUNOWUJLZzczRURQTWg5eV9DdDhodzAxY2N5dExoRFN1TXR5WFFrdTkyTFNTSmFVcHJDTnlFWThlOW9DSkxOM0YzeHpFVWlQcU9kYi1YbTRpTm5HdzlrVksyTnZZcjJNcWdnZ2YtREhyYlpqcGFuQmJyZFUtRWF5UWZfX2hsVk9wdFVzeFA?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNSlVUYWp3QnJZODkyWjRwc0pHMmZhdFBGSXMzRlZhaUpCanJRQlh4YURlb0JkM2hTRGtWRERQNVdmdjVsZDRTTkdTZ3FtWTkxeGp5cnhfR2dwN2JtX0JmWlFQY1pvSTliSDktUVpZMUF3YnM0SmxDNDh2VEJ5a0xPb3FSZjZ5R0RLNEdlYW5FWmpHd3pVQ0Rob2RUWDZscTZSdVpDSW1uOE5FdnR4RnhoNG5rVUNOWUJLZzczRURQTWg5eV9DdDhodzAxY2N5dExoRFN1TXR5WFFrdTkyTFNTSmFVcHJDTnlFWThlOW9DSkxOM0YzeHpFVWlQcU9kYi1YbTRpTm5HdzlrVksyTnZZcjJNcWdnZ2YtREhyYlpqcGFuQmJyZFUtRWF5UWZfX2hsVk9wdFVzeFA?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-28T07:00:00.000Z",
-      "excerpt": "In direzione contraria - Repubblicani contro Trump: \"L'accordo in Iran è come quello di Obama\". Casta continua: la destra pronta a scudare Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1147,8 +1137,8 @@
     {
       "id": "today.it__today.it__caso delmastro pm chiedono camera acquisire chat caroccia__2026-05-27T07:00:00.000Z",
       "title": "Caso Delmastro, i pm chiedono alla Camera di acquisire le chat con Caroccia",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGg5OFNMTHlaQzlqMmthX3dHU1I2Mm1Lc2dIY0dUR21iVkpLemZjRENSQnhxdE1jWXBDdjd3Ny1ub09YOTQ5eFEyRGpJWGY3SE5JUUVFN3UzUjczTzJsVWNDaUUwX3ZwVldZNkYwNWFtZnJBeG9LdjAya0tuZDh3VNIBgAFBVV95cUxQNklkelItU1UtalFnYjhhX3JiMktpR3U2Qy1TWGc2VVIya1J2cjgwRDZ1YnBrYlliY0Izbk5hSU8yQkRwdTBBd0s0SzRrMWlpLXV5RXh1WmxQYkY4Y0RNdnRyQ2JUbVV2YUU3U1ozanJqTEs3RHFzMnRydjl5bmJlaQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGg5OFNMTHlaQzlqMmthX3dHU1I2Mm1Lc2dIY0dUR21iVkpLemZjRENSQnhxdE1jWXBDdjd3Ny1ub09YOTQ5eFEyRGpJWGY3SE5JUUVFN3UzUjczTzJsVWNDaUUwX3ZwVldZNkYwNWFtZnJBeG9LdjAya0tuZDh3VNIBgAFBVV95cUxQNklkelItU1UtalFnYjhhX3JiMktpR3U2Qy1TWGc2VVIya1J2cjgwRDZ1YnBrYlliY0Izbk5hSU8yQkRwdTBBd0s0SzRrMWlpLXV5RXh1WmxQYkY4Y0RNdnRyQ2JUbVV2YUU3U1ozanJqTEs3RHFzMnRydjl5bmJlaQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGg5OFNMTHlaQzlqMmthX3dHU1I2Mm1Lc2dIY0dUR21iVkpLemZjRENSQnhxdE1jWXBDdjd3Ny1ub09YOTQ5eFEyRGpJWGY3SE5JUUVFN3UzUjczTzJsVWNDaUUwX3ZwVldZNkYwNWFtZnJBeG9LdjAya0tuZDh3VA?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGg5OFNMTHlaQzlqMmthX3dHU1I2Mm1Lc2dIY0dUR21iVkpLemZjRENSQnhxdE1jWXBDdjd3Ny1ub09YOTQ5eFEyRGpJWGY3SE5JUUVFN3UzUjczTzJsVWNDaUUwX3ZwVldZNkYwNWFtZnJBeG9LdjAya0tuZDh3VA?oc=5",
       "source": "today.it",
       "sourceHost": "today.it",
       "queryLabel": "Delmastro generale",
@@ -1326,22 +1316,23 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro spiega caso bistecche d italia antimafia non ho cercato google chi fosse caroccia__2026-05-27T07:00:00.000Z",
-      "title": "Delmastro spiega il caso Bistecche d’Italia in Antimafia: “Non ho cercato su Google chi fosse Caroccia”",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWlNqOXU0YUo2clNmRkREMkVPU3lQREFhUjctckNHNFJ6SUFwdlFYdGlQeHdyZTcybUczWjNsU095ZFROeFM2QVdseHlGcnB5OXN3YzJCOVZTdzJCTGtNUl9KLXZqa3hiRC1DY05lX0ZGYkVBWG5tMy12X3RsMmxlcHUwXzdwRElXOXJBM25obGZzUWQycThsYW1GV1pnSzZLbnJJRkdBa0E2Q2c2Ujkxd3pEcWhfWE9VQ1JLUlRXTUZ2LUJOM0ZXRmE1RGtrYVFuSV9GNGh0dmRzWGdmTC1YWkx4cDI1dzJjYWkycFB6WkhQUU9Ja3JBaTJZWjZSZWo4dXc?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWlNqOXU0YUo2clNmRkREMkVPU3lQREFhUjctckNHNFJ6SUFwdlFYdGlQeHdyZTcybUczWjNsU095ZFROeFM2QVdseHlGcnB5OXN3YzJCOVZTdzJCTGtNUl9KLXZqa3hiRC1DY05lX0ZGYkVBWG5tMy12X3RsMmxlcHUwXzdwRElXOXJBM25obGZzUWQycThsYW1GV1pnSzZLbnJJRkdBa0E2Q2c2Ujkxd3pEcWhfWE9VQ1JLUlRXTUZ2LUJOM0ZXRmE1RGtrYVFuSV9GNGh0dmRzWGdmTC1YWkx4cDI1dzJjYWkycFB6WkhQUU9Ja3JBaTJZWjZSZWo4dXc?oc=5",
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__bisteccheria d italia procura chiede camere accedere tutte chat andrea delmastro mauro caroccia__2026-05-27T07:00:00.000Z",
+      "title": "Bisteccheria d’Italia, la procura chiede alla Camere di accedere a tutte le chat tra Andrea Delmastro e Mauro Caroccia",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXZCVEp6NmtTZVNCRUdmNE1CWGxJbHFCbUZXR2pSNjhidWpkLU1aUHhyMWtyM3dfU2FIcWlaQWlGcHVXUXlfcmlHMHdjamg2VDNyUGVSMDBPT1JmYzhUeHpUNS1UbkM4b1l6SFJzQ1oxTkY2VXJLSlZUYkx6SU90VHVxeTZzUEl4NWlvcEpUTTROOVFaMDFncWlqME1vZVVY?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXZCVEp6NmtTZVNCRUdmNE1CWGxJbHFCbUZXR2pSNjhidWpkLU1aUHhyMWtyM3dfU2FIcWlaQWlGcHVXUXlfcmlHMHdjamg2VDNyUGVSMDBPT1JmYzhUeHpUNS1UbkM4b1l6SFJzQ1oxTkY2VXJLSlZUYkx6SU90VHVxeTZzUEl4NWlvcEpUTTROOVFaMDFncWlqME1vZVVY?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
-        "giudiziaria"
+        "giudiziaria",
+        "bisteccheria"
       ],
       "publishedAt": "2026-05-27T07:00:00.000Z",
-      "excerpt": "Delmastro spiega il caso Bistecche d’Italia in Antimafia: “Non ho cercato su Google chi fosse Caroccia”",
+      "excerpt": "Bisteccheria d’Italia, la procura chiede alla Camere di accedere a tutte le chat tra Andrea Delmastro e Mauro Caroccia",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1352,10 +1343,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV3JGaWxWYktwbUpnRW94NjQwSXQ5LWE2bkJaOXJIdFJkM3JtN2FRVW9uVHZaTGtxTTV2Q2RxdFV0SC0xTjk2UmFhWF84TXNsQm90VEx0dV96TlplYk5xbXNUTVBXRV9UWXB4SUtqcVRZMkdLYl92bEtoWHAta0hfN1llME03NHlSa0dnQ2hCWkk5WVNzVlYzbkNTNXQzUQ?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "politica"
@@ -1366,23 +1357,27 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__bisteccheria d italia procura chiede camere accedere tutte chat andrea delmastro mauro caroccia__2026-05-27T07:00:00.000Z",
-      "title": "Bisteccheria d’Italia, la procura chiede alla Camere di accedere a tutte le chat tra Andrea Delmastro e Mauro Caroccia",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXZCVEp6NmtTZVNCRUdmNE1CWGxJbHFCbUZXR2pSNjhidWpkLU1aUHhyMWtyM3dfU2FIcWlaQWlGcHVXUXlfcmlHMHdjamg2VDNyUGVSMDBPT1JmYzhUeHpUNS1UbkM4b1l6SFJzQ1oxTkY2VXJLSlZUYkx6SU90VHVxeTZzUEl4NWlvcEpUTTROOVFaMDFncWlqME1vZVVY?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXZCVEp6NmtTZVNCRUdmNE1CWGxJbHFCbUZXR2pSNjhidWpkLU1aUHhyMWtyM3dfU2FIcWlaQWlGcHVXUXlfcmlHMHdjamg2VDNyUGVSMDBPT1JmYzhUeHpUNS1UbkM4b1l6SFJzQ1oxTkY2VXJLSlZUYkx6SU90VHVxeTZzUEl4NWlvcEpUTTROOVFaMDFncWlqME1vZVVY?oc=5",
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro spiega caso bistecche d italia antimafia non ho cercato google chi fosse caroccia__2026-05-27T07:00:00.000Z",
+      "title": "Delmastro spiega il caso Bistecche d’Italia in Antimafia: “Non ho cercato su Google chi fosse Caroccia”",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWlNqOXU0YUo2clNmRkREMkVPU3lQREFhUjctckNHNFJ6SUFwdlFYdGlQeHdyZTcybUczWjNsU095ZFROeFM2QVdseHlGcnB5OXN3YzJCOVZTdzJCTGtNUl9KLXZqa3hiRC1DY05lX0ZGYkVBWG5tMy12X3RsMmxlcHUwXzdwRElXOXJBM25obGZzUWQycThsYW1GV1pnSzZLbnJJRkdBa0E2Q2c2Ujkxd3pEcWhfWE9VQ1JLUlRXTUZ2LUJOM0ZXRmE1RGtrYVFuSV9GNGh0dmRzWGdmTC1YWkx4cDI1dzJjYWkycFB6WkhQUU9Ja3JBaTJZWjZSZWo4dXc?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWlNqOXU0YUo2clNmRkREMkVPU3lQREFhUjctckNHNFJ6SUFwdlFYdGlQeHdyZTcybUczWjNsU095ZFROeFM2QVdseHlGcnB5OXN3YzJCOVZTdzJCTGtNUl9KLXZqa3hiRC1DY05lX0ZGYkVBWG5tMy12X3RsMmxlcHUwXzdwRElXOXJBM25obGZzUWQycThsYW1GV1pnSzZLbnJJRkdBa0E2Q2c2Ujkxd3pEcWhfWE9VQ1JLUlRXTUZ2LUJOM0ZXRmE1RGtrYVFuSV9GNGh0dmRzWGdmTC1YWkx4cDI1dzJjYWkycFB6WkhQUU9Ja3JBaTJZWjZSZWo4dXc?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
       ],
       "tags": [
-        "giudiziaria",
-        "bisteccheria"
+        "giudiziaria"
       ],
       "publishedAt": "2026-05-27T07:00:00.000Z",
-      "excerpt": "Bisteccheria d’Italia, la procura chiede alla Camere di accedere a tutte le chat tra Andrea Delmastro e Mauro Caroccia",
+      "excerpt": "Delmastro spiega il caso Bistecche d’Italia in Antimafia: “Non ho cercato su Google chi fosse Caroccia”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1413,10 +1408,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObVVGeGhXbENvSzN0ZzFfb1pSYnl1U1VYRW41ejJTMmY2Ny11bng0Yk10X3JncHVFOWYyVWRLRmZCNVhUY1VVOVlXZmRWQVN1TVNzeHFLQUY0cnNCOGRuekxqQlZCN1ZqR2Flb1pnQXV1ektlc3QxcnZrN3hJVU5Ra19LTjlaNHNDZHp3dTJXN1pMU1VPNFVSWk9SU3BzSXlaejBFbFI3M0lTYlhlMHp1MzRpam1BaHFxdUNMMmx6T212YkpWTmVqVGpFLTJqS1BtN1lIcy1xZw?oc=5",
       "source": "Adnkronos",
       "sourceHost": "adnkronos.com",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "giudiziaria"
@@ -1691,42 +1686,42 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__blog ho ascoltato delmastro antimafia mi sono convinto vittima trappola__2026-05-26T07:00:00.000Z",
-      "title": "Blog | Ho ascoltato Delmastro in Antimafia e mi sono convinto: è vittima di una trappola!",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmtJaGd5VlNyUVhWZ3NkRXlxNFFOZm01VDlOVk9STW5wbEwyOEJyYkczUUZ6NzR6MjMxVUFOaU1QMFR1THZjU2xWX3hTQzk0RDBMREwxeGRhOUFnOFd1UEZwRUhIVDd2VWNiMDhFdzgtOFAyekNoaVk3aWpmSFg5QkhmR3NGUkdMS0loamVwcmFidGhiSDRHeEMwOHV4V1lFam5N?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmtJaGd5VlNyUVhWZ3NkRXlxNFFOZm01VDlOVk9STW5wbEwyOEJyYkczUUZ6NzR6MjMxVUFOaU1QMFR1THZjU2xWX3hTQzk0RDBMREwxeGRhOUFnOFd1UEZwRUhIVDd2VWNiMDhFdzgtOFAyekNoaVk3aWpmSFg5QkhmR3NGUkdMS0loamVwcmFidGhiSDRHeEMwOHV4V1lFam5N?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-05-26T07:00:00.000Z",
-      "excerpt": "Blog | Ho ascoltato Delmastro in Antimafia e mi sono convinto: è vittima di una trappola!",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__bisteccheria d italia delmastro mi sento vittima non sapevo chi fosse caroccia bastava guardare google imperdonabile leggerezza politica__2026-05-26T07:00:00.000Z",
       "title": "Bisteccheria d’Italia, Delmastro: “Mi sento vittima, non sapevo chi fosse Caroccia. Bastava guardare su Google, imperdonabile leggerezza politica”",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmRJandPOFJXSWYxQkxOcWlFVHAwQVdXOU1sc3U5UVJRdndvVGdSd3FPRWJkYkZpZzhYM0pWeFA0SDhCYnU4RDBNX292RmFwUlRmdjZpZk11ZkhIMjRHQ0ZTZHBqdWZTZklLUl9Wd0Jwa3RBRzB2YTRyQmFuS1laZUd2b0NKX29lN3hjekZ6TkZmVk9WRUFHSEhLcDhEa0M4ZFE?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmRJandPOFJXSWYxQkxOcWlFVHAwQVdXOU1sc3U5UVJRdndvVGdSd3FPRWJkYkZpZzhYM0pWeFA0SDhCYnU4RDBNX292RmFwUlRmdjZpZk11ZkhIMjRHQ0ZTZHBqdWZTZklLUl9Wd0Jwa3RBRzB2YTRyQmFuS1laZUd2b0NKX29lN3hjekZ6TkZmVk9WRUFHSEhLcDhEa0M4ZFE?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "bisteccheria"
       ],
       "publishedAt": "2026-05-26T07:00:00.000Z",
       "excerpt": "Bisteccheria d’Italia, Delmastro: “Mi sento vittima, non sapevo chi fosse Caroccia. Bastava guardare su Google, imperdonabile leggerezza politica”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__blog ho ascoltato delmastro antimafia mi sono convinto vittima trappola__2026-05-26T07:00:00.000Z",
+      "title": "Blog | Ho ascoltato Delmastro in Antimafia e mi sono convinto: è vittima di una trappola!",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmtJaGd5VlNyUVhWZ3NkRXlxNFFOZm01VDlOVk9STW5wbEwyOEJyYkczUUZ6NzR6MjMxVUFOaU1QMFR1THZjU2xWX3hTQzk0RDBMREwxeGRhOUFnOFd1UEZwRUhIVDd2VWNiMDhFdzgtOFAyekNoaVk3aWpmSFg5QkhmR3NGUkdMS0loamVwcmFidGhiSDRHeEMwOHV4V1lFam5N?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmtJaGd5VlNyUVhWZ3NkRXlxNFFOZm01VDlOVk9STW5wbEwyOEJyYkczUUZ6NzR6MjMxVUFOaU1QMFR1THZjU2xWX3hTQzk0RDBMREwxeGRhOUFnOFd1UEZwRUhIVDd2VWNiMDhFdzgtOFAyekNoaVk3aWpmSFg5QkhmR3NGUkdMS0loamVwcmFidGhiSDRHeEMwOHV4V1lFam5N?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-05-26T07:00:00.000Z",
+      "excerpt": "Blog | Ho ascoltato Delmastro in Antimafia e mi sono convinto: è vittima di una trappola!",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1778,10 +1773,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOVBSX3FLSUQ2ZkdoSmM3VDFFNVFJaVhnWS1iTHhZbDdOTjB1YThJYjJzdDNxWWliNlBDU2lGdXRsUHBPWUJJZzlYY1lSdnlRZkVUaHAwUUNRWXJiYmQ3M1NtMHRpaVpUV1lYR2Z2WHQzZjdNR2FKWFlqMC1DU2pNM0xkZjlkME9jd2pRUWFCVlRvQ0NtdlZvVUZPR0hfWXhNekZVcGtBMzNGcGZQbGtsOHZ2S1loNXZUN3VVWVlxeWpac01j?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "bisteccheria"
@@ -1808,26 +1803,6 @@
       ],
       "publishedAt": "2026-05-21T07:00:00.000Z",
       "excerpt": "Il giudice ribalta il Pg: condannato Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__cospito delmastro condannato 8 mesi pure appello ricorrero cassazione__2026-05-21T07:00:00.000Z",
-      "title": "Cospito, Delmastro condannato a 8 mesi pure in Appello: “Ricorrerò in Cassazione”",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUWRNdjRCUE94al9FUTl5OUZaU3E5RjBFZ01PUDVMYjRXcU9lb1NLdzhjSGd0MmRSY1dPOGpsd1RhY0Vha2dDdm0tNmllYW92b0JPMEtLUDRnSVROZWpZV0pGMFpibXdvWWZQQU1ZRVVZbldNLUFJeHZmRWR4QzBSei05aTNwXzM5NWZJejAtclVseUtUaXdxTEF0SlZ5QlVEemFybkx6b2FLR0w3QXpUbFh5LVhTLVlabWdEOUloMWFnQkp3TFhHQWRiQ2VJSHFfSFVVdVk3OFRVR2JaQVVWR3lVdVM?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUWRNdjRCUE94al9FUTl5OUZaU3E5RjBFZ01PUDVMYjRXcU9lb1NLdzhjSGd0MmRSY1dPOGpsd1RhY0Vha2dDdm0tNmllYW92b0JPMEtLUDRnSVROZWpZV0pGMFpibXdvWWZQQU1ZRVVZbldNLUFJeHZmRWR4QzBSei05aTNwXzM5NWZJejAtclVseUtUaXdxTEF0SlZ5QlVEemFybkx6b2FLR0w3QXpUbFh5LVhTLVlabWdEOUloMWFnQkp3TFhHQWRiQ2VJSHFfSFVVdVk3OFRVR2JaQVVWR3lVdVM?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-21T07:00:00.000Z",
-      "excerpt": "Cospito, Delmastro condannato a 8 mesi pure in Appello: “Ricorrerò in Cassazione”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     }

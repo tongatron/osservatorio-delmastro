@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T18:06:58.302Z",
+  "generatedAt": "2026-07-07T20:27:14.413Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-05-23T18:06:58.302Z",
-    "to": "2026-07-07T18:06:58.302Z",
+    "from": "2026-05-23T20:27:14.413Z",
+    "to": "2026-07-07T20:27:14.413Z",
     "days": 45
   },
   "sources": [
@@ -113,7 +113,7 @@
     },
     {
       "label": "lastampa.it",
-      "articleCount": 6
+      "articleCount": 7
     },
     {
       "label": "corriere.it",
@@ -171,27 +171,27 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 124,
-      "uniqueArticles": 61
+      "fetchedArticles": 125,
+      "uniqueArticles": 62
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 42,
-      "uniqueArticles": 0
-    },
-    {
-      "label": "Persone collegate",
       "fetchedArticles": 47,
       "uniqueArticles": 0
     },
     {
+      "label": "Persone collegate",
+      "fetchedArticles": 46,
+      "uniqueArticles": 0
+    },
+    {
       "label": "Filone giudiziario",
-      "fetchedArticles": 41,
+      "fetchedArticles": 38,
       "uniqueArticles": 0
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 42,
+      "fetchedArticles": 43,
       "uniqueArticles": 0
     },
     {
@@ -207,15 +207,15 @@
     },
     {
       "tag": "bisteccheria",
-      "count": 10
+      "count": 11
+    },
+    {
+      "tag": "territorio",
+      "count": 9
     },
     {
       "tag": "altro",
       "count": 9
-    },
-    {
-      "tag": "territorio",
-      "count": 8
     },
     {
       "tag": "politica",
@@ -345,7 +345,7 @@
     },
     {
       "date": "2026-06-21",
-      "count": 5
+      "count": 6
     },
     {
       "date": "2026-06-22",
@@ -611,6 +611,27 @@
       ],
       "publishedAt": "2026-06-21T07:00:00.000Z",
       "excerpt": "Biella, lite e spintoni con il consigliere Zappalà: interviene la scorta di Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "lastampa.it__la stampa__biella lite spintoni strada caso bisteccheria interviene scorta delmastro__2026-06-21T07:00:00.000Z",
+      "title": "Biella, lite con spintoni in strada per il caso Bisteccheria: interviene la scorta di Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVDFtS0ZmNXZ3Qnp0WUZlOXpQYzBraDBESUNrUXItMklDQWNob21MMXVqb0xrcnpteHdCZVRQM1hpa1hSR0V1bUxrdGdTQUdZd1FWNzVNaWRSZ3dtZ1M1QUZkMXhUREFETF96eGxCOGhEU2UxVVFic2ZoMU1TQ1F3M0tNYWM0UzBqSkxFNHllR2hqREk2UTVTSGVlMmx0d1ZTU3dSMnFSclhaSW9KNmZjX2ZHaVExQVJ1VmdZV3BlRmZTNUpHYjVvaWlxQU5IQ1lZUWJ0dU5kSnpLdXJIM0RUa25GNmrSAeoBQVVfeXFMTVdKYmlrUE1OMkx0ak45X1BxeF92MnZOU0MzV2ZfcGxQMG9UbmNkVWNwV0JWUVd6QVhiUzVwSVZzclJuRG5sbjItWUpTdDZvdENHU1JrU3l1M0haRnJYalRpNnJjZzBnV2dGZVh5UUxfVGhkaHZnbXJlV3NGcnNCM3BsNWpXUHgyRjdRRXdxU1lfWEZTZHpzWEhHNnhaSlpfYkJXc29yMVItUU1qUTRZanhGWGtaVXFiQzJzUUgydFRMMTlGUGtjNTBLb2ZuOHpITXhwb3FaVVJ1eEpBU0lLNkZ0ZkZ3MjBfN0ZR?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVDFtS0ZmNXZ3Qnp0WUZlOXpQYzBraDBESUNrUXItMklDQWNob21MMXVqb0xrcnpteHdCZVRQM1hpa1hSR0V1bUxrdGdTQUdZd1FWNzVNaWRSZ3dtZ1M1QUZkMXhUREFETF96eGxCOGhEU2UxVVFic2ZoMU1TQ1F3M0tNYWM0UzBqSkxFNHllR2hqREk2UTVTSGVlMmx0d1ZTU3dSMnFSclhaSW9KNmZjX2ZHaVExQVJ1VmdZV3BlRmZTNUpHYjVvaWlxQU5IQ1lZUWJ0dU5kSnpLdXJIM0RUa25GNmrSAeoBQVVfeXFMTVdKYmlrUE1OMkx0ak45X1BxeF92MnZOU0MzV2ZfcGxQMG9UbmNkVWNwV0JWUVd6QVhiUzVwSVZzclJuRG5sbjItWUpTdDZvdENHU1JrU3l1M0haRnJYalRpNnJjZzBnV2dGZVh5UUxfVGhkaHZnbXJlV3NGcnNCM3BsNWpXUHgyRjdRRXdxU1lfWEZTZHpzWEhHNnhaSlpfYkJXc29yMVItUU1qUTRZanhGWGtaVXFiQzJzUUgydFRMMTlGUGtjNTBLb2ZuOHpITXhwb3FaVVJ1eEpBU0lLNkZ0ZkZ3MjBfN0ZR?oc=5",
+      "source": "La Stampa",
+      "sourceHost": "lastampa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "bisteccheria",
+        "territorio"
+      ],
+      "publishedAt": "2026-06-21T07:00:00.000Z",
+      "excerpt": "Biella, lite con spintoni in strada per il caso Bisteccheria: interviene la scorta di Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

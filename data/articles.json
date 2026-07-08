@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T14:57:00.673Z",
+  "generatedAt": "2026-07-08T16:45:28.780Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-05-24T14:57:00.673Z",
-    "to": "2026-07-08T14:57:00.673Z",
+    "from": "2026-05-24T16:45:28.780Z",
+    "to": "2026-07-08T16:45:28.780Z",
     "days": 45
   },
   "sources": [
@@ -132,10 +132,6 @@
       "articleCount": 2
     },
     {
-      "label": "fanpage.it",
-      "articleCount": 2
-    },
-    {
       "label": "huffingtonpost.it",
       "articleCount": 2
     },
@@ -160,6 +156,10 @@
       "articleCount": 1
     },
     {
+      "label": "fanpage.it",
+      "articleCount": 1
+    },
+    {
       "label": "open.online",
       "articleCount": 1
     },
@@ -175,27 +175,27 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 126,
-      "uniqueArticles": 62
+      "fetchedArticles": 122,
+      "uniqueArticles": 60
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 49,
-      "uniqueArticles": 0
-    },
-    {
-      "label": "Soci e societa'",
-      "fetchedArticles": 43,
-      "uniqueArticles": 0
+      "fetchedArticles": 46,
+      "uniqueArticles": 1
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 47,
+      "fetchedArticles": 46,
       "uniqueArticles": 0
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 39,
+      "fetchedArticles": 40,
+      "uniqueArticles": 0
+    },
+    {
+      "label": "Soci e societa'",
+      "fetchedArticles": 40,
       "uniqueArticles": 0
     },
     {
@@ -214,11 +214,11 @@
       "count": 12
     },
     {
-      "tag": "altro",
-      "count": 9
+      "tag": "territorio",
+      "count": 8
     },
     {
-      "tag": "territorio",
+      "tag": "altro",
       "count": 8
     },
     {
@@ -253,7 +253,7 @@
     },
     {
       "date": "2026-05-29",
-      "count": 2
+      "count": 1
     },
     {
       "date": "2026-05-30",
@@ -780,26 +780,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "fanpage.it__fanpage__non lasciamo respirare detenuti chiesta l archiviazione delmastro frasi shock__2026-05-29T07:00:00.000Z",
-      "title": "“Non lasciamo respirare i detenuti”: chiesta l’archiviazione per Delmastro su frasi shock",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdGlvbldsTjRONDd2VnFtSnFUdDY2cFRRT1hRalhzVEQ1ZEpvR3JROWlORDFjckJOa1F1QzNtYnBpZHBiMFNYWUZycldRdHVqUVgteW9lM2NvT2dMOXRKdnhzSThyYWpoS1k0YXpSR1IzRG5FMldKWE1HcEc0aHBYOXIybVNHVXF5X29PQ0pIZWlrTUF1WlMxSUZHX3FGcVhmeVZmVTVNajJPMXVpVzl4aTFCWTJsT21ZX2c?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdGlvbldsTjRONDd2VnFtSnFUdDY2cFRRT1hRalhzVEQ1ZEpvR3JROWlORDFjckJOa1F1QzNtYnBpZHBiMFNYWUZycldRdHVqUVgteW9lM2NvT2dMOXRKdnhzSThyYWpoS1k0YXpSR1IzRG5FMldKWE1HcEc0aHBYOXIybVNHVXF5X29PQ0pIZWlrTUF1WlMxSUZHX3FGcVhmeVZmVTVNajJPMXVpVzl4aTFCWTJsT21ZX2c?oc=5",
-      "source": "Fanpage",
-      "sourceHost": "fanpage.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-29T07:00:00.000Z",
-      "excerpt": "“Non lasciamo respirare i detenuti”: chiesta l’archiviazione per Delmastro su frasi shock",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "repubblica.it__la repubblica__pm chiedono parlamento chat delmastro caroccia fdi frena sinistra attacca__2026-05-28T07:00:00.000Z",
       "title": "I pm chiedono al Parlamento le chat Delmastro-Caroccia. FdI frena, la sinistra attacca",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWkFMRW00b0Nja0JSZlFMUjcwb3gxdTA1aXlSN2ozYjNvY21RcVlCaldxejlESmh4b3hwcnpIcThMZmRLajhYcmxmVHd6TUpIU0pmX2RaTWZDWTktdzNqcXdYLUR2R21xemlFSXZkckNtTlNwdWpTN0R4SVk2NG0wRjNPcjAzTnRPSXBJdkVLOFhGNVkxT3dETzRHVFBXbFQ5TWxF0gGoAUFVX3lxTFBRcmhNTHp0aDdlNHNsY1Ntc01fdEpBamZodl9XVXBqWlNLakNxak9oZGhUMG9PelY2OFh2ZDdKWmpwYkg1a2lUdm1SQVAxZlFmSi16ZnJVNE80dllEdW4zRV80UFVEd1hjOE8xbDlkSWk1ZFdIdzBXblFINGRjUExQTEx6VFZLenREUDMyS0trMmg5cDdTZDlmb3d2UDhoVUJOb0xFeVZaVg?oc=5",
@@ -1028,10 +1008,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSzZzdHA5TDhkbmFmVmxUWjBCcGpyT2EtalU4SndBbW9rQkwyQVR1LUl5MWIwUWRxd3hkQTF0V1BPOW1VZmpBamJ5Q0pGQWFUOXlwX0MwUTdpdW9vQk5lOWF5cTVOLVd3UFJFbUFXbWZoUUJ4b0dqZnFleDJEUkN6b0g2WVFUWUM5UmZkYkFzd3E4ZjBmbTh5anpUbEh2OVZoYkw0d0NzbDJCcWlWRlhHUWFjRFM5MUVPS3FQeTJ1VWN1ckdNWUc5TXlB?oc=5",
       "source": "Fanpage",
       "sourceHost": "fanpage.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "giudiziaria",

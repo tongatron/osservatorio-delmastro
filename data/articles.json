@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T04:00:47.867Z",
+  "generatedAt": "2026-07-10T07:59:30.544Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,45 +94,41 @@
     ]
   },
   "window": {
-    "from": "2026-05-26T04:00:47.867Z",
-    "to": "2026-07-10T04:00:47.867Z",
+    "from": "2026-05-26T07:59:30.544Z",
+    "to": "2026-07-10T07:59:30.544Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 10
-    },
-    {
-      "label": "rainews.it",
-      "articleCount": 9
+      "articleCount": 8
     },
     {
       "label": "repubblica.it",
-      "articleCount": 7
+      "articleCount": 6
     },
     {
       "label": "lastampa.it",
-      "articleCount": 7
+      "articleCount": 6
+    },
+    {
+      "label": "rainews.it",
+      "articleCount": 6
     },
     {
       "label": "corriere.it",
-      "articleCount": 5
+      "articleCount": 4
     },
     {
       "label": "ilgiornale.it",
-      "articleCount": 4
-    },
-    {
-      "label": "ansa.it",
-      "articleCount": 4
+      "articleCount": 3
     },
     {
       "label": "fanpage.it",
       "articleCount": 2
     },
     {
-      "label": "huffingtonpost.it",
+      "label": "ansa.it",
       "articleCount": 2
     },
     {
@@ -145,6 +141,10 @@
     },
     {
       "label": "newsbiella.it",
+      "articleCount": 1
+    },
+    {
+      "label": "huffingtonpost.it",
       "articleCount": 1
     },
     {
@@ -162,68 +162,60 @@
     {
       "label": "quotidiano.net",
       "articleCount": 1
-    },
-    {
-      "label": "today.it",
-      "articleCount": 1
-    },
-    {
-      "label": "ilfoglio.it",
-      "articleCount": 1
     }
   ],
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 122,
-      "uniqueArticles": 60
+      "fetchedArticles": 92,
+      "uniqueArticles": 46
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 46,
+      "fetchedArticles": 34,
       "uniqueArticles": 0
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 46,
+      "fetchedArticles": 33,
       "uniqueArticles": 0
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 36,
+      "fetchedArticles": 17,
       "uniqueArticles": 0
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 41,
+      "fetchedArticles": 30,
       "uniqueArticles": 0
     },
     {
       "label": "Territorio",
-      "fetchedArticles": 2,
+      "fetchedArticles": 1,
       "uniqueArticles": 0
     }
   ],
   "tagSummary": [
     {
       "tag": "giudiziaria",
-      "count": 36
+      "count": 28
     },
     {
       "tag": "bisteccheria",
-      "count": 12
-    },
-    {
-      "tag": "altro",
-      "count": 9
+      "count": 8
     },
     {
       "tag": "territorio",
       "count": 7
     },
     {
+      "tag": "altro",
+      "count": 5
+    },
+    {
       "tag": "politica",
-      "count": 6
+      "count": 4
     },
     {
       "tag": "societa'",
@@ -233,7 +225,7 @@
   "timeline": [
     {
       "date": "2026-05-26",
-      "count": 14
+      "count": 0
     },
     {
       "date": "2026-05-27",
@@ -1342,290 +1334,6 @@
       ],
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "excerpt": "Chat tra Delmastro e Caroccia, la Procura di Roma chiede l’autorizzazione alla Camera per acquisirle. Centrodestra pronto a respingere la richiesta",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ansa.it__ansa__delmastro finii locale caroccia perche era carino__2026-05-26T07:00:00.000Z",
-      "title": "Delmastro, 'finii nel locale dei Caroccia perché era carino'",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSVNhb3NpSXNVVlRnUFUyWDRmM29sWjN3NFQ2bFh5MU0xbmZUdDloX2N3Z1JSSkdvOFl0UkVrczhfemdNWW9HQ2ZROGpMa0kzZTRIazdCLTF1VzlJcC0tMUNBS19HS3pLektzSF8yMXl2ZGxCN1VUVEllOHFTLXkybXJpaU9GRVlaaTl6YXpMZ1F6S1VobFVPWVNFVGRLSWExTGE3V1NKN1hVNHV2b1JaT05fbTViUlpqN244eTh2eVQtTFJHR2I1NzJfajQ0bjNsSTdBaHdDamprSlkxQ0t5ZUlBVUJlUdIB6wFBVV95cUxOZk83OUd5SHJIS1RrOFNLLUxmSXdrSy1XUXdrbXJRcXVTc3pOTC1uSHZnNjdZVTVGdTctelB2Z3ltVHlmOHA2R3hndmlSX2xhemEtTVgxaC1KdDhTekRKZ2ZuYlptNl91RUhERXNtckF3N2RyYmdSeW1Od2M0VGVrNF9idS1Ba00yYnlPUHZNNTlLY3ZLYkFCOGg3SE5BMVZ1Tmd6WG5BV2pnN2taYnpoWDNzUlN3eE1uOWJacDB3cE04WUZzVE5ZY0VLcktXQnYwVW9OYW9tNTIzSkxFcl9LTnUzcmMzT2dJMGVz?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSVNhb3NpSXNVVlRnUFUyWDRmM29sWjN3NFQ2bFh5MU0xbmZUdDloX2N3Z1JSSkdvOFl0UkVrczhfemdNWW9HQ2ZROGpMa0kzZTRIazdCLTF1VzlJcC0tMUNBS19HS3pLektzSF8yMXl2ZGxCN1VUVEllOHFTLXkybXJpaU9GRVlaaTl6YXpMZ1F6S1VobFVPWVNFVGRLSWExTGE3V1NKN1hVNHV2b1JaT05fbTViUlpqN244eTh2eVQtTFJHR2I1NzJfajQ0bjNsSTdBaHdDamprSlkxQ0t5ZUlBVUJlUdIB6wFBVV95cUxOZk83OUd5SHJIS1RrOFNLLUxmSXdrSy1XUXdrbXJRcXVTc3pOTC1uSHZnNjdZVTVGdTctelB2Z3ltVHlmOHA2R3hndmlSX2xhemEtTVgxaC1KdDhTekRKZ2ZuYlptNl91RUhERXNtckF3N2RyYmdSeW1Od2M0VGVrNF9idS1Ba00yYnlPUHZNNTlLY3ZLYkFCOGg3SE5BMVZ1Tmd6WG5BV2pnN2taYnpoWDNzUlN3eE1uOWJacDB3cE04WUZzVE5ZY0VLcktXQnYwVW9OYW9tNTIzSkxFcl9LTnUzcmMzT2dJMGVz?oc=5",
-      "source": "ANSA",
-      "sourceHost": "ansa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-26T07:00:00.000Z",
-      "excerpt": "Delmastro, 'finii nel locale dei Caroccia perché era carino'",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ansa.it__ansa__delmastro antimafia locale caroccia era carino li caso__2026-05-26T07:00:00.000Z",
-      "title": "Delmastro in Antimafia, 'locale di Caroccia era carino, lì per caso'",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQX1hBTThxcE9ZX2lTUy1aREl0UEF2MHU3TzBEWjFTbmpGaWhZb0tSMFh0NWNiQUI5RHFDam5nY2RaY1NKejdfYmlGVThVVGhmU1pvLWtyR0tfeDhKcUFvWTBIYXNsYjhUWmMyX1dBd0h6ZGhjaldZSjY3VkEtUno0UnpLSXRQMTZ3SjRiMXdPeG5vbEtIYlBxYXRYM1MtdEFvTloyYlF4NTQ4MEQzdlVTcEI2ZHM5dWMzY3RfQ2x5dk1xV3E3amF1SDc1dVZNazRSZmVwXzFXV05yVjdnMXBabzVLUU13QdIB6wFBVV95cUxPOHBXdGprQWtFRHh3dDMxZEh2WnVuYVpWU2g1TWxqcTlmTzhYdWVLeGo5MjJsRDI1T1F4VzAtVEVEdTQyWVFoYTlzQ1pNdHdwZkpwdXFMTGpmZ01wQmxiV25jWXRIZ2xJblp5NWJtclRrRnVzQzdGLVBGY2lQenVSbC1NOEhaNERVNDdlVjdXNFE3ZEhaa0FCZXBxeDl5NWxWc2w3NGZZd2Q5R0MzVjdXb1NXMVpROHF4MW1nSS1ubmxkOWhpNmpLMVV1dk1tVG5vYnpQaXhpNmJSUjdMbDloUTZWa2dKRml4SEww?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQX1hBTThxcE9ZX2lTUy1aREl0UEF2MHU3TzBEWjFTbmpGaWhZb0tSMFh0NWNiQUI5RHFDam5nY2RaY1NKejdfYmlGVThVVGhmU1pvLWtyR0tfeDhKcUFvWTBIYXNsYjhUWmMyX1dBd0h6ZGhjaldZSjY3VkEtUno0UnpLSXRQMTZ3SjRiMXdPeG5vbEtIYlBxYXRYM1MtdEFvTloyYlF4NTQ4MEQzdlVTcEI2ZHM5dWMzY3RfQ2x5dk1xV3E3amF1SDc1dVZNazRSZmVwXzFXV05yVjdnMXBabzVLUU13QdIB6wFBVV95cUxPOHBXdGprQWtFRHh3dDMxZEh2WnVuYVpWU2g1TWxqcTlmTzhYdWVLeGo5MjJsRDI1T1F4VzAtVEVEdTQyWVFoYTlzQ1pNdHdwZkpwdXFMTGpmZ01wQmxiV25jWXRIZ2xJblp5NWJtclRrRnVzQzdGLVBGY2lQenVSbC1NOEhaNERVNDdlVjdXNFE3ZEhaa0FCZXBxeDl5NWxWc2w3NGZZd2Q5R0MzVjdXb1NXMVpROHF4MW1nSS1ubmxkOWhpNmpLMVV1dk1tVG5vYnpQaXhpNmJSUjdMbDloUTZWa2dKRml4SEww?oc=5",
-      "source": "ANSA",
-      "sourceHost": "ansa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-05-26T07:00:00.000Z",
-      "excerpt": "Delmastro in Antimafia, 'locale di Caroccia era carino, lì per caso'",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "repubblica.it__la repubblica__delmastro antimafia finii locale caroccia perche era carino__2026-05-26T07:00:00.000Z",
-      "title": "Delmastro in Antimafia: “Finii nel locale dei Caroccia perché era carino”",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnc2N2otV3p6UmxZbDRkVmdrSnU4UkZ1ajY0b0pQSnNIOVNlMlB5UDRLVFdtRjdYRk1aV3ZuUWZiNldzZXBwRnJWZ2ctQkRPTUtKc0JaNU1EQ0xkNFQ3RWtuRE5SVV9hd1hPWVoxOGo0V0IxTnJ3QVJNeEk4dWtCRThxbFpXdlBvOHIyY01aeWJsMUstRHI0d0JFSGhweURULVM5ekRoM3pwblFIVEw00gG0AUFVX3lxTFBSOGVQdnI3Y242LUZCMmZBOWpHQ2NmWTBVMVRoNG9lTWpaNldZdnk2ZXdqVlJrbG1rSi1IOG5SQTdZN3N6MHRuQW1yeVZmWV9ReWdLZDNxX3oxcGFwc0dQRlBQNFVVd3NJeFh1WWxrQUpLOVhTUjlPT1dlNHFyS0JwRXpkU1piVjl3a0JNcU51MTk5a2s4d3VPUzhPVl9sUmFfN2JEMGVwbmV4UXc5aG1zZnprWA?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnc2N2otV3p6UmxZbDRkVmdrSnU4UkZ1ajY0b0pQSnNIOVNlMlB5UDRLVFdtRjdYRk1aV3ZuUWZiNldzZXBwRnJWZ2ctQkRPTUtKc0JaNU1EQ0xkNFQ3RWtuRE5SVV9hd1hPWVoxOGo0V0IxTnJ3QVJNeEk4dWtCRThxbFpXdlBvOHIyY01aeWJsMUstRHI0d0JFSGhweURULVM5ekRoM3pwblFIVEw00gG0AUFVX3lxTFBSOGVQdnI3Y242LUZCMmZBOWpHQ2NmWTBVMVRoNG9lTWpaNldZdnk2ZXdqVlJrbG1rSi1IOG5SQTdZN3N6MHRuQW1yeVZmWV9ReWdLZDNxX3oxcGFwc0dQRlBQNFVVd3NJeFh1WWxrQUpLOVhTUjlPT1dlNHFyS0JwRXpkU1piVjl3a0JNcU51MTk5a2s4d3VPUzhPVl9sUmFfN2JEMGVwbmV4UXc5aG1zZnprWA?oc=5",
-      "source": "la Repubblica",
-      "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-05-26T07:00:00.000Z",
-      "excerpt": "Delmastro in Antimafia: “Finii nel locale dei Caroccia perché era carino”",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "corriere.it__corriere roma__delmastro all antimafia ristorante caroccia leggerezza pagata cara__2026-05-26T07:00:00.000Z",
-      "title": "Delmastro all'Antimafia: «Il ristorante con Caroccia? Una leggerezza pagata cara»",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSHc4M3FwRVVJalk0c2owMWNqd2tyeDVqb0x0b3NwU0RSejJBMmFQcXlHd083Qm9lMXAxX0QyZzNKVEtsWjl0VGVUc05kckFGQ2IydEtobC1JWTNVNkE3WlkydEtUaEtmR3ozYkRWNGZPOGlUUHMxeWI2cFU3aElrUnhaRjVyTGV6QXVhRjFsUGthanozQXI1TE1Sclc0ampJVWN4Mzg0X0YwVHhZeU9JTkFuOXdNRGF3blhVNWJLb0cyWE9xbkd3X1FZbWtXZ2V0LTFBajM0Q1ZpZms0dFNEVHliTjZicWx6RlRsY2hCeXXSAfYBQVVfeXFMT3IxMzFybDZzT0ZWSDNmZzRzZFhUNmpJY3lIRThyeGF4VXVFOXZZcmJpdURJcGwwQ1BiVS15S01KUE9NQmtRb0dXb2dOb0Q3YjNyMC05Y2kyNVRpcmpja1luOGdobGJ2YWpJMFhHX1pINGxqQnR4RTFRMm0wU1dXWUF4ODFzdkVoRDR3enVzUjBleTJWSEFoTlh0dDNHelc5RU5oUlp4RTZSeDV1YUVlZkNhU2JKcUNzSEp4aldSel8zU0pOeVgxSzYzMVM5b3l5S280V05qbjFaWjVFUXJTSVFHZkIyUGpPbXNLUmpUT1lHNERXaWxB?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSHc4M3FwRVVJalk0c2owMWNqd2tyeDVqb0x0b3NwU0RSejJBMmFQcXlHd083Qm9lMXAxX0QyZzNKVEtsWjl0VGVUc05kckFGQ2IydEtobC1JWTNVNkE3WlkydEtUaEtmR3ozYkRWNGZPOGlUUHMxeWI2cFU3aElrUnhaRjVyTGV6QXVhRjFsUGthanozQXI1TE1Sclc0ampJVWN4Mzg0X0YwVHhZeU9JTkFuOXdNRGF3blhVNWJLb0cyWE9xbkd3X1FZbWtXZ2V0LTFBajM0Q1ZpZms0dFNEVHliTjZicWx6RlRsY2hCeXXSAfYBQVVfeXFMT3IxMzFybDZzT0ZWSDNmZzRzZFhUNmpJY3lIRThyeGF4VXVFOXZZcmJpdURJcGwwQ1BiVS15S01KUE9NQmtRb0dXb2dOb0Q3YjNyMC05Y2kyNVRpcmpja1luOGdobGJ2YWpJMFhHX1pINGxqQnR4RTFRMm0wU1dXWUF4ODFzdkVoRDR3enVzUjBleTJWSEFoTlh0dDNHelc5RU5oUlp4RTZSeDV1YUVlZkNhU2JKcUNzSEp4aldSel8zU0pOeVgxSzYzMVM5b3l5S280V05qbjFaWjVFUXJTSVFHZkIyUGpPbXNLUmpUT1lHNERXaWxB?oc=5",
-      "source": "Corriere Roma",
-      "sourceHost": "corriere.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria",
-        "bisteccheria"
-      ],
-      "publishedAt": "2026-05-26T07:00:00.000Z",
-      "excerpt": "Delmastro all'Antimafia: «Il ristorante con Caroccia? Una leggerezza pagata cara»",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "lastampa.it__la stampa__antimafia delmastro finii dai caroccia perche era locale carino dovevo googlare__2026-05-26T07:00:00.000Z",
-      "title": "Antimafia, Delmastro: “Finii dai Caroccia perché era un locale carino, dovevo googlare”",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHNLTnc5VTI4eEI1QkppUElwYjdHQmV2UDlGS2FuREI4enpKd2k3Ykh3c0VFcHladEtBdllMaEFhM0xFNjZsN3VUQXFrMWlOck5QM3gwdnk0S2d5UzByeHJhMk83SWR5VWhQUmVRSFVxZ1hRYzBjbHpGbnBBQ1ZySUpmbWpMMnF0RFd4YmlRb0RkU0NFNEEtbnc1RlpRZmVSUGZXMTR3NUJpc28tVW5NbE5Jc2RoTUHSAbwBQVVfeXFMTTF4RjJFbnZpOThnMUM3M2l4WEdVbWQyak91S2FLaFJ3aFhJYm4zcERYdnItMjJyQ1hwd3B4UmtfTFlzMzhOUTdPcURwcDMwRkljNG9VWkNLZllORnpWcWROcW04SENyUnN4TXAtSWIzSllMNkh6YlpxUm1yVVh5Yl9qd1FUaXh5WEdvNVpzT3ZPcjl5dHBKb21ENk5jR1NYcVNhcFNDdnNXcS1hMHNfNUVJYmlrN0NZWWhmblY?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHNLTnc5VTI4eEI1QkppUElwYjdHQmV2UDlGS2FuREI4enpKd2k3Ykh3c0VFcHladEtBdllMaEFhM0xFNjZsN3VUQXFrMWlOck5QM3gwdnk0S2d5UzByeHJhMk83SWR5VWhQUmVRSFVxZ1hRYzBjbHpGbnBBQ1ZySUpmbWpMMnF0RFd4YmlRb0RkU0NFNEEtbnc1RlpRZmVSUGZXMTR3NUJpc28tVW5NbE5Jc2RoTUHSAbwBQVVfeXFMTTF4RjJFbnZpOThnMUM3M2l4WEdVbWQyak91S2FLaFJ3aFhJYm4zcERYdnItMjJyQ1hwd3B4UmtfTFlzMzhOUTdPcURwcDMwRkljNG9VWkNLZllORnpWcWROcW04SENyUnN4TXAtSWIzSllMNkh6YlpxUm1yVVh5Yl9qd1FUaXh5WEdvNVpzT3ZPcjl5dHBKb21ENk5jR1NYcVNhcFNDdnNXcS1hMHNfNUVJYmlrN0NZWWhmblY?oc=5",
-      "source": "La Stampa",
-      "sourceHost": "lastampa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-05-26T07:00:00.000Z",
-      "excerpt": "Antimafia, Delmastro: “Finii dai Caroccia perché era un locale carino, dovevo googlare”",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "today.it__today.it__delmastro dopo caso bisteccheria d italia si converte sono diventato vegetariano non mangio piu carne__2026-05-26T07:00:00.000Z",
-      "title": "Delmastro dopo il caso Bisteccheria d'Italia si converte: \"Sono diventato vegetariano, non mangio più carne\"",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU1BFRTF5WWNXaFo5MlVuRHNUSUJuOU1GUUtucmVXcElsTGUzMmk0ZzlFY0RDYWxTdWI0WVJyY0pYT0xKRlJHWjNUT25CN04wR3dBMHRvbVB5Sk9NRWk4aklwR29FbjMtbzh0bExIVnFVX0NuNkpYR1UtZktHVnZXMVV1R3E0ZDJUUVh4LXYybzljUUt6RGs00gGXAUFVX3lxTE5nMlI4Q2s1VWtzdWRvaVNGanpKNUJfUnc0TU9LMVMzZkxCR29uVXBhQV9UUFMtY19wR0pwbll0Q2p1Mi1HSUV1WllNVUwycGU1ZDIyUmNwbzJGakczTDFUOEpMbVU1ZVdBeVNiT0M5ZEFaTGJUZVJvdWc1dlBmM0Uya2FOWUJSb1FjQ1ZnbEtORTRpbXJta2M?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU1BFRTF5WWNXaFo5MlVuRHNUSUJuOU1GUUtucmVXcElsTGUzMmk0ZzlFY0RDYWxTdWI0WVJyY0pYT0xKRlJHWjNUT25CN04wR3dBMHRvbVB5Sk9NRWk4aklwR29FbjMtbzh0bExIVnFVX0NuNkpYR1UtZktHVnZXMVV1R3E0ZDJUUVh4LXYybzljUUt6RGs00gGXAUFVX3lxTE5nMlI4Q2s1VWtzdWRvaVNGanpKNUJfUnc0TU9LMVMzZkxCR29uVXBhQV9UUFMtY19wR0pwbll0Q2p1Mi1HSUV1WllNVUwycGU1ZDIyUmNwbzJGakczTDFUOEpMbVU1ZVdBeVNiT0M5ZEFaTGJUZVJvdWc1dlBmM0Uya2FOWUJSb1FjQ1ZnbEtORTRpbXJta2M?oc=5",
-      "source": "today.it",
-      "sourceHost": "today.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "bisteccheria"
-      ],
-      "publishedAt": "2026-05-26T07:00:00.000Z",
-      "excerpt": "Delmastro dopo il caso Bisteccheria d'Italia si converte: \"Sono diventato vegetariano, non mangio più carne\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "huffingtonpost.it__huffpost italia__delmastro antimafia si trincera non sapevo chi fosse caroccia ma poi ho googlato__2026-05-26T07:00:00.000Z",
-      "title": "Delmastro in Antimafia si trincera con \"non sapevo chi fosse Caroccia. Ma poi ho googlato...\"",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOEh6MFdVQm1ncFpuLTBwY0RvcFNxck5SY05PWkhwV1JRM3ZJYldzVVc0SXhvQWtQcjVlVWxja3JjUHk1TTZLVVVYTDNwdC1YQ0Q4NV9jci1hamhSSHdkTWFzcVFJWlVzaFpfYUlWOVlqTU5OcF84YmtldHpIV0l6b1A4RG8wLTl5WThZdldZTkpvX2VpdGt2dnlUdmd5S1ozaE5ZTFdrZDJHTmxteFFqS3liUW93MFpSYVhkb1V6QnJYZzRiT2t0SDN1S1pJRlpLMWhZMklvNmhzRkx1U0RxQ05BMmh2RjBZcUI4b0pDaTQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOEh6MFdVQm1ncFpuLTBwY0RvcFNxck5SY05PWkhwV1JRM3ZJYldzVVc0SXhvQWtQcjVlVWxja3JjUHk1TTZLVVVYTDNwdC1YQ0Q4NV9jci1hamhSSHdkTWFzcVFJWlVzaFpfYUlWOVlqTU5OcF84YmtldHpIV0l6b1A4RG8wLTl5WThZdldZTkpvX2VpdGt2dnlUdmd5S1ozaE5ZTFdrZDJHTmxteFFqS3liUW93MFpSYVhkb1V6QnJYZzRiT2t0SDN1S1pJRlpLMWhZMklvNmhzRkx1U0RxQ05BMmh2RjBZcUI4b0pDaTQ?oc=5",
-      "source": "HuffPost Italia",
-      "sourceHost": "huffingtonpost.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-05-26T07:00:00.000Z",
-      "excerpt": "Delmastro in Antimafia si trincera con \"non sapevo chi fosse Caroccia. Ma poi ho googlato...\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfoglio.it__il foglio__delmastro locale caroccia era simpatico ho sbagliato non consultare google__2026-05-26T07:00:00.000Z",
-      "title": "Delmastro: \"Il locale dei Caroccia? Era simpatico. Ho sbagliato a non consultare Google\"",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ3dXOFEyR0lrWHc0UlRvLVUtLTc2UmlfMmRfYzB5YnIzZWowWWhMdFdSQVI2ajFVQnZwM2RFS1huaVBEZHNubGVqV3I3NjFlNm5tUjJZd2h4MFZ0a0tac2lhcEFubGNoYmxsQk1Sd2JyajhDTGpFbWZObnBoS0dZT0dPLUhRQ2VTZVZQUTQwbXZnNTRFbUREM2J6QVI2YjgxN05maXJ1ZzBvbFZTUDZmRWI4VVVhU1ZGYWkwMHJCMzBaS1ZTZXJLLVlSa1A0eTNfTW9Hdldzc0EtbFk?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ3dXOFEyR0lrWHc0UlRvLVUtLTc2UmlfMmRfYzB5YnIzZWowWWhMdFdSQVI2ajFVQnZwM2RFS1huaVBEZHNubGVqV3I3NjFlNm5tUjJZd2h4MFZ0a0tac2lhcEFubGNoYmxsQk1Sd2JyajhDTGpFbWZObnBoS0dZT0dPLUhRQ2VTZVZQUTQwbXZnNTRFbUREM2J6QVI2YjgxN05maXJ1ZzBvbFZTUDZmRWI4VVVhU1ZGYWkwMHJCMzBaS1ZTZXJLLVlSa1A0eTNfTW9Hdldzc0EtbFk?oc=5",
-      "source": "Il Foglio",
-      "sourceHost": "ilfoglio.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-26T07:00:00.000Z",
-      "excerpt": "Delmastro: \"Il locale dei Caroccia? Era simpatico. Ho sbagliato a non consultare Google\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilgiornale.it__il giornale__delmastro non mi ritengo inadeguato ma persona che ha commesso errore__2026-05-26T07:00:00.000Z",
-      "title": "Delmastro: \"Non mi ritengo inadeguato ma una persona che ha commesso un errore\"",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYkpkTGx0RDdRenV6am92M0M3SEdSQi1VaWxjSlJRUnRybmc5ampTdkJnWnNVNlotbXRnN05nOVczdm8yeGpkcWRYa2ZmZmFkOEU0TWR1N25GVElMem9pY0ppTEVlWDIySXo3b29mam12MEgzQy1rejNIT21TUTAwOFZESkh3b3pjc0JRQk02R3p2ZEhSNHE2WmRnRG5Vek13cGRLdndCNnNVWmJmODBkZQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYkpkTGx0RDdRenV6am92M0M3SEdSQi1VaWxjSlJRUnRybmc5ampTdkJnWnNVNlotbXRnN05nOVczdm8yeGpkcWRYa2ZmZmFkOEU0TWR1N25GVElMem9pY0ppTEVlWDIySXo3b29mam12MEgzQy1rejNIT21TUTAwOFZESkh3b3pjc0JRQk02R3p2ZEhSNHE2WmRnRG5Vek13cGRLdndCNnNVWmJmODBkZQ?oc=5",
-      "source": "il Giornale",
-      "sourceHost": "ilgiornale.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-26T07:00:00.000Z",
-      "excerpt": "Delmastro: \"Non mi ritengo inadeguato ma una persona che ha commesso un errore\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "rainews.it__rainews__delmastro finii locale perche carino__2026-05-26T07:00:00.000Z",
-      "title": "Delmastro:finii nel locale perché carino",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZEJyTGVqc1duUVU5MC1IWkMwRmUxMzA5dUV4LVRKbG1tOHlicWJKdkpabU5QN2l3MG0zOUxvU2JobjFFY01iUGwtdjVpTlNrNnZPWGJyQTJwcHZyVm1KMnNzR2lhRXBLUlRQam9zaHMxNHVzdXZZQzFjY3BKY1FnSGE4Q05jQjVoRzRlMkxRTUdMRlh3YTk0TG5KTEctM1hlVTd6YWE5eUpHZjRjOVJocmpvdzFNS0dpaGpkR1ZQRdIBxAFBVV95cUxNMmYwY2Ric3NvdFZYUGNGMVVrNU5qeXQyazlERThubkZhbWpSclZDQU9nZXBEX2pTbi11VERsQWI0Yzc2Vm9iUXN4MzlsdVlwc0lUeXFId3BkWEJGMmVucjI0NkNwLXhDSFhSa1hTODZzVFN5dEdzdzUxUkFpUmZfLUhBYk4yaFkzSXY2YmE0MlhhdnJwalh4eFRHNE9fVy1MYXA1NXgtZXVES1BqU01ENHE5eGZFNU5weC1uZXJrYTBmV3Rw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZEJyTGVqc1duUVU5MC1IWkMwRmUxMzA5dUV4LVRKbG1tOHlicWJKdkpabU5QN2l3MG0zOUxvU2JobjFFY01iUGwtdjVpTlNrNnZPWGJyQTJwcHZyVm1KMnNzR2lhRXBLUlRQam9zaHMxNHVzdXZZQzFjY3BKY1FnSGE4Q05jQjVoRzRlMkxRTUdMRlh3YTk0TG5KTEctM1hlVTd6YWE5eUpHZjRjOVJocmpvdzFNS0dpaGpkR1ZQRdIBxAFBVV95cUxNMmYwY2Ric3NvdFZYUGNGMVVrNU5qeXQyazlERThubkZhbWpSclZDQU9nZXBEX2pTbi11VERsQWI0Yzc2Vm9iUXN4MzlsdVlwc0lUeXFId3BkWEJGMmVucjI0NkNwLXhDSFhSa1hTODZzVFN5dEdzdzUxUkFpUmZfLUhBYk4yaFkzSXY2YmE0MlhhdnJwalh4eFRHNE9fVy1MYXA1NXgtZXVES1BqU01ENHE5eGZFNU5weC1uZXJrYTBmV3Rw?oc=5",
-      "source": "RaiNews",
-      "sourceHost": "rainews.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-05-26T07:00:00.000Z",
-      "excerpt": "Delmastro:finii nel locale perché carino",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "rainews.it__rainews__delmastro antimafia ristorante caroccia leggerezza imperdonabile costata soldi dimissioni__2026-05-26T07:00:00.000Z",
-      "title": "Delmastro in Antimafia: \"Ristorante Caroccia? Leggerezza imperdonabile, costata soldi e dimissioni\"",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZElCRmNFOHVKVjU2VWVpYU9Yb2VaNmFoX0tvMXh1UlJXdzRwTmN4YVl2QXh2eEhoRGtveWYxTi1ydGRrNE8xWE9PWUFhVHdFMWNtbmJfd1BWZ1hKbGtxbGFaX01iU3hNRFFRY3JUVmcyeTRCMG8xOXVjUkE0Y3lRZVFJa0ltT3ZEM2dXbUhzNW1wMkZsNl8xTEJvTTYyNExGQ1NWNDc3MXE5c1NtYXAwQW5NN3daVEdNdHJNeVBtaUo5QldUZTJtN2JnODB5SlpOU0EwSk81bjdmT3ZudGFKTkc3WmJTSnJYa0dpV1Y0a9IB9AFBVV95cUxNbTJBa1BTZnlJNHQ3N1JNdWdoVVpiWkUtQXVQdzBsV0lhSXRwdVFTQWY0N1ZZSTJval9TWndJdEotXy1uazNkcjBMY3N4MWVOa2ZZcU5JSmtfYldZelZWSWNybXZuRHducEZrMXRSRXE5aTB6N0JadnJRRUxYNXZmMC0tTDkwU1ItdjNUb1hUc2laUkdSc3RrNm1nN0hqQy1kNFg1ak55TmhmV3I0UVJkaDFmNS1OOVY2M0pwRVBZb09mbTg3M245QWNCYU40eW1HOFVrNlBvQUh4RUdfNVRzWWlXa3pHeWQtUEdCQVBMaFRhRTV0?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZElCRmNFOHVKVjU2VWVpYU9Yb2VaNmFoX0tvMXh1UlJXdzRwTmN4YVl2QXh2eEhoRGtveWYxTi1ydGRrNE8xWE9PWUFhVHdFMWNtbmJfd1BWZ1hKbGtxbGFaX01iU3hNRFFRY3JUVmcyeTRCMG8xOXVjUkE0Y3lRZVFJa0ltT3ZEM2dXbUhzNW1wMkZsNl8xTEJvTTYyNExGQ1NWNDc3MXE5c1NtYXAwQW5NN3daVEdNdHJNeVBtaUo5QldUZTJtN2JnODB5SlpOU0EwSk81bjdmT3ZudGFKTkc3WmJTSnJYa0dpV1Y0a9IB9AFBVV95cUxNbTJBa1BTZnlJNHQ3N1JNdWdoVVpiWkUtQXVQdzBsV0lhSXRwdVFTQWY0N1ZZSTJval9TWndJdEotXy1uazNkcjBMY3N4MWVOa2ZZcU5JSmtfYldZelZWSWNybXZuRHducEZrMXRSRXE5aTB6N0JadnJRRUxYNXZmMC0tTDkwU1ItdjNUb1hUc2laUkdSc3RrNm1nN0hqQy1kNFg1ak55TmhmV3I0UVJkaDFmNS1OOVY2M0pwRVBZb09mbTg3M245QWNCYU40eW1HOFVrNlBvQUh4RUdfNVRzWWlXa3pHeWQtUEdCQVBMaFRhRTV0?oc=5",
-      "source": "RaiNews",
-      "sourceHost": "rainews.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "politica",
-        "giudiziaria",
-        "bisteccheria"
-      ],
-      "publishedAt": "2026-05-26T07:00:00.000Z",
-      "excerpt": "Delmastro in Antimafia: \"Ristorante Caroccia? Leggerezza imperdonabile, costata soldi e dimissioni\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "rainews.it__rainews__sono vittima anch io delmastro audizione antimafia parla prima volta dopo dimissioni__2026-05-26T07:00:00.000Z",
-      "title": "\"Sono vittima anch'io\", Delmastro in audizione antimafia parla per la prima volta dopo dimissioni",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPbXM0V0o0MHJsSjA4NGV1cENzTkFpTFdncWt6WWlMYmJtRUZ3ajF3dEp1dHVQWHpqNDhuOUFIYW5tY21rWHJQSWgwRmdaWFJ3YjBhODN0X3N5YlE1SHpQTEFUM3dRQ1AzbzRUZ2NxWXRTY0lkeDJ1MkhKWkV6TmV4MmxPSFhPdktCZGJpTVNmWDkyQkVwRS1xM3lGUTBvRW0xUEMzOHpUYUpaNlJmNmh5NlBaeXNGZ2xZU19rTHl1blRLR3ZNMmttNndFX0UxYnhlZzdiSDFyem5zWG9xOWlEckRSMzYxVFRVUXMtQllGemU5YUoxZ1J6d0JDSmdCc2ppbEJwZGRGc2lsamYzMkhIaGxNaFZDU08tUHZ30gGgAkFVX3lxTE9PS0NOMldIZWpLQzJCYlpBN3BQbE9yNW9SSng2WUdXWUVaMDBsNVdEbGxHakkzdlpyU0pIeXh6MWxYa0Mwa0NmRFpQSkh1VnhndHpWYzFDZ2lQRHhndzJlVC0zRjF3aUh4UjhGdGpSbWhhMldxOWxwSmE4MThrQnh2WHE3LXBISVIwTWQ1bHg1aFk3UHN2YlJJbmMxaERuSEVSQUVHSmY4RHJYbjNPaFpwRGxha0VOWEhtcGhFYURnaDZnYkFKT0dwd0RmMFp6emp6VFpxeWxQMmJfMmtwLVBSOV9hb2NIOGVSV3lIY3dIZVhhSTJWVHVxZUg0Qy1YUjhvUl9KU0s3T0hjcnBTNjZ2OVNzN0ROQ2JpU2l6SVBjUQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPbXM0V0o0MHJsSjA4NGV1cENzTkFpTFdncWt6WWlMYmJtRUZ3ajF3dEp1dHVQWHpqNDhuOUFIYW5tY21rWHJQSWgwRmdaWFJ3YjBhODN0X3N5YlE1SHpQTEFUM3dRQ1AzbzRUZ2NxWXRTY0lkeDJ1MkhKWkV6TmV4MmxPSFhPdktCZGJpTVNmWDkyQkVwRS1xM3lGUTBvRW0xUEMzOHpUYUpaNlJmNmh5NlBaeXNGZ2xZU19rTHl1blRLR3ZNMmttNndFX0UxYnhlZzdiSDFyem5zWG9xOWlEckRSMzYxVFRVUXMtQllGemU5YUoxZ1J6d0JDSmdCc2ppbEJwZGRGc2lsamYzMkhIaGxNaFZDU08tUHZ30gGgAkFVX3lxTE9PS0NOMldIZWpLQzJCYlpBN3BQbE9yNW9SSng2WUdXWUVaMDBsNVdEbGxHakkzdlpyU0pIeXh6MWxYa0Mwa0NmRFpQSkh1VnhndHpWYzFDZ2lQRHhndzJlVC0zRjF3aUh4UjhGdGpSbWhhMldxOWxwSmE4MThrQnh2WHE3LXBISVIwTWQ1bHg1aFk3UHN2YlJJbmMxaERuSEVSQUVHSmY4RHJYbjNPaFpwRGxha0VOWEhtcGhFYURnaDZnYkFKT0dwd0RmMFp6emp6VFpxeWxQMmJfMmtwLVBSOV9hb2NIOGVSV3lIY3dIZVhhSTJWVHVxZUg0Qy1YUjhvUl9KU0s3T0hjcnBTNjZ2OVNzN0ROQ2JpU2l6SVBjUQ?oc=5",
-      "source": "RaiNews",
-      "sourceHost": "rainews.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "politica",
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-05-26T07:00:00.000Z",
-      "excerpt": "\"Sono vittima anch'io\", Delmastro in audizione antimafia parla per la prima volta dopo dimissioni",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__blog ho ascoltato delmastro antimafia mi sono convinto vittima trappola__2026-05-26T07:00:00.000Z",
-      "title": "Blog | Ho ascoltato Delmastro in Antimafia e mi sono convinto: è vittima di una trappola!",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmtJaGd5VlNyUVhWZ3NkRXlxNFFOZm01VDlOVk9STW5wbEwyOEJyYkczUUZ6NzR6MjMxVUFOaU1QMFR1THZjU2xWX3hTQzk0RDBMREwxeGRhOUFnOFd1UEZwRUhIVDd2VWNiMDhFdzgtOFAyekNoaVk3aWpmSFg5QkhmR3NGUkdMS0loamVwcmFidGhiSDRHeEMwOHV4V1lFam5N?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmtJaGd5VlNyUVhWZ3NkRXlxNFFOZm01VDlOVk9STW5wbEwyOEJyYkczUUZ6NzR6MjMxVUFOaU1QMFR1THZjU2xWX3hTQzk0RDBMREwxeGRhOUFnOFd1UEZwRUhIVDd2VWNiMDhFdzgtOFAyekNoaVk3aWpmSFg5QkhmR3NGUkdMS0loamVwcmFidGhiSDRHeEMwOHV4V1lFam5N?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-05-26T07:00:00.000Z",
-      "excerpt": "Blog | Ho ascoltato Delmastro in Antimafia e mi sono convinto: è vittima di una trappola!",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__bisteccheria d italia delmastro mi sento vittima non sapevo chi fosse caroccia bastava guardare google imperdonabile leggerezza politica__2026-05-26T07:00:00.000Z",
-      "title": "Bisteccheria d’Italia, Delmastro: “Mi sento vittima, non sapevo chi fosse Caroccia. Bastava guardare su Google, imperdonabile leggerezza politica”",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmRJandPOFJXSWYxQkxOcWlFVHAwQVdXOU1sc3U5UVJRdndvVGdSd3FPRWJkYkZpZzhYM0pWeFA0SDhCYnU4RDBNX292RmFwUlRmdjZpZk11ZkhIMjRHQ0ZTZHBqdWZTZklLUl9Wd0Jwa3RBRzB2YTRyQmFuS1laZUd2b0NKX29lN3hjekZ6TkZmVk9WRUFHSEhLcDhEa0M4ZFE?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmRJandPOFJXSWYxQkxOcWlFVHAwQVdXOU1sc3U5UVJRdndvVGdSd3FPRWJkYkZpZzhYM0pWeFA0SDhCYnU4RDBNX292RmFwUlRmdjZpZk11ZkhIMjRHQ0ZTZHBqdWZTZklLUl9Wd0Jwa3RBRzB2YTRyQmFuS1laZUd2b0NKX29lN3hjekZ6TkZmVk9WRUFHSEhLcDhEa0M4ZFE?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "bisteccheria"
-      ],
-      "publishedAt": "2026-05-26T07:00:00.000Z",
-      "excerpt": "Bisteccheria d’Italia, Delmastro: “Mi sento vittima, non sapevo chi fosse Caroccia. Bastava guardare su Google, imperdonabile leggerezza politica”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     }

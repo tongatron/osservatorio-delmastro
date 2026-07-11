@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T21:24:39.144Z",
+  "generatedAt": "2026-07-11T22:25:03.404Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,11 +94,15 @@
     ]
   },
   "window": {
-    "from": "2026-05-27T21:24:39.144Z",
-    "to": "2026-07-11T21:24:39.144Z",
+    "from": "2026-05-27T22:25:03.404Z",
+    "to": "2026-07-11T22:25:03.404Z",
     "days": 45
   },
   "sources": [
+    {
+      "label": "ilfattoquotidiano.it",
+      "articleCount": 6
+    },
     {
       "label": "lastampa.it",
       "articleCount": 6
@@ -108,19 +112,11 @@
       "articleCount": 5
     },
     {
-      "label": "ilfattoquotidiano.it",
-      "articleCount": 5
-    },
-    {
       "label": "corriere.it",
       "articleCount": 3
     },
     {
       "label": "rainews.it",
-      "articleCount": 1
-    },
-    {
-      "label": "newsbiella.it",
       "articleCount": 1
     },
     {
@@ -153,12 +149,12 @@
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 12,
+      "fetchedArticles": 13,
       "uniqueArticles": 0
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 15,
+      "fetchedArticles": 16,
       "uniqueArticles": 0
     },
     {
@@ -179,14 +175,14 @@
     },
     {
       "tag": "territorio",
-      "count": 8
-    },
-    {
-      "tag": "bisteccheria",
-      "count": 5
+      "count": 7
     },
     {
       "tag": "altro",
+      "count": 6
+    },
+    {
+      "tag": "bisteccheria",
       "count": 5
     },
     {
@@ -195,10 +191,6 @@
     }
   ],
   "timeline": [
-    {
-      "date": "2026-05-27",
-      "count": 0
-    },
     {
       "date": "2026-05-28",
       "count": 6
@@ -217,7 +209,7 @@
     },
     {
       "date": "2026-06-01",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-06-02",
@@ -378,9 +370,33 @@
     {
       "date": "2026-07-11",
       "count": 0
+    },
+    {
+      "date": "2026-07-12",
+      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro chat servono capire chi ha preso soldi__2026-07-11T22:01:00.000Z",
+      "title": "“Delmastro, le chat servono per capire chi ha preso i soldi”",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV1BKaUl4SHFYWDhQcWtrc3FnYm8xYURQa1hpVVV1Tmg5eEJCZlJmZWxFczBUR2tZWFhGODRIZ2RMcXFVc3ItZE9iRWRnWmx3MkNjNmFPX3RVQWd5OWFwRFhoZm00NmhRdWpyV1V2eERiTTFXejFrLW9OMF9zSnpKaHRxZEF0cEJhLUd5QWNRMVhRaVJmcUM4RFc2YkxDWWNTamhfRXhtaVpPblVaNm0wSlFpaFhQa08tWG52RXdSdFc1eEpodXlKYlhn?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV1BKaUl4SHFYWDhQcWtrc3FnYm8xYURQa1hpVVV1Tmg5eEJCZlJmZWxFczBUR2tZWFhGODRIZ2RMcXFVc3ItZE9iRWRnWmx3MkNjNmFPX3RVQWd5OWFwRFhoZm00NmhRdWpyV1V2eERiTTFXejFrLW9OMF9zSnpKaHRxZEF0cEJhLUd5QWNRMVhRaVJmcUM4RFc2YkxDWWNTamhfRXhtaVpPblVaNm0wSlFpaFhQa08tWG52RXdSdFc1eEpodXlKYlhn?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-07-11T22:01:00.000Z",
+      "excerpt": "“Delmastro, le chat servono per capire chi ha preso i soldi”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
     {
       "id": "repubblica.it__la repubblica__delmastro procura accelera sulle chat ci servono indagare sui senese__2026-07-04T04:00:00.000Z",
       "title": "Delmastro, la procura accelera sulle chat: “Ci servono per indagare sui Senese”",
@@ -681,26 +697,6 @@
       ],
       "publishedAt": "2026-06-04T07:00:00.000Z",
       "excerpt": "Delmastro, la procura insiste: “Le chat ci servono, un no della Camera non aiuterebbe”",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "newsbiella.it__newsbiella.it__gal montagne biellesi francesca delmastro stata confermata presidente si parte bandi rivolti enti pubblici__2026-06-01T07:00:00.000Z",
-      "title": "GAL Montagne Biellesi, Francesca Delmastro è stata confermata presidente: “Si parte con i bandi rivolti agli enti pubblici”",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSTd1c243U09PQUJTalY0MUE2Skc4WEw3WlczNFZVTXhxYkRta3BxbjU1Uk16aDVldmh4OFBCNUF1OUxZQ1BxeXdLamRNMkR6SGROT0ZaSF95X2R3aWdyYnVhMWFxelpkTkNPRU1qeE5jcmQ1OFhXS1JyRkl2Y3VkR2N2RENoNEw1Z0xRZzdrZmJqcGxJMzZXT1kyT2tYUExJMjVLaXNhTHFSTnFadTFyUEFGaksyakxtVjk5Nk1JUXk1NGNnWGkzYlJhenFKZG8tN1A1ZzYyeEk3aWpobmNWdzVHRFFORmNiSmpYckhKSXJ4UGxLLWVxZjB6cktfWlUweWQyQUlzVWotU1BCVVHSAYACQVVfeXFMT0QtSG82d2J1VlYzdURkZHZnYTlRU05hODdWSjh2UnprYXBPcWlUeFczU2wzcTJHMGtCTi04VEZITXdlT3hqMkpQZTJqNVNYREpWc1k4azVKZmRNb0Z6MHhaS0NMcDFSRGRIYl9Wc2lGVEVZZ2ZXVFdOVEJsUnRBeXJ5aGJYS2gyN2M2UDQxZ3JPYXEydHlnZ1Z3cE1rNFlDLWVDMzRLbXRrbUFJa1NndExwTWZfYzRJNFNPa1EyU09wNHZIQmVSUjV1R19GdGFsb0RHN0tIQW15Zlk5a2RpNmhNaFJxay1oVTJCNDVjUVptVmU5WGxlRWRWTzhDbnRKbQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSTd1c243U09PQUJTalY0MUE2Skc4WEw3WlczNFZVTXhxYkRta3BxbjU1Uk16aDVldmh4OFBCNUF1OUxZQ1BxeXdLamRNMkR6SGROT0ZaSF95X2R3aWdyYnVhMWFxelpkTkNPRU1qeE5jcmQ1OFhXS1JyRkl2Y3VkR2N2RENoNEw1Z0xRZzdrZmJqcGxJMzZXT1kyT2tYUExJMjVLaXNhTHFSTnFadTFyUEFGaksyakxtVjk5Nk1JUXk1NGNnWGkzYlJhenFKZG8tN1A1ZzYyeEk3aWpobmNWdzVHRFFORmNiSmpYckhKSXJ4UGxLLWVxZjB6cktfWlUweWQyQUlzVWotU1BCVVHSAYACQVVfeXFMT0QtSG82d2J1VlYzdURkZHZnYTlRU05hODdWSjh2UnprYXBPcWlUeFczU2wzcTJHMGtCTi04VEZITXdlT3hqMkpQZTJqNVNYREpWc1k4azVKZmRNb0Z6MHhaS0NMcDFSRGRIYl9Wc2lGVEVZZ2ZXVFdOVEJsUnRBeXJ5aGJYS2gyN2M2UDQxZ3JPYXEydHlnZ1Z3cE1rNFlDLWVDMzRLbXRrbUFJa1NndExwTWZfYzRJNFNPa1EyU09wNHZIQmVSUjV1R19GdGFsb0RHN0tIQW15Zlk5a2RpNmhNaFJxay1oVTJCNDVjUVptVmU5WGxlRWRWTzhDbnRKbQ?oc=5",
-      "source": "Newsbiella.it",
-      "sourceHost": "newsbiella.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "territorio"
-      ],
-      "publishedAt": "2026-06-01T07:00:00.000Z",
-      "excerpt": "GAL Montagne Biellesi, Francesca Delmastro è stata confermata presidente: “Si parte con i bandi rivolti agli enti pubblici”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

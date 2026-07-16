@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T15:17:35.540Z",
+  "generatedAt": "2026-07-16T16:49:59.555Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,11 +94,15 @@
     ]
   },
   "window": {
-    "from": "2026-06-01T15:17:35.540Z",
-    "to": "2026-07-16T15:17:35.540Z",
+    "from": "2026-06-01T16:49:59.555Z",
+    "to": "2026-07-16T16:49:59.555Z",
     "days": 45
   },
   "sources": [
+    {
+      "label": "repubblica.it",
+      "articleCount": 5
+    },
     {
       "label": "ilfattoquotidiano.it",
       "articleCount": 5
@@ -106,10 +110,6 @@
     {
       "label": "lastampa.it",
       "articleCount": 5
-    },
-    {
-      "label": "repubblica.it",
-      "articleCount": 4
     },
     {
       "label": "corriere.it",
@@ -123,17 +123,17 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 34,
-      "uniqueArticles": 17
+      "fetchedArticles": 36,
+      "uniqueArticles": 18
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 12,
+      "fetchedArticles": 13,
       "uniqueArticles": 0
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 14,
+      "fetchedArticles": 15,
       "uniqueArticles": 0
     },
     {
@@ -158,12 +158,12 @@
       "count": 6
     },
     {
-      "tag": "giudiziaria",
+      "tag": "bisteccheria",
       "count": 5
     },
     {
-      "tag": "bisteccheria",
-      "count": 4
+      "tag": "giudiziaria",
+      "count": 5
     },
     {
       "tag": "altro",
@@ -357,10 +357,30 @@
     },
     {
       "date": "2026-07-16",
-      "count": 0
+      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "repubblica.it__la repubblica__caso bisteccheria relatore giunta autorizzazioni no sequestro chat delmastro__2026-07-16T15:13:44.000Z",
+      "title": "Caso Bisteccheria, il relatore alla giunta per le autorizzazioni: no a sequestro chat di Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0JMRnpWOWFkM3RqcktBX0xqZXpFN3pjeDJGZ0FrYk9nYjlOYzhlSkYwSDd1YTBuUU4wUlFud1d0RDd6VEVLelpUTUU1eS1FcWljamRuUlhWY29yVjdUYmhycmFyTzJyTlJsYlNOTkJHWmFVVVhXUy1EWVFfa01pck9uTUxTTzBhVzhTcHdsWGkyNVNHek1LUkJFeThMQnFKS1RmbmgyMXc4REYyZ3cxSmtCa19iUzhXWVBZ0gHAAUFVX3lxTE5nZXhaMTdCbUctTU8tNURfRTJlVjBaZ0ZxbjVFelBSOGtJQmhCWEFUekloa29PNXV6MWY3T3l0bDA0VzZuRktncEtCRlBVa3Y0eWdWemIyUE5GeUo0eXBSRTRKWUlISktPczhQM2xqV1FiYm1iNy1lUlpZTGFtdHpYNGZUSGZuZ3BYeWx3bnJ1Qi1ZTkxoRzB5OUZaM3NMeUhZaGRETGIxNU9lRXlQdlJYT0JJQ24yRkw1LU5vdzBGVA?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0JMRnpWOWFkM3RqcktBX0xqZXpFN3pjeDJGZ0FrYk9nYjlOYzhlSkYwSDd1YTBuUU4wUlFud1d0RDd6VEVLelpUTUU1eS1FcWljamRuUlhWY29yVjdUYmhycmFyTzJyTlJsYlNOTkJHWmFVVVhXUy1EWVFfa01pck9uTUxTTzBhVzhTcHdsWGkyNVNHek1LUkJFeThMQnFKS1RmbmgyMXc4REYyZ3cxSmtCa19iUzhXWVBZ0gHAAUFVX3lxTE5nZXhaMTdCbUctTU8tNURfRTJlVjBaZ0ZxbjVFelBSOGtJQmhCWEFUekloa29PNXV6MWY3T3l0bDA0VzZuRktncEtCRlBVa3Y0eWdWemIyUE5GeUo0eXBSRTRKWUlISktPczhQM2xqV1FiYm1iNy1lUlpZTGFtdHpYNGZUSGZuZ3BYeWx3bnJ1Qi1ZTkxoRzB5OUZaM3NMeUhZaGRETGIxNU9lRXlQdlJYT0JJQ24yRkw1LU5vdzBGVA?oc=5",
+      "source": "la Repubblica",
+      "sourceHost": "repubblica.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "bisteccheria"
+      ],
+      "publishedAt": "2026-07-16T15:13:44.000Z",
+      "excerpt": "Caso Bisteccheria, il relatore alla giunta per le autorizzazioni: no a sequestro chat di Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
     {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__nuove mafie vecchia politica millennium ragnatela clan senese__2026-07-14T16:59:51.000Z",
       "title": "Nuove mafie e vecchia politica, su Millennium la ragnatela del clan Senese",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T18:12:00.285Z",
+  "generatedAt": "2026-07-16T19:42:23.385Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-06-01T18:12:00.285Z",
-    "to": "2026-07-16T18:12:00.285Z",
+    "from": "2026-06-01T19:42:23.385Z",
+    "to": "2026-07-16T19:42:23.385Z",
     "days": 45
   },
   "sources": [
@@ -116,6 +116,10 @@
       "articleCount": 2
     },
     {
+      "label": "open.online",
+      "articleCount": 1
+    },
+    {
       "label": "rainews.it",
       "articleCount": 1
     }
@@ -123,12 +127,12 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 36,
-      "uniqueArticles": 18
+      "fetchedArticles": 38,
+      "uniqueArticles": 19
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 13,
+      "fetchedArticles": 14,
       "uniqueArticles": 0
     },
     {
@@ -138,12 +142,12 @@
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 14,
+      "fetchedArticles": 15,
       "uniqueArticles": 0
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 3,
+      "fetchedArticles": 4,
       "uniqueArticles": 0
     },
     {
@@ -154,12 +158,12 @@
   ],
   "tagSummary": [
     {
-      "tag": "territorio",
+      "tag": "bisteccheria",
       "count": 6
     },
     {
-      "tag": "bisteccheria",
-      "count": 5
+      "tag": "territorio",
+      "count": 6
     },
     {
       "tag": "giudiziaria",
@@ -357,10 +361,30 @@
     },
     {
       "date": "2026-07-16",
-      "count": 1
+      "count": 2
     }
   ],
   "articles": [
+    {
+      "id": "open.online__open__pronto scudo camera delmastro caso ristorante__2026-07-16T18:27:19.000Z",
+      "title": "Pronto lo scudo della Camera a Delmastro per il caso del ristorante",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXVwa2RGV1hvU1ZaWGpiVWJJNkRkRmJSanl6aksxMVExRTJicEN3ckUydFZ3dk0wT1Y5Nmx3U0ZKVXdKbGpCVVVQaFJFazk3TGRCWmJ5cVAyX1FqVjNMX0F5cmxpOWhJMmpyQ3IwUnFtb1V2aS1yN1BFWjJwWjJPSjV6SHRZUE9iOW8yRTRCOWxPZXJDemZMSDRmZFNhRm5aN2RqTDRlNnpjdjVrc25YYjNBX2pjTVZEU0E?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXVwa2RGV1hvU1ZaWGpiVWJJNkRkRmJSanl6aksxMVExRTJicEN3ckUydFZ3dk0wT1Y5Nmx3U0ZKVXdKbGpCVVVQaFJFazk3TGRCWmJ5cVAyX1FqVjNMX0F5cmxpOWhJMmpyQ3IwUnFtb1V2aS1yN1BFWjJwWjJPSjV6SHRZUE9iOW8yRTRCOWxPZXJDemZMSDRmZFNhRm5aN2RqTDRlNnpjdjVrc25YYjNBX2pjTVZEU0E?oc=5",
+      "source": "Open",
+      "sourceHost": "open.online",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "bisteccheria"
+      ],
+      "publishedAt": "2026-07-16T18:27:19.000Z",
+      "excerpt": "Pronto lo scudo della Camera a Delmastro per il caso del ristorante",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
     {
       "id": "repubblica.it__la repubblica__caso bisteccheria relatore giunta autorizzazioni no sequestro chat delmastro__2026-07-16T15:13:44.000Z",
       "title": "Caso Bisteccheria, il relatore alla giunta per le autorizzazioni: no a sequestro chat di Delmastro",

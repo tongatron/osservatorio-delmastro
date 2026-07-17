@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T10:53:23.671Z",
+  "generatedAt": "2026-07-17T12:15:48.890Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,14 +94,14 @@
     ]
   },
   "window": {
-    "from": "2026-06-02T10:53:23.671Z",
-    "to": "2026-07-17T10:53:23.671Z",
+    "from": "2026-06-02T12:15:48.890Z",
+    "to": "2026-07-17T12:15:48.890Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 7
+      "articleCount": 9
     },
     {
       "label": "repubblica.it",
@@ -127,8 +127,13 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 42,
-      "uniqueArticles": 21
+      "fetchedArticles": 44,
+      "uniqueArticles": 22
+    },
+    {
+      "label": "Bisteccheria",
+      "fetchedArticles": 19,
+      "uniqueArticles": 1
     },
     {
       "label": "Soci e societa'",
@@ -136,13 +141,8 @@
       "uniqueArticles": 1
     },
     {
-      "label": "Bisteccheria",
-      "fetchedArticles": 16,
-      "uniqueArticles": 0
-    },
-    {
       "label": "Persone collegate",
-      "fetchedArticles": 18,
+      "fetchedArticles": 19,
       "uniqueArticles": 0
     },
     {
@@ -159,23 +159,23 @@
   "tagSummary": [
     {
       "tag": "bisteccheria",
-      "count": 7
+      "count": 8
     },
     {
       "tag": "giudiziaria",
       "count": 6
     },
     {
+      "tag": "altro",
+      "count": 5
+    },
+    {
       "tag": "territorio",
       "count": 5
     },
     {
-      "tag": "altro",
-      "count": 4
-    },
-    {
       "tag": "politica",
-      "count": 2
+      "count": 3
     }
   ],
   "timeline": [
@@ -361,7 +361,7 @@
     },
     {
       "date": "2026-07-17",
-      "count": 3
+      "count": 5
     }
   ],
   "articles": [
@@ -422,6 +422,47 @@
       ],
       "publishedAt": "2026-07-16T22:01:00.000Z",
       "excerpt": "Chat con Delmastro. La destra affossa le richieste dei pm",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__mafia politica meno male che c delmastro__2026-07-16T22:01:00.000Z",
+      "title": "Mafia e politica, meno male che c’è Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeTJiY0t3QmNPTi1hVldtU2FLcTlWaWdmYWVybnhhZHR5QzFQZkgyTzhBd25oOE5oQ1l1SGdpVS03VTB1dXA2R2w0Q0I1Q2haNnh4UmlrNjNIeWdndzZxRUpqUTEwd1dGUGNSMXp3OGllTldJZnVPTDFDZ19oS2hFWk92b0l0Qm50WlZhVkNmcXBTZld2Q19tSUZhdlktSkxZQ3hjTXVPVEdrUjQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeTJiY0t3QmNPTi1hVldtU2FLcTlWaWdmYWVybnhhZHR5QzFQZkgyTzhBd25oOE5oQ1l1SGdpVS03VTB1dXA2R2w0Q0I1Q2haNnh4UmlrNjNIeWdndzZxRUpqUTEwd1dGUGNSMXp3OGllTldJZnVPTDFDZ19oS2hFWk92b0l0Qm50WlZhVkNmcXBTZld2Q19tSUZhdlktSkxZQ3hjTXVPVEdrUjQ?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-07-16T22:01:00.000Z",
+      "excerpt": "Mafia e politica, meno male che c’è Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__tutti pazzi bisteccheria anche sottosegretario tutta storia famiglia caroccia__2026-07-16T22:01:00.000Z",
+      "title": "Tutti pazzi per la bisteccheria (anche il sottosegretario). Tutta la storia della famiglia Caroccia",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVVg3VFFiODFTLWpnQ1h0OVBtM1BKUFNwcW5jTnA5eGJOaDNYdURKNjV0ZUxNVndIdkJPWVU2QjhzaGc4eHZ0a3psTWo5LUVMQVpRbHN3ZHBSMUxYVXhTb2JLRW1RM0FQMHMyejVRN3dlMHVBVVN0UHlJcU10bjlaWjlROTJjQ1FUVFhkWTRfaU5WQjlXX2ZMdUNrYi1XdDk4dFJ6TWRoMV9rTlktb2w1bkZZazdPVDYxMllBeDE2cmJNU25WT3ZxMlZlZ3FmcjRqeWlLdWU1dEVvSXJLOURNUURqU1REclZSaDU4OE8tZFF5Zw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVVg3VFFiODFTLWpnQ1h0OVBtM1BKUFNwcW5jTnA5eGJOaDNYdURKNjV0ZUxNVndIdkJPWVU2QjhzaGc4eHZ0a3psTWo5LUVMQVpRbHN3ZHBSMUxYVXhTb2JLRW1RM0FQMHMyejVRN3dlMHVBVVN0UHlJcU10bjlaWjlROTJjQ1FUVFhkWTRfaU5WQjlXX2ZMdUNrYi1XdDk4dFJ6TWRoMV9rTlktb2w1bkZZazdPVDYxMllBeDE2cmJNU25WT3ZxMlZlZ3FmcjRqeWlLdWU1dEVvSXJLOURNUURqU1REclZSaDU4OE8tZFF5Zw?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "politica",
+        "bisteccheria"
+      ],
+      "publishedAt": "2026-07-16T22:01:00.000Z",
+      "excerpt": "Tutti pazzi per la bisteccheria (anche il sottosegretario). Tutta la storia della famiglia Caroccia",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

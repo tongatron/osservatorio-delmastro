@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T00:57:28.375Z",
+  "generatedAt": "2026-07-22T04:25:26.135Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-06-07T00:57:28.375Z",
-    "to": "2026-07-22T00:57:28.375Z",
+    "from": "2026-06-07T04:25:26.135Z",
+    "to": "2026-07-22T04:25:26.135Z",
     "days": 45
   },
   "sources": [
@@ -124,6 +124,10 @@
       "articleCount": 1
     },
     {
+      "label": "agi.it",
+      "articleCount": 1
+    },
+    {
       "label": "open.online",
       "articleCount": 1
     },
@@ -135,22 +139,22 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 48,
-      "uniqueArticles": 24
+      "fetchedArticles": 50,
+      "uniqueArticles": 25
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 21,
+      "fetchedArticles": 22,
       "uniqueArticles": 1
+    },
+    {
+      "label": "Soci e societa'",
+      "fetchedArticles": 20,
+      "uniqueArticles": 0
     },
     {
       "label": "Bisteccheria",
       "fetchedArticles": 18,
-      "uniqueArticles": 0
-    },
-    {
-      "label": "Soci e societa'",
-      "fetchedArticles": 19,
       "uniqueArticles": 0
     },
     {
@@ -170,12 +174,12 @@
       "count": 8
     },
     {
-      "tag": "territorio",
+      "tag": "politica",
       "count": 6
     },
     {
-      "tag": "politica",
-      "count": 5
+      "tag": "territorio",
+      "count": 6
     },
     {
       "tag": "altro",
@@ -365,7 +369,7 @@
     },
     {
       "date": "2026-07-21",
-      "count": 2
+      "count": 3
     },
     {
       "date": "2026-07-22",
@@ -411,6 +415,26 @@
         "politica"
       ],
       "publishedAt": "2026-07-21T17:01:57.000Z",
+      "excerpt": "Commissione Covid, Conte: FdI se la canta e se la suona, dimostrino trasparenza su Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "agi.it__agi__commissione covid conte fdi se canta se suona dimostrino trasparenza delmastro__2026-07-21T16:36:00.000Z",
+      "title": "Commissione Covid, Conte: FdI se la canta e se la suona, dimostrino trasparenza su Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQXlCMTExdlM4aHFIUGFQUmhySm4tWjFEa3ptdDBkM3pqUnVEQXhUemxOSWlGYVNaVDdkbDd5c0swOHRySE5lWXNFV1lJb2VMX0hmbHJNdHhCYnlrUHNZN3BGN2E4MHhnQnVRRmV5aFlXT3ZYbklOamtEd0QtTmdGeDNNeF9WaGdQWWVERHRaYVNEZUMxbk83Nm82VGV6SHlGNUpwYkt5dGFtZW5HMTlnZUl1VXFGU19fMTQteC1WNGV6YUY5Qno0WFp3YUljeU95dG1JVnE2LVBzVm5p0gHiAUFVX3lxTE5XdFp3ak5kUU52alVhb0M1cDNwU2NMUjAwNENOYUFBWUxSeVpwWXdGOGNZNnR0TFJ3QTI4N05WTzFjUldDbFJFTmt6a3pYdGtxNE80SlVWTF93amlMbmR3TVpFN1dDRWhRT3FUVzA2aFRyMXJoTlNLNVFkTnAzZUljTW85YzlCdVNrT0ctY0tKWUNXMjFkdUVEMWhWQkNQakdxdkhUM1huaFRVU0pJSGNEem83eG1RUkNaZUs0UFQ3czlJajF2d2dfRVBLUjJJMWdoOF90Qm0zSy1pTGhPc3R3TVE?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQXlCMTExdlM4aHFIUGFQUmhySm4tWjFEa3ptdDBkM3pqUnVEQXhUemxOSWlGYVNaVDdkbDd5c0swOHRySE5lWXNFV1lJb2VMX0hmbHJNdHhCYnlrUHNZN3BGN2E4MHhnQnVRRmV5aFlXT3ZYbklOamtEd0QtTmdGeDNNeF9WaGdQWWVERHRaYVNEZUMxbk83Nm82VGV6SHlGNUpwYkt5dGFtZW5HMTlnZUl1VXFGU19fMTQteC1WNGV6YUY5Qno0WFp3YUljeU95dG1JVnE2LVBzVm5p0gHiAUFVX3lxTE5XdFp3ak5kUU52alVhb0M1cDNwU2NMUjAwNENOYUFBWUxSeVpwWXdGOGNZNnR0TFJ3QTI4N05WTzFjUldDbFJFTmt6a3pYdGtxNE80SlVWTF93amlMbmR3TVpFN1dDRWhRT3FUVzA2aFRyMXJoTlNLNVFkTnAzZUljTW85YzlCdVNrT0ctY0tKWUNXMjFkdUVEMWhWQkNQakdxdkhUM1huaFRVU0pJSGNEem83eG1RUkNaZUs0UFQ3czlJajF2d2dfRVBLUjJJMWdoOF90Qm0zSy1pTGhPc3R3TVE?oc=5",
+      "source": "AGI",
+      "sourceHost": "agi.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica"
+      ],
+      "publishedAt": "2026-07-21T16:36:00.000Z",
       "excerpt": "Commissione Covid, Conte: FdI se la canta e se la suona, dimostrino trasparenza su Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"

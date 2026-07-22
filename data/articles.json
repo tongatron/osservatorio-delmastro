@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T14:35:54.449Z",
+  "generatedAt": "2026-07-22T16:25:40.131Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-06-07T14:35:54.449Z",
-    "to": "2026-07-22T14:35:54.449Z",
+    "from": "2026-06-07T16:25:40.131Z",
+    "to": "2026-07-22T16:25:40.131Z",
     "days": 45
   },
   "sources": [
@@ -112,31 +112,39 @@
       "articleCount": 7
     },
     {
+      "label": "affaritaliani.it",
+      "articleCount": 6
+    },
+    {
       "label": "adnkronos.com",
       "articleCount": 6
     },
     {
-      "label": "ansa.it",
-      "articleCount": 4
+      "label": "corriere.it",
+      "articleCount": 5
     },
     {
       "label": "rainews.it",
-      "articleCount": 4
-    },
-    {
-      "label": "corriere.it",
-      "articleCount": 4
+      "articleCount": 5
     },
     {
       "label": "quotidiano.net",
       "articleCount": 4
     },
     {
-      "label": "affaritaliani.it",
-      "articleCount": 3
+      "label": "ilgiornale.it",
+      "articleCount": 4
     },
     {
-      "label": "ilgiornale.it",
+      "label": "ansa.it",
+      "articleCount": 4
+    },
+    {
+      "label": "tg24.sky.it",
+      "articleCount": 2
+    },
+    {
+      "label": "agi.it",
       "articleCount": 2
     },
     {
@@ -146,10 +154,6 @@
     {
       "label": "open.online",
       "articleCount": 2
-    },
-    {
-      "label": "tg24.sky.it",
-      "articleCount": 1
     },
     {
       "label": "huffingtonpost.it",
@@ -172,34 +176,34 @@
       "articleCount": 1
     },
     {
-      "label": "agi.it",
+      "label": "fanpage.it",
       "articleCount": 1
     }
   ],
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 124,
-      "uniqueArticles": 62
+      "fetchedArticles": 146,
+      "uniqueArticles": 73
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 49,
+      "fetchedArticles": 57,
+      "uniqueArticles": 3
+    },
+    {
+      "label": "Bisteccheria",
+      "fetchedArticles": 34,
       "uniqueArticles": 2
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 37,
-      "uniqueArticles": 2
-    },
-    {
-      "label": "Bisteccheria",
-      "fetchedArticles": 32,
-      "uniqueArticles": 2
+      "fetchedArticles": 38,
+      "uniqueArticles": 1
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 13,
+      "fetchedArticles": 16,
       "uniqueArticles": 0
     },
     {
@@ -211,19 +215,19 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 27
+      "count": 30
     },
     {
       "tag": "politica",
-      "count": 22
+      "count": 26
     },
     {
       "tag": "giudiziaria",
-      "count": 10
+      "count": 12
     },
     {
       "tag": "bisteccheria",
-      "count": 8
+      "count": 9
     },
     {
       "tag": "territorio",
@@ -413,17 +417,37 @@
     },
     {
       "date": "2026-07-22",
-      "count": 40
+      "count": 50
     }
   ],
   "articles": [
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro giunta camera dice no sequestro chat__2026-07-22T13:31:44.000Z",
-      "title": "Delmastro: la giunta Camera dice no al sequestro delle chat",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlFzanBpN1psY1dYT01ZdEp4THZFZ1dqZElVMnBpMW1WNU81U3dGNTZPVkFFcm92aWI1aGlZZUpIckRFQUZYUm9hZUZ2N2g0dnJEMVhYSllteXNIZE1nTDVMVXF5TXNtakc3a1FaU1hYa0dzWDVBS1h0b1VtMEZ3cVBxc3NRQXRzTllQSzcyZHk1VEVFSDJv?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlFzanBpN1psY1dYT01ZdEp4THZFZ1dqZElVMnBpMW1WNU81U3dGNTZPVkFFcm92aWI1aGlZZUpIckRFQUZYUm9hZUZ2N2g0dnJEMVhYSllteXNIZE1nTDVMVXF5TXNtakc3a1FaU1hYa0dzWDVBS1h0b1VtMEZ3cVBxc3NRQXRzTllQSzcyZHk1VEVFSDJv?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
+      "id": "affaritaliani.it__affaritaliani__vergogna vergogna senatori m5s occupano banchi governo caso delmastro__2026-07-22T15:27:30.000Z",
+      "title": "\"Vergogna, vergogna\", Senatori M5s occupano i banchi del Governo per caso Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeU1hWFFsY19BQ0RPbnBvdm1nMC1NaHdIQW8tTGx3anJSUWhiZlpYSHpCSDcyUTR1SW9JYklQR1l5WGtpODJ6TXJ3Z3FTaEU3ZGpXaktkdEZubWwtelN6N2hmaEZsT3RqdHczOTFyZFJ1SHVMQTByRjZuUmxGWS1zTVR2NHA0bzhsSWx6amVoX2JOLUs4NGZaa2pleGMxU3VKWDJodTlVWWdlWFBtWV9RLU1iVzJVa3dscVlqQXdjQnZPVVdiWjI3dUdHcFU?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeU1hWFFsY19BQ0RPbnBvdm1nMC1NaHdIQW8tTGx3anJSUWhiZlpYSHpCSDcyUTR1SW9JYklQR1l5WGtpODJ6TXJ3Z3FTaEU3ZGpXaktkdEZubWwtelN6N2hmaEZsT3RqdHczOTFyZFJ1SHVMQTByRjZuUmxGWS1zTVR2NHA0bzhsSWx6amVoX2JOLUs4NGZaa2pleGMxU3VKWDJodTlVWWdlWFBtWV9RLU1iVzJVa3dscVlqQXdjQnZPVVdiWjI3dUdHcFU?oc=5",
+      "source": "Affaritaliani",
+      "sourceHost": "affaritaliani.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica"
+      ],
+      "publishedAt": "2026-07-22T15:27:30.000Z",
+      "excerpt": "\"Vergogna, vergogna\", Senatori M5s occupano i banchi del Governo per caso Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "affaritaliani.it__affaritaliani__m5s occupa banchi aula senato caso delmastro esposti cartelli fuori chat__2026-07-22T15:27:18.000Z",
+      "title": "M5s occupa banchi Aula Senato per caso Delmastro, esposti i cartelli \"Fuori le chat\"",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVVVscXhNcjdYTDRzVmpZa1g1QnV3aUkwazVIbTNwdTMxTkFUMGdMNVJ1NWh6cDZiUkVVTWZzZFpZazB3SnE0MDJmcUd4ZkE3ZW03OE5vQUxGVFcxRDJHa1NnVWlKR2lWZWJwNG8xanNXUnltSm9wUlB5ZTFEYkdjUnpMSWZLWDVfMUF1TktkdnFTRXFSNUt0c3pZVHQzUFZLQ3NVTFc3YzFQS1Z3Rll4OWhRUEMzSVZMMjdHRkpLVHdIRzVUR2JnNlNBSm14UVU?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVVVscXhNcjdYTDRzVmpZa1g1QnV3aUkwazVIbTNwdTMxTkFUMGdMNVJ1NWh6cDZiUkVVTWZzZFpZazB3SnE0MDJmcUd4ZkE3ZW03OE5vQUxGVFcxRDJHa1NnVWlKR2lWZWJwNG8xanNXUnltSm9wUlB5ZTFEYkdjUnpMSWZLWDVfMUF1TktkdnFTRXFSNUt0c3pZVHQzUFZLQ3NVTFc3YzFQS1Z3Rll4OWhRUEMzSVZMMjdHRkpLVHdIRzVUR2JnNlNBSm14UVU?oc=5",
+      "source": "Affaritaliani",
+      "sourceHost": "affaritaliani.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
         "Delmastro",
@@ -432,16 +456,36 @@
       "tags": [
         "altro"
       ],
-      "publishedAt": "2026-07-22T13:31:44.000Z",
-      "excerpt": "Delmastro: la giunta Camera dice no al sequestro delle chat",
+      "publishedAt": "2026-07-22T15:27:18.000Z",
+      "excerpt": "M5s occupa banchi Aula Senato per caso Delmastro, esposti i cartelli \"Fuori le chat\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "tg24.sky.it__sky tg24__delmastro giunta camera nega uso chat caroccia bagarre aula__2026-07-22T13:04:10.000Z",
-      "title": "Delmastro, giunta Camera nega uso chat con Caroccia. Bagarre in Aula",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRGJUazZ3aFAxM0FyNGtSVVZybG9BOHdMQlZuZGY5ajZDVG9Sanh0aW9jNE51WU44QXJYbE5DNDA4WGY2ejdXWkRhajJXYmhpNkdPd21JcEtzX0JYcV9TVVktN0YxSjFGTllRZDJkRFhMX1JORlJmeXhWUGhKNlFzZA?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRGJUazZ3aFAxM0FyNGtSVVZybG9BOHdMQlZuZGY5ajZDVG9Sanh0aW9jNE51WU44QXJYbE5DNDA4WGY2ejdXWkRhajJXYmhpNkdPd21JcEtzX0JYcV9TVVktN0YxSjFGTllRZDJkRFhMX1JORlJmeXhWUGhKNlFzZA?oc=5",
+      "id": "affaritaliani.it__affaritaliani__pirondini m5s meloni fa passerelle antimafia poi copre delmastro__2026-07-22T15:27:05.000Z",
+      "title": "Pirondini (M5s): Meloni fa passerelle antimafia e poi copre Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU0pmVE10bEl3M0JQM25PdmFSU3BvdTlyTVZGV3NiNEQ3ZEtUS1dTM01YcEhhZDRHRWdxaG5IaVRHbXZDY21yYlR5YWFLUnlKRG4xaEJzSjN0LTQ1Zmk2bGZpS3ZjWC1GeWllSTNHNmZ1QUtTU3RzYS1YUHhxOWgwV256ZW9RZm5LeF91UGhtd2Q1cFVPd0RxcmRvbVEyWFpoN25OT2dTUFl4dDRIeUxPODJ2NFpJd2NpNFh3?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU0pmVE10bEl3M0JQM25PdmFSU3BvdTlyTVZGV3NiNEQ3ZEtUS1dTM01YcEhhZDRHRWdxaG5IaVRHbXZDY21yYlR5YWFLUnlKRG4xaEJzSjN0LTQ1Zmk2bGZpS3ZjWC1GeWllSTNHNmZ1QUtTU3RzYS1YUHhxOWgwV256ZW9RZm5LeF91UGhtd2Q1cFVPd0RxcmRvbVEyWFpoN25OT2dTUFl4dDRIeUxPODJ2NFpJd2NpNFh3?oc=5",
+      "source": "Affaritaliani",
+      "sourceHost": "affaritaliani.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-07-22T15:27:05.000Z",
+      "excerpt": "Pirondini (M5s): Meloni fa passerelle antimafia e poi copre Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "tg24.sky.it__sky tg24__caso delmastro giunta autorizzazioni boccia acquisizioni chat caroccia__2026-07-22T15:24:52.000Z",
+      "title": "Caso Delmastro, giunta autorizzazioni boccia acquisizioni chat con Caroccia",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVpFZm83bDU4UkcxOVgya3FIY3Q0cF9Za3VGYlk3RndUZENpeWEzQnJvNllTSWh6aUZRWFQ4LWZqSXVpMzZ5eU5Kc2NPcnZZc1JpOWIzOVVoZGlBNlpkWlJFR3RDT0FpOE9yNWlnbFZYd0hwYkZRQU5QcENNc0txcGJrOXc2S01Gak0zV1YwdjBQODFyZnRuSEpjQ25fdUc1MmdPYUVMeG9MS1VfNXFfZDJNd1I3eDhhZGVzbXBaRmVPejNQMFpJ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVpFZm83bDU4UkcxOVgya3FIY3Q0cF9Za3VGYlk3RndUZENpeWEzQnJvNllTSWh6aUZRWFQ4LWZqSXVpMzZ5eU5Kc2NPcnZZc1JpOWIzOVVoZGlBNlpkWlJFR3RDT0FpOE9yNWlnbFZYd0hwYkZRQU5QcENNc0txcGJrOXc2S01Gak0zV1YwdjBQODFyZnRuSEpjQ25fdUc1MmdPYUVMeG9MS1VfNXFfZDJNd1I3eDhhZGVzbXBaRmVPejNQMFpJ?oc=5",
       "source": "Sky TG24",
       "sourceHost": "tg24.sky.it",
       "queryLabel": "Delmastro generale",
@@ -452,8 +496,128 @@
       "tags": [
         "altro"
       ],
-      "publishedAt": "2026-07-22T13:04:10.000Z",
-      "excerpt": "Delmastro, giunta Camera nega uso chat con Caroccia. Bagarre in Aula",
+      "publishedAt": "2026-07-22T15:24:52.000Z",
+      "excerpt": "Caso Delmastro, giunta autorizzazioni boccia acquisizioni chat con Caroccia",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "quotidiano.net__quotidiano nazionale__vergogna vergogna senatori m5s occupano banchi governo caso delmastro__2026-07-22T15:04:16.000Z",
+      "title": "\"Vergogna, vergogna\", Senatori M5s occupano i banchi del Governo per caso Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYUVkNk0xR0JkWkg5dzNSM2hVemE3bGYySmdnWlUtWHJiZkgzNU42eVpXQU42b0F0SXJldEZZT25GTWNfdzhiZl9Db0lsOGRHX3NIenVjZjJLeFd6dDl4MGZLbkNKaE0zYW5xX29GX2lralhYU3l4Nkx4N2t2Tl9STzRQai0xN0RfS2VrdFU4UFhhaHE2aUYyZnBqOW12Z05sRHRYZTFWUzBpWmFoQ0t5WU1zZFVPNTI2Z2o1eTBSQnUyNElXRW5PNGtn?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYUVkNk0xR0JkWkg5dzNSM2hVemE3bGYySmdnWlUtWHJiZkgzNU42eVpXQU42b0F0SXJldEZZT25GTWNfdzhiZl9Db0lsOGRHX3NIenVjZjJLeFd6dDl4MGZLbkNKaE0zYW5xX29GX2lralhYU3l4Nkx4N2t2Tl9STzRQai0xN0RfS2VrdFU4UFhhaHE2aUYyZnBqOW12Z05sRHRYZTFWUzBpWmFoQ0t5WU1zZFVPNTI2Z2o1eTBSQnUyNElXRW5PNGtn?oc=5",
+      "source": "Quotidiano Nazionale",
+      "sourceHost": "quotidiano.net",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica"
+      ],
+      "publishedAt": "2026-07-22T15:04:16.000Z",
+      "excerpt": "\"Vergogna, vergogna\", Senatori M5s occupano i banchi del Governo per caso Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilgiornale.it__il giornale__vergogna vergogna senatori m5s occupano banchi governo caso delmastro__2026-07-22T14:44:58.000Z",
+      "title": "\"Vergogna, vergogna\", Senatori M5s occupano i banchi del Governo per caso Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVJ3RG02OVhRSlQ0aVdxOGxDbzRNSUFuZmNmMnRFMU1UX1NUd09mQnN1T0pqdWFVei1nUXBFOUtpRm5QY0tuWXFQUW4za2ZESEhtMUxSaGRTSHN4LXRfSGVKRERIUVhlSVFDdDVmMVZKTXB1MjA5ZVA4QnZOdlJhQ1pPVlBQWklwN0E3ZXc4V09nV1BZVlhoNGJoNWJhLXJ6ajhqdmdBcFI1elJILWlJMkRR?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVJ3RG02OVhRSlQ0aVdxOGxDbzRNSUFuZmNmMnRFMU1UX1NUd09mQnN1T0pqdWFVei1nUXBFOUtpRm5QY0tuWXFQUW4za2ZESEhtMUxSaGRTSHN4LXRfSGVKRERIUVhlSVFDdDVmMVZKTXB1MjA5ZVA4QnZOdlJhQ1pPVlBQWklwN0E3ZXc4V09nV1BZVlhoNGJoNWJhLXJ6ajhqdmdBcFI1elJILWlJMkRR?oc=5",
+      "source": "il Giornale",
+      "sourceHost": "ilgiornale.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica"
+      ],
+      "publishedAt": "2026-07-22T14:44:58.000Z",
+      "excerpt": "\"Vergogna, vergogna\", Senatori M5s occupano i banchi del Governo per caso Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilgiornale.it__il giornale__video m5s occupa banchi aula senato caso delmastro esposti cartelli fuori chat__2026-07-22T14:40:02.000Z",
+      "title": "VIDEO: M5s occupa banchi Aula Senato per caso Delmastro, esposti i cartelli \"Fuori le chat\"",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEoweFhManhhakNzcWNySGl1MzF3enhSUnVRYnMtamVXZnZ3TDNRNzdhWG9lRHkyb1YxRHVYX2JjQ08zQU1nRjFRaTdGa3F6cU9KVGFnSWx0OV83SGxuRjBnTmV3U2EyVEJlMEY3aFRTMm9NVmFPaG5qTnNqWVp3WlBqOEd5S3JYTHEzamV4RmFyQm5iX3NkR0d2cTl6WWdCT3Z6YUx4U09yQnc?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEoweFhManhhakNzcWNySGl1MzF3enhSUnVRYnMtamVXZnZ3TDNRNzdhWG9lRHkyb1YxRHVYX2JjQ08zQU1nRjFRaTdGa3F6cU9KVGFnSWx0OV83SGxuRjBnTmV3U2EyVEJlMEY3aFRTMm9NVmFPaG5qTnNqWVp3WlBqOEd5S3JYTHEzamV4RmFyQm5iX3NkR0d2cTl6WWdCT3Z6YUx4U09yQnc?oc=5",
+      "source": "il Giornale",
+      "sourceHost": "ilgiornale.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-07-22T14:40:02.000Z",
+      "excerpt": "VIDEO: M5s occupa banchi Aula Senato per caso Delmastro, esposti i cartelli \"Fuori le chat\"",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "corriere.it__corriere della sera__senato sfiorata rissa dopo no maggioranza richiesta acquisire chat delmastro caroccia__2026-07-22T14:38:04.000Z",
+      "title": "Senato, sfiorata la rissa dopo il no della maggioranza alla richiesta di acquisire le chat tra Delmastro e Caroccia",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPSU1yeGoxQU8zMlIyaGtLYVZqOFpfejVzaldNNnRDa3RRa0JETWVickNZOHk3RWFtU2szUXpqcTU2YWJfZE5FT2FMNXByZXZmSTV3LXJ5b3VoYUdiWlA2M3pKd0cyelpGZ2ZTWGt2Qlk4S3FjTUNrc2VfNDJWM052RlNzOVQ2a3l6bHc5SC1yT3l4V2d2X0Y5enI1TkZ0SXlheDk5dU1aeVU1bk92QUFlSkoxWWlXV0xZNjcwMFZ5LXVFT0pUdUR4UzJSWGNOU1RESGhFVWtXbk0telMwYjA4X2pXUFpkckdBTkpLUXVxSWtONko2X0lKM3VWRXdvYWtGSURxdXdtSHAyVl9sRzVjNlBDRnR0VlNqVW5iN1dnaGpYZW5EbTVVYUtR?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPSU1yeGoxQU8zMlIyaGtLYVZqOFpfejVzaldNNnRDa3RRa0JETWVickNZOHk3RWFtU2szUXpqcTU2YWJfZE5FT2FMNXByZXZmSTV3LXJ5b3VoYUdiWlA2M3pKd0cyelpGZ2ZTWGt2Qlk4S3FjTUNrc2VfNDJWM052RlNzOVQ2a3l6bHc5SC1yT3l4V2d2X0Y5enI1TkZ0SXlheDk5dU1aeVU1bk92QUFlSkoxWWlXV0xZNjcwMFZ5LXVFT0pUdUR4UzJSWGNOU1RESGhFVWtXbk0telMwYjA4X2pXUFpkckdBTkpLUXVxSWtONko2X0lKM3VWRXdvYWtGSURxdXdtSHAyVl9sRzVjNlBDRnR0VlNqVW5iN1dnaGpYZW5EbTVVYUtR?oc=5",
+      "source": "Corriere della Sera",
+      "sourceHost": "corriere.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-07-22T14:38:04.000Z",
+      "excerpt": "Senato, sfiorata la rissa dopo il no della maggioranza alla richiesta di acquisire le chat tra Delmastro e Caroccia",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "agi.it__agi__delmastro no giunta richiesta pm acquisire chat__2026-07-22T13:49:26.000Z",
+      "title": "Delmastro, no Giunta alla richiesta dei pm di acquisire chat",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVmJnbXpvRmxSbERZajM5Rkl2YXlYaTA3c0thR2ZwM2lEQW9MRWd2Y3B5RzJuVTVIQzNnWGlOQnkzOTE3a0NtMS1MT19KOVktTkJxYzl0ZkpXVEp0aHNYS1didHFmVVNkakZ1UlQ3bkNFNTdva2NVV21KeVpXemZldnUyUDNOcVJuRUx4SXg5cVpLY3NPSGfSAZsBQVVfeXFMTWY5b3l3SzNwTG1hWWVIeTZzaV81WlA1NHNvSWNkYXpVMW1TYS1QSU1pbDVYRUlrSVVwWWwzUG9rbGhrUUhQNDVUV1hLU0hTNmVLRnJLVE5ZZlJBQjliYmk2YWZTaUtXYnZLYkQ1cFZiTy01dURIWDVlXzNpdDlrMW9iUkxueXRMdU1GNDBybmxZNkhHNk5HYmZ5TG8?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVmJnbXpvRmxSbERZajM5Rkl2YXlYaTA3c0thR2ZwM2lEQW9MRWd2Y3B5RzJuVTVIQzNnWGlOQnkzOTE3a0NtMS1MT19KOVktTkJxYzl0ZkpXVEp0aHNYS1didHFmVVNkakZ1UlQ3bkNFNTdva2NVV21KeVpXemZldnUyUDNOcVJuRUx4SXg5cVpLY3NPSGfSAZsBQVVfeXFMTWY5b3l3SzNwTG1hWWVIeTZzaV81WlA1NHNvSWNkYXpVMW1TYS1QSU1pbDVYRUlrSVVwWWwzUG9rbGhrUUhQNDVUV1hLU0hTNmVLRnJLVE5ZZlJBQjliYmk2YWZTaUtXYnZLYkQ1cFZiTy01dURIWDVlXzNpdDlrMW9iUkxueXRMdU1GNDBybmxZNkhHNk5HYmZ5TG8?oc=5",
+      "source": "AGI",
+      "sourceHost": "agi.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-07-22T13:49:26.000Z",
+      "excerpt": "Delmastro, no Giunta alla richiesta dei pm di acquisire chat",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "tgcom24.mediaset.it__tgcom24__no maggioranza all uso chat delmastro protesta m5s__2026-07-22T12:58:00.000Z",
+      "title": "No della maggioranza all'uso delle chat di Delmastro | La protesta del M5S",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR2VKQ0xwY3dBWnB1M29YaHV6bGJ3YkRhaXJVQllvS2ZvN1h1aW80V1RhTVRJS2p2X2FxRU4zNDYxXzBnQWxQSmw3R2kxTE56WXdHVDRJcVNYdVh2M2ZVM0V3Rmxpa2tHVm1XeTg5TDc0d3BXMUt1TVlfUDljUGxTMnlYSFhCaFQ3aEJieUpaOWV5OWM5MTItUtIBaEFVX3lxTE9rSzdLU2JYRWsyWjY0RGNFek1yQ0w4YklzNTJ3MGR1MW0waGd6VlFuX2ludUVPeDNfZFY2VTBXV2djMUVyaVYyLUhzUHhPY1lWZFlMaG1qRzNkWjBmR2FGMmhSTUxnNEFI?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR2VKQ0xwY3dBWnB1M29YaHV6bGJ3YkRhaXJVQllvS2ZvN1h1aW80V1RhTVRJS2p2X2FxRU4zNDYxXzBnQWxQSmw3R2kxTE56WXdHVDRJcVNYdVh2M2ZVM0V3Rmxpa2tHVm1XeTg5TDc0d3BXMUt1TVlfUDljUGxTMnlYSFhCaFQ3aEJieUpaOWV5OWM5MTItUtIBaEFVX3lxTE9rSzdLU2JYRWsyWjY0RGNFek1yQ0w4YklzNTJ3MGR1MW0waGd6VlFuX2ludUVPeDNfZFY2VTBXV2djMUVyaVYyLUhzUHhPY1lWZFlMaG1qRzNkWjBmR2FGMmhSTUxnNEFI?oc=5",
+      "source": "Tgcom24",
+      "sourceHost": "tgcom24.mediaset.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-07-22T12:58:00.000Z",
+      "excerpt": "No della maggioranza all'uso delle chat di Delmastro | La protesta del M5S",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -498,23 +662,22 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ansa.it__ansa__caso delmastro camera boccia richiesta pm sulle chat caroccia senatori m5s occupano banchi governo__2026-07-22T12:35:00.000Z",
-      "title": "Caso Delmastro, la Camera boccia la richiesta dei pm sulle chat con Caroccia. I senatori del M5s occupano i banchi del governo",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNm1uTFpYUE41RFZOZUw2RjVsSUdKNU4wa0s3b0FFa0ttZkpvNVpyR2tieFhweXNKcGVIdkdla0RJMzNtaDJud1hIZmI3ck9kdU5MQXZlWk1LVmlLVnd6VEFpSWotMlZXWTJ6SU9iMnI1cHRJZ0lpZXQ3MVFKQk1fVmM5aUpkWWtXWTQyNFE3ZF83RVVBVmNyOHE1VUROa2xlN2RXTkJ6NFV0XzJBbDh1RmVSdWt1UVJJYWZqY2lHWmdXR0JuQlp6aW9wTHVkUk4xNUhKcDdaeFVUMlJtT2tHbzVhVy1jYW5nOXgxNUpB0gHzAUFVX3lxTE1sbEwwbkczNkdrelF5dWEweXZQeDN1Qy1HQmxacU9TaXdody1WeTFLeVIxSllPT1pQYThkYllVeFMtNXJ0c0huSXo1dThkUWdMNTRsTWZnbHBYT0JicGI4cWN5anNoZl83NkdneGcxWm9zQ0RaWllEVnJnWDE1cnc5Z2cyWFVmV3NHRlJzWDJKRDZfb1I3NFdYVE4wV2E5THNLaVQxaGg4VnkzbVROMDh0TFNRbWJGMEtNUy1hLS1PME42eEhOQmFDS2ppUy1BZlZBRDlvQW1SaGhtNFpBQmdnc2xDZDhmMGJaYVdXcFdwRVVMcw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNm1uTFpYUE41RFZOZUw2RjVsSUdKNU4wa0s3b0FFa0ttZkpvNVpyR2tieFhweXNKcGVIdkdla0RJMzNtaDJud1hIZmI3ck9kdU5MQXZlWk1LVmlLVnd6VEFpSWotMlZXWTJ6SU9iMnI1cHRJZ0lpZXQ3MVFKQk1fVmM5aUpkWWtXWTQyNFE3ZF83RVVBVmNyOHE1VUROa2xlN2RXTkJ6NFV0XzJBbDh1RmVSdWt1UVJJYWZqY2lHWmdXR0JuQlp6aW9wTHVkUk4xNUhKcDdaeFVUMlJtT2tHbzVhVy1jYW5nOXgxNUpB0gHzAUFVX3lxTE1sbEwwbkczNkdrelF5dWEweXZQeDN1Qy1HQmxacU9TaXdody1WeTFLeVIxSllPT1pQYThkYllVeFMtNXJ0c0huSXo1dThkUWdMNTRsTWZnbHBYT0JicGI4cWN5anNoZl83NkdneGcxWm9zQ0RaWllEVnJnWDE1cnc5Z2cyWFVmV3NHRlJzWDJKRDZfb1I3NFdYVE4wV2E5THNLaVQxaGg4VnkzbVROMDh0TFNRbWJGMEtNUy1hLS1PME42eEhOQmFDS2ppUy1BZlZBRDlvQW1SaGhtNFpBQmdnc2xDZDhmMGJaYVdXcFdwRVVMcw?oc=5",
-      "source": "ANSA",
-      "sourceHost": "ansa.it",
+      "id": "rainews.it__rainews__caso 5 forchette respinta richiesta acquisire chat delmastro caroccia__2026-07-22T12:39:00.000Z",
+      "title": "Caso \"5 Forchette\", respinta richiesta di acquisire chat tra Delmastro e Caroccia",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWnpvSThmS1FNVEhQRW9DT0dXX2U5d05yUHFrajkwbElPeVo3cUExa0c4NHdZcUszX3BHeGdzNzFJaUVRVUxiVDMzejZaY2YwUjlUYnBxZ1RQeGJoQVRwcExTYnZFSi1VMkNSSjcxVGFKMkJINVk5dHJHQUpNVmFua1lwUUpkbjJiWHVSQjVXUFc4M3loLUVpYktfN3FOZXRnV2FnTGozWUNJOFZXaDI1UGp6NUczVWpXdE5WVHQ1d0x3TlFQREVyWUg2Y09Hc182cXp4RHZPN2toZzBhbXVHMllGbjEyMG5GY2FheGNTZU5CMXlkU1RMamtBZnl6QlV4THNHZUhvQzPSAYgCQVVfeXFMTlp6b0k4ZktRTVRIUEVvQ09HV19lOXdOclBxa2o5MGxJT3laN3FBMWtHODR3WXFLM19wR3hnczcxSWlFUVVMYlQzM3o2WmNmMFI5VGJwcWdUUHhiaEFUcHBMU2J2RUotVTJDUko3MVRhSjJCSDVZOXRyR0FKTVZhbmtZcFFKZG4yYlh1UkI1V1BXODN5aC1FaWJLXzdxTmV0Z1dhZ0xqM1lDSThWV2gyNVBqejVHM1VqV3ROVlR0NXdMd05RUERFcllINmNPR3NfNnF6eER2TzdraGcwYW11RzJZRm4xMjBuRmNhYXhjU2VOQjF5ZFNUTGprQWZ5ekJVeExzR2VIb0Mz?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWnpvSThmS1FNVEhQRW9DT0dXX2U5d05yUHFrajkwbElPeVo3cUExa0c4NHdZcUszX3BHeGdzNzFJaUVRVUxiVDMzejZaY2YwUjlUYnBxZ1RQeGJoQVRwcExTYnZFSi1VMkNSSjcxVGFKMkJINVk5dHJHQUpNVmFua1lwUUpkbjJiWHVSQjVXUFc4M3loLUVpYktfN3FOZXRnV2FnTGozWUNJOFZXaDI1UGp6NUczVWpXdE5WVHQ1d0x3TlFQREVyWUg2Y09Hc182cXp4RHZPN2toZzBhbXVHMllGbjEyMG5GY2FheGNTZU5CMXlkU1RMamtBZnl6QlV4THNHZUhvQzPSAYgCQVVfeXFMTlp6b0k4ZktRTVRIUEVvQ09HV19lOXdOclBxa2o5MGxJT3laN3FBMWtHODR3WXFLM19wR3hnczcxSWlFUVVMYlQzM3o2WmNmMFI5VGJwcWdUUHhiaEFUcHBMU2J2RUotVTJDUko3MVRhSjJCSDVZOXRyR0FKTVZhbmtZcFFKZG4yYlh1UkI1V1BXODN5aC1FaWJLXzdxTmV0Z1dhZ0xqM1lDSThWV2gyNVBqejVHM1VqV3ROVlR0NXdMd05RUERFcllINmNPR3NfNnF6eER2TzdraGcwYW11RzJZRm4xMjBuRmNhYXhjU2VOQjF5ZFNUTGprQWZ5ekJVeExzR2VIb0Mz?oc=5",
+      "source": "RaiNews",
+      "sourceHost": "rainews.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
         "Delmastro",
         "Andrea Delmastro"
       ],
       "tags": [
-        "politica",
-        "giudiziaria"
+        "bisteccheria"
       ],
-      "publishedAt": "2026-07-22T12:35:00.000Z",
-      "excerpt": "Caso Delmastro, la Camera boccia la richiesta dei pm sulle chat con Caroccia. I senatori del M5s occupano i banchi del governo",
+      "publishedAt": "2026-07-22T12:39:00.000Z",
+      "excerpt": "Caso \"5 Forchette\", respinta richiesta di acquisire chat tra Delmastro e Caroccia",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -639,26 +802,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "tgcom24.mediaset.it__tgcom24__no maggioranza all uso chat delmastro protesta m5s__2026-07-22T11:51:20.000Z",
-      "title": "No della maggioranza all'uso delle chat di Delmastro | La protesta del M5S",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rSzdLU2JYRWsyWjY0RGNFek1yQ0w4YklzNTJ3MGR1MW0waGd6VlFuX2ludUVPeDNfZFY2VTBXV2djMUVyaVYyLUhzUHhPY1lWZFlMaG1qRzNkWjBmR2FGMmhSTUxnNEFI0gFoQVVfeXFMT2tLN0tTYlhFazJaNjREY0V6TXJDTDhiSXM1MncwZHUxbTBoZ3pWUW5faW51RU94M19kVjZVMFdXZ2MxRXJpVjItSHNQeE9jWVZkWUxobWpHM2RaMGZHYUYyaFJNTGc0QUg?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rSzdLU2JYRWsyWjY0RGNFek1yQ0w4YklzNTJ3MGR1MW0waGd6VlFuX2ludUVPeDNfZFY2VTBXV2djMUVyaVYyLUhzUHhPY1lWZFlMaG1qRzNkWjBmR2FGMmhSTUxnNEFI0gFoQVVfeXFMT2tLN0tTYlhFazJaNjREY0V6TXJDTDhiSXM1MncwZHUxbTBoZ3pWUW5faW51RU94M19kVjZVMFdXZ2MxRXJpVjItSHNQeE9jWVZkWUxobWpHM2RaMGZHYUYyaFJNTGc0QUg?oc=5",
-      "source": "Tgcom24",
-      "sourceHost": "tgcom24.mediaset.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-07-22T11:51:20.000Z",
-      "excerpt": "No della maggioranza all'uso delle chat di Delmastro | La protesta del M5S",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "rainews.it__rainews__maggioranza dice no richiesta magistrati acquisizione chat delmastro caroccia__2026-07-22T11:50:00.000Z",
       "title": "La maggioranza dice no alla richiesta dei magistrati su acquisizione chat Delmastro-Caroccia",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdWxlNFRaTnBOcGgwUmdWQTR6RDRFTlhjSEQ3cHNhN1EzRkluNXdtRldlelRGdVBPaGhyN3BlZHR4aDFCNDVIandYaFhTa3R3dlE1Y3RIazY1VDBzV0ZDVXlsamV0Z0p0Ti16cXRZTktxSWJseDljbi1yVFh0aERIeGVXT3RsV2NxaFIxZERxQktFdjRBU2JvbFJCaWN1NEtqaU05b0RUY2tCUHhiNThKT2FJQzljSVNZUWpXRzJjaEVDV3BaVXRSS1E1emRKRGdadEctMUl1NVdyYnpqZHJjYWwtUEVaY19WUnNLZGF2cHRGVDFnOGFxTmx4aTZMNWVUcGFRS9IBigJBVV95cUxPc1lha2xEQUsxU3daOWplYmNab2dCQTJIMkdSRHpDZzZldW0wR1RyNTdxdkZOZ1BjLTAxcV9qbkZNNENESVBXWUhiSGlYdlJxR3NXeFNURjgzMWo0ak4yVXN5T3hhdjJXZEVLVjBHMWVLbGx6aWxxNUJmZE9IR1F2YWdRdXNfd2k3OXZSNzAtdG1tVFJDcEFwQlZmek9XUl9UNlFxYnJMZkVUcC1SMk9PdS0tYTJBRFZtblFjZF9iMnhuQjMzNzc2YWYwNzNVbTl2OFFKWV9wdFFldnFBOTRfdjBUdk9ma0d1R2ExakRxS3lkcHBZcFdSSGtTb3J5NVVfVDVlTDh1c2l4Zw?oc=5",
@@ -686,8 +829,8 @@
     {
       "id": "tgcom24.mediaset.it__tgcom24__m5s protesta senato cartelli fuori chat contro caso delmastro__2026-07-22T11:35:10.000Z",
       "title": "M5S protesta in Senato: cartelli \"Fuori le chat\" contro il caso Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YMXlsX0RyVHF5c1ZCb2l6eWRjQ2VlZ0t2elFtUy1qZ3o1VjM1WTZNY1NhQnF4ZjlEVnlfM0Q5MzVEV1Awc2VkdmlRb2c4SWNCZGh6aVZQcFQ4MWowaGVWUlNsMWRTUG5OcnZvTnRySdIBb0FVX3lxTE9YMXlsX0RyVHF5c1ZCb2l6eWRjQ2VlZ0t2elFtUy1qZ3o1VjM1WTZNY1NhQnF4ZjlEVnlfM0Q5MzVEV1Awc2VkdmlRb2c4SWNCZGh6aVZQcFQ4MWowaGVWUlNsMWRTUG5OcnZvTnRySQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YMXlsX0RyVHF5c1ZCb2l6eWRjQ2VlZ0t2elFtUy1qZ3o1VjM1WTZNY1NhQnF4ZjlEVnlfM0Q5MzVEV1Awc2VkdmlRb2c4SWNCZGh6aVZQcFQ4MWowaGVWUlNsMWRTUG5OcnZvTnRySdIBb0FVX3lxTE9YMXlsX0RyVHF5c1ZCb2l6eWRjQ2VlZ0t2elFtUy1qZ3o1VjM1WTZNY1NhQnF4ZjlEVnlfM0Q5MzVEV1Awc2VkdmlRb2c4SWNCZGh6aVZQcFQ4MWowaGVWUlNsMWRTUG5OcnZvTnRySQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNVF0bzlCYm5jV2FkN21nalU4U015R3V2U01raGVVQWVnWXN3ZmZIYVlKZVVpeTNCV3NGV2U0OEV5RENja0JuV25kT1lIQWtObDg3SnRLV3J3TGVJVFkzMkFlY1BEbC1LRm51Qmp1eGtkRXkweFFYNENEejhMRVV1b2tOajN6M2s3U3VzckxTMW9SUkVCaFg4ZFN2VnFyQWtWN0wzMjIwekt1a1hSQXVZUmw1U3BTU2dSdHhZeFZKS18xVFhWbVlaTVVueFFZY0RsLW9aOGRXNNIBb0FVX3lxTE9YMXlsX0RyVHF5c1ZCb2l6eWRjQ2VlZ0t2elFtUy1qZ3o1VjM1WTZNY1NhQnF4ZjlEVnlfM0Q5MzVEV1Awc2VkdmlRb2c4SWNCZGh6aVZQcFQ4MWowaGVWUlNsMWRTUG5OcnZvTnRySQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNVF0bzlCYm5jV2FkN21nalU4U015R3V2U01raGVVQWVnWXN3ZmZIYVlKZVVpeTNCV3NGV2U0OEV5RENja0JuV25kT1lIQWtObDg3SnRLV3J3TGVJVFkzMkFlY1BEbC1LRm51Qmp1eGtkRXkweFFYNENEejhMRVV1b2tOajN6M2s3U3VzckxTMW9SUkVCaFg4ZFN2VnFyQWtWN0wzMjIwekt1a1hSQXVZUmw1U3BTU2dSdHhZeFZKS18xVFhWbVlaTVVueFFZY0RsLW9aOGRXNNIBb0FVX3lxTE9YMXlsX0RyVHF5c1ZCb2l6eWRjQ2VlZ0t2elFtUy1qZ3o1VjM1WTZNY1NhQnF4ZjlEVnlfM0Q5MzVEV1Awc2VkdmlRb2c4SWNCZGh6aVZQcFQ4MWowaGVWUlNsMWRTUG5OcnZvTnRySQ?oc=5",
       "source": "Tgcom24",
       "sourceHost": "tgcom24.mediaset.it",
       "queryLabel": "Delmastro generale",
@@ -706,16 +849,14 @@
     {
       "id": "liberoquotidiano.it__libero quotidiano__senato m5s occupa banchi governo no giunta chat delmastro libero quotidiano it__2026-07-22T11:33:03.000Z",
       "title": "Senato, M5S occupa banchi governo per no giunta a chat Delmastro | Libero Quotidiano.it",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTZhTFFhYXhnMjlNTWNkTjNtd3lrRERBdno3Rk5PRW12YUE0bDFtNEh2QTljSjVCVkNIM0NxZzQ4MjFqVlk5T3gxOHRFbmNZYWI3TkRsT2UzbENfRzV3MkI1SUNfb1JqQ2h2SFNCbFNLSXRrYXk1YWxMMlhieko5SU5vT3JKcW5IM0hLQXFzNFEydXc3Wm5BWndZbzJHdnk2enVYZmhuVVA0ODdNTk9jT3JrbkJCRmM40gG-AUFVX3lxTFBnR3NycDlTWE12eWhYdWFBN1diM3hUbUFieUx5SEJNR0FCTlJQZkVuM1VFR0dERmNuNDRsNVJuWDRkUVgyczZHRVhWR3JNS3B5TVRvc3JmQ2pqTE1vWU0tSGtNNFVQa2taWVVHY1dqQnNYYzZnd0J1aGwtUlhROTZQbkdSX2hoR1haYk5KVlNzTTl6TW5qLW50eFA0SVhlTGJGQUd6bzhZUEEzME5tekFNVVVMbnlmRVBaaWVZY2c?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTZhTFFhYXhnMjlNTWNkTjNtd3lrRERBdno3Rk5PRW12YUE0bDFtNEh2QTljSjVCVkNIM0NxZzQ4MjFqVlk5T3gxOHRFbmNZYWI3TkRsT2UzbENfRzV3MkI1SUNfb1JqQ2h2SFNCbFNLSXRrYXk1YWxMMlhieko5SU5vT3JKcW5IM0hLQXFzNFEydXc3Wm5BWndZbzJHdnk2enVYZmhuVVA0ODdNTk9jT3JrbkJCRmM40gG-AUFVX3lxTFBnR3NycDlTWE12eWhYdWFBN1diM3hUbUFieUx5SEJNR0FCTlJQZkVuM1VFR0dERmNuNDRsNVJuWDRkUVgyczZHRVhWR3JNS3B5TVRvc3JmQ2pqTE1vWU0tSGtNNFVQa2taWVVHY1dqQnNYYzZnd0J1aGwtUlhROTZQbkdSX2hoR1haYk5KVlNzTTl6TW5qLW50eFA0SVhlTGJGQUd6bzhZUEEzME5tekFNVVVMbnlmRVBaaWVZY2c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUp2T0VIOTJtWXQ4RUxCcjcwN0ZHNmhaN2hCdy1jdzA4ZWt2aGRiVmdyTmFtV1p5VHlIQk9Cbm44dk9xckxmTnNMXzdBVk5SYnoxcU0tU0UwOU00bWh5SkJKNEtQa0hZSkdyZ0VsbUhnb1JQOS16QzZtTUl1amVjRE5TWHVTejRHRVh0eXoxTWNRVF9vb2hSLWRiM3hOaFlfSHRFYnJuNl9oTE5uSk9ycUkwZmZOdUo5R1HSAb4BQVVfeXFMUGdHc3JwOVNYTXZ5aFh1YUE3V2IzeFRtQWJ5THlIQk1HQUJOUlBmRW4zVUVHR0RGY240NGw1Um5YNGRRWDJzNkdFWFZHck1LcHlNVG9zcmZDampMTW9ZTS1Ia000VVBra1pZVUdjV2pCc1hjNmd3QnVobC1SWFE5NlBuR1JfaGhHWFpiTkpWU3NNOXpNbmotbnR4UDRJWGVMYkZBR3pvOFlQQTMwTm16QU1VVUxueWZFUFppZVljZw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUp2T0VIOTJtWXQ4RUxCcjcwN0ZHNmhaN2hCdy1jdzA4ZWt2aGRiVmdyTmFtV1p5VHlIQk9Cbm44dk9xckxmTnNMXzdBVk5SYnoxcU0tU0UwOU00bWh5SkJKNEtQa0hZSkdyZ0VsbUhnb1JQOS16QzZtTUl1amVjRE5TWHVTejRHRVh0eXoxTWNRVF9vb2hSLWRiM3hOaFlfSHRFYnJuNl9oTE5uSk9ycUkwZmZOdUo5R1HSAb4BQVVfeXFMUGdHc3JwOVNYTXZ5aFh1YUE3V2IzeFRtQWJ5THlIQk1HQUJOUlBmRW4zVUVHR0RGY240NGw1Um5YNGRRWDJzNkdFWFZHck1LcHlNVG9zcmZDampMTW9ZTS1Ia000VVBra1pZVUdjV2pCc1hjNmd3QnVobC1SWFE5NlBuR1JfaGhHWFpiTkpWU3NNOXpNbmotbnR4UDRJWGVMYkZBR3pvOFlQQTMwTm16QU1VVUxueWZFUFppZVljZw?oc=5",
       "source": "Libero Quotidiano",
       "sourceHost": "liberoquotidiano.it",
-      "queryLabel": "Persone collegate",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Elena Chiorino",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "clan Senese"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "politica"
@@ -782,26 +923,6 @@
       ],
       "publishedAt": "2026-07-22T11:09:15.000Z",
       "excerpt": "Senato, M5S occupa banchi governo per no giunta a chat Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "quotidiano.net__quotidiano nazionale__m5s occupano banchi caso delmastro cartelli fuori chat__2026-07-22T11:04:36.000Z",
-      "title": "M5s occupano banchi per caso Delmastro, cartelli: “Fuori le chat”",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbHhBSE9tS0c1NzBmWGZSRzJKOGNhaDJ3NXV4NGhPOXJOQ0hUbHJfaVZibVpuOU1Fd09KT2xBR19pdVUxaFlFRGFzLWhUU1BzYmI3TmxaM2tyUG9hVEROQUJqYzdsMWRnQldkYml0WFhBbWNidzVYbFM2aDNOTTNYQkFibkhma0FDZDBNdTNibkdWRHNOelZONUI2cTZGLTN0RVl3UFZGV0JaMDFSV2xvcg?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbHhBSE9tS0c1NzBmWGZSRzJKOGNhaDJ3NXV4NGhPOXJOQ0hUbHJfaVZibVpuOU1Fd09KT2xBR19pdVUxaFlFRGFzLWhUU1BzYmI3TmxaM2tyUG9hVEROQUJqYzdsMWRnQldkYml0WFhBbWNidzVYbFM2aDNOTTNYQkFibkhma0FDZDBNdTNibkdWRHNOelZONUI2cTZGLTN0RVl3UFZGV0JaMDFSV2xvcg?oc=5",
-      "source": "Quotidiano Nazionale",
-      "sourceHost": "quotidiano.net",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-07-22T11:04:36.000Z",
-      "excerpt": "M5s occupano banchi per caso Delmastro, cartelli: “Fuori le chat”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -886,6 +1007,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "fanpage.it__fanpage__caso delmastro m5s occupa banchi governo fuori chat__2026-07-22T10:21:00.000Z",
+      "title": "Caso Delmastro, il M5S occupa i banchi del Governo: \"Fuori le chat\"",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02R29rSnBnbkItbWVoNWNPYy1iZlBqV0NzdVZTeVk5aElCTUF4U0l3WW9qUlJMZmpIb1hsMDZPdHR4ZDlXNTFXWTlMNXlWT20wdTQ0bWRfSzBsaWpZZldYX1c1bw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02R29rSnBnbkItbWVoNWNPYy1iZlBqV0NzdVZTeVk5aElCTUF4U0l3WW9qUlJMZmpIb1hsMDZPdHR4ZDlXNTFXWTlMNXlWT20wdTQ0bWRfSzBsaWpZZldYX1c1bw?oc=5",
+      "source": "Fanpage",
+      "sourceHost": "fanpage.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica"
+      ],
+      "publishedAt": "2026-07-22T10:21:00.000Z",
+      "excerpt": "Caso Delmastro, il M5S occupa i banchi del Governo: \"Fuori le chat\"",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "ansa.it__ansa__m5s occupano banchi governo caso delmastro fuori chat__2026-07-22T10:20:00.000Z",
       "title": "M5s occupano banchi del governo per il caso Delmastro: \"Fuori le chat\"",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT3ZLbE5mWkQxcE5KSFRpbkdaWERSVFFWcUQ4Sm8wNXgwTGQxTjJDYWozQk9yOWJfY01nV1dyZmZmRkJpYlUtQ0FhVDduR1NyajBGZUdqMC1yZ0hkSDlobnZ1VGFIMlU3eGQzbE5Kd1k3cmJJYktIZnl1d3IzM3loMUpHOW5lX0FWSFppMWVTeEw0dEs2aElHVXRMS3ZPaTEtV1EyUU9vcWdSSFlMUzJ6U0s3amJYeWNqYlVDOEpBT1lFdjhKR0diTGNJbFY0dm1jUFZ3SE1VZjk2ODNxT0Y0SFFuSlZpMFVjbmFB?oc=5",
@@ -902,6 +1043,26 @@
       ],
       "publishedAt": "2026-07-22T10:20:00.000Z",
       "excerpt": "M5s occupano banchi del governo per il caso Delmastro: \"Fuori le chat\"",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "tg24.sky.it__sky tg24__delmastro giunta camera nega uso chat caroccia bagarre aula__2026-07-22T10:09:57.000Z",
+      "title": "Delmastro, giunta Camera nega uso chat con Caroccia. Bagarre in Aula",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRGJUazZ3aFAxM0FyNGtSVVZybG9BOHdMQlZuZGY5ajZDVG9Sanh0aW9jNE51WU44QXJYbE5DNDA4WGY2ejdXWkRhajJXYmhpNkdPd21JcEtzX0JYcV9TVVktN0YxSjFGTllRZDJkRFhMX1JORlJmeXhWUGhKNlFzZA?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRGJUazZ3aFAxM0FyNGtSVVZybG9BOHdMQlZuZGY5ajZDVG9Sanh0aW9jNE51WU44QXJYbE5DNDA4WGY2ejdXWkRhajJXYmhpNkdPd21JcEtzX0JYcV9TVVktN0YxSjFGTllRZDJkRFhMX1JORlJmeXhWUGhKNlFzZA?oc=5",
+      "source": "Sky TG24",
+      "sourceHost": "tg24.sky.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-07-22T10:09:57.000Z",
+      "excerpt": "Delmastro, giunta Camera nega uso chat con Caroccia. Bagarre in Aula",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1111,6 +1272,27 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "ansa.it__ansa__caso delmastro camera boccia richiesta pm sulle chat caroccia senatori m5s occupano banchi governo__2026-07-22T09:30:09.000Z",
+      "title": "Caso Delmastro, la Camera boccia la richiesta dei pm sulle chat con Caroccia. I senatori del M5s occupano i banchi del governo",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbGxMMG5HMzZHa3pReXVhMHl2UHgzdUMtR0JsWnFPU2l3aHctVnkxS3lSMUpZT09aUGE4ZGJZVXhTLTVydHNIbkl6NXU4ZFFnTDU0bE1mZ2xwWE9CYnBiOHFjeWpzaGZfNzZHZ3hnMVpvc0NEWlpZRFZyZ1gxNXJ3OWdnMlhVZldzR0ZSc1gySkQ2X29SNzRXWFROMFdhOUxzS2lUMWhoOFZ5M21UTjA4dExTUW1iRjBLTVMtYS0tTzBONnhITkJhQ0tqaVMtQWZWQUQ5b0FtUmhobTRaQUJnZ3NsQ2Q4ZjBiWmFXV3BXcEVVTHPSAfMBQVVfeXFMTWxsTDBuRzM2R2t6UXl1YTB5dlB4M3VDLUdCbFpxT1Npd2h3LVZ5MUt5UjFKWU9PWlBhOGRiWVV4Uy01cnRzSG5JejV1OGRRZ0w1NGxNZmdscFhPQmJwYjhxY3lqc2hmXzc2R2d4ZzFab3NDRFpaWURWcmdYMTVydzlnZzJYVWZXc0dGUnNYMkpENl9vUjc0V1hUTjBXYTlMc0tpVDFoaDhWeTNtVE4wOHRMU1FtYkYwS01TLWEtLU8wTjZ4SE5CYUNLamlTLUFmVkFEOW9BbVJoaG00WkFCZ2dzbENkOGYwYlphV1dwV3BFVUxz?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbGxMMG5HMzZHa3pReXVhMHl2UHgzdUMtR0JsWnFPU2l3aHctVnkxS3lSMUpZT09aUGE4ZGJZVXhTLTVydHNIbkl6NXU4ZFFnTDU0bE1mZ2xwWE9CYnBiOHFjeWpzaGZfNzZHZ3hnMVpvc0NEWlpZRFZyZ1gxNXJ3OWdnMlhVZldzR0ZSc1gySkQ2X29SNzRXWFROMFdhOUxzS2lUMWhoOFZ5M21UTjA4dExTUW1iRjBLTVMtYS0tTzBONnhITkJhQ0tqaVMtQWZWQUQ5b0FtUmhobTRaQUJnZ3NsQ2Q4ZjBiWmFXV3BXcEVVTHPSAfMBQVVfeXFMTWxsTDBuRzM2R2t6UXl1YTB5dlB4M3VDLUdCbFpxT1Npd2h3LVZ5MUt5UjFKWU9PWlBhOGRiWVV4Uy01cnRzSG5JejV1OGRRZ0w1NGxNZmdscFhPQmJwYjhxY3lqc2hmXzc2R2d4ZzFab3NDRFpaWURWcmdYMTVydzlnZzJYVWZXc0dGUnNYMkpENl9vUjc0V1hUTjBXYTlMc0tpVDFoaDhWeTNtVE4wOHRMU1FtYkYwS01TLWEtLU8wTjZ4SE5CYUNLamlTLUFmVkFEOW9BbVJoaG00WkFCZ2dzbENkOGYwYlphV1dwV3BFVUxz?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica",
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-07-22T09:30:09.000Z",
+      "excerpt": "Caso Delmastro, la Camera boccia la richiesta dei pm sulle chat con Caroccia. I senatori del M5s occupano i banchi del governo",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "affaritaliani.it__affaritaliani__caso delmastro no chat decide l aula camera__2026-07-22T09:29:53.000Z",
       "title": "Caso Delmastro, no alle chat: decide l’Aula della Camera",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaFdIQlpBbWJYZ1RhV0NhU0ZLcERSQzh0LVZYaDZ4UDRmSVZlYzB3WFA2T2dhMThXYk5hYTg2TXV4ZFFWR1JrWElVY3ZxWkNCMFZYSTdlZW1EdXE5Z1MxcXNwZXN0MUk4emlDMnBvby1JNjgwZTkycmtRSU8xVUtwNXdGakJHS0d1dlo0bG9lTm9odzhGd1I1QjdxQmg5M2lOR3VMdzBQdE9OQTl3aldESXJwbGUwZno4bndaSi1Wajk3UW8?oc=5",
@@ -1168,6 +1350,26 @@
       ],
       "publishedAt": "2026-07-22T09:24:06.000Z",
       "excerpt": "No della Giunta ai pm sulle chat di Delmastro. La protesta coi cartelli del M5s: cosa c'è nei messaggi tra l'ex sottosegretario e il ristoratore Caroccia - Il video",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro giunta camera dice no sequestro chat__2026-07-22T09:03:10.000Z",
+      "title": "Delmastro: la giunta Camera dice no al sequestro delle chat",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlFzanBpN1psY1dYT01ZdEp4THZFZ1dqZElVMnBpMW1WNU81U3dGNTZPVkFFcm92aWI1aGlZZUpIckRFQUZYUm9hZUZ2N2g0dnJEMVhYSllteXNIZE1nTDVMVXF5TXNtakc3a1FaU1hYa0dzWDVBS1h0b1VtMEZ3cVBxc3NRQXRzTllQSzcyZHk1VEVFSDJv?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlFzanBpN1psY1dYT01ZdEp4THZFZ1dqZElVMnBpMW1WNU81U3dGNTZPVkFFcm92aWI1aGlZZUpIckRFQUZYUm9hZUZ2N2g0dnJEMVhYSllteXNIZE1nTDVMVXF5TXNtakc3a1FaU1hYa0dzWDVBS1h0b1VtMEZ3cVBxc3NRQXRzTllQSzcyZHk1VEVFSDJv?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-07-22T09:03:10.000Z",
+      "excerpt": "Delmastro: la giunta Camera dice no al sequestro delle chat",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

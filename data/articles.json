@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T21:13:42.301Z",
+  "generatedAt": "2026-07-23T22:32:07.105Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,14 +94,14 @@
     ]
   },
   "window": {
-    "from": "2026-06-08T21:13:42.301Z",
-    "to": "2026-07-23T21:13:42.301Z",
+    "from": "2026-06-08T22:32:07.105Z",
+    "to": "2026-07-23T22:32:07.105Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 17
+      "articleCount": 19
     },
     {
       "label": "corriere.it",
@@ -140,16 +140,16 @@
       "articleCount": 5
     },
     {
+      "label": "tg24.sky.it",
+      "articleCount": 4
+    },
+    {
       "label": "liberoquotidiano.it",
       "articleCount": 4
     },
     {
       "label": "agi.it",
       "articleCount": 4
-    },
-    {
-      "label": "tg24.sky.it",
-      "articleCount": 3
     },
     {
       "label": "open.online",
@@ -183,18 +183,18 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 206,
-      "uniqueArticles": 103
+      "fetchedArticles": 210,
+      "uniqueArticles": 105
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 56,
+      "fetchedArticles": 58,
       "uniqueArticles": 6
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 72,
-      "uniqueArticles": 5
+      "fetchedArticles": 73,
+      "uniqueArticles": 6
     },
     {
       "label": "Persone collegate",
@@ -215,7 +215,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 43
+      "count": 44
     },
     {
       "tag": "politica",
@@ -223,11 +223,11 @@
     },
     {
       "tag": "giudiziaria",
-      "count": 24
+      "count": 26
     },
     {
       "tag": "bisteccheria",
-      "count": 12
+      "count": 13
     },
     {
       "tag": "territorio",
@@ -235,10 +235,6 @@
     }
   ],
   "timeline": [
-    {
-      "date": "2026-06-08",
-      "count": 0
-    },
     {
       "date": "2026-06-09",
       "count": 0
@@ -417,10 +413,55 @@
     },
     {
       "date": "2026-07-23",
-      "count": 24
+      "count": 25
+    },
+    {
+      "date": "2026-07-24",
+      "count": 2
     }
   ],
   "articles": [
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro meloniani fuga zitti prima blindarlo ancora__2026-07-23T22:01:00.000Z",
+      "title": "Delmastro, i meloniani in fuga: zitti prima di blindarlo ancora",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZml6cl9EUC0xQzlWU2VPOWlXVl9Ya2NEUktPUzU2T0ROeWtHNksyUTRaQ3ZjR0JKQzdmdjI3ZWtQVWxUcHhrTFVfM2hsTVA2N2MxR0FNVlBudTAxZktCWFJyRjBJenp4VG9VamxFazR0VmJhakdOczBHVFYzYUhRSnI3NDB2b09rRzdQd29GM2hGekFSTTM0bjJwQXdTdUQxcU5nMkEtZVEtaDczTHVVajhsWDhsWGRUZFpILWJmSVpoN19INl8wVzRGNktQTVE?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZml6cl9EUC0xQzlWU2VPOWlXVl9Ya2NEUktPUzU2T0ROeWtHNksyUTRaQ3ZjR0JKQzdmdjI3ZWtQVWxUcHhrTFVfM2hsTVA2N2MxR0FNVlBudTAxZktCWFJyRjBJenp4VG9VamxFazR0VmJhakdOczBHVFYzYUhRSnI3NDB2b09rRzdQd29GM2hGekFSTTM0bjJwQXdTdUQxcU5nMkEtZVEtaDczTHVVajhsWDhsWGRUZFpILWJmSVpoN19INl8wVzRGNktQTVE?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-07-23T22:01:00.000Z",
+      "excerpt": "Delmastro, i meloniani in fuga: zitti prima di blindarlo ancora",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__contromossa pm convocare deputato capire chi ha messo soldi bisteccheria__2026-07-23T22:01:00.000Z",
+      "title": "La contromossa dei pm: convocare il deputato per capire chi ha messo i soldi nella Bisteccheria",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNS1lvbmlyS01FN2w0US1rVlRfaFNWdEM4bDJGeTN1cWFMaXdkMkNXMmZFX0JQbE1Eanc1WkNkUFMySE51QXlZLXhUUTc5QmRwYm9vZW10NkE3Ujg2MlAxeThrdjZTX1JTWklrV0ZHUzlvR0R2MmVabm5GYXhta2dUUWN3MGdHRDh5REtKcUs3UHJWRkc3RnBjdVdyUDNJdEJTWTk4SDc1ekhGeDVId2h3RDBVZnEwRDgwaDNvdGtMSjFUM0pLVzRJTEoyT0xUZ05PcVZaWUVaeDlRMzJjdVFFNUVCSnpDekFsYjZOLXFsNkVtdXMxekF1OXcxWQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNS1lvbmlyS01FN2w0US1rVlRfaFNWdEM4bDJGeTN1cWFMaXdkMkNXMmZFX0JQbE1Eanc1WkNkUFMySE51QXlZLXhUUTc5QmRwYm9vZW10NkE3Ujg2MlAxeThrdjZTX1JTWklrV0ZHUzlvR0R2MmVabm5GYXhta2dUUWN3MGdHRDh5REtKcUs3UHJWRkc3RnBjdVdyUDNJdEJTWTk4SDc1ekhGeDVId2h3RDBVZnEwRDgwaDNvdGtMSjFUM0pLVzRJTEoyT0xUZ05PcVZaWUVaeDlRMzJjdVFFNUVCSnpDekFsYjZOLXFsNkVtdXMxekF1OXcxWQ?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria",
+        "bisteccheria"
+      ],
+      "publishedAt": "2026-07-23T22:01:00.000Z",
+      "excerpt": "La contromossa dei pm: convocare il deputato per capire chi ha messo i soldi nella Bisteccheria",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
     {
       "id": "ansa.it__ansa__chat delmastro procura roma valuta conflitto attribuzione__2026-07-23T17:16:37.000Z",
       "title": "Chat Delmastro, la Procura di Roma valuta il conflitto di attribuzione",
@@ -428,10 +469,15 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVE5maDVoS09LaGgzOVdNNFBWZmZIODdtemlPc1lsMkdZaTl4WmZqQUhCb3ItZFNDYXMzQ3dkY1VTSmNqTDBmM0lZNlRDQkdWNjk5ZVlqNHV6ZkRtM0kxNmlRbGRDcGZNWmx1R05YVmV3Y295dlRMN1pIeWVpQ1pFMkRNZF95THJ4WTdjREZIMFVXdUR1LTZXZFpadE1lTFFuR0ZpeHVkaDJxRzUzZHY2b1lxRXVsbk9TRGo0TFU2ZzE3WjB4aHJHeVIzcG96RmhKUTBxTk5aYlRQYlRlYzFRczZXcU5PVkxuMVg1LTdTLS1VZTZ1NU9KVEZ3Z3jSAfwBQVVfeXFMTlROZmg1aEtPS2hoMzlXTTRQVmZmSDg3bXppT3NZbDJHWWk5eFpmakFIQm9yLWRTQ2FzM0N3ZGNVU0pjakwwZjNJWTZUQ0JHVjY5OWVZajR1emZEbTNJMTZpUWxkQ3BmTVpsdUdOWFZld2NveXZUTDdaSHllaUNaRTJETWRfeUxyeFk3Y0RGSDBVV3VEdS02V2RaWnRNZUxRbkdGaXh1ZGgycUc1M2R2Nm9ZcUV1bG5PU0RqNExVNmcxN1oweGhyR3lSM3BvekZoSlEwcU5OWmJUUGJUZWMxUXM2V3FOT1ZMbjFYNS03Uy0tVWU2dTVPSlRGd2d4?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
       ],
       "tags": [
         "giudiziaria"
@@ -559,6 +605,26 @@
       ],
       "publishedAt": "2026-07-23T10:20:41.000Z",
       "excerpt": "La Camera ferma i pm sulle chat di Delmastro. Ma Pd e 5s tifano gogna",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "tg24.sky.it__sky tg24__chat delmastro scontro sulla decisione giunta nessuno scudo pm pensano consulta__2026-07-23T09:48:47.000Z",
+      "title": "Chat Delmastro, scontro sulla decisione della Giunta: 'Nessuno scudo'. I pm pensano alla Consulta",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOck02cjFkcTJyODhvaDRpMGRMRVZnOElKMHVfdGV3QjYzSnFzR0l4NlJpNFloTmoyQUZXUkV3QVBhdjdsOE9hWjVIczc4ZW5IV2VpMWNQQmE3YldLYWd4bmdQX2FxbGNJMjg5V2w2ZW50NzJ5a1djMXl5VTdiczl1NnQ1NnVMZnE3M2haZHIxX0Y3d0c0alpPUm8wbEFJdklnVEFhQko1bzhuajFyM2FPTkVZdkNHa3duMnh1UjlFaGpJcklYUDJ3MGpFZTZIcDBOcllETkJBWW9Vc3FxanpZ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOck02cjFkcTJyODhvaDRpMGRMRVZnOElKMHVfdGV3QjYzSnFzR0l4NlJpNFloTmoyQUZXUkV3QVBhdjdsOE9hWjVIczc4ZW5IV2VpMWNQQmE3YldLYWd4bmdQX2FxbGNJMjg5V2w2ZW50NzJ5a1djMXl5VTdiczl1NnQ1NnVMZnE3M2haZHIxX0Y3d0c0alpPUm8wbEFJdklnVEFhQko1bzhuajFyM2FPTkVZdkNHa3duMnh1UjlFaGpJcklYUDJ3MGpFZTZIcDBOcllETkJBWW9Vc3FxanpZ?oc=5",
+      "source": "Sky TG24",
+      "sourceHost": "tg24.sky.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-07-23T09:48:47.000Z",
+      "excerpt": "Chat Delmastro, scontro sulla decisione della Giunta: 'Nessuno scudo'. I pm pensano alla Consulta",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2196,10 +2262,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRndzdGJ0WE5jZXg3QW55Z25yQ1h4cExDWVRYMmxOQThvS09PN0hPZ2U5R2FkWm9CbTVrUGJhdjJDTHE4eVpkNjBBejNOdkhJWWJSSHF6Rm8xS2szampBVU80MEpnNjZsV2xfQlQyV2JsWUI2TV9UeFV4STZKU0ctajhkbzNKczZNOVJCN010SUd2REl0b0p1aENxSkFLS0NTcHFVVjg2bWhZYndHMXp0emY3WEJUeS1IN0HSAb8BQVVfeXFMTmpXZkRCUVAwcmY3NHlxaXkzMWFnLXhLRy1UM25QZWhrdXdyYk8xbzlpMGlEbGkwYlo2aW5QMDA1N25LbWFYeXRnLVp6dEVrVURRSWFwVmxDdVFob0NiakV1SS03VlM1X05ZT00tYVlfcUp2YkV5Ql9tSkhIOUE4Sm9YUEpud3FNcjVkS2FveWhybmQ4YUJCeGVKQkV2WUNrUHJncG5lM2M4THJKY2pyaDdGTHF1MWRYVWNaZWFlOXc?oc=5",
       "source": "la Repubblica",
       "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "bisteccheria"
@@ -2251,26 +2317,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__chat delmastro destra affossa richieste pm__2026-07-16T22:01:00.000Z",
-      "title": "Chat con Delmastro. La destra affossa le richieste dei pm",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXNkV0d0MHVHZEpiUzIzdzk4RjQzMmRYVVJkNnZHLWpmbkFtOW1hVjJraDB3TnA4QjVCTlZIWTU3cTJ0Sjl5WF9IZnNmOThQT2V6UUhUTkZZUFZtNDJEYUpmbngteHdwMHVGaEM3R1FwZW9XcWRGQmpnYk9pSzRfVHVtZU0wRTBKMkNOTzN1aGJvb1RkMW1feVpwNnFXT0JqUmFGQUNqbmI4OEpBekc0OHRpbE5IRU4zallMQ01qdnNNSHo5czRmNg?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXNkV0d0MHVHZEpiUzIzdzk4RjQzMmRYVVJkNnZHLWpmbkFtOW1hVjJraDB3TnA4QjVCTlZIWTU3cTJ0Sjl5WF9IZnNmOThQT2V6UUhUTkZZUFZtNDJEYUpmbngteHdwMHVGaEM3R1FwZW9XcWRGQmpnYk9pSzRfVHVtZU0wRTBKMkNOTzN1aGJvb1RkMW1feVpwNnFXT0JqUmFGQUNqbmI4OEpBekc0OHRpbE5IRU4zallMQ01qdnNNSHo5czRmNg?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-07-16T22:01:00.000Z",
-      "excerpt": "Chat con Delmastro. La destra affossa le richieste dei pm",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__mafia politica meno male che c delmastro__2026-07-16T22:01:00.000Z",
       "title": "Mafia e politica, meno male che c’è Delmastro",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeTJiY0t3QmNPTi1hVldtU2FLcTlWaWdmYWVybnhhZHR5QzFQZkgyTzhBd25oOE5oQ1l1SGdpVS03VTB1dXA2R2w0Q0I1Q2haNnh4UmlrNjNIeWdndzZxRUpqUTEwd1dGUGNSMXp3OGllTldJZnVPTDFDZ19oS2hFWk92b0l0Qm50WlZhVkNmcXBTZld2Q19tSUZhdlktSkxZQ3hjTXVPVEdrUjQ?oc=5",
@@ -2287,6 +2333,26 @@
       ],
       "publishedAt": "2026-07-16T22:01:00.000Z",
       "excerpt": "Mafia e politica, meno male che c’è Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__chat delmastro destra affossa richieste pm__2026-07-16T22:01:00.000Z",
+      "title": "Chat con Delmastro. La destra affossa le richieste dei pm",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXNkV0d0MHVHZEpiUzIzdzk4RjQzMmRYVVJkNnZHLWpmbkFtOW1hVjJraDB3TnA4QjVCTlZIWTU3cTJ0Sjl5WF9IZnNmOThQT2V6UUhUTkZZUFZtNDJEYUpmbngteHdwMHVGaEM3R1FwZW9XcWRGQmpnYk9pSzRfVHVtZU0wRTBKMkNOTzN1aGJvb1RkMW1feVpwNnFXT0JqUmFGQUNqbmI4OEpBekc0OHRpbE5IRU4zallMQ01qdnNNSHo5czRmNg?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXNkV0d0MHVHZEpiUzIzdzk4RjQzMmRYVVJkNnZHLWpmbkFtOW1hVjJraDB3TnA4QjVCTlZIWTU3cTJ0Sjl5WF9IZnNmOThQT2V6UUhUTkZZUFZtNDJEYUpmbngteHdwMHVGaEM3R1FwZW9XcWRGQmpnYk9pSzRfVHVtZU0wRTBKMkNOTzN1aGJvb1RkMW1feVpwNnFXT0JqUmFGQUNqbmI4OEpBekc0OHRpbE5IRU4zallMQ01qdnNNSHo5czRmNg?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-07-16T22:01:00.000Z",
+      "excerpt": "Chat con Delmastro. La destra affossa le richieste dei pm",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

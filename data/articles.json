@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T03:55:51.986Z",
+  "generatedAt": "2026-07-23T06:36:02.766Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,30 +94,30 @@
     ]
   },
   "window": {
-    "from": "2026-06-08T03:55:51.986Z",
-    "to": "2026-07-23T03:55:51.986Z",
+    "from": "2026-06-08T06:36:02.766Z",
+    "to": "2026-07-23T06:36:02.766Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 15
+      "articleCount": 17
     },
     {
       "label": "repubblica.it",
       "articleCount": 10
     },
     {
-      "label": "lastampa.it",
-      "articleCount": 8
+      "label": "corriere.it",
+      "articleCount": 9
     },
     {
       "label": "adnkronos.com",
-      "articleCount": 7
+      "articleCount": 9
     },
     {
-      "label": "corriere.it",
-      "articleCount": 7
+      "label": "lastampa.it",
+      "articleCount": 8
     },
     {
       "label": "affaritaliani.it",
@@ -126,6 +126,10 @@
     {
       "label": "ansa.it",
       "articleCount": 6
+    },
+    {
+      "label": "quotidiano.net",
+      "articleCount": 5
     },
     {
       "label": "rainews.it",
@@ -140,12 +144,12 @@
       "articleCount": 4
     },
     {
-      "label": "quotidiano.net",
+      "label": "ilgiornale.it",
       "articleCount": 4
     },
     {
-      "label": "ilgiornale.it",
-      "articleCount": 4
+      "label": "fanpage.it",
+      "articleCount": 2
     },
     {
       "label": "tg24.sky.it",
@@ -174,31 +178,27 @@
     {
       "label": "ilfoglio.it",
       "articleCount": 1
-    },
-    {
-      "label": "fanpage.it",
-      "articleCount": 1
     }
   ],
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 177,
-      "uniqueArticles": 88
+      "fetchedArticles": 191,
+      "uniqueArticles": 95
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 44,
-      "uniqueArticles": 4
+      "fetchedArticles": 50,
+      "uniqueArticles": 5
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 65,
+      "fetchedArticles": 70,
       "uniqueArticles": 4
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 41,
+      "fetchedArticles": 44,
       "uniqueArticles": 1
     },
     {
@@ -215,19 +215,19 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 38
+      "count": 40
     },
     {
       "tag": "politica",
-      "count": 29
+      "count": 30
     },
     {
       "tag": "giudiziaria",
-      "count": 16
+      "count": 19
     },
     {
       "tag": "bisteccheria",
-      "count": 10
+      "count": 12
     },
     {
       "tag": "territorio",
@@ -417,10 +417,110 @@
     },
     {
       "date": "2026-07-23",
-      "count": 7
+      "count": 15
     }
   ],
   "articles": [
+    {
+      "id": "corriere.it__corriere della sera__caso delmastro pittalis ma quale salvacondotto pm passi prima giudice non puo controllare se stesso__2026-07-23T06:22:30.000Z",
+      "title": "Caso Delmastro, Pittalis: «Ma quale salvacondotto. Il pm passi prima da un giudice, non può controllare sé stesso»",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQYVhORnlhbWtuZkJObk5XdnV5ZG9aZnhLM3I4U2I2MjcwQXZzaWpzdjQ2c0xPMEJSX0U0bE4xS3FIS09PSkJCTjBIM1QzQ0U3VU1KQnR1cnFVdWs3UUZteG9FbE95VHZBRDl6aDFhanFCbWMzVEdzZlN6bWNHMWRoSFFXRGxmVnJhQ2d1MG9xczlBVFc4NlVHeUJaUkgyWEtJRFRqNE9CYndlbXZVVFdSZzZtMlpsRDN1WVhwNHRHNktSWVU5dWpCSmN5Uk9JaTZQSGlvd0hrZU0wUmZhS2h0eWcwUmtvVWt0YmZ2U2FMNFNXbHNuR0FRWTlvRnNTbXQteGZmb2ZMOWx3TmpWR1IwQ1RiQ0pkZi1wSFYzWGhCd0RJelnSAagCQVVfeXFMTkwzUmJrWDFYbUc5YzAzdVBMVGwwMDVxZjdGbWRacXZaWjRTVVpyT3hxVlRLME5rVlllQTh6YzFIZzRXYlRjbEJYcVM0SUhqenpGTWdmdTBuMGhpSDZuMGg0NnNRY3doTWdLcGxrMDRCcFo4OHBXYW5pY04tMVRIM21YWVgyTmV1bTdFYVdFQWpENWdUT0sxa25hRFRsclEwWkdhb1JrNk0xaU02ZUhPbTl3d3EzMXk4eWQ0SnRnU3VWZE5NMmNtdVJsS3BCa2NkTFR3OGpCZUpBN2Y3RFhqNGRmZVlEWG1UdUlBOWNrSXhDRU00MWZTME5GMzJBMVNxU3gzT3FkQnZ5WWlQMHhZZWlzd2lIakFaaXZVLXBqVHRxNFhWajY5WUo?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQYVhORnlhbWtuZkJObk5XdnV5ZG9aZnhLM3I4U2I2MjcwQXZzaWpzdjQ2c0xPMEJSX0U0bE4xS3FIS09PSkJCTjBIM1QzQ0U3VU1KQnR1cnFVdWs3UUZteG9FbE95VHZBRDl6aDFhanFCbWMzVEdzZlN6bWNHMWRoSFFXRGxmVnJhQ2d1MG9xczlBVFc4NlVHeUJaUkgyWEtJRFRqNE9CYndlbXZVVFdSZzZtMlpsRDN1WVhwNHRHNktSWVU5dWpCSmN5Uk9JaTZQSGlvd0hrZU0wUmZhS2h0eWcwUmtvVWt0YmZ2U2FMNFNXbHNuR0FRWTlvRnNTbXQteGZmb2ZMOWx3TmpWR1IwQ1RiQ0pkZi1wSFYzWGhCd0RJelnSAagCQVVfeXFMTkwzUmJrWDFYbUc5YzAzdVBMVGwwMDVxZjdGbWRacXZaWjRTVVpyT3hxVlRLME5rVlllQTh6YzFIZzRXYlRjbEJYcVM0SUhqenpGTWdmdTBuMGhpSDZuMGg0NnNRY3doTWdLcGxrMDRCcFo4OHBXYW5pY04tMVRIM21YWVgyTmV1bTdFYVdFQWpENWdUT0sxa25hRFRsclEwWkdhb1JrNk0xaU02ZUhPbTl3d3EzMXk4eWQ0SnRnU3VWZE5NMmNtdVJsS3BCa2NkTFR3OGpCZUpBN2Y3RFhqNGRmZVlEWG1UdUlBOWNrSXhDRU00MWZTME5GMzJBMVNxU3gzT3FkQnZ5WWlQMHhZZWlzd2lIakFaaXZVLXBqVHRxNFhWajY5WUo?oc=5",
+      "source": "Corriere della Sera",
+      "sourceHost": "corriere.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-07-23T06:22:30.000Z",
+      "excerpt": "Caso Delmastro, Pittalis: «Ma quale salvacondotto. Il pm passi prima da un giudice, non può controllare sé stesso»",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "corriere.it__corriere roma__chat delmastro senato urla risse sfiorate appendino mi fate schifo ed lite russa__2026-07-23T06:12:46.000Z",
+      "title": "Chat di Delmastro, in Senato urla e risse sfiorate. Appendino: «Mi fate schifo». Ed è lite con La Russa",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbGJMNXVvT2IzNkhZRlB3QjZhbjJPclhZQlVKQkJNbHJncjU2ZWpQVENnamhRaUExSXZ4RlpQVGtxZ2NHYllfOHV1dmhuVVNaeFhVbVJVSkhjenZIMGl0cTdaVzV3OXdTWGxuWTVka2lJcjhRSGhLclBNVzJqV1dBVGE2MzRiYXltejQwbG16RnhLYWl3eHhkQXFqYW5HV0hIdHBNWmxtZm5aYnQ1ZGRWLXgzYXMzRHk4LWlNc3RRVV9sRTNQdzZ0OUNxSzdSd9IB0wFBVV95cUxPbUlTZUwtZ2NDclVuSVV3UXdpd2dQTVpOS2ViVVNjeS1sNDU1OVV5MjBqdFdqb2hRM002WWNjMlBHMF9zZXpfbWppMmpBLUxEM1oxSGREQlZUSDU2RzdsX0pwM0JxUXI0WGlKb0hHSnFfbXdTN2NKSFVJUWJvMWdNUjBpOWh1Qm53djVXOVBnNFFVN3BiWnVCUFdZMXY0MHRjbE12UzJKZXh2Y2NhMkJ2T3lzY0E2SGJpNE1kTXhYWV9vb2tJWXdjMEJYS3NRTFlONUVV?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbGJMNXVvT2IzNkhZRlB3QjZhbjJPclhZQlVKQkJNbHJncjU2ZWpQVENnamhRaUExSXZ4RlpQVGtxZ2NHYllfOHV1dmhuVVNaeFhVbVJVSkhjenZIMGl0cTdaVzV3OXdTWGxuWTVka2lJcjhRSGhLclBNVzJqV1dBVGE2MzRiYXltejQwbG16RnhLYWl3eHhkQXFqYW5HV0hIdHBNWmxtZm5aYnQ1ZGRWLXgzYXMzRHk4LWlNc3RRVV9sRTNQdzZ0OUNxSzdSd9IB0wFBVV95cUxPbUlTZUwtZ2NDclVuSVV3UXdpd2dQTVpOS2ViVVNjeS1sNDU1OVV5MjBqdFdqb2hRM002WWNjMlBHMF9zZXpfbWppMmpBLUxEM1oxSGREQlZUSDU2RzdsX0pwM0JxUXI0WGlKb0hHSnFfbXdTN2NKSFVJUWJvMWdNUjBpOWh1Qm53djVXOVBnNFFVN3BiWnVCUFdZMXY0MHRjbE12UzJKZXh2Y2NhMkJ2T3lzY0E2SGJpNE1kTXhYWV9vb2tJWXdjMEJYS3NRTFlONUVV?oc=5",
+      "source": "Corriere Roma",
+      "sourceHost": "corriere.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-07-23T06:12:46.000Z",
+      "excerpt": "Chat di Delmastro, in Senato urla e risse sfiorate. Appendino: «Mi fate schifo». Ed è lite con La Russa",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "fanpage.it__fanpage__perche governo non vuole dare magistrati chat delmastro prestanome camorra__2026-07-23T05:31:52.000Z",
+      "title": "Perché il governo non vuole dare ai magistrati le chat tra Delmastro e un prestanome di camorra?",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUFVYN3ZVOFg0aVFfNHNnQndSVHEwT3NISGJJTmtQNlRpM18ydkVhdkQ2ZGpzQ0ozWTZKYnFzdXlmTnJydnpwVmp3QzBSRFR3ZHM5ZlRQRXpwZFEwZ19sQ2lJcnQzOFkwbnFvajh0U2F1alNjTnlWTVQ4bWk3eFBpMDR1TElqV0piT29uVGlfX0pwVXgtT05JeU55ajBQdHJxb2RWSU5Zb1ZzSHJjajlTWmRqWE5QY0ZwOEJCNE9oZmRJc040?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUFVYN3ZVOFg0aVFfNHNnQndSVHEwT3NISGJJTmtQNlRpM18ydkVhdkQ2ZGpzQ0ozWTZKYnFzdXlmTnJydnpwVmp3QzBSRFR3ZHM5ZlRQRXpwZFEwZ19sQ2lJcnQzOFkwbnFvajh0U2F1alNjTnlWTVQ4bWk3eFBpMDR1TElqV0piT29uVGlfX0pwVXgtT05JeU55ajBQdHJxb2RWSU5Zb1ZzSHJjajlTWmRqWE5QY0ZwOEJCNE9oZmRJc040?oc=5",
+      "source": "Fanpage",
+      "sourceHost": "fanpage.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica"
+      ],
+      "publishedAt": "2026-07-23T05:31:52.000Z",
+      "excerpt": "Perché il governo non vuole dare ai magistrati le chat tra Delmastro e un prestanome di camorra?",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__direzione contraria altro che solco borsellino maggioranza salva delmastro pure clan senese fakir tutti punti vaglio procura__2026-07-23T05:07:15.000Z",
+      "title": "In direzione contraria - Altro che nel solco di Borsellino: la maggioranza salva Delmastro e pure il clan Senese. Fakir, tutti i punti al vaglio della Procura",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPSVFtVGIyVGdpaHBVVFdJLUZmb3VtY3poSTVGd1gtODJLb2xiR0ZuU0tUVkhFWkdNczJaWHRsTm1IWXF1TlFNX3NkWGRUTEtjZ1lyaEprNjlyLVIyS3RhZFFEWEFtM1BBcUtyYUd0ZW1vclo2VEFNbUV4cXFLTmVPTnpiazlLTjh4TUtENTFrYjVNMkh5S0ZPTWV6MW9ob1RrdHBGZEV6SVlnc0Z0ZDV2ZnY0TUhKdWs5TlhMeTBNU012RFBSOXlOcVU2TEtiaUxCbE5LOG90b0h3M1JEc0lRaGU0eWkzSTdvV0tmV3pzVnhPY0FkSExUYmZhZVRFMFBfM0kzbC0tSzBOSHlGZHpqVU5aN0pEbWhvRGdsWGRNRlFFNU9TR3hYdGJuQnJHaExIZlN2UXBIeVozdXdGLTlWeFIycUV5MFhhQkE?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPSVFtVGIyVGdpaHBVVFdJLUZmb3VtY3poSTVGd1gtODJLb2xiR0ZuU0tUVkhFWkdNczJaWHRsTm1IWXF1TlFNX3NkWGRUTEtjZ1lyaEprNjlyLVIyS3RhZFFEWEFtM1BBcUtyYUd0ZW1vclo2VEFNbUV4cXFLTmVPTnpiazlLTjh4TUtENTFrYjVNMkh5S0ZPTWV6MW9ob1RrdHBGZEV6SVlnc0Z0ZDV2ZnY0TUhKdWs5TlhMeTBNU012RFBSOXlOcVU2TEtiaUxCbE5LOG90b0h3M1JEc0lRaGU0eWkzSTdvV0tmV3pzVnhPY0FkSExUYmZhZVRFMFBfM0kzbC0tSzBOSHlGZHpqVU5aN0pEbWhvRGdsWGRNRlFFNU9TR3hYdGJuQnJHaExIZlN2UXBIeVozdXdGLTlWeFIycUV5MFhhQkE?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-07-23T05:07:15.000Z",
+      "excerpt": "In direzione contraria - Altro che nel solco di Borsellino: la maggioranza salva Delmastro e pure il clan Senese. Fakir, tutti i punti al vaglio della Procura",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "quotidiano.net__quotidiano nazionale__caso delmastro caroccia negato l accesso chat protesta 5 stelle senato__2026-07-23T04:13:00.000Z",
+      "title": "Caso Delmastro-Caroccia. Negato l’accesso alle chat. Protesta 5 Stelle in Senato",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWowSi0wUUZKTGdIcnVjcUZHSDVaNmlqblVCV0xGbEFrSXIwb3VyVEJJUGk5eGo4eTFXQ2hDLXVGZ3VPb3NvMmE0THpkYktuV2dSVHVYcjVRNjN0VXdlbWI2NEd2dVlFbVdtZ2VnX2JtTG52elRLRnpqaXdfRmdNdXItYVFsdWJhRURuclF4elJOUGM?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWowSi0wUUZKTGdIcnVjcUZHSDVaNmlqblVCV0xGbEFrSXIwb3VyVEJJUGk5eGo4eTFXQ2hDLXVGZ3VPb3NvMmE0THpkYktuV2dSVHVYcjVRNjN0VXdlbWI2NEd2dVlFbVdtZ2VnX2JtTG52elRLRnpqaXdfRmdNdXItYVFsdWJhRURuclF4elJOUGM?oc=5",
+      "source": "Quotidiano Nazionale",
+      "sourceHost": "quotidiano.net",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-07-23T04:13:00.000Z",
+      "excerpt": "Caso Delmastro-Caroccia. Negato l’accesso alle chat. Protesta 5 Stelle in Senato",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
     {
       "id": "adnkronos.com__adnkronos__caso delmastro ristorante__2026-07-23T02:54:28.000Z",
       "title": "caso Delmastro ristorante -",
@@ -438,6 +538,46 @@
       ],
       "publishedAt": "2026-07-23T02:54:28.000Z",
       "excerpt": "caso Delmastro ristorante - Adnkronos",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "adnkronos.com__adnkronos__caso delmastro bisteccheria__2026-07-23T02:54:28.000Z",
+      "title": "Caso Delmastro bisteccheria -",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Xa21yLVNGLXloQll4Ri1xWG9DMXgxYXFQbEhfdDZUZEttUDhSenFpUTh6ekxQSkx3dmk4ZzkxUTJGVjdteDlfdWZ2MWNZWWEySWZzTVBrc3BQcDkzTWdMMU9xbVJNZkt5MXc?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Xa21yLVNGLXloQll4Ri1xWG9DMXgxYXFQbEhfdDZUZEttUDhSenFpUTh6ekxQSkx3dmk4ZzkxUTJGVjdteDlfdWZ2MWNZWWEySWZzTVBrc3BQcDkzTWdMMU9xbVJNZkt5MXc?oc=5",
+      "source": "Adnkronos",
+      "sourceHost": "adnkronos.com",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "bisteccheria"
+      ],
+      "publishedAt": "2026-07-23T02:54:28.000Z",
+      "excerpt": "Caso Delmastro bisteccheria - Adnkronos",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "adnkronos.com__adnkronos__bisteccheria d italia__2026-07-23T02:54:28.000Z",
+      "title": "Bisteccheria d'italia -",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xamJpbkVBNG9nQXc2T3pady1ZcVpic3hGZzdxZGxMYTJUdFowT3Vfbm5KS2NuUDlTamVYSlhYVi0zY1h2bG9JajhOcklwdzBjNWEyYzIySm5WRGt3UGN5WFR3?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xamJpbkVBNG9nQXc2T3pady1ZcVpic3hGZzdxZGxMYTJUdFowT3Vfbm5KS2NuUDlTamVYSlhYVi0zY1h2bG9JajhOcklwdzBjNWEyYzIySm5WRGt3UGN5WFR3?oc=5",
+      "source": "Adnkronos",
+      "sourceHost": "adnkronos.com",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
+      ],
+      "tags": [
+        "bisteccheria"
+      ],
+      "publishedAt": "2026-07-23T02:54:28.000Z",
+      "excerpt": "Bisteccheria d'italia - Adnkronos",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -464,8 +604,8 @@
     {
       "id": "repubblica.it__la repubblica__no chat delmastro centrodestra ferma pm parlamento bagarre__2026-07-22T23:00:00.000Z",
       "title": "“No alle chat di Delmastro”. Il centrodestra ferma i pm, in Parlamento è bagarre",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXhMdXdXbWdZT29SX2VQRXBUNFZRMUE4OTBVNi1mQ3hZbGIxMTZKWlB6OFJpSktfNzJEUl8yeGR4Z1o3Zl9VX3otdkMzU3FnZTFpTDFJRURUSHQzOWx3aGxBd3hxbzdkWUVBd3kwRGYtdFJzd05xMVFEQ2xfek1aWnVpaER2X1E1TEF1LWZ0cE5uZHZlSU1yREVtT3l4QdIBngFBVV95cUxPMXhMdXdXbWdZT29SX2VQRXBUNFZRMUE4OTBVNi1mQ3hZbGIxMTZKWlB6OFJpSktfNzJEUl8yeGR4Z1o3Zl9VX3otdkMzU3FnZTFpTDFJRURUSHQzOWx3aGxBd3hxbzdkWUVBd3kwRGYtdFJzd05xMVFEQ2xfek1aWnVpaER2X1E1TEF1LWZ0cE5uZHZlSU1yREVtT3l4QQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXhMdXdXbWdZT29SX2VQRXBUNFZRMUE4OTBVNi1mQ3hZbGIxMTZKWlB6OFJpSktfNzJEUl8yeGR4Z1o3Zl9VX3otdkMzU3FnZTFpTDFJRURUSHQzOWx3aGxBd3hxbzdkWUVBd3kwRGYtdFJzd05xMVFEQ2xfek1aWnVpaER2X1E1TEF1LWZ0cE5uZHZlSU1yREVtT3l4QdIBngFBVV95cUxPMXhMdXdXbWdZT29SX2VQRXBUNFZRMUE4OTBVNi1mQ3hZbGIxMTZKWlB6OFJpSktfNzJEUl8yeGR4Z1o3Zl9VX3otdkMzU3FnZTFpTDFJRURUSHQzOWx3aGxBd3hxbzdkWUVBd3kwRGYtdFJzd05xMVFEQ2xfek1aWnVpaER2X1E1TEF1LWZ0cE5uZHZlSU1yREVtT3l4QQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNFFoallvOUk3ZXRvTU14MnQ5RzFCc1BzT2t2Wm5xZm1sYkM5aDZLNEVjU3lmODgwd2o0d3JDWkQtbGdQLWVCdTFJNVBqLXljLW5BZUpqSlJUU1NxdG1GdEo1eGdLX2x3UnhVQzljckd4NzRORlctR1FVbXMyQkxMUWVlbW9xZ0cxMEZuaGtsamdJT2RXWGlIONIBngFBVV95cUxPMXhMdXdXbWdZT29SX2VQRXBUNFZRMUE4OTBVNi1mQ3hZbGIxMTZKWlB6OFJpSktfNzJEUl8yeGR4Z1o3Zl9VX3otdkMzU3FnZTFpTDFJRURUSHQzOWx3aGxBd3hxbzdkWUVBd3kwRGYtdFJzd05xMVFEQ2xfek1aWnVpaER2X1E1TEF1LWZ0cE5uZHZlSU1yREVtT3l4QQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNFFoallvOUk3ZXRvTU14MnQ5RzFCc1BzT2t2Wm5xZm1sYkM5aDZLNEVjU3lmODgwd2o0d3JDWkQtbGdQLWVCdTFJNVBqLXljLW5BZUpqSlJUU1NxdG1GdEo1eGdLX2x3UnhVQzljckd4NzRORlctR1FVbXMyQkxMUWVlbW9xZ0cxMEZuaGtsamdJT2RXWGlIONIBngFBVV95cUxPMXhMdXdXbWdZT29SX2VQRXBUNFZRMUE4OTBVNi1mQ3hZbGIxMTZKWlB6OFJpSktfNzJEUl8yeGR4Z1o3Zl9VX3otdkMzU3FnZTFpTDFJRURUSHQzOWx3aGxBd3hxbzdkWUVBd3kwRGYtdFJzd05xMVFEQ2xfek1aWnVpaER2X1E1TEF1LWZ0cE5uZHZlSU1yREVtT3l4QQ?oc=5",
       "source": "la Repubblica",
       "sourceHost": "repubblica.it",
       "queryLabel": "Delmastro generale",
@@ -547,6 +687,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__chat delmatro caroccia procura vuol ricorrere corte costituzionale__2026-07-22T22:01:00.000Z",
+      "title": "Chat Delmatro-Caroccia, la Procura vuol ricorrere alla Corte Costituzionale",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM25tV1Q3SVJnU2xRcHN1eE1PcDBmNjZaUG9JOUljR2cybXJnZmUzT2JELTA5SFNmZ3pDNTJaVXZwNXpiNXNrX2JfZ0dnLVlON3ZQeVVrN0ppc215UVFGeEplM3AzczJJUkJvUlJjR3lvem02TnRwUUY5ZDZ2Rk0ySjdSRkJYZmtSMzBnT1NPZzZxTHpKS0l3U0tHVVQ3aWtoWW5uaDNvTVFuWmFXNjJrSUtDT2RoaTQ3M3I5VF9nUVNuZw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM25tV1Q3SVJnU2xRcHN1eE1PcDBmNjZaUG9JOUljR2cybXJnZmUzT2JELTA5SFNmZ3pDNTJaVXZwNXpiNXNrX2JfZ0dnLVlON3ZQeVVrN0ppc215UVFGeEplM3AzczJJUkJvUlJjR3lvem02TnRwUUY5ZDZ2Rk0ySjdSRkJYZmtSMzBnT1NPZzZxTHpKS0l3U0tHVVQ3aWtoWW5uaDNvTVFuWmFXNjJrSUtDT2RoaTQ3M3I5VF9nUVNuZw?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-07-22T22:01:00.000Z",
+      "excerpt": "Chat Delmatro-Caroccia, la Procura vuol ricorrere alla Corte Costituzionale",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "repubblica.it__la repubblica__chat delmastro procura spiazzata dallo stop si allungano tempi dell indagine__2026-07-22T22:00:00.000Z",
       "title": "Chat Delmastro, la procura spiazzata dallo stop: si allungano i tempi dell’indagine",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDJueVMxekpOZVhvUG9xOTFpQUZucW91TUxIQ045SERHWWppOWE0NTdOUWJlRDhsUEYyakNyUnp1YTU4WS01d09XdmlwTHVLMjFIY3ZkZEx5TVRaMWt3cERKaEU1TzZOV1RVTUh6NEQ2MklUU3Z0alRMd0otWEczeGVXY3dpMlRRMXFGblpkVWpOQXpIUHB1N3F5UVNCVS160gGmAUFVX3lxTFA2R3dOYldWMGtRaXlycHNMUmJxRUR6bGlzYmVHQ0NSLU5nT1VsUE5pN2NPcmIyZWFQRkdLME9jcHBfV0xvRHBiWWQ1bEVhWVVYMzVFeFN0VGF4YjRVWFo2aVJPOXFDOER2WUxSX2lGZXBvT1A3M2FTNnZCVXdmdmtEcWd2MnJRUWJXQzlDT2tEbjdtQ1VBcFdGeXJkcUVKS2V2YVM5S0E?oc=5",
@@ -569,8 +729,8 @@
     {
       "id": "corriere.it__corriere torino__roggero bologna caso delmastro giustizia resta tema divisivo__2026-07-22T21:26:14.000Z",
       "title": "Roggero, Bologna e caso Delmastro: la giustizia resta un tema divisivo",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUF8yWDFsakpSWU5DUjJJeXdVWURiUzJzUXdCNUtNc2t1NTk2cjRhT3JIa0Qzbkl0Y3hld3AxZFM1a1E0Qnlwd0pySlJJazB0Q2U0bC1mUFY1N1pCUERwNUliQ3hITFE5VV9Cel9QUmR1YWdvQXVGVmUxTXduOTc5Q2JzUHZpaG1hSDlXZHYzVUFwRlZpVFdNcE1kZEdBczJSVXFSMEJjYjVTT0QzYVJCT09ENGxPOEFpQjFCaWR2Z1pqRmpKR0VLRzh6cXNWaVI1ZGM0NXJ1VnkzYW5pbGNaSXJRRlRwY1o0UE5UR18tRmp0MWhycUp1RzY5Z1c2NURF0gGAAkFVX3lxTE9QXzJYMWxqSlJZTkNSMkl5d1VZRGJTMnNRd0I1S01za3U1OTZyNGFPckhrRDNuSXRjeGV3cDFkUzVrUTRCeXB3SnJKUklrMHRDZTRsLWZQVjU3WkJQRHA1SWJDeEhMUTlVX0J6X1BSZHVhZ29BdUZWZTFNd245NzlDYnNQdmlobWFIOVdkdjNVQXBGVmlUV01wTWRkR0FzMlJVcVIwQmNiNVNPRDNhUkJPT0Q0bE84QWlCMUJpZHZnWmpGakpHRUtHOHpxc1ZpUjVkYzQ1cnVWeTNhbmlsY1pJclFGVHBjWjRQTlRHXy1GanQxaHJxSnVHNjlnVzY1REU?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUF8yWDFsakpSWU5DUjJJeXdVWURiUzJzUXdCNUtNc2t1NTk2cjRhT3JIa0Qzbkl0Y3hld3AxZFM1a1E0Qnlwd0pySlJJazB0Q2U0bC1mUFY1N1pCUERwNUliQ3hITFE5VV9Cel9QUmR1YWdvQXVGVmUxTXduOTc5Q2JzUHZpaG1hSDlXZHYzVUFwRlZpVFdNcE1kZEdBczJSVXFSMEJjYjVTT0QzYVJCT09ENGxPOEFpQjFCaWR2Z1pqRmpKR0VLRzh6cXNWaVI1ZGM0NXJ1VnkzYW5pbGNaSXJRRlRwY1o0UE5UR18tRmp0MWhycUp1RzY5Z1c2NURF0gGAAkFVX3lxTE9QXzJYMWxqSlJZTkNSMkl5d1VZRGJTMnNRd0I1S01za3U1OTZyNGFPckhrRDNuSXRjeGV3cDFkUzVrUTRCeXB3SnJKUklrMHRDZTRsLWZQVjU3WkJQRHA1SWJDeEhMUTlVX0J6X1BSZHVhZ29BdUZWZTFNd245NzlDYnNQdmlobWFIOVdkdjNVQXBGVmlUV01wTWRkR0FzMlJVcVIwQmNiNVNPRDNhUkJPT0Q0bE84QWlCMUJpZHZnWmpGakpHRUtHOHpxc1ZpUjVkYzQ1cnVWeTNhbmlsY1pJclFGVHBjWjRQTlRHXy1GanQxaHJxSnVHNjlnVzY1REU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZkVlY0M5dWhHcE5FRURjUDBfcHNGMU53ZVJUU1k3RTVFb0JFRFNoajNJY0lndEktRHA3WVVhSWVmZ3NLRzk2a0FMU3I2R0p1YVB0Z3RQb3ExZFVLcjQ0MDd2TmNRYndSR2xiQ0NKTVBRY3pIa0ZmWHF2NHd0dkRXVDdta3VzRWRUTklEN0NiYThjTDZvY3dYc0QyRmJodERLVXV6NWJYbk5PWEx4UzBxSDJUYzlha2JZN2pzVlhaOVVWRU5UaERiWGpVcmZCeGMtNFg2NHRZY2o3cUVXZkowbkwxYlFaemlUcDU3RW45WlhkcG5saFE5cU8tWdIBgAJBVV95cUxPUF8yWDFsakpSWU5DUjJJeXdVWURiUzJzUXdCNUtNc2t1NTk2cjRhT3JIa0Qzbkl0Y3hld3AxZFM1a1E0Qnlwd0pySlJJazB0Q2U0bC1mUFY1N1pCUERwNUliQ3hITFE5VV9Cel9QUmR1YWdvQXVGVmUxTXduOTc5Q2JzUHZpaG1hSDlXZHYzVUFwRlZpVFdNcE1kZEdBczJSVXFSMEJjYjVTT0QzYVJCT09ENGxPOEFpQjFCaWR2Z1pqRmpKR0VLRzh6cXNWaVI1ZGM0NXJ1VnkzYW5pbGNaSXJRRlRwY1o0UE5UR18tRmp0MWhycUp1RzY5Z1c2NURF?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZkVlY0M5dWhHcE5FRURjUDBfcHNGMU53ZVJUU1k3RTVFb0JFRFNoajNJY0lndEktRHA3WVVhSWVmZ3NLRzk2a0FMU3I2R0p1YVB0Z3RQb3ExZFVLcjQ0MDd2TmNRYndSR2xiQ0NKTVBRY3pIa0ZmWHF2NHd0dkRXVDdta3VzRWRUTklEN0NiYThjTDZvY3dYc0QyRmJodERLVXV6NWJYbk5PWEx4UzBxSDJUYzlha2JZN2pzVlhaOVVWRU5UaERiWGpVcmZCeGMtNFg2NHRZY2o3cUVXZkowbkwxYlFaemlUcDU3RW45WlhkcG5saFE5cU8tWdIBgAJBVV95cUxPUF8yWDFsakpSWU5DUjJJeXdVWURiUzJzUXdCNUtNc2t1NTk2cjRhT3JIa0Qzbkl0Y3hld3AxZFM1a1E0Qnlwd0pySlJJazB0Q2U0bC1mUFY1N1pCUERwNUliQ3hITFE5VV9Cel9QUmR1YWdvQXVGVmUxTXduOTc5Q2JzUHZpaG1hSDlXZHYzVUFwRlZpVFdNcE1kZEdBczJSVXFSMEJjYjVTT0QzYVJCT09ENGxPOEFpQjFCaWR2Z1pqRmpKR0VLRzh6cXNWaVI1ZGM0NXJ1VnkzYW5pbGNaSXJRRlRwY1o0UE5UR18tRmp0MWhycUp1RzY5Z1c2NURF?oc=5",
       "source": "Corriere Torino",
       "sourceHost": "corriere.it",
       "queryLabel": "Delmastro generale",
@@ -1134,8 +1294,8 @@
     {
       "id": "liberoquotidiano.it__libero quotidiano__senato m5s occupa banchi governo no giunta chat delmastro libero quotidiano it__2026-07-22T11:33:03.000Z",
       "title": "Senato, M5S occupa banchi governo per no giunta a chat Delmastro | Libero Quotidiano.it",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUp2T0VIOTJtWXQ4RUxCcjcwN0ZHNmhaN2hCdy1jdzA4ZWt2aGRiVmdyTmFtV1p5VHlIQk9Cbm44dk9xckxmTnNMXzdBVk5SYnoxcU0tU0UwOU00bWh5SkJKNEtQa0hZSkdyZ0VsbUhnb1JQOS16QzZtTUl1amVjRE5TWHVTejRHRVh0eXoxTWNRVF9vb2hSLWRiM3hOaFlfSHRFYnJuNl9oTE5uSk9ycUkwZmZOdUo5R1HSAb4BQVVfeXFMUGdHc3JwOVNYTXZ5aFh1YUE3V2IzeFRtQWJ5THlIQk1HQUJOUlBmRW4zVUVHR0RGY240NGw1Um5YNGRRWDJzNkdFWFZHck1LcHlNVG9zcmZDampMTW9ZTS1Ia000VVBra1pZVUdjV2pCc1hjNmd3QnVobC1SWFE5NlBuR1JfaGhHWFpiTkpWU3NNOXpNbmotbnR4UDRJWGVMYkZBR3pvOFlQQTMwTm16QU1VVUxueWZFUFppZVljZw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUp2T0VIOTJtWXQ4RUxCcjcwN0ZHNmhaN2hCdy1jdzA4ZWt2aGRiVmdyTmFtV1p5VHlIQk9Cbm44dk9xckxmTnNMXzdBVk5SYnoxcU0tU0UwOU00bWh5SkJKNEtQa0hZSkdyZ0VsbUhnb1JQOS16QzZtTUl1amVjRE5TWHVTejRHRVh0eXoxTWNRVF9vb2hSLWRiM3hOaFlfSHRFYnJuNl9oTE5uSk9ycUkwZmZOdUo5R1HSAb4BQVVfeXFMUGdHc3JwOVNYTXZ5aFh1YUE3V2IzeFRtQWJ5THlIQk1HQUJOUlBmRW4zVUVHR0RGY240NGw1Um5YNGRRWDJzNkdFWFZHck1LcHlNVG9zcmZDampMTW9ZTS1Ia000VVBra1pZVUdjV2pCc1hjNmd3QnVobC1SWFE5NlBuR1JfaGhHWFpiTkpWU3NNOXpNbmotbnR4UDRJWGVMYkZBR3pvOFlQQTMwTm16QU1VVUxueWZFUFppZVljZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTZhTFFhYXhnMjlNTWNkTjNtd3lrRERBdno3Rk5PRW12YUE0bDFtNEh2QTljSjVCVkNIM0NxZzQ4MjFqVlk5T3gxOHRFbmNZYWI3TkRsT2UzbENfRzV3MkI1SUNfb1JqQ2h2SFNCbFNLSXRrYXk1YWxMMlhieko5SU5vT3JKcW5IM0hLQXFzNFEydXc3Wm5BWndZbzJHdnk2enVYZmhuVVA0ODdNTk9jT3JrbkJCRmM40gG-AUFVX3lxTFBnR3NycDlTWE12eWhYdWFBN1diM3hUbUFieUx5SEJNR0FCTlJQZkVuM1VFR0dERmNuNDRsNVJuWDRkUVgyczZHRVhWR3JNS3B5TVRvc3JmQ2pqTE1vWU0tSGtNNFVQa2taWVVHY1dqQnNYYzZnd0J1aGwtUlhROTZQbkdSX2hoR1haYk5KVlNzTTl6TW5qLW50eFA0SVhlTGJGQUd6bzhZUEEzME5tekFNVVVMbnlmRVBaaWVZY2c?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTZhTFFhYXhnMjlNTWNkTjNtd3lrRERBdno3Rk5PRW12YUE0bDFtNEh2QTljSjVCVkNIM0NxZzQ4MjFqVlk5T3gxOHRFbmNZYWI3TkRsT2UzbENfRzV3MkI1SUNfb1JqQ2h2SFNCbFNLSXRrYXk1YWxMMlhieko5SU5vT3JKcW5IM0hLQXFzNFEydXc3Wm5BWndZbzJHdnk2enVYZmhuVVA0ODdNTk9jT3JrbkJCRmM40gG-AUFVX3lxTFBnR3NycDlTWE12eWhYdWFBN1diM3hUbUFieUx5SEJNR0FCTlJQZkVuM1VFR0dERmNuNDRsNVJuWDRkUVgyczZHRVhWR3JNS3B5TVRvc3JmQ2pqTE1vWU0tSGtNNFVQa2taWVVHY1dqQnNYYzZnd0J1aGwtUlhROTZQbkdSX2hoR1haYk5KVlNzTTl6TW5qLW50eFA0SVhlTGJGQUd6bzhZUEEzME5tekFNVVVMbnlmRVBaaWVZY2c?oc=5",
       "source": "Libero Quotidiano",
       "sourceHost": "liberoquotidiano.it",
       "queryLabel": "Delmastro generale",

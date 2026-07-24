@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T00:05:47.154Z",
+  "generatedAt": "2026-07-24T03:55:01.637Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-06-09T00:05:47.154Z",
-    "to": "2026-07-24T00:05:47.154Z",
+    "from": "2026-06-09T03:55:01.637Z",
+    "to": "2026-07-24T03:55:01.637Z",
     "days": 45
   },
   "sources": [
@@ -156,16 +156,16 @@
       "articleCount": 3
     },
     {
+      "label": "huffingtonpost.it",
+      "articleCount": 2
+    },
+    {
       "label": "fanpage.it",
       "articleCount": 2
     },
     {
       "label": "tgcom24.mediaset.it",
       "articleCount": 2
-    },
-    {
-      "label": "huffingtonpost.it",
-      "articleCount": 1
     },
     {
       "label": "today.it",
@@ -183,8 +183,8 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 216,
-      "uniqueArticles": 108
+      "fetchedArticles": 218,
+      "uniqueArticles": 109
     },
     {
       "label": "Bisteccheria",
@@ -193,13 +193,13 @@
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 75,
-      "uniqueArticles": 6
+      "fetchedArticles": 74,
+      "uniqueArticles": 5
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 48,
-      "uniqueArticles": 2
+      "fetchedArticles": 49,
+      "uniqueArticles": 3
     },
     {
       "label": "Filone giudiziario",
@@ -215,7 +215,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 46
+      "count": 47
     },
     {
       "tag": "politica",
@@ -417,7 +417,7 @@
     },
     {
       "date": "2026-07-24",
-      "count": 5
+      "count": 6
     }
   ],
   "articles": [
@@ -479,6 +479,26 @@
       ],
       "publishedAt": "2026-07-23T23:00:00.000Z",
       "excerpt": "Accesso ai telefonini, maggioranza divisa. FI minaccia ritorsioni sul caso Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "huffingtonpost.it__huffpost italia__delmastro salis due modi diversi essere destra sinistra__2026-07-23T22:15:00.000Z",
+      "title": "Delmastro e Salis, due modi diversi di essere destra e sinistra",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSGJaVmkyblFzXzVuRGpVR3dScGJBZUw4OG1QNXc0ZUVGYk1EVVBMck92cjZBNlh4V19fa1d1dVJoSzN3WW9ud3RzRDA0VlluUmY0RXZQaWExTlowMTh0WFRFX3BBOUNPaGUyWnBHX2ljR24yRVE3U2NLRFp0aVE3dVZwNmc3ZlMya2FDbXdEQkloTk5IZTM0bXlSMkZWX0o4MnlENXFKa0U0b3VPR3BIVktubVNiM3BpMDI2Zmw5VG1wUnAtQzlPTVM1cXVReXplQkJQTFVJaGE5TjMt?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSGJaVmkyblFzXzVuRGpVR3dScGJBZUw4OG1QNXc0ZUVGYk1EVVBMck92cjZBNlh4V19fa1d1dVJoSzN3WW9ud3RzRDA0VlluUmY0RXZQaWExTlowMTh0WFRFX3BBOUNPaGUyWnBHX2ljR24yRVE3U2NLRFp0aVE3dVZwNmc3ZlMya2FDbXdEQkloTk5IZTM0bXlSMkZWX0o4MnlENXFKa0U0b3VPR3BIVktubVNiM3BpMDI2Zmw5VG1wUnAtQzlPTVM1cXVReXplQkJQTFVJaGE5TjMt?oc=5",
+      "source": "HuffPost Italia",
+      "sourceHost": "huffingtonpost.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-07-23T22:15:00.000Z",
+      "excerpt": "Delmastro e Salis, due modi diversi di essere destra e sinistra",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1568,15 +1588,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdWxlNFRaTnBOcGgwUmdWQTR6RDRFTlhjSEQ3cHNhN1EzRkluNXdtRldlelRGdVBPaGhyN3BlZHR4aDFCNDVIandYaFhTa3R3dlE1Y3RIazY1VDBzV0ZDVXlsamV0Z0p0Ti16cXRZTktxSWJseDljbi1yVFh0aERIeGVXT3RsV2NxaFIxZERxQktFdjRBU2JvbFJCaWN1NEtqaU05b0RUY2tCUHhiNThKT2FJQzljSVNZUWpXRzJjaEVDV3BaVXRSS1E1emRKRGdadEctMUl1NVdyYnpqZHJjYWwtUEVaY19WUnNLZGF2cHRGVDFnOGFxTmx4aTZMNWVUcGFRS9IBigJBVV95cUxPc1lha2xEQUsxU3daOWplYmNab2dCQTJIMkdSRHpDZzZldW0wR1RyNTdxdkZOZ1BjLTAxcV9qbkZNNENESVBXWUhiSGlYdlJxR3NXeFNURjgzMWo0ak4yVXN5T3hhdjJXZEVLVjBHMWVLbGx6aWxxNUJmZE9IR1F2YWdRdXNfd2k3OXZSNzAtdG1tVFJDcEFwQlZmek9XUl9UNlFxYnJMZkVUcC1SMk9PdS0tYTJBRFZtblFjZF9iMnhuQjMzNzc2YWYwNzNVbTl2OFFKWV9wdFFldnFBOTRfdjBUdk9ma0d1R2ExakRxS3lkcHBZcFdSSGtTb3J5NVVfVDVlTDh1c2l4Zw?oc=5",
       "source": "RaiNews",
       "sourceHost": "rainews.it",
-      "queryLabel": "Soci e societa'",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Caroccia",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl",
-        "clan Senese"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "altro"

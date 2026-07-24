@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T20:47:24.679Z",
+  "generatedAt": "2026-07-24T22:11:21.037Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,14 +94,14 @@
     ]
   },
   "window": {
-    "from": "2026-06-09T20:47:24.679Z",
-    "to": "2026-07-24T20:47:24.679Z",
+    "from": "2026-06-09T22:11:21.037Z",
+    "to": "2026-07-24T22:11:21.037Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 21
+      "articleCount": 23
     },
     {
       "label": "repubblica.it",
@@ -183,8 +183,8 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 227,
-      "uniqueArticles": 113
+      "fetchedArticles": 231,
+      "uniqueArticles": 115
     },
     {
       "label": "Bisteccheria",
@@ -193,13 +193,13 @@
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 81,
+      "fetchedArticles": 82,
       "uniqueArticles": 5
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 56,
-      "uniqueArticles": 2
+      "fetchedArticles": 57,
+      "uniqueArticles": 3
     },
     {
       "label": "Territorio",
@@ -215,11 +215,11 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 53
+      "count": 54
     },
     {
       "tag": "giudiziaria",
-      "count": 36
+      "count": 37
     },
     {
       "tag": "politica",
@@ -235,10 +235,6 @@
     }
   ],
   "timeline": [
-    {
-      "date": "2026-06-09",
-      "count": 0
-    },
     {
       "date": "2026-06-10",
       "count": 0
@@ -418,9 +414,53 @@
     {
       "date": "2026-07-24",
       "count": 22
+    },
+    {
+      "date": "2026-07-25",
+      "count": 2
     }
   ],
   "articles": [
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__chat delmastro partito panico sms imbarazzanti che smentiscono__2026-07-24T22:01:00.000Z",
+      "title": "Chat Delmastro, il partito è nel panico: “Sms imbarazzanti e che lo smentiscono”",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR3NuNWYxSlh5RHN1d0hpVmd1aklwRnNwRWotdWUwdUYtb2k2aGpEcW5CbDFxNzJJb2tSU2pDUnJiY0w1VTNqcWhNQldOb1l2d0NRZlUxSGREN2w4SGJuOHNneHZMelExdWdPazBrU2UwaFdpMjBGcmprVGRHU21xNk04amhfWW5BNXJ4SGtZdXFPSWw4eC1ob0dfOVJ6UGZJYU1Qek5RWTBQQS00RkVQb0pPdFBTYUQtSzZOcEZCYzN5WmxFVzBQaTFHemZCMGJ5Z3NWZ0NHaS14ZTR1OU92OUUtQQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR3NuNWYxSlh5RHN1d0hpVmd1aklwRnNwRWotdWUwdUYtb2k2aGpEcW5CbDFxNzJJb2tSU2pDUnJiY0w1VTNqcWhNQldOb1l2d0NRZlUxSGREN2w4SGJuOHNneHZMelExdWdPazBrU2UwaFdpMjBGcmprVGRHU21xNk04amhfWW5BNXJ4SGtZdXFPSWw4eC1ob0dfOVJ6UGZJYU1Qek5RWTBQQS00RkVQb0pPdFBTYUQtSzZOcEZCYzN5WmxFVzBQaTFHemZCMGJ5Z3NWZ0NHaS14ZTR1OU92OUUtQQ?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-07-24T22:01:00.000Z",
+      "excerpt": "Chat Delmastro, il partito è nel panico: “Sms imbarazzanti e che lo smentiscono”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__bisteccherie d italia caroccia adesso chat pm delmastro approva ma rischia__2026-07-24T22:01:00.000Z",
+      "title": "Bisteccherie d’Italia, Caroccia adesso dà le chat ai pm. Delmastro approva, ma rischia",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUHM1cHRwTWVtRTd2Zmt1UXNWenF0V0RESzNCNkJYOXd6QmNwajcyRnJVdi0wZlFONlNmcGI3TE0zWms5bFVlWjRoR3BQRHpMZXN5a1EzU0JOT1FpdU9wLUtvcm5pRHNEbWtsVFZOUDJ3YzczVHZQbTFEQlBNOGY4QU5HaDN3LUNrUVY4RExNTXM3R3N1Zm9MeUR2blFscTY0WTVnRXNwcTVTTmpZS2Z5OUlTVUpCWWFicURrVmwyZ0k0REVKUDRUM05tdGtJYXZUcWd4X0I0ejllNm40ZUdfTG9oZWhqTWhzdkN3?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUHM1cHRwTWVtRTd2Zmt1UXNWenF0V0RESzNCNkJYOXd6QmNwajcyRnJVdi0wZlFONlNmcGI3TE0zWms5bFVlWjRoR3BQRHpMZXN5a1EzU0JOT1FpdU9wLUtvcm5pRHNEbWtsVFZOUDJ3YzczVHZQbTFEQlBNOGY4QU5HaDN3LUNrUVY4RExNTXM3R3N1Zm9MeUR2blFscTY0WTVnRXNwcTVTTmpZS2Z5OUlTVUpCWWFicURrVmwyZ0k0REVKUDRUM05tdGtJYXZUcWd4X0I0ejllNm40ZUdfTG9oZWhqTWhzdkN3?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-07-24T22:01:00.000Z",
+      "excerpt": "Bisteccherie d’Italia, Caroccia adesso dà le chat ai pm. Delmastro approva, ma rischia",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
     {
       "id": "rainews.it__rainews__scontro politico economia punibilita minori chat delmastro__2026-07-24T18:15:44.000Z",
       "title": "Scontro politico su economia, punibilità dei minori e chat di Delmastro",
@@ -1706,6 +1746,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "tgcom24.mediaset.it__tgcom24__no maggioranza all uso chat delmastro protesta m5s__2026-07-22T12:58:00.000Z",
+      "title": "No della maggioranza all'uso delle chat di Delmastro | La protesta del M5S",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR2VKQ0xwY3dBWnB1M29YaHV6bGJ3YkRhaXJVQllvS2ZvN1h1aW80V1RhTVRJS2p2X2FxRU4zNDYxXzBnQWxQSmw3R2kxTE56WXdHVDRJcVNYdVh2M2ZVM0V3Rmxpa2tHVm1XeTg5TDc0d3BXMUt1TVlfUDljUGxTMnlYSFhCaFQ3aEJieUpaOWV5OWM5MTItUtIBaEFVX3lxTE9rSzdLU2JYRWsyWjY0RGNFek1yQ0w4YklzNTJ3MGR1MW0waGd6VlFuX2ludUVPeDNfZFY2VTBXV2djMUVyaVYyLUhzUHhPY1lWZFlMaG1qRzNkWjBmR2FGMmhSTUxnNEFI?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR2VKQ0xwY3dBWnB1M29YaHV6bGJ3YkRhaXJVQllvS2ZvN1h1aW80V1RhTVRJS2p2X2FxRU4zNDYxXzBnQWxQSmw3R2kxTE56WXdHVDRJcVNYdVh2M2ZVM0V3Rmxpa2tHVm1XeTg5TDc0d3BXMUt1TVlfUDljUGxTMnlYSFhCaFQ3aEJieUpaOWV5OWM5MTItUtIBaEFVX3lxTE9rSzdLU2JYRWsyWjY0RGNFek1yQ0w4YklzNTJ3MGR1MW0waGd6VlFuX2ludUVPeDNfZFY2VTBXV2djMUVyaVYyLUhzUHhPY1lWZFlMaG1qRzNkWjBmR2FGMmhSTUxnNEFI?oc=5",
+      "source": "Tgcom24",
+      "sourceHost": "tgcom24.mediaset.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-07-22T12:58:00.000Z",
+      "excerpt": "No della maggioranza all'uso delle chat di Delmastro | La protesta del M5S",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "huffingtonpost.it__huffpost italia__maggioranza dice no all uso intercettazioni delmastro protesta m5s__2026-07-22T12:53:00.000Z",
       "title": "La maggioranza dice no all'uso delle intercettazioni di Delmastro, protesta M5s",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDctaUxIZmNnaDhoZGE3OHliVUFKMURlS3ZkVWRwaHZXc1dpbjcwcmhKUE94WjlWUVc5dWhESVVkT2dDUEZycklaTFU5aGNuWUs0ZTRCUGNtc2xTWEhnNkhfcEtScHpCd0VzeU9SNzlhVDI5SDRlZlBmdDl1MUhJVk05eDl6SEVRMlpQdkIxSmhFZXdyRkNrVjF6VFdSY3VYSC1KTjFNdm02R3R4?oc=5",
@@ -1886,41 +1946,16 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "tgcom24.mediaset.it__tgcom24__no maggioranza all uso chat delmastro protesta m5s__2026-07-22T11:51:20.000Z",
-      "title": "No della maggioranza all'uso delle chat di Delmastro | La protesta del M5S",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rSzdLU2JYRWsyWjY0RGNFek1yQ0w4YklzNTJ3MGR1MW0waGd6VlFuX2ludUVPeDNfZFY2VTBXV2djMUVyaVYyLUhzUHhPY1lWZFlMaG1qRzNkWjBmR2FGMmhSTUxnNEFI0gFoQVVfeXFMT2tLN0tTYlhFazJaNjREY0V6TXJDTDhiSXM1MncwZHUxbTBoZ3pWUW5faW51RU94M19kVjZVMFdXZ2MxRXJpVjItSHNQeE9jWVZkWUxobWpHM2RaMGZHYUYyaFJNTGc0QUg?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rSzdLU2JYRWsyWjY0RGNFek1yQ0w4YklzNTJ3MGR1MW0waGd6VlFuX2ludUVPeDNfZFY2VTBXV2djMUVyaVYyLUhzUHhPY1lWZFlMaG1qRzNkWjBmR2FGMmhSTUxnNEFI0gFoQVVfeXFMT2tLN0tTYlhFazJaNjREY0V6TXJDTDhiSXM1MncwZHUxbTBoZ3pWUW5faW51RU94M19kVjZVMFdXZ2MxRXJpVjItSHNQeE9jWVZkWUxobWpHM2RaMGZHYUYyaFJNTGc0QUg?oc=5",
-      "source": "Tgcom24",
-      "sourceHost": "tgcom24.mediaset.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-07-22T11:51:20.000Z",
-      "excerpt": "No della maggioranza all'uso delle chat di Delmastro | La protesta del M5S",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "rainews.it__rainews__maggioranza dice no richiesta magistrati acquisizione chat delmastro caroccia__2026-07-22T11:50:00.000Z",
       "title": "La maggioranza dice no alla richiesta dei magistrati su acquisizione chat Delmastro-Caroccia",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdWxlNFRaTnBOcGgwUmdWQTR6RDRFTlhjSEQ3cHNhN1EzRkluNXdtRldlelRGdVBPaGhyN3BlZHR4aDFCNDVIandYaFhTa3R3dlE1Y3RIazY1VDBzV0ZDVXlsamV0Z0p0Ti16cXRZTktxSWJseDljbi1yVFh0aERIeGVXT3RsV2NxaFIxZERxQktFdjRBU2JvbFJCaWN1NEtqaU05b0RUY2tCUHhiNThKT2FJQzljSVNZUWpXRzJjaEVDV3BaVXRSS1E1emRKRGdadEctMUl1NVdyYnpqZHJjYWwtUEVaY19WUnNLZGF2cHRGVDFnOGFxTmx4aTZMNWVUcGFRS9IBigJBVV95cUxPc1lha2xEQUsxU3daOWplYmNab2dCQTJIMkdSRHpDZzZldW0wR1RyNTdxdkZOZ1BjLTAxcV9qbkZNNENESVBXWUhiSGlYdlJxR3NXeFNURjgzMWo0ak4yVXN5T3hhdjJXZEVLVjBHMWVLbGx6aWxxNUJmZE9IR1F2YWdRdXNfd2k3OXZSNzAtdG1tVFJDcEFwQlZmek9XUl9UNlFxYnJMZkVUcC1SMk9PdS0tYTJBRFZtblFjZF9iMnhuQjMzNzc2YWYwNzNVbTl2OFFKWV9wdFFldnFBOTRfdjBUdk9ma0d1R2ExakRxS3lkcHBZcFdSSGtTb3J5NVVfVDVlTDh1c2l4Zw?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdWxlNFRaTnBOcGgwUmdWQTR6RDRFTlhjSEQ3cHNhN1EzRkluNXdtRldlelRGdVBPaGhyN3BlZHR4aDFCNDVIandYaFhTa3R3dlE1Y3RIazY1VDBzV0ZDVXlsamV0Z0p0Ti16cXRZTktxSWJseDljbi1yVFh0aERIeGVXT3RsV2NxaFIxZERxQktFdjRBU2JvbFJCaWN1NEtqaU05b0RUY2tCUHhiNThKT2FJQzljSVNZUWpXRzJjaEVDV3BaVXRSS1E1emRKRGdadEctMUl1NVdyYnpqZHJjYWwtUEVaY19WUnNLZGF2cHRGVDFnOGFxTmx4aTZMNWVUcGFRS9IBigJBVV95cUxPc1lha2xEQUsxU3daOWplYmNab2dCQTJIMkdSRHpDZzZldW0wR1RyNTdxdkZOZ1BjLTAxcV9qbkZNNENESVBXWUhiSGlYdlJxR3NXeFNURjgzMWo0ak4yVXN5T3hhdjJXZEVLVjBHMWVLbGx6aWxxNUJmZE9IR1F2YWdRdXNfd2k3OXZSNzAtdG1tVFJDcEFwQlZmek9XUl9UNlFxYnJMZkVUcC1SMk9PdS0tYTJBRFZtblFjZF9iMnhuQjMzNzc2YWYwNzNVbTl2OFFKWV9wdFFldnFBOTRfdjBUdk9ma0d1R2ExakRxS3lkcHBZcFdSSGtTb3J5NVVfVDVlTDh1c2l4Zw?oc=5",
       "source": "RaiNews",
       "sourceHost": "rainews.it",
-      "queryLabel": "Soci e societa'",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Caroccia",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl",
-        "clan Senese"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "altro"
@@ -1933,8 +1968,8 @@
     {
       "id": "tgcom24.mediaset.it__tgcom24__m5s protesta senato cartelli fuori chat contro caso delmastro__2026-07-22T11:35:10.000Z",
       "title": "M5S protesta in Senato: cartelli \"Fuori le chat\" contro il caso Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YMXlsX0RyVHF5c1ZCb2l6eWRjQ2VlZ0t2elFtUy1qZ3o1VjM1WTZNY1NhQnF4ZjlEVnlfM0Q5MzVEV1Awc2VkdmlRb2c4SWNCZGh6aVZQcFQ4MWowaGVWUlNsMWRTUG5OcnZvTnRySdIBb0FVX3lxTE9YMXlsX0RyVHF5c1ZCb2l6eWRjQ2VlZ0t2elFtUy1qZ3o1VjM1WTZNY1NhQnF4ZjlEVnlfM0Q5MzVEV1Awc2VkdmlRb2c4SWNCZGh6aVZQcFQ4MWowaGVWUlNsMWRTUG5OcnZvTnRySQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YMXlsX0RyVHF5c1ZCb2l6eWRjQ2VlZ0t2elFtUy1qZ3o1VjM1WTZNY1NhQnF4ZjlEVnlfM0Q5MzVEV1Awc2VkdmlRb2c4SWNCZGh6aVZQcFQ4MWowaGVWUlNsMWRTUG5OcnZvTnRySdIBb0FVX3lxTE9YMXlsX0RyVHF5c1ZCb2l6eWRjQ2VlZ0t2elFtUy1qZ3o1VjM1WTZNY1NhQnF4ZjlEVnlfM0Q5MzVEV1Awc2VkdmlRb2c4SWNCZGh6aVZQcFQ4MWowaGVWUlNsMWRTUG5OcnZvTnRySQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNVF0bzlCYm5jV2FkN21nalU4U015R3V2U01raGVVQWVnWXN3ZmZIYVlKZVVpeTNCV3NGV2U0OEV5RENja0JuV25kT1lIQWtObDg3SnRLV3J3TGVJVFkzMkFlY1BEbC1LRm51Qmp1eGtkRXkweFFYNENEejhMRVV1b2tOajN6M2s3U3VzckxTMW9SUkVCaFg4ZFN2VnFyQWtWN0wzMjIwekt1a1hSQXVZUmw1U3BTU2dSdHhZeFZKS18xVFhWbVlaTVVueFFZY0RsLW9aOGRXNNIBb0FVX3lxTE9YMXlsX0RyVHF5c1ZCb2l6eWRjQ2VlZ0t2elFtUy1qZ3o1VjM1WTZNY1NhQnF4ZjlEVnlfM0Q5MzVEV1Awc2VkdmlRb2c4SWNCZGh6aVZQcFQ4MWowaGVWUlNsMWRTUG5OcnZvTnRySQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNVF0bzlCYm5jV2FkN21nalU4U015R3V2U01raGVVQWVnWXN3ZmZIYVlKZVVpeTNCV3NGV2U0OEV5RENja0JuV25kT1lIQWtObDg3SnRLV3J3TGVJVFkzMkFlY1BEbC1LRm51Qmp1eGtkRXkweFFYNENEejhMRVV1b2tOajN6M2s3U3VzckxTMW9SUkVCaFg4ZFN2VnFyQWtWN0wzMjIwekt1a1hSQXVZUmw1U3BTU2dSdHhZeFZKS18xVFhWbVlaTVVueFFZY0RsLW9aOGRXNNIBb0FVX3lxTE9YMXlsX0RyVHF5c1ZCb2l6eWRjQ2VlZ0t2elFtUy1qZ3o1VjM1WTZNY1NhQnF4ZjlEVnlfM0Q5MzVEV1Awc2VkdmlRb2c4SWNCZGh6aVZQcFQ4MWowaGVWUlNsMWRTUG5OcnZvTnRySQ?oc=5",
       "source": "Tgcom24",
       "sourceHost": "tgcom24.mediaset.it",
       "queryLabel": "Delmastro generale",

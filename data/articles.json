@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T20:31:37.629Z",
+  "generatedAt": "2026-07-26T22:05:17.660Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,14 +94,14 @@
     ]
   },
   "window": {
-    "from": "2026-06-11T20:31:37.629Z",
-    "to": "2026-07-26T20:31:37.629Z",
+    "from": "2026-06-11T22:05:17.660Z",
+    "to": "2026-07-26T22:05:17.660Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 22
+      "articleCount": 23
     },
     {
       "label": "repubblica.it",
@@ -145,7 +145,7 @@
     },
     {
       "label": "liberoquotidiano.it",
-      "articleCount": 5
+      "articleCount": 4
     },
     {
       "label": "agi.it",
@@ -183,13 +183,13 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 222,
-      "uniqueArticles": 111
+      "fetchedArticles": 224,
+      "uniqueArticles": 112
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 72,
-      "uniqueArticles": 13
+      "fetchedArticles": 70,
+      "uniqueArticles": 12
     },
     {
       "label": "Persone collegate",
@@ -198,7 +198,7 @@
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 80,
+      "fetchedArticles": 81,
       "uniqueArticles": 3
     },
     {
@@ -215,7 +215,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 52
+      "count": 53
     },
     {
       "tag": "giudiziaria",
@@ -223,7 +223,7 @@
     },
     {
       "tag": "politica",
-      "count": 34
+      "count": 33
     },
     {
       "tag": "bisteccheria",
@@ -235,10 +235,6 @@
     }
   ],
   "timeline": [
-    {
-      "date": "2026-06-11",
-      "count": 0
-    },
     {
       "date": "2026-06-12",
       "count": 0
@@ -401,7 +397,7 @@
     },
     {
       "date": "2026-07-22",
-      "count": 56
+      "count": 55
     },
     {
       "date": "2026-07-23",
@@ -418,9 +414,33 @@
     {
       "date": "2026-07-26",
       "count": 0
+    },
+    {
+      "date": "2026-07-27",
+      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__carceri tribunali segreteria balboni delmastro occupa ancora ministero coi suoi fedelissimi__2026-07-26T22:01:00.000Z",
+      "title": "Carceri, tribunali, segreteria e Balboni: Delmastro occupa ancora il ministero coi suoi fedelissimi",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMEFIRWtaU1JpOWw3RjNKM1gtQ0E1ZUF1dnFLR2dJNzVFbmFlY1Voa2l5OEVmcktfVjBRQWhtajRVYWJkRDUwVkFoRWZsT2xEVnRqV1BDbU5NcjR4UDNlaHBNc3FYV0lOMGtGQWxpVnNOa01JUWliVElTcUJlZFVZMTVmaWNCbG5RRzNEOHFuMW1yMU9ydFZjaXlpWUlBQzAwT2ZqYVFENE5XUkNsR0JhSGtObEVuTVFYaS1Vc2psc1BQbEk3Y2V1LUN3UUdJR2FXSzlCT2RJcTA1RmFWUlQwV29RTmpXcDI4QWpHVnE3VGRyMUl4OWNHcWE4S0dkdw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMEFIRWtaU1JpOWw3RjNKM1gtQ0E1ZUF1dnFLR2dJNzVFbmFlY1Voa2l5OEVmcktfVjBRQWhtajRVYWJkRDUwVkFoRWZsT2xEVnRqV1BDbU5NcjR4UDNlaHBNc3FYV0lOMGtGQWxpVnNOa01JUWliVElTcUJlZFVZMTVmaWNCbG5RRzNEOHFuMW1yMU9ydFZjaXlpWUlBQzAwT2ZqYVFENE5XUkNsR0JhSGtObEVuTVFYaS1Vc2psc1BQbEk3Y2V1LUN3UUdJR2FXSzlCT2RJcTA1RmFWUlQwV29RTmpXcDI4QWpHVnE3VGRyMUl4OWNHcWE4S0dkdw?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-07-26T22:01:00.000Z",
+      "excerpt": "Carceri, tribunali, segreteria e Balboni: Delmastro occupa ancora il ministero coi suoi fedelissimi",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
     {
       "id": "ilgiornale.it__il giornale__procura chat delmastro battute spese bisteccheria__2026-07-25T10:00:00.000Z",
       "title": "In procura le chat di Delmastro: battute e spese per la bisteccheria",
@@ -2022,28 +2042,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "liberoquotidiano.it__libero quotidiano__senato m5s occupa banchi governo no giunta chat delmastro__2026-07-22T11:33:03.000Z",
-      "title": "Senato, M5S occupa banchi governo per no giunta a chat Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUp2T0VIOTJtWXQ4RUxCcjcwN0ZHNmhaN2hCdy1jdzA4ZWt2aGRiVmdyTmFtV1p5VHlIQk9Cbm44dk9xckxmTnNMXzdBVk5SYnoxcU0tU0UwOU00bWh5SkJKNEtQa0hZSkdyZ0VsbUhnb1JQOS16QzZtTUl1amVjRE5TWHVTejRHRVh0eXoxTWNRVF9vb2hSLWRiM3hOaFlfSHRFYnJuNl9oTE5uSk9ycUkwZmZOdUo5R1E?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUp2T0VIOTJtWXQ4RUxCcjcwN0ZHNmhaN2hCdy1jdzA4ZWt2aGRiVmdyTmFtV1p5VHlIQk9Cbm44dk9xckxmTnNMXzdBVk5SYnoxcU0tU0UwOU00bWh5SkJKNEtQa0hZSkdyZ0VsbUhnb1JQOS16QzZtTUl1amVjRE5TWHVTejRHRVh0eXoxTWNRVF9vb2hSLWRiM3hOaFlfSHRFYnJuNl9oTE5uSk9ycUkwZmZOdUo5R1E?oc=5",
-      "source": "Libero Quotidiano",
-      "sourceHost": "liberoquotidiano.it",
-      "queryLabel": "Persone collegate",
-      "matchedTerms": [
-        "Elena Chiorino",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "clan Senese"
-      ],
-      "tags": [
-        "politica"
-      ],
-      "publishedAt": "2026-07-22T11:33:03.000Z",
-      "excerpt": "Senato, M5S occupa banchi governo per no giunta a chat Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "rainews.it__rainews__caos senato chat delmastro rimaste secretate dibattito non si placa bologna__2026-07-22T11:17:58.000Z",
       "title": "Caos in Senato per le chat su Delmastro, rimaste secretate. Il dibattito non si placa su Bologna",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPLWJuM0JUTlpSUU5qZGtjRHBpNnhpSmt0MVNaTjRCVkpveVhnamZrejd4dE5sdy1kMTd0OWpuaGEzd3g4R3AwWmZoUzZ0Q19rd2UwdzNvanFtTGVmN0ZrUzk4ZUNVcDM5VjBIZFFhUjViY2lxZ3NfaWZKMnJEdTRhNmF2dk15TUtiQm9wVzNvZzcxZlo4TVRIMC1GX2t2M1UtVmJKVEJEY1BBU3M1M1h3WFhQUGpsMkhXM1RiV2RGcTBaQWxrdnVUZ2FWRVRUNGhWa09oVnJXV3dtNkExdzNWUXI4aXIwZlRwQlphc3dvajZPS3ZUS3NIOG15YzgtcWVGRDFR0gGIAkFVX3lxTFBoZXVPWENTSWZDN1VobUJtUG9Cd0M1VERTeExVT1c2MFd2UXcwWDFPVTRUYnFHMWYxNVU4S2JyYXpXTGtIWU1SWU1ILV9YZ2NkY1pmZmh2U3dqd1BweGZjU3dtMnlLdUtpNTNWRW9xUWJlZUpFb183UlRYLXlrU2R5OG1WNkplWTJWbXUySllHbEFKRFl1U0FwalRTNmdlUkVwY2lHZ09nMkpHM25VUl9oQjhqSVI0U2ZCWE16bjR5cmdrMGFPTEV0Z2FERHNWNml5N0RNSVJybzBUdWNpQXBxSUdXbnhneU42eV9ReHdvOFJ5UXIyWktTaVRoZjRyb0lkMUpwZVFPYw?oc=5",
@@ -2803,10 +2801,12 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV1BKaUl4SHFYWDhQcWtrc3FnYm8xYURQa1hpVVV1Tmg5eEJCZlJmZWxFczBUR2tZWFhGODRIZ2RMcXFVc3ItZE9iRWRnWmx3MkNjNmFPX3RVQWd5OWFwRFhoZm00NmhRdWpyV1V2eERiTTFXejFrLW9OMF9zSnpKaHRxZEF0cEJhLUd5QWNRMVhRaVJmcUM4RFc2YkxDWWNTamhfRXhtaVpPblVaNm0wSlFpaFhQa08tWG52RXdSdFc1eEpodXlKYlhn?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Persone collegate",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Elena Chiorino",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "clan Senese"
       ],
       "tags": [
         "altro"

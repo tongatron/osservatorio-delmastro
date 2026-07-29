@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T12:07:23.757Z",
+  "generatedAt": "2026-07-29T14:53:00.272Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,14 +94,14 @@
     ]
   },
   "window": {
-    "from": "2026-06-14T12:07:23.757Z",
-    "to": "2026-07-29T12:07:23.757Z",
+    "from": "2026-06-14T14:53:00.272Z",
+    "to": "2026-07-29T14:53:00.272Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 28
+      "articleCount": 27
     },
     {
       "label": "repubblica.it",
@@ -137,7 +137,7 @@
     },
     {
       "label": "tg24.sky.it",
-      "articleCount": 4
+      "articleCount": 6
     },
     {
       "label": "adnkronos.com",
@@ -150,6 +150,10 @@
     {
       "label": "agi.it",
       "articleCount": 4
+    },
+    {
+      "label": "ilfoglio.it",
+      "articleCount": 3
     },
     {
       "label": "open.online",
@@ -174,22 +178,18 @@
     {
       "label": "ilpost.it",
       "articleCount": 1
-    },
-    {
-      "label": "ilfoglio.it",
-      "articleCount": 1
     }
   ],
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 244,
-      "uniqueArticles": 122
+      "fetchedArticles": 248,
+      "uniqueArticles": 124
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 88,
-      "uniqueArticles": 7
+      "fetchedArticles": 90,
+      "uniqueArticles": 8
     },
     {
       "label": "Bisteccheria",
@@ -208,18 +208,18 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 28,
+      "fetchedArticles": 27,
       "uniqueArticles": 0
     }
   ],
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 54
+      "count": 56
     },
     {
       "tag": "giudiziaria",
-      "count": 37
+      "count": 38
     },
     {
       "tag": "politica",
@@ -393,7 +393,7 @@
     },
     {
       "date": "2026-07-23",
-      "count": 22
+      "count": 23
     },
     {
       "date": "2026-07-24",
@@ -417,10 +417,55 @@
     },
     {
       "date": "2026-07-29",
-      "count": 2
+      "count": 4
     }
   ],
   "articles": [
+    {
+      "id": "ilfoglio.it__il foglio__andrea delmastro__2026-07-29T13:46:55.000Z",
+      "title": "Andrea Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TVHhSYzRmZXY0RUtpSTJwRUNsY0NEekdTUzFjYmpWTFlSUG91R2hDS1dmX0JXMWZmTldCQVRhcjEwYmNoQzFaY2hYRmVrMllETFRZNy11LWp1N0YtQmtQcHZ1MA?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TVHhSYzRmZXY0RUtpSTJwRUNsY0NEekdTUzFjYmpWTFlSUG91R2hDS1dmX0JXMWZmTldCQVRhcjEwYmNoQzFaY2hYRmVrMllETFRZNy11LWp1N0YtQmtQcHZ1MA?oc=5",
+      "source": "Il Foglio",
+      "sourceHost": "ilfoglio.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-07-29T13:46:55.000Z",
+      "excerpt": "Andrea Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilfoglio.it__il foglio__andrea delmastro vedove__2026-07-29T13:20:03.000Z",
+      "title": "Andrea Delmastro Delle Vedove",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RUVJPM0dwaWY4aVF6X29fbWd4SzJLWk1Pb0swMUxlb2RrN0tOVjA5YmpFQkN2TWJkZG9FZW9NeGUzdEdGREZYZjBOOVU4VS03aWptVUl5eUEyX3dXc0d5MThpTnc4OGdzOHVrX28wbFpzRmlG?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RUVJPM0dwaWY4aVF6X29fbWd4SzJLWk1Pb0swMUxlb2RrN0tOVjA5YmpFQkN2TWJkZG9FZW9NeGUzdEdGREZYZjBOOVU4VS03aWptVUl5eUEyX3dXc0d5MThpTnc4OGdzOHVrX28wbFpzRmlG?oc=5",
+      "source": "Il Foglio",
+      "sourceHost": "ilfoglio.it",
+      "queryLabel": "Soci e societa'",
+      "matchedTerms": [
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-07-29T13:20:03.000Z",
+      "excerpt": "Andrea Delmastro Delle Vedove",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
     {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__chat delmastro pd m5s voto due relatori__2026-07-28T22:01:00.000Z",
       "title": "Chat Delmastro, Pd e M5S al voto con due relatori",
@@ -1235,6 +1280,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "tg24.sky.it__sky tg24__chat delmastro scontro sulla decisione giunta nessuno scudo pm pensano consulta__2026-07-23T09:48:47.000Z",
+      "title": "Chat Delmastro, scontro sulla decisione della Giunta: 'Nessuno scudo'. I pm pensano alla Consulta",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOck02cjFkcTJyODhvaDRpMGRMRVZnOElKMHVfdGV3QjYzSnFzR0l4NlJpNFloTmoyQUZXUkV3QVBhdjdsOE9hWjVIczc4ZW5IV2VpMWNQQmE3YldLYWd4bmdQX2FxbGNJMjg5V2w2ZW50NzJ5a1djMXl5VTdiczl1NnQ1NnVMZnE3M2haZHIxX0Y3d0c0alpPUm8wbEFJdklnVEFhQko1bzhuajFyM2FPTkVZdkNHa3duMnh1UjlFaGpJcklYUDJ3MGpFZTZIcDBOcllETkJBWW9Vc3FxanpZ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOck02cjFkcTJyODhvaDRpMGRMRVZnOElKMHVfdGV3QjYzSnFzR0l4NlJpNFloTmoyQUZXUkV3QVBhdjdsOE9hWjVIczc4ZW5IV2VpMWNQQmE3YldLYWd4bmdQX2FxbGNJMjg5V2w2ZW50NzJ5a1djMXl5VTdiczl1NnQ1NnVMZnE3M2haZHIxX0Y3d0c0alpPUm8wbEFJdklnVEFhQko1bzhuajFyM2FPTkVZdkNHa3duMnh1UjlFaGpJcklYUDJ3MGpFZTZIcDBOcllETkJBWW9Vc3FxanpZ?oc=5",
+      "source": "Sky TG24",
+      "sourceHost": "tg24.sky.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-07-23T09:48:47.000Z",
+      "excerpt": "Chat Delmastro, scontro sulla decisione della Giunta: 'Nessuno scudo'. I pm pensano alla Consulta",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "corriere.it__corriere della sera__pittalis ma quale salvacondotto delmastro pm passi prima giudice non puo controllare se stesso__2026-07-23T06:39:52.000Z",
       "title": "Pittalis: «Ma quale salvacondotto per Delmastro. Il pm passi prima da un giudice, non può controllare sé stesso»",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQYVhORnlhbWtuZkJObk5XdnV5ZG9aZnhLM3I4U2I2MjcwQXZzaWpzdjQ2c0xPMEJSX0U0bE4xS3FIS09PSkJCTjBIM1QzQ0U3VU1KQnR1cnFVdWs3UUZteG9FbE95VHZBRDl6aDFhanFCbWMzVEdzZlN6bWNHMWRoSFFXRGxmVnJhQ2d1MG9xczlBVFc4NlVHeUJaUkgyWEtJRFRqNE9CYndlbXZVVFdSZzZtMlpsRDN1WVhwNHRHNktSWVU5dWpCSmN5Uk9JaTZQSGlvd0hrZU0wUmZhS2h0eWcwUmtvVWt0YmZ2U2FMNFNXbHNuR0FRWTlvRnNTbXQteGZmb2ZMOWx3TmpWR1IwQ1RiQ0pkZi1wSFYzWGhCd0RJelnSAagCQVVfeXFMTkwzUmJrWDFYbUc5YzAzdVBMVGwwMDVxZjdGbWRacXZaWjRTVVpyT3hxVlRLME5rVlllQTh6YzFIZzRXYlRjbEJYcVM0SUhqenpGTWdmdTBuMGhpSDZuMGg0NnNRY3doTWdLcGxrMDRCcFo4OHBXYW5pY04tMVRIM21YWVgyTmV1bTdFYVdFQWpENWdUT0sxa25hRFRsclEwWkdhb1JrNk0xaU02ZUhPbTl3d3EzMXk4eWQ0SnRnU3VWZE5NMmNtdVJsS3BCa2NkTFR3OGpCZUpBN2Y3RFhqNGRmZVlEWG1UdUlBOWNrSXhDRU00MWZTME5GMzJBMVNxU3gzT3FkQnZ5WWlQMHhZZWlzd2lIakFaaXZVLXBqVHRxNFhWajY5WUo?oc=5",
@@ -1755,6 +1820,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "tg24.sky.it__sky tg24__caso delmastro giunta autorizzazioni boccia acquisizioni chat caroccia__2026-07-22T15:24:52.000Z",
+      "title": "Caso Delmastro, giunta autorizzazioni boccia acquisizioni chat con Caroccia",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVpFZm83bDU4UkcxOVgya3FIY3Q0cF9Za3VGYlk3RndUZENpeWEzQnJvNllTSWh6aUZRWFQ4LWZqSXVpMzZ5eU5Kc2NPcnZZc1JpOWIzOVVoZGlBNlpkWlJFR3RDT0FpOE9yNWlnbFZYd0hwYkZRQU5QcENNc0txcGJrOXc2S01Gak0zV1YwdjBQODFyZnRuSEpjQ25fdUc1MmdPYUVMeG9MS1VfNXFfZDJNd1I3eDhhZGVzbXBaRmVPejNQMFpJ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVpFZm83bDU4UkcxOVgya3FIY3Q0cF9Za3VGYlk3RndUZENpeWEzQnJvNllTSWh6aUZRWFQ4LWZqSXVpMzZ5eU5Kc2NPcnZZc1JpOWIzOVVoZGlBNlpkWlJFR3RDT0FpOE9yNWlnbFZYd0hwYkZRQU5QcENNc0txcGJrOXc2S01Gak0zV1YwdjBQODFyZnRuSEpjQ25fdUc1MmdPYUVMeG9MS1VfNXFfZDJNd1I3eDhhZGVzbXBaRmVPejNQMFpJ?oc=5",
+      "source": "Sky TG24",
+      "sourceHost": "tg24.sky.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-07-22T15:24:52.000Z",
+      "excerpt": "Caso Delmastro, giunta autorizzazioni boccia acquisizioni chat con Caroccia",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "quotidiano.net__quotidiano nazionale__m5s occupa banchi aula senato caso delmastro esposti cartelli fuori chat__2026-07-22T15:05:43.000Z",
       "title": "M5s occupa banchi Aula Senato per caso Delmastro, esposti i cartelli \"Fuori le chat\"",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbGVjSmZ1NTNXX0NiSlRDWEw3UUxVYmlVc3Q4ZkZMaWxDMjlGOVlqT24yZnpTT2RHazFYNGJhaE54bERpTXNZbjFnWEpjX0tQcjJscGJkNmItUm1RZzQxUVdHLW91Z3l6ZzFGQkNGcjFPTl9sV0tud2tvVFduQzNnd0NhdVFRNk1PMTU5MUlEck1xNFF0Vkd2OWx4MTc4WmlMODUydTdLQ0x0eUJ4bWlaejQ4cjY5cXFwVjJqVXQ3NHByQllFVW1YTDN1d2k?oc=5",
@@ -1991,26 +2076,6 @@
       ],
       "publishedAt": "2026-07-22T12:21:00.000Z",
       "excerpt": "La maggioranza dice \"no\" ai magistrati per le chat di Delmastro e Caroccia. M5s occupa i banchi del governo: \"Vergogna\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro vannacci fine questione morale italia__2026-07-22T12:12:58.000Z",
-      "title": "Delmastro, Vannacci e la fine della questione morale in Italia",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVy1VczFlTlJ1Vm1zdFVmdzd5bDctVkpzX05zVWNmMURKb0dEX0kySnNteWtvci1PbXBKam1qYjItaERuX2E5X0oyRXZxUndFLUl1ODEwaTUzbG16NXgxZkRXMC1nTkcwdWpvQXFYOXphTzliVUw3RU1valdFOFZVR0ozUXJCYWVlVlcwSS1mLTg4YnFyV2QzYkJhWmtaWU5FaU5PdlJINTdZcUU?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVy1VczFlTlJ1Vm1zdFVmdzd5bDctVkpzX05zVWNmMURKb0dEX0kySnNteWtvci1PbXBKam1qYjItaERuX2E5X0oyRXZxUndFLUl1ODEwaTUzbG16NXgxZkRXMC1nTkcwdWpvQXFYOXphTzliVUw3RU1valdFOFZVR0ozUXJCYWVlVlcwSS1mLTg4YnFyV2QzYkJhWmtaWU5FaU5PdlJINTdZcUU?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-07-22T12:12:58.000Z",
-      "excerpt": "Delmastro, Vannacci e la fine della questione morale in Italia",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2395,8 +2460,8 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilgiornale.it__il giornale__video m5s occupa banchi aula senato caso delmastro esposti cartelli fuori chat__2026-07-22T09:34:12.000Z",
-      "title": "VIDEO: M5s occupa banchi Aula Senato per caso Delmastro, esposti i cartelli \"Fuori le chat\"",
+      "id": "ilgiornale.it__il giornale__m5s occupa banchi aula senato caso delmastro esposti cartelli fuori chat__2026-07-22T09:34:12.000Z",
+      "title": "M5s occupa banchi Aula Senato per caso Delmastro, esposti i cartelli \"Fuori le chat\"",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEoweFhManhhakNzcWNySGl1MzF3enhSUnVRYnMtamVXZnZ3TDNRNzdhWG9lRHkyb1YxRHVYX2JjQ08zQU1nRjFRaTdGa3F6cU9KVGFnSWx0OV83SGxuRjBnTmV3U2EyVEJlMEY3aFRTMm9NVmFPaG5qTnNqWVp3WlBqOEd5S3JYTHEzamV4RmFyQm5iX3NkR0d2cTl6WWdCT3Z6YUx4U09yQnc?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEoweFhManhhakNzcWNySGl1MzF3enhSUnVRYnMtamVXZnZ3TDNRNzdhWG9lRHkyb1YxRHVYX2JjQ08zQU1nRjFRaTdGa3F6cU9KVGFnSWx0OV83SGxuRjBnTmV3U2EyVEJlMEY3aFRTMm9NVmFPaG5qTnNqWVp3WlBqOEd5S3JYTHEzamV4RmFyQm5iX3NkR0d2cTl6WWdCT3Z6YUx4U09yQnc?oc=5",
       "source": "il Giornale",
@@ -2410,7 +2475,7 @@
         "altro"
       ],
       "publishedAt": "2026-07-22T09:34:12.000Z",
-      "excerpt": "VIDEO: M5s occupa banchi Aula Senato per caso Delmastro, esposti i cartelli \"Fuori le chat\"",
+      "excerpt": "M5s occupa banchi Aula Senato per caso Delmastro, esposti i cartelli \"Fuori le chat\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

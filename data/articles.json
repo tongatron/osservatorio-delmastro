@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T03:42:19.790Z",
+  "generatedAt": "2026-07-30T06:33:53.166Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-06-15T03:42:19.790Z",
-    "to": "2026-07-30T03:42:19.790Z",
+    "from": "2026-06-15T06:33:53.166Z",
+    "to": "2026-07-30T06:33:53.166Z",
     "days": 45
   },
   "sources": [
@@ -183,18 +183,23 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 256,
-      "uniqueArticles": 128
+      "fetchedArticles": 250,
+      "uniqueArticles": 125
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 93,
+      "fetchedArticles": 89,
       "uniqueArticles": 9
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 69,
-      "uniqueArticles": 7
+      "fetchedArticles": 70,
+      "uniqueArticles": 8
+    },
+    {
+      "label": "Persone collegate",
+      "fetchedArticles": 60,
+      "uniqueArticles": 2
     },
     {
       "label": "Filone giudiziario",
@@ -205,11 +210,6 @@
       "label": "Territorio",
       "fetchedArticles": 2,
       "uniqueArticles": 1
-    },
-    {
-      "label": "Persone collegate",
-      "fetchedArticles": 58,
-      "uniqueArticles": 0
     }
   ],
   "tagSummary": [
@@ -522,10 +522,10 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "repubblica.it__la repubblica__caso delmastro procura roma scrive camera quelle chat vanno acquisite__2026-07-29T18:29:11.000Z",
-      "title": "Caso Delmastro, la procura di Roma scrive alla Camera: “Quelle chat vanno acquisite”",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWDJjWTU5VWdvNFBLZEJ2bVRGUk1ISDF4WnZ4RGUtTVRyNkpUZFN6SUxQb0JXMVFUMkQwM3lOc05waVByTlpOYWxHd3FsQmdCMEk1TGMwZkpWSi0yRTR2OWF0Ui1VY3F3MGNUVkJrX2lpM3hUa3pMNHFDTnkxQlBKb0hQek1Vb1ZhZ0hFSmRtRnhWUE5vY2g4VXVMTndvQ0h3eV9sT3BySFU1LVFvVWhlTktlUjRPcWVSbXhVUmJIYXA5aU5Rc1HSAcYBQVVfeXFMTlgyY1k1OVVnbzRQS2RCdm1URlJNSEgxeFp2eERlLU1UcjZKVGRTeklMUG9CVzFRVDJEMDN5TnNOcGlQck5aTmFsR3dxbEJnQjBJNUxjMGZKVkotMkU0djlhdFItVWNxdzBjVFZCa19paTN4VGt6TDRxQ055MUJQSm9IUHpNVW9WYWdIRUpkbUZ4VlBOb2NoOFV1TE53b0NId3lfbE9wckhVNS1Rb1VoZU5LZVI0T3FlUm14VVJiSGFwOWlOUXNR?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWDJjWTU5VWdvNFBLZEJ2bVRGUk1ISDF4WnZ4RGUtTVRyNkpUZFN6SUxQb0JXMVFUMkQwM3lOc05waVByTlpOYWxHd3FsQmdCMEk1TGMwZkpWSi0yRTR2OWF0Ui1VY3F3MGNUVkJrX2lpM3hUa3pMNHFDTnkxQlBKb0hQek1Vb1ZhZ0hFSmRtRnhWUE5vY2g4VXVMTndvQ0h3eV9sT3BySFU1LVFvVWhlTktlUjRPcWVSbXhVUmJIYXA5aU5Rc1HSAcYBQVVfeXFMTlgyY1k1OVVnbzRQS2RCdm1URlJNSEgxeFp2eERlLU1UcjZKVGRTeklMUG9CVzFRVDJEMDN5TnNOcGlQck5aTmFsR3dxbEJnQjBJNUxjMGZKVkotMkU0djlhdFItVWNxdzBjVFZCa19paTN4VGt6TDRxQ055MUJQSm9IUHpNVW9WYWdIRUpkbUZ4VlBOb2NoOFV1TE53b0NId3lfbE9wckhVNS1Rb1VoZU5LZVI0T3FlUm14VVJiSGFwOWlOUXNR?oc=5",
+      "id": "repubblica.it__la repubblica__caso delmastro procura roma scrive camera quelle chat servono difesa__2026-07-29T18:29:11.000Z",
+      "title": "Caso Delmastro, la procura di Roma scrive alla Camera: “Quelle chat servono alla difesa”",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZUp6Sm40UnJlZkF5aklJN2RTS2YzbHpneVpxRXRhbEZyT3NfRjRnVEJTcl9YSzVDd05jZ0lQRjU4M0hkd1BlRkk5VUpkUHRYdGZUazBPbUJCNDBxTllFRVR6RlR4MUJKMVdCbUpEdHc1WUtTSFFOZXAzRHVscDRGOHJKaHVmNGw5NWdQVW1oazVwblR3WnBiV0QxMUlvSi1OZENVSDJqbEtCbmhWNy11ZGdfcVZOMWQyUDd1SU9EdVbSAcYBQVVfeXFMTlgyY1k1OVVnbzRQS2RCdm1URlJNSEgxeFp2eERlLU1UcjZKVGRTeklMUG9CVzFRVDJEMDN5TnNOcGlQck5aTmFsR3dxbEJnQjBJNUxjMGZKVkotMkU0djlhdFItVWNxdzBjVFZCa19paTN4VGt6TDRxQ055MUJQSm9IUHpNVW9WYWdIRUpkbUZ4VlBOb2NoOFV1TE53b0NId3lfbE9wckhVNS1Rb1VoZU5LZVI0T3FlUm14VVJiSGFwOWlOUXNR?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZUp6Sm40UnJlZkF5aklJN2RTS2YzbHpneVpxRXRhbEZyT3NfRjRnVEJTcl9YSzVDd05jZ0lQRjU4M0hkd1BlRkk5VUpkUHRYdGZUazBPbUJCNDBxTllFRVR6RlR4MUJKMVdCbUpEdHc1WUtTSFFOZXAzRHVscDRGOHJKaHVmNGw5NWdQVW1oazVwblR3WnBiV0QxMUlvSi1OZENVSDJqbEtCbmhWNy11ZGdfcVZOMWQyUDd1SU9EdVbSAcYBQVVfeXFMTlgyY1k1OVVnbzRQS2RCdm1URlJNSEgxeFp2eERlLU1UcjZKVGRTeklMUG9CVzFRVDJEMDN5TnNOcGlQck5aTmFsR3dxbEJnQjBJNUxjMGZKVkotMkU0djlhdFItVWNxdzBjVFZCa19paTN4VGt6TDRxQ055MUJQSm9IUHpNVW9WYWdIRUpkbUZ4VlBOb2NoOFV1TE53b0NId3lfbE9wckhVNS1Rb1VoZU5LZVI0T3FlUm14VVJiSGFwOWlOUXNR?oc=5",
       "source": "la Repubblica",
       "sourceHost": "repubblica.it",
       "queryLabel": "Delmastro generale",
@@ -537,27 +537,32 @@
         "giudiziaria"
       ],
       "publishedAt": "2026-07-29T18:29:11.000Z",
-      "excerpt": "Caso Delmastro, la procura di Roma scrive alla Camera: “Quelle chat vanno acquisite”",
+      "excerpt": "Caso Delmastro, la procura di Roma scrive alla Camera: “Quelle chat servono alla difesa”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "repubblica.it__la repubblica__caso delmastro procura roma scrive camera quelle chat servono difesa__2026-07-29T18:29:11.000Z",
-      "title": "Caso Delmastro, la procura di Roma scrive alla Camera: “Quelle chat servono alla difesa”",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZUp6Sm40UnJlZkF5aklJN2RTS2YzbHpneVpxRXRhbEZyT3NfRjRnVEJTcl9YSzVDd05jZ0lQRjU4M0hkd1BlRkk5VUpkUHRYdGZUazBPbUJCNDBxTllFRVR6RlR4MUJKMVdCbUpEdHc1WUtTSFFOZXAzRHVscDRGOHJKaHVmNGw5NWdQVW1oazVwblR3WnBiV0QxMUlvSi1OZENVSDJqbEtCbmhWNy11ZGdfcVZOMWQyUDd1SU9EdVbSAcYBQVVfeXFMTlgyY1k1OVVnbzRQS2RCdm1URlJNSEgxeFp2eERlLU1UcjZKVGRTeklMUG9CVzFRVDJEMDN5TnNOcGlQck5aTmFsR3dxbEJnQjBJNUxjMGZKVkotMkU0djlhdFItVWNxdzBjVFZCa19paTN4VGt6TDRxQ055MUJQSm9IUHpNVW9WYWdIRUpkbUZ4VlBOb2NoOFV1TE53b0NId3lfbE9wckhVNS1Rb1VoZU5LZVI0T3FlUm14VVJiSGFwOWlOUXNR?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZUp6Sm40UnJlZkF5aklJN2RTS2YzbHpneVpxRXRhbEZyT3NfRjRnVEJTcl9YSzVDd05jZ0lQRjU4M0hkd1BlRkk5VUpkUHRYdGZUazBPbUJCNDBxTllFRVR6RlR4MUJKMVdCbUpEdHc1WUtTSFFOZXAzRHVscDRGOHJKaHVmNGw5NWdQVW1oazVwblR3WnBiV0QxMUlvSi1OZENVSDJqbEtCbmhWNy11ZGdfcVZOMWQyUDd1SU9EdVbSAcYBQVVfeXFMTlgyY1k1OVVnbzRQS2RCdm1URlJNSEgxeFp2eERlLU1UcjZKVGRTeklMUG9CVzFRVDJEMDN5TnNOcGlQck5aTmFsR3dxbEJnQjBJNUxjMGZKVkotMkU0djlhdFItVWNxdzBjVFZCa19paTN4VGt6TDRxQ055MUJQSm9IUHpNVW9WYWdIRUpkbUZ4VlBOb2NoOFV1TE53b0NId3lfbE9wckhVNS1Rb1VoZU5LZVI0T3FlUm14VVJiSGFwOWlOUXNR?oc=5",
+      "id": "repubblica.it__la repubblica__caso delmastro procura roma scrive camera quelle chat vanno acquisite__2026-07-29T18:29:11.000Z",
+      "title": "Caso Delmastro, la procura di Roma scrive alla Camera: “Quelle chat vanno acquisite”",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWDJjWTU5VWdvNFBLZEJ2bVRGUk1ISDF4WnZ4RGUtTVRyNkpUZFN6SUxQb0JXMVFUMkQwM3lOc05waVByTlpOYWxHd3FsQmdCMEk1TGMwZkpWSi0yRTR2OWF0Ui1VY3F3MGNUVkJrX2lpM3hUa3pMNHFDTnkxQlBKb0hQek1Vb1ZhZ0hFSmRtRnhWUE5vY2g4VXVMTndvQ0h3eV9sT3BySFU1LVFvVWhlTktlUjRPcWVSbXhVUmJIYXA5aU5Rc1HSAcYBQVVfeXFMTlgyY1k1OVVnbzRQS2RCdm1URlJNSEgxeFp2eERlLU1UcjZKVGRTeklMUG9CVzFRVDJEMDN5TnNOcGlQck5aTmFsR3dxbEJnQjBJNUxjMGZKVkotMkU0djlhdFItVWNxdzBjVFZCa19paTN4VGt6TDRxQ055MUJQSm9IUHpNVW9WYWdIRUpkbUZ4VlBOb2NoOFV1TE53b0NId3lfbE9wckhVNS1Rb1VoZU5LZVI0T3FlUm14VVJiSGFwOWlOUXNR?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWDJjWTU5VWdvNFBLZEJ2bVRGUk1ISDF4WnZ4RGUtTVRyNkpUZFN6SUxQb0JXMVFUMkQwM3lOc05waVByTlpOYWxHd3FsQmdCMEk1TGMwZkpWSi0yRTR2OWF0Ui1VY3F3MGNUVkJrX2lpM3hUa3pMNHFDTnkxQlBKb0hQek1Vb1ZhZ0hFSmRtRnhWUE5vY2g4VXVMTndvQ0h3eV9sT3BySFU1LVFvVWhlTktlUjRPcWVSbXhVUmJIYXA5aU5Rc1HSAcYBQVVfeXFMTlgyY1k1OVVnbzRQS2RCdm1URlJNSEgxeFp2eERlLU1UcjZKVGRTeklMUG9CVzFRVDJEMDN5TnNOcGlQck5aTmFsR3dxbEJnQjBJNUxjMGZKVkotMkU0djlhdFItVWNxdzBjVFZCa19paTN4VGt6TDRxQ055MUJQSm9IUHpNVW9WYWdIRUpkbUZ4VlBOb2NoOFV1TE53b0NId3lfbE9wckhVNS1Rb1VoZU5LZVI0T3FlUm14VVJiSGFwOWlOUXNR?oc=5",
       "source": "la Repubblica",
       "sourceHost": "repubblica.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
       ],
       "tags": [
         "giudiziaria"
       ],
       "publishedAt": "2026-07-29T18:29:11.000Z",
-      "excerpt": "Caso Delmastro, la procura di Roma scrive alla Camera: “Quelle chat servono alla difesa”",
+      "excerpt": "Caso Delmastro, la procura di Roma scrive alla Camera: “Quelle chat vanno acquisite”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -642,11 +647,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfoglio.it__ilfoglio.it__andrea delmastro__2026-07-29T13:46:55.000Z",
+      "id": "ilfoglio.it__il foglio__andrea delmastro__2026-07-29T13:46:55.000Z",
       "title": "Andrea Delmastro",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TVHhSYzRmZXY0RUtpSTJwRUNsY0NEekdTUzFjYmpWTFlSUG91R2hDS1dmX0JXMWZmTldCQVRhcjEwYmNoQzFaY2hYRmVrMllETFRZNy11LWp1N0YtQmtQcHZ1MA?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TVHhSYzRmZXY0RUtpSTJwRUNsY0NEekdTUzFjYmpWTFlSUG91R2hDS1dmX0JXMWZmTldCQVRhcjEwYmNoQzFaY2hYRmVrMllETFRZNy11LWp1N0YtQmtQcHZ1MA?oc=5",
-      "source": "ilfoglio.it",
+      "source": "Il Foglio",
       "sourceHost": "ilfoglio.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -662,11 +667,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfoglio.it__ilfoglio.it__andrea delmastro vedove__2026-07-29T13:20:03.000Z",
+      "id": "ilfoglio.it__il foglio__andrea delmastro vedove__2026-07-29T13:20:03.000Z",
       "title": "Andrea Delmastro Delle Vedove",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RUVJPM0dwaWY4aVF6X29fbWd4SzJLWk1Pb0swMUxlb2RrN0tOVjA5YmpFQkN2TWJkZG9FZW9NeGUzdEdGREZYZjBOOVU4VS03aWptVUl5eUEyX3dXc0d5MThpTnc4OGdzOHVrX28wbFpzRmlG?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RUVJPM0dwaWY4aVF6X29fbWd4SzJLWk1Pb0swMUxlb2RrN0tOVjA5YmpFQkN2TWJkZG9FZW9NeGUzdEdGREZYZjBOOVU4VS03aWptVUl5eUEyX3dXc0d5MThpTnc4OGdzOHVrX28wbFpzRmlG?oc=5",
-      "source": "ilfoglio.it",
+      "source": "Il Foglio",
       "sourceHost": "ilfoglio.it",
       "queryLabel": "Soci e societa'",
       "matchedTerms": [
@@ -1626,10 +1631,12 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPSVFtVGIyVGdpaHBVVFdJLUZmb3VtY3poSTVGd1gtODJLb2xiR0ZuU0tUVkhFWkdNczJaWHRsTm1IWXF1TlFNX3NkWGRUTEtjZ1lyaEprNjlyLVIyS3RhZFFEWEFtM1BBcUtyYUd0ZW1vclo2VEFNbUV4cXFLTmVPTnpiazlLTjh4TUtENTFrYjVNMkh5S0ZPTWV6MW9ob1RrdHBGZEV6SVlnc0Z0ZDV2ZnY0TUhKdWs5TlhMeTBNU012RFBSOXlOcVU2TEtiaUxCbE5LOG90b0h3M1JEc0lRaGU0eWkzSTdvV0tmV3pzVnhPY0FkSExUYmZhZVRFMFBfM0kzbC0tSzBOSHlGZHpqVU5aN0pEbWhvRGdsWGRNRlFFNU9TR3hYdGJuQnJHaExIZlN2UXBIeVozdXdGLTlWeFIycUV5MFhhQkE?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Persone collegate",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Elena Chiorino",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "clan Senese"
       ],
       "tags": [
         "giudiziaria"
@@ -2247,11 +2254,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilpost.it__ilpost.it__video zuffa senato chat andrea delmastro__2026-07-22T12:11:55.000Z",
+      "id": "ilpost.it__il post__video zuffa senato chat andrea delmastro__2026-07-22T12:11:55.000Z",
       "title": "I video della zuffa al Senato per le chat di Andrea Delmastro",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rZHlyOEdOSUhaZTNMdENVUkJpTEZIOXEwdW1PSUJncnZkZ1drOV9UNEtqN00zcFZnZjNtazVVSkxOR2h6amhoZjVQVGxYVmNtNzFNYzVkUmtpOHhSbW1wVHVtbTFVcXZna1ktOHNFVEJRdw?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rZHlyOEdOSUhaZTNMdENVUkJpTEZIOXEwdW1PSUJncnZkZ1drOV9UNEtqN00zcFZnZjNtazVVSkxOR2h6amhoZjVQVGxYVmNtNzFNYzVkUmtpOHhSbW1wVHVtbTFVcXZna1ktOHNFVEJRdw?oc=5",
-      "source": "ilpost.it",
+      "source": "Il Post",
       "sourceHost": "ilpost.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2407,11 +2414,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfoglio.it__ilfoglio.it__caso delmastro no giunta all acquisizione chat lui caroccia m5s occupa banchi governo__2026-07-22T10:43:00.000Z",
+      "id": "ilfoglio.it__il foglio__caso delmastro no giunta all acquisizione chat lui caroccia m5s occupa banchi governo__2026-07-22T10:43:00.000Z",
       "title": "Caso Delmastro. No della Giunta all'acquisizione delle chat tra lui e Caroccia. Il M5s occupa i banchi del governo",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZ0xzY2VUR0laeU5CRUFqQTJ3cGxWVHRuZVJyVk9ZR0swOERsMUpFUHg4RmNDSGVybExYczdRdnVMSXAxUUpWVzFmc2pjeFkxdHB3YmpYUGp1N2lsNzBkWFVDRk5LUEFDcE9rcnRGQlc4NFUtQ0dhUFdPSmpBM3ZnVzdtOXgtUm1sOHFHRTltSHVnWDR6MUxobzEtWTZSWHpWQ3pQZ0MyVnY1WTQySzBLWUhOajdDaFdwREQ1NEpmZFlOclhRUHJudENlTzlwNjRSZkpwRmw0RExFVUpjT3QyMGgzZzdvbnk0SmpLcmxMTHpUd0YtXzFJMV9LZmhFQQ?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZ0xzY2VUR0laeU5CRUFqQTJ3cGxWVHRuZVJyVk9ZR0swOERsMUpFUHg4RmNDSGVybExYczdRdnVMSXAxUUpWVzFmc2pjeFkxdHB3YmpYUGp1N2lsNzBkWFVDRk5LUEFDcE9rcnRGQlc4NFUtQ0dhUFdPSmpBM3ZnVzdtOXgtUm1sOHFHRTltSHVnWDR6MUxobzEtWTZSWHpWQ3pQZ0MyVnY1WTQySzBLWUhOajdDaFdwREQ1NEpmZFlOclhRUHJudENlTzlwNjRSZkpwRmw0RExFVUpjT3QyMGgzZzdvbnk0SmpLcmxMTHpUd0YtXzFJMV9LZmhFQQ?oc=5",
-      "source": "ilfoglio.it",
+      "source": "Il Foglio",
       "sourceHost": "ilfoglio.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2487,11 +2494,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "fanpage.it__youmedia.fanpage.it__caso delmastro m5s occupa banchi governo fuori chat__2026-07-22T10:21:00.000Z",
+      "id": "fanpage.it__fanpage__caso delmastro m5s occupa banchi governo fuori chat__2026-07-22T10:21:00.000Z",
       "title": "Caso Delmastro, il M5S occupa i banchi del Governo: \"Fuori le chat\"",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02R29rSnBnbkItbWVoNWNPYy1iZlBqV0NzdVZTeVk5aElCTUF4U0l3WW9qUlJMZmpIb1hsMDZPdHR4ZDlXNTFXWTlMNXlWT20wdTQ0bWRfSzBsaWpZZldYX1c1bw?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02R29rSnBnbkItbWVoNWNPYy1iZlBqV0NzdVZTeVk5aElCTUF4U0l3WW9qUlJMZmpIb1hsMDZPdHR4ZDlXNTFXWTlMNXlWT20wdTQ0bWRfSzBsaWpZZldYX1c1bw?oc=5",
-      "source": "youmedia.fanpage.it",
+      "source": "Fanpage",
       "sourceHost": "fanpage.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -2673,10 +2680,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHg3RWtHaEw1Q29rd0hGWWdlOUZEVWNHMjh1b2kxanJzdkR5bXFGMFEzZXdYbUw3WGtGY2hxbDhjZUFvVlRZZ2lSRHlVRTBSTEtaN0JTVUotUjNuWkNWai16Zm1LZ1otX3djVlFJcVc5dGF5RVRaenVaNjJGdmVGdHZSOVJkT1d5ZkUtMjlWVGxGbGlSejRHU2YwN0JHWUxXS2JTRkh4WFF6anlrWExuYmRR?oc=5",
       "source": "Adnkronos",
       "sourceHost": "adnkronos.com",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "politica"
@@ -2779,10 +2786,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcmgtVHMtUnhCc3psUldyY2tINHhzajlfbURSUXBkVmhGWVZIenpvTm5XYUg3ZjFNQlBnTF81UTU0YnhYal9HZ3ZpUW93OTl1TUhkcjNqU1JzXzVVeC1wMmlPTHRaRG1QNWxqQ21Ec0RHODJZdEZCTWcxUkN0ZkVyRVp2M1lOdkFHZmJQd3FrcHBXdUthV24tYU0zbjRkaGQ2b29vZGRBUmRaeHJhSFFhSE0xQUdTQQ?oc=5",
       "source": "Adnkronos",
       "sourceHost": "adnkronos.com",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Bisteccheria",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "giudiziaria"
@@ -3055,14 +3062,11 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV1BKaUl4SHFYWDhQcWtrc3FnYm8xYURQa1hpVVV1Tmg5eEJCZlJmZWxFczBUR2tZWFhGODRIZ2RMcXFVc3ItZE9iRWRnWmx3MkNjNmFPX3RVQWd5OWFwRFhoZm00NmhRdWpyV1V2eERiTTFXejFrLW9OMF9zSnpKaHRxZEF0cEJhLUd5QWNRMVhRaVJmcUM4RFc2YkxDWWNTamhfRXhtaVpPblVaNm0wSlFpaFhQa08tWG52RXdSdFc1eEpodXlKYlhn?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Soci e societa'",
+      "queryLabel": "Persone collegate",
       "matchedTerms": [
-        "Caroccia",
+        "Elena Chiorino",
         "Cristiano Franceschini",
         "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl",
         "clan Senese"
       ],
       "tags": [

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T10:30:41.078Z",
+  "generatedAt": "2026-08-22T11:26:31.568Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,14 +94,14 @@
     ]
   },
   "window": {
-    "from": "2026-07-08T10:30:41.078Z",
-    "to": "2026-08-22T10:30:41.078Z",
+    "from": "2026-07-08T11:26:31.568Z",
+    "to": "2026-08-22T11:26:31.568Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 60
+      "articleCount": 59
     },
     {
       "label": "repubblica.it",
@@ -141,7 +141,7 @@
     },
     {
       "label": "ilgiornale.it",
-      "articleCount": 9
+      "articleCount": 10
     },
     {
       "label": "agi.it",
@@ -160,12 +160,12 @@
       "articleCount": 7
     },
     {
-      "label": "tgcom24.mediaset.it",
+      "label": "liberoquotidiano.it",
       "articleCount": 4
     },
     {
-      "label": "liberoquotidiano.it",
-      "articleCount": 3
+      "label": "tgcom24.mediaset.it",
+      "articleCount": 4
     },
     {
       "label": "ilpost.it",
@@ -188,17 +188,17 @@
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 93,
+      "fetchedArticles": 92,
+      "uniqueArticles": 2
+    },
+    {
+      "label": "Filone giudiziario",
+      "fetchedArticles": 55,
       "uniqueArticles": 2
     },
     {
       "label": "Soci e societa'",
       "fetchedArticles": 159,
-      "uniqueArticles": 1
-    },
-    {
-      "label": "Filone giudiziario",
-      "fetchedArticles": 54,
       "uniqueArticles": 1
     },
     {
@@ -210,7 +210,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 173
+      "count": 174
     },
     {
       "tag": "giudiziaria",
@@ -272,7 +272,7 @@
     },
     {
       "date": "2026-07-17",
-      "count": 5
+      "count": 4
     },
     {
       "date": "2026-07-18",
@@ -348,7 +348,7 @@
     },
     {
       "date": "2026-08-05",
-      "count": 59
+      "count": 61
     },
     {
       "date": "2026-08-06",
@@ -1704,6 +1704,28 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "ilgiornale.it__il giornale__chat delmastro si decide aula sinistra insorge va consulta__2026-08-05T07:00:00.000Z",
+      "title": "Chat di Delmastro si decide in Aula. La sinistra insorge e va alla Consulta",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQmVqLUpOYkRQckFpbEJ0d2FEVE9rdkdBNVBJbkh0Q090T3N0bGlGSm12Y0k0aUZBQ3pCY1djUVlueVVpci1BWnRvOFc5cGxZa1ZVTC05dHVzUWtORVVlUnQwRHEyTTdSSWVKaldaVndhNXJ3Z3VHZzM2cG1qUHlrSHRmdG9BOHJra09jUXpFaVFBT2hBaVdhZml0S25BNkJmSmZDMnFTbFZFbV9mNF9Wc21tenBzVUEt?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQmVqLUpOYkRQckFpbEJ0d2FEVE9rdkdBNVBJbkh0Q090T3N0bGlGSm12Y0k0aUZBQ3pCY1djUVlueVVpci1BWnRvOFc5cGxZa1ZVTC05dHVzUWtORVVlUnQwRHEyTTdSSWVKaldaVndhNXJ3Z3VHZzM2cG1qUHlrSHRmdG9BOHJra09jUXpFaVFBT2hBaVdhZml0S25BNkJmSmZDMnFTbFZFbV9mNF9Wc21tenBzVUEt?oc=5",
+      "source": "il Giornale",
+      "sourceHost": "ilgiornale.it",
+      "queryLabel": "Filone giudiziario",
+      "matchedTerms": [
+        "intestazione fittizia di beni",
+        "antimafia",
+        "indagine Delmastro",
+        "pm Torino"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "excerpt": "Chat di Delmastro si decide in Aula. La sinistra insorge e va alla Consulta",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "liberoquotidiano.it__libero quotidiano__chat delmastro bagarre aula camera durante intervento conte deputato fdi allontanato libero quotidiano it__2026-08-05T07:00:00.000Z",
       "title": "Chat Delmastro, Bagarre in Aula alla Camera durante intervento Conte, deputato di FdI allontanato | Libero Quotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZFBvWHJkWDJ6Y1JVNGdtYmJJRll0dy1SN3BSeHllcWdfWHp4OFFHWmRtLTVxTWk0Wkd4c1lHVktRcmExVzVlNTczNmZZenNWXzZnT0pSNW1KTHNoNUhvVFFfd3d6blZrZUVUcldHbWgySFJKZTlWT1BaLUdHV2xLbDlJR2tyYTBxNE5DdTNFdUxCb3lnQ0o3V3FaRVlaWHJsQXM1eGRFaFdSXzhEdE1ENlBJVGlwZ0cybS1IY0VfSVJsRkdhU3IydENlaHpnTkxnaEV3X0x3S0lLSzFQeU1GLURWWHlzQnN5V2lueUVnd3Fqd2lZ0gH4AUFVX3lxTE05Z1c3X2pHZmdJQkpRWEZ6U3BfbVAyWHVCV2NwS3FEWUU0eGdac0RFMDgxbU5wUkc2WTZYWmU1TENBQS1pekdsMGRDLTN4elh5RVMzd1R6XzR5Vk1YQlR5ZmpUamxyczdUWnZESEFBM2VKTTQzbmVUc1lWbUlyZDVEeldwTlJ1aThrYlh3MVI5N1BMM0M4ZjNfOWVsRVA5bnp4Mnlva205UTZSM0VUTzFTdGxFZWx4SUQ3SFpfckpUU25tUm1UOGc1WHpMT3Mtc0Q2QjJaVUhmMjRybkZrRGlQd2dhdi1VX2lqZHpYOHdJSzRqVzI3RnpK?oc=5",
@@ -1724,16 +1746,36 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "liberoquotidiano.it__libero quotidiano__delmastro no all accesso chat sinistra insorge bende urla minacce__2026-08-05T07:00:00.000Z",
-      "title": "Delmastro, no all'accesso alle chat. La sinistra insorge: bende, urla, minacce",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb0VNTFM3R2VmNklvNWFQTnpGeHdrZGRfU0FPY2tVeHZ3dWdvYVpsekttWWRzQkV4LWJYSERYdHBEbVhXblBZenhhOF9INExqTS1ycjRpWUhiYkpsU3cyRXRjMjFhUVlHaElsb3dwbzNDZk9FZFUzNEV5T3hDT1FPMzhLZmhranhHVmJxYUVjR2tldW1mVVhFeE1BZ29uNENueERMOGNXOFpPX3JXZFZVZ0I5a0xkNkVpYnY0eko2ZzZ3dw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb0VNTFM3R2VmNklvNWFQTnpGeHdrZGRfU0FPY2tVeHZ3dWdvYVpsekttWWRzQkV4LWJYSERYdHBEbVhXblBZenhhOF9INExqTS1ycjRpWUhiYkpsU3cyRXRjMjFhUVlHaElsb3dwbzNDZk9FZFUzNEV5T3hDT1FPMzhLZmhranhHVmJxYUVjR2tldW1mVVhFeE1BZ29uNENueERMOGNXOFpPX3JXZFZVZ0I5a0xkNkVpYnY0eko2ZzZ3dw?oc=5",
+      "id": "liberoquotidiano.it__libero quotidiano__delmastro no all accesso chat sinistra insorge bende urla minacce libero quotidiano it__2026-08-05T07:00:00.000Z",
+      "title": "Delmastro, no all'accesso alle chat. La sinistra insorge: bende, urla, minacce | Libero Quotidiano.it",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb0VNTFM3R2VmNklvNWFQTnpGeHdrZGRfU0FPY2tVeHZ3dWdvYVpsekttWWRzQkV4LWJYSERYdHBEbVhXblBZenhhOF9INExqTS1ycjRpWUhiYkpsU3cyRXRjMjFhUVlHaElsb3dwbzNDZk9FZFUzNEV5T3hDT1FPMzhLZmhranhHVmJxYUVjR2tldW1mVVhFeE1BZ29uNENueERMOGNXOFpPX3JXZFZVZ0I5a0xkNkVpYnY0eko2ZzZ3d9IBxgFBVV95cUxPTzlndXp2Nl9PN3lhTUdyYTlvelREaTk3QktsOERLNk44bFFFNUpDNkN5X1FLQW5PUlhTVFo0T3NWTGxWbzdpX0tSTlpMVHRMdndDTnNjVG5BUDJ3VmVSWGE1VzVVVEx3TFhEX0ZSSlVkTmg0Yi1tLXNwNWVhdklYaFRaeG5iZ1IyNlFmS3dadzBtSTRHZkNRdVNCR3pUb3Q1M3F5eEh0Qld6M1dtc0JDMS1WNnlOaTgzeDBqQWIwY2hrV2V5dHc?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb0VNTFM3R2VmNklvNWFQTnpGeHdrZGRfU0FPY2tVeHZ3dWdvYVpsekttWWRzQkV4LWJYSERYdHBEbVhXblBZenhhOF9INExqTS1ycjRpWUhiYkpsU3cyRXRjMjFhUVlHaElsb3dwbzNDZk9FZFUzNEV5T3hDT1FPMzhLZmhranhHVmJxYUVjR2tldW1mVVhFeE1BZ29uNENueERMOGNXOFpPX3JXZFZVZ0I5a0xkNkVpYnY0eko2ZzZ3d9IBxgFBVV95cUxPTzlndXp2Nl9PN3lhTUdyYTlvelREaTk3QktsOERLNk44bFFFNUpDNkN5X1FLQW5PUlhTVFo0T3NWTGxWbzdpX0tSTlpMVHRMdndDTnNjVG5BUDJ3VmVSWGE1VzVVVEx3TFhEX0ZSSlVkTmg0Yi1tLXNwNWVhdklYaFRaeG5iZ1IyNlFmS3dadzBtSTRHZkNRdVNCR3pUb3Q1M3F5eEh0Qld6M1dtc0JDMS1WNnlOaTgzeDBqQWIwY2hrV2V5dHc?oc=5",
       "source": "Libero Quotidiano",
       "sourceHost": "liberoquotidiano.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
         "Delmastro",
         "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "excerpt": "Delmastro, no all'accesso alle chat. La sinistra insorge: bende, urla, minacce | Libero Quotidiano.it",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "liberoquotidiano.it__libero quotidiano__delmastro no all accesso chat sinistra insorge bende urla minacce__2026-08-05T07:00:00.000Z",
+      "title": "Delmastro, no all'accesso alle chat. La sinistra insorge: bende, urla, minacce",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb0VNTFM3R2VmNklvNWFQTnpGeHdrZGRfU0FPY2tVeHZ3dWdvYVpsekttWWRzQkV4LWJYSERYdHBEbVhXblBZenhhOF9INExqTS1ycjRpWUhiYkpsU3cyRXRjMjFhUVlHaElsb3dwbzNDZk9FZFUzNEV5T3hDT1FPMzhLZmhranhHVmJxYUVjR2tldW1mVVhFeE1BZ29uNENueERMOGNXOFpPX3JXZFZVZ0I5a0xkNkVpYnY0eko2ZzZ3dw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb0VNTFM3R2VmNklvNWFQTnpGeHdrZGRfU0FPY2tVeHZ3dWdvYVpsekttWWRzQkV4LWJYSERYdHBEbVhXblBZenhhOF9INExqTS1ycjRpWUhiYkpsU3cyRXRjMjFhUVlHaElsb3dwbzNDZk9FZFUzNEV5T3hDT1FPMzhLZmhranhHVmJxYUVjR2tldW1mVVhFeE1BZ29uNENueERMOGNXOFpPX3JXZFZVZ0I5a0xkNkVpYnY0eko2ZzZ3dw?oc=5",
+      "source": "Libero Quotidiano",
+      "sourceHost": "liberoquotidiano.it",
+      "queryLabel": "Bisteccheria",
+      "matchedTerms": [
+        "Bisteccheria d'Italia",
+        "bisteccheria"
       ],
       "tags": [
         "altro"
@@ -5262,26 +5304,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "agi.it__agi__vergogna vergogna senatori m5s occupano banchi governo caso delmastro__2026-07-22T07:00:00.000Z",
-      "title": "\"Vergogna, vergogna\", Senatori M5s occupano i banchi del Governo per caso Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb0ZTRGhMV05wZ3NNY0FxUXBFa2ZlZ2ktQzFMZzFqdUhIQ1hvSkN6MGEyczBKVG5hOGVKTXFGZU45NmFKYVhKY0YtQjZ1bTMtdjZJdVZCVWpDMkVWcHhLZV80RmRlYklvTWI0VWw0eUlkR2c2aW55aWVLU0dkckl3ajFGSWRWUXp6YzIzQVV1MFFpdkpIS1BZZ2RyZ1BKcmdXUE5aLTBBTGx6Y1hGaWhybjVMdFVwdkNNNlltS1BwZmw2SE4xU0F1aE1tdFBjX2_SAdQBQVVfeXFMT0dYVXZIMUNreFJQbjNZbkhPZDJaU1c2ekg0b2lQMjlwN0NiTTZBX1dNb3pEZjRWNl8zQlRDYUpYcnNlbGJmdVd1ZFNlaHI3cERRc09RSThtTklnc1JWMVMxSmpCRkV3TWJUclgtei1FSTN5clV3YWtCVGhGWkotR0NPTU9rNGE2Tm55cXBlLVE2Tzd6SlZJb0JGQ0FiWjBDR3dzR0dQS203dDhwbUNvMlIzSnBoOHhmVndsR29SOUl4X0lsZjFZSERyeVZfQUFPR0huNkg?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb0ZTRGhMV05wZ3NNY0FxUXBFa2ZlZ2ktQzFMZzFqdUhIQ1hvSkN6MGEyczBKVG5hOGVKTXFGZU45NmFKYVhKY0YtQjZ1bTMtdjZJdVZCVWpDMkVWcHhLZV80RmRlYklvTWI0VWw0eUlkR2c2aW55aWVLU0dkckl3ajFGSWRWUXp6YzIzQVV1MFFpdkpIS1BZZ2RyZ1BKcmdXUE5aLTBBTGx6Y1hGaWhybjVMdFVwdkNNNlltS1BwZmw2SE4xU0F1aE1tdFBjX2_SAdQBQVVfeXFMT0dYVXZIMUNreFJQbjNZbkhPZDJaU1c2ekg0b2lQMjlwN0NiTTZBX1dNb3pEZjRWNl8zQlRDYUpYcnNlbGJmdVd1ZFNlaHI3cERRc09RSThtTklnc1JWMVMxSmpCRkV3TWJUclgtei1FSTN5clV3YWtCVGhGWkotR0NPTU9rNGE2Tm55cXBlLVE2Tzd6SlZJb0JGQ0FiWjBDR3dzR0dQS203dDhwbUNvMlIzSnBoOHhmVndsR29SOUl4X0lsZjFZSERyeVZfQUFPR0huNkg?oc=5",
-      "source": "AGI",
-      "sourceHost": "agi.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "politica"
-      ],
-      "publishedAt": "2026-07-22T07:00:00.000Z",
-      "excerpt": "\"Vergogna, vergogna\", Senatori M5s occupano i banchi del Governo per caso Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "agi.it__agi__caso delmastro protesta cartelli m5s camera fuori chat__2026-07-22T07:00:00.000Z",
       "title": "Caso Delmastro, la protesta con i cartelli del M5s alla Camera, \"Fuori le chat\"",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGtFeUo0RGFYeld3eTJnZDV4cERETkJFeU9pb00td21mcHBseXdfSWszYzFtbjFGYUl0WGRaZ3p0Yk4xR20zRGU4NVl1bzY4Vm9TVlladGxVTVdnSWRPUlgyQlY1T1haZzdzSWVxYkVpV2Z1dGMtY1d0YWdMU3NpMGJ4NGlDYWhwZ3ZadDl3RFZqVEdSWUpIMURnYlJBSmFEaEN3a3dQTGVnR3ZzMWNRMF96VHBOdlV0SWk3WGpMenFXZXpjZUtLN2xB0gHPAUFVX3lxTFBabEMzeTBQVm1RUkRjYm0tZk9lbG9kNU9XMW4wNE0wM0hmdk8tUmJDdXN1SmJYaENkaTNBQy1nT1ZYbTV0WVJrT1JLVUxhZU9JNmk3WUpod0xnTkc0T3RkQUluZV80MF85V1RFSklKbkNNX0RqNjVWMG5aRnBHRDBmTkRicTcwTlZNM0pFa2FvdE5XYU9iMEpEN0RmTXVZd1EtMUdwOGE5ZThMQWVOczFlV3dFdE5fQk1tNlRyclVVQkR1SWNxTGxrdTh6c2hzUQ?oc=5",
@@ -5298,6 +5320,26 @@
       ],
       "publishedAt": "2026-07-22T07:00:00.000Z",
       "excerpt": "Caso Delmastro, la protesta con i cartelli del M5s alla Camera, \"Fuori le chat\"",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "agi.it__agi__vergogna vergogna senatori m5s occupano banchi governo caso delmastro__2026-07-22T07:00:00.000Z",
+      "title": "\"Vergogna, vergogna\", Senatori M5s occupano i banchi del Governo per caso Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb0ZTRGhMV05wZ3NNY0FxUXBFa2ZlZ2ktQzFMZzFqdUhIQ1hvSkN6MGEyczBKVG5hOGVKTXFGZU45NmFKYVhKY0YtQjZ1bTMtdjZJdVZCVWpDMkVWcHhLZV80RmRlYklvTWI0VWw0eUlkR2c2aW55aWVLU0dkckl3ajFGSWRWUXp6YzIzQVV1MFFpdkpIS1BZZ2RyZ1BKcmdXUE5aLTBBTGx6Y1hGaWhybjVMdFVwdkNNNlltS1BwZmw2SE4xU0F1aE1tdFBjX2_SAdQBQVVfeXFMT0dYVXZIMUNreFJQbjNZbkhPZDJaU1c2ekg0b2lQMjlwN0NiTTZBX1dNb3pEZjRWNl8zQlRDYUpYcnNlbGJmdVd1ZFNlaHI3cERRc09RSThtTklnc1JWMVMxSmpCRkV3TWJUclgtei1FSTN5clV3YWtCVGhGWkotR0NPTU9rNGE2Tm55cXBlLVE2Tzd6SlZJb0JGQ0FiWjBDR3dzR0dQS203dDhwbUNvMlIzSnBoOHhmVndsR29SOUl4X0lsZjFZSERyeVZfQUFPR0huNkg?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb0ZTRGhMV05wZ3NNY0FxUXBFa2ZlZ2ktQzFMZzFqdUhIQ1hvSkN6MGEyczBKVG5hOGVKTXFGZU45NmFKYVhKY0YtQjZ1bTMtdjZJdVZCVWpDMkVWcHhLZV80RmRlYklvTWI0VWw0eUlkR2c2aW55aWVLU0dkckl3ajFGSWRWUXp6YzIzQVV1MFFpdkpIS1BZZ2RyZ1BKcmdXUE5aLTBBTGx6Y1hGaWhybjVMdFVwdkNNNlltS1BwZmw2SE4xU0F1aE1tdFBjX2_SAdQBQVVfeXFMT0dYVXZIMUNreFJQbjNZbkhPZDJaU1c2ekg0b2lQMjlwN0NiTTZBX1dNb3pEZjRWNl8zQlRDYUpYcnNlbGJmdVd1ZFNlaHI3cERRc09RSThtTklnc1JWMVMxSmpCRkV3TWJUclgtei1FSTN5clV3YWtCVGhGWkotR0NPTU9rNGE2Tm55cXBlLVE2Tzd6SlZJb0JGQ0FiWjBDR3dzR0dQS203dDhwbUNvMlIzSnBoOHhmVndsR29SOUl4X0lsZjFZSERyeVZfQUFPR0huNkg?oc=5",
+      "source": "AGI",
+      "sourceHost": "agi.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica"
+      ],
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "excerpt": "\"Vergogna, vergogna\", Senatori M5s occupano i banchi del Governo per caso Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -6040,26 +6082,6 @@
       ],
       "publishedAt": "2026-07-17T07:00:00.000Z",
       "excerpt": "Tutti pazzi per la bisteccheria (anche il sottosegretario). Tutta la storia della famiglia Caroccia",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__mafia politica meno male che c delmastro__2026-07-17T07:00:00.000Z",
-      "title": "Mafia e politica, meno male che c’è Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeTJiY0t3QmNPTi1hVldtU2FLcTlWaWdmYWVybnhhZHR5QzFQZkgyTzhBd25oOE5oQ1l1SGdpVS03VTB1dXA2R2w0Q0I1Q2haNnh4UmlrNjNIeWdndzZxRUpqUTEwd1dGUGNSMXp3OGllTldJZnVPTDFDZ19oS2hFWk92b0l0Qm50WlZhVkNmcXBTZld2Q19tSUZhdlktSkxZQ3hjTXVPVEdrUjQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeTJiY0t3QmNPTi1hVldtU2FLcTlWaWdmYWVybnhhZHR5QzFQZkgyTzhBd25oOE5oQ1l1SGdpVS03VTB1dXA2R2w0Q0I1Q2haNnh4UmlrNjNIeWdndzZxRUpqUTEwd1dGUGNSMXp3OGllTldJZnVPTDFDZ19oS2hFWk92b0l0Qm50WlZhVkNmcXBTZld2Q19tSUZhdlktSkxZQ3hjTXVPVEdrUjQ?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Bisteccheria",
-      "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-07-17T07:00:00.000Z",
-      "excerpt": "Mafia e politica, meno male che c’è Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

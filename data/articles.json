@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T21:28:05.456Z",
+  "generatedAt": "2026-08-23T21:50:56.048Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,14 +94,14 @@
     ]
   },
   "window": {
-    "from": "2026-07-09T21:28:05.456Z",
-    "to": "2026-08-23T21:28:05.456Z",
+    "from": "2026-07-09T21:50:56.048Z",
+    "to": "2026-08-23T21:50:56.048Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 61
+      "articleCount": 60
     },
     {
       "label": "repubblica.it",
@@ -183,17 +183,17 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 590,
-      "uniqueArticles": 294
+      "fetchedArticles": 586,
+      "uniqueArticles": 292
+    },
+    {
+      "label": "Soci e societa'",
+      "fetchedArticles": 163,
+      "uniqueArticles": 2
     },
     {
       "label": "Bisteccheria",
       "fetchedArticles": 98,
-      "uniqueArticles": 1
-    },
-    {
-      "label": "Soci e societa'",
-      "fetchedArticles": 160,
       "uniqueArticles": 1
     },
     {
@@ -203,14 +203,14 @@
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 107,
+      "fetchedArticles": 106,
       "uniqueArticles": 0
     }
   ],
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 175
+      "count": 174
     },
     {
       "tag": "giudiziaria",
@@ -308,7 +308,7 @@
     },
     {
       "date": "2026-07-27",
-      "count": 3
+      "count": 2
     },
     {
       "date": "2026-07-28",
@@ -344,11 +344,11 @@
     },
     {
       "date": "2026-08-05",
-      "count": 55
+      "count": 54
     },
     {
       "date": "2026-08-06",
-      "count": 17
+      "count": 18
     },
     {
       "date": "2026-08-07",
@@ -797,6 +797,26 @@
       ],
       "publishedAt": "2026-08-06T07:00:00.000Z",
       "excerpt": "Chat di Delmastro negate alla Procura con voto segreto",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "corriere.it__corriere tv__protesta m5s sul caso delmastro parlamentari alzano telefoni sua foto fuori chat__2026-08-06T07:00:00.000Z",
+      "title": "La protesta del M5s sul caso Delmastro, i parlamentari alzano i telefoni con la sua foto: «Fuori le chat",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQlhkYVJndmEyZExqZnNCS2pUVFVhaVVJZzhmR1dKRkVtZUtuS2d1LXFDVnU5SzlvVGFiU3pFbUVkWTlhaEdqZUtGSGYtV3BIekplNjJGUHNVaGN2elljN01fS3dOTXdDbTVsQUtqUmFsMElfaU44cmg0ZkUxSkNfNlNYWnRmcEUwM1ZocjZjM0RDUDdkeFVRSlFYWjNhNDFsNGVIMXVtS1FNalI4WVJha3NvVFNjRC1aSS1ibFQtaDJUZFJoa2dIX2dncTdyaEJwWmpoR0h1bkJIaUlwT05xMDFTVlhpVi05TWZwb1k4OWxtWlhwTEtiY2FhS1BUTlZNaVRR?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQlhkYVJndmEyZExqZnNCS2pUVFVhaVVJZzhmR1dKRkVtZUtuS2d1LXFDVnU5SzlvVGFiU3pFbUVkWTlhaEdqZUtGSGYtV3BIekplNjJGUHNVaGN2elljN01fS3dOTXdDbTVsQUtqUmFsMElfaU44cmg0ZkUxSkNfNlNYWnRmcEUwM1ZocjZjM0RDUDdkeFVRSlFYWjNhNDFsNGVIMXVtS1FNalI4WVJha3NvVFNjRC1aSS1ibFQtaDJUZFJoa2dIX2dncTdyaEJwWmpoR0h1bkJIaUlwT05xMDFTVlhpVi05TWZwb1k4OWxtWlhwTEtiY2FhS1BUTlZNaVRR?oc=5",
+      "source": "Corriere TV",
+      "sourceHost": "corriere.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-08-06T07:00:00.000Z",
+      "excerpt": "La protesta del M5s sul caso Delmastro, i parlamentari alzano i telefoni con la sua foto: «Fuori le chat",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1259,26 +1279,6 @@
       ],
       "publishedAt": "2026-08-05T07:00:00.000Z",
       "excerpt": "Caso Delmastro, il voto in Aula: la diretta video",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "corriere.it__corriere tv__caso delmastro deputati avs si bendano camera__2026-08-05T07:00:00.000Z",
-      "title": "Caso Delmastro, i deputati Avs si bendano alla Camera",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdEF6YWdrcjczNGZ2UE1mUWlUcUY1bHpvYUdnZzlTNmN2WlU0dUhDcTNLSUZIejRtWU8xc19yYnFwSUhKRFA4cHp6OW5hZEdZWWFpbGEtNFJPSHNSZ1l1RHc2dFV6c3BaNFRIRjB2YW43VzRpRHUzaHBhT05VZ2Z1dnlYdkc1eFNfNFNCU2l2bHQwMHItcXE4b1hnMDJJMzRXc29LbDNOV3BDcmNaY3hha1AtN2dDbkYtNXM4QmJzb2UtcDZucE8waXlBWGl1Vll5MHpsd0xBaw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdEF6YWdrcjczNGZ2UE1mUWlUcUY1bHpvYUdnZzlTNmN2WlU0dUhDcTNLSUZIejRtWU8xc19yYnFwSUhKRFA4cHp6OW5hZEdZWWFpbGEtNFJPSHNSZ1l1RHc2dFV6c3BaNFRIRjB2YW43VzRpRHUzaHBhT05VZ2Z1dnlYdkc1eFNfNFNCU2l2bHQwMHItcXE4b1hnMDJJMzRXc29LbDNOV3BDcmNaY3hha1AtN2dDbkYtNXM4QmJzb2UtcDZucE8waXlBWGl1Vll5MHpsd0xBaw?oc=5",
-      "source": "Corriere TV",
-      "sourceHost": "corriere.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-08-05T07:00:00.000Z",
-      "excerpt": "Caso Delmastro, i deputati Avs si bendano alla Camera",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -4396,26 +4396,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__carceri tribunali segreteria balboni delmastro occupa ancora ministero coi suoi fedelissimi__2026-07-27T07:00:00.000Z",
-      "title": "Carceri, tribunali, segreteria e Balboni: Delmastro occupa ancora il ministero coi suoi fedelissimi",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMEFIRWtaU1JpOWw3RjNKM1gtQ0E1ZUF1dnFLR2dJNzVFbmFlY1Voa2l5OEVmcktfVjBRQWhtajRVYWJkRDUwVkFoRWZsT2xEVnRqV1BDbU5NcjR4UDNlaHBNc3FYV0lOMGtGQWxpVnNOa01JUWliVElTcUJlZFVZMTVmaWNCbG5RRzNEOHFuMW1yMU9ydFZjaXlpWUlBQzAwT2ZqYVFENE5XUkNsR0JhSGtObEVuTVFYaS1Vc2psc1BQbEk3Y2V1LUN3UUdJR2FXSzlCT2RJcTA1RmFWUlQwV29RTmpXcDI4QWpHVnE3VGRyMUl4OWNHcWE4S0dkdw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMEFIRWtaU1JpOWw3RjNKM1gtQ0E1ZUF1dnFLR2dJNzVFbmFlY1Voa2l5OEVmcktfVjBRQWhtajRVYWJkRDUwVkFoRWZsT2xEVnRqV1BDbU5NcjR4UDNlaHBNc3FYV0lOMGtGQWxpVnNOa01JUWliVElTcUJlZFVZMTVmaWNCbG5RRzNEOHFuMW1yMU9ydFZjaXlpWUlBQzAwT2ZqYVFENE5XUkNsR0JhSGtObEVuTVFYaS1Vc2psc1BQbEk3Y2V1LUN3UUdJR2FXSzlCT2RJcTA1RmFWUlQwV29RTmpXcDI4QWpHVnE3VGRyMUl4OWNHcWE4S0dkdw?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-07-27T07:00:00.000Z",
-      "excerpt": "Carceri, tribunali, segreteria e Balboni: Delmastro occupa ancora il ministero coi suoi fedelissimi",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__chat delmastro procura aspetta via libera camera__2026-07-27T07:00:00.000Z",
       "title": "Chat Delmastro: la Procura aspetta il via libera della Camera",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdTlEZmQzenZnQUpDVWZ0cFhBWm1DRDJfczZKM09xOE1jR1RkN3l2T3hZUkpkSDVueU1JeGNBR2FiTUF6emFSMGFPM1h5amhWcFVyd3hXdFhuYW00TVpfdHpjSnhfNVVQYkRWclNLd3dPaWtkYTRvYUFMS1RfcXJSY1oyZGZYeUd1T3RaZXBuWDFvLTBmTDhjSVpYTQ?oc=5",
@@ -4519,8 +4499,8 @@
     {
       "id": "ansa.it__ansa__delmastro deposito chat faranno piena chiarezza mia estraneita__2026-07-24T07:00:00.000Z",
       "title": "Delmastro, deposito chat faranno piena chiarezza su mia estraneità",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObG9XLTZsU25ON1NXQVV2SVljNW8tMGVlS05lU3BEeU5KbnZWV3FDaUhycXlFR0NucUhtMEhrRGhENjlkOHhwdDN1UllmSG5YenhzaWh2ZVJVVVpPSnBkUlhraVgwUWhMcy1DbFplUWhUbkw5QVNqOUNPbXkydi1vZmVfekxiSUNzNTRQUlFVN3Z2elA3Mkc4VnlwYlU2MFl4OHFFN3NVSjNhVDA4VlJqdEFLVnZTa2hPd280bXZNeFFSdkFaaGVQeVdxNFA1dl9iZ21iMjU1aEZHdjJYcWJLcTliNnRMMWFtZlVWNTFZRDM?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObG9XLTZsU25ON1NXQVV2SVljNW8tMGVlS05lU3BEeU5KbnZWV3FDaUhycXlFR0NucUhtMEhrRGhENjlkOHhwdDN1UllmSG5YenhzaWh2ZVJVVVpPSnBkUlhraVgwUWhMcy1DbFplUWhUbkw5QVNqOUNPbXkydi1vZmVfekxiSUNzNTRQUlFVN3Z2elA3Mkc4VnlwYlU2MFl4OHFFN3NVSjNhVDA4VlJqdEFLVnZTa2hPd280bXZNeFFSdkFaaGVQeVdxNFA1dl9iZ21iMjU1aEZHdjJYcWJLcTliNnRMMWFtZlVWNTFZRDM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObFFaY1NMUGJxaFRETkRrUF92ekFjQ3FLNEo3MFVEcHlHWDZ6R21Mc21XZDhvVzdQeDhCeFBVdVU0THRJb2oxMVVnVGNhX3g3NlJlVU9rYXBhSTdGSzkyUmdxV3piTG9aWFBUbVRfQ0RyZzJYTk56WTBNdjdyLUF0cGtQS05mR3dOTTljRWJ5dklick41bWdUYTd0YTVYdFVuQk9vMU9YakZ6R0lvbUxMVUl2eVpFR2wzTkJRcHZkSFFHVXluV1pPXzRyd2lXS0Y3eEgtckMyVjduRWR6dzVDNXpvU19CUTdPVk50dENOS3JLd9IB9wFBVV95cUxPbWdfbFMza09xVG9qSS1IU2NmOUk5Z2lVNlAtQ3Z6allnaE1ubVE1aHh3RnMzLTdnVVB1eTNfenZUY3RES0JjU2tHM0lyaUNUY19yYUd4N2dZbm83bFFoUlRCZmJyMXVHRHFhODVwRXIyNjF2U3FLN25BY3NjT1JZaWUyT2FuSnA1VTBEeVNXZDNWY3Q1TXN0bThUWXE5elA2SE5nbUx5eUxubkticTloUzRkcFl3QzBNWTV1eUdFYUt1Z3daZGtWZTBMOUI1NXhPRDdTbnZ0S2htWVlXRjg5cWt1WFdncXZpbm5EbzdqSGQyOXFMRWhB?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObFFaY1NMUGJxaFRETkRrUF92ekFjQ3FLNEo3MFVEcHlHWDZ6R21Mc21XZDhvVzdQeDhCeFBVdVU0THRJb2oxMVVnVGNhX3g3NlJlVU9rYXBhSTdGSzkyUmdxV3piTG9aWFBUbVRfQ0RyZzJYTk56WTBNdjdyLUF0cGtQS05mR3dOTTljRWJ5dklick41bWdUYTd0YTVYdFVuQk9vMU9YakZ6R0lvbUxMVUl2eVpFR2wzTkJRcHZkSFFHVXluV1pPXzRyd2lXS0Y3eEgtckMyVjduRWR6dzVDNXpvU19CUTdPVk50dENOS3JLd9IB9wFBVV95cUxPbWdfbFMza09xVG9qSS1IU2NmOUk5Z2lVNlAtQ3Z6allnaE1ubVE1aHh3RnMzLTdnVVB1eTNfenZUY3RES0JjU2tHM0lyaUNUY19yYUd4N2dZbm83bFFoUlRCZmJyMXVHRHFhODVwRXIyNjF2U3FLN25BY3NjT1JZaWUyT2FuSnA1VTBEeVNXZDNWY3Q1TXN0bThUWXE5elA2SE5nbUx5eUxubkticTloUzRkcFl3QzBNWTV1eUdFYUt1Z3daZGtWZTBMOUI1NXhPRDdTbnZ0S2htWVlXRjg5cWt1WFdncXZpbm5EbzdqSGQyOXFMRWhB?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
@@ -6151,10 +6131,15 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQXlCMTExdlM4aHFIUGFQUmhySm4tWjFEa3ptdDBkM3pqUnVEQXhUemxOSWlGYVNaVDdkbDd5c0swOHRySE5lWXNFV1lJb2VMX0hmbHJNdHhCYnlrUHNZN3BGN2E4MHhnQnVRRmV5aFlXT3ZYbklOamtEd0QtTmdGeDNNeF9WaGdQWWVERHRaYVNEZUMxbk83Nm82VGV6SHlGNUpwYkt5dGFtZW5HMTlnZUl1VXFGU19fMTQteC1WNGV6YUY5Qno0WFp3YUljeU95dG1JVnE2LVBzVm5p0gHiAUFVX3lxTE5XdFp3ak5kUU52alVhb0M1cDNwU2NMUjAwNENOYUFBWUxSeVpwWXdGOGNZNnR0TFJ3QTI4N05WTzFjUldDbFJFTmt6a3pYdGtxNE80SlVWTF93amlMbmR3TVpFN1dDRWhRT3FUVzA2aFRyMXJoTlNLNVFkTnAzZUljTW85YzlCdVNrT0ctY0tKWUNXMjFkdUVEMWhWQkNQakdxdkhUM1huaFRVU0pJSGNEem83eG1RUkNaZUs0UFQ3czlJajF2d2dfRVBLUjJJMWdoOF90Qm0zSy1pTGhPc3R3TVE?oc=5",
       "source": "AGI",
       "sourceHost": "agi.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
       ],
       "tags": [
         "politica"

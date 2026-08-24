@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T20:38:29.865Z",
+  "generatedAt": "2026-08-24T21:36:11.433Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,14 +94,14 @@
     ]
   },
   "window": {
-    "from": "2026-07-10T20:38:29.865Z",
-    "to": "2026-08-24T20:38:29.865Z",
+    "from": "2026-07-10T21:36:11.433Z",
+    "to": "2026-08-24T21:36:11.433Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 61
+      "articleCount": 60
     },
     {
       "label": "repubblica.it",
@@ -177,7 +177,7 @@
     },
     {
       "label": "liberoquotidiano.it",
-      "articleCount": 1
+      "articleCount": 2
     }
   ],
   "queries": [
@@ -188,17 +188,17 @@
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 99,
+      "fetchedArticles": 98,
       "uniqueArticles": 1
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 162,
+      "fetchedArticles": 163,
       "uniqueArticles": 1
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 59,
+      "fetchedArticles": 60,
       "uniqueArticles": 1
     },
     {
@@ -210,7 +210,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 174
+      "count": 173
     },
     {
       "tag": "giudiziaria",
@@ -218,7 +218,7 @@
     },
     {
       "tag": "politica",
-      "count": 47
+      "count": 48
     },
     {
       "tag": "bisteccheria",
@@ -264,7 +264,7 @@
     },
     {
       "date": "2026-07-17",
-      "count": 6
+      "count": 5
     },
     {
       "date": "2026-07-18",
@@ -340,7 +340,7 @@
     },
     {
       "date": "2026-08-05",
-      "count": 51
+      "count": 52
     },
     {
       "date": "2026-08-06",
@@ -1103,26 +1103,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ansa.it__ansa__no all uso chat delmastro bagarre camera__2026-08-05T07:00:00.000Z",
-      "title": "No all'uso delle chat di Delmastro, bagarre alla Camera",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMUg1RGM3R0llUEFMdlBaNGFMeG1yM3NWZDVmS1pLbXZINkVvS2puVjM1T1BCaDJOd1VxRnNvR2gxcmRaRnVleUd3M3VPckJZWDAyZVFEOHVyS2NtR0NpS0R5emdhOGlGLWRZbnltbGpyN3RxdHNxSVRtbjRERzMtN1BoNXphVUZWd1NzOTNrNDlQSjJqRC1FVm4yQzZKellDa0NtN1FZa014LXg1RmVIcnZSQVRKOUh4YWNFRjlqdDFMM1dzMGFPMEJoRUprMHhndE9JMDJEenZvakFvVlNod09UYXg4RFR5YlY3aw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMUg1RGM3R0llUEFMdlBaNGFMeG1yM3NWZDVmS1pLbXZINkVvS2puVjM1T1BCaDJOd1VxRnNvR2gxcmRaRnVleUd3M3VPckJZWDAyZVFEOHVyS2NtR0NpS0R5emdhOGlGLWRZbnltbGpyN3RxdHNxSVRtbjRERzMtN1BoNXphVUZWd1NzOTNrNDlQSjJqRC1FVm4yQzZKellDa0NtN1FZa014LXg1RmVIcnZSQVRKOUh4YWNFRjlqdDFMM1dzMGFPMEJoRUprMHhndE9JMDJEenZvakFvVlNod09UYXg4RFR5YlY3aw?oc=5",
-      "source": "ANSA",
-      "sourceHost": "ansa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-08-05T07:00:00.000Z",
-      "excerpt": "No all'uso delle chat di Delmastro, bagarre alla Camera",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ansa.it__ansa__deputati avs aula si bendano occhi protesta sul caso delmastro__2026-08-05T07:00:00.000Z",
       "title": "I deputati Avs in Aula si bendano gli occhi per protesta sul caso Delmastro",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjlCVG5tZUhQcEZCYzJJX2xvRWNiVVMzM1Boc1JfMFRFUXFLQ2tzWE1HQ2dQUHJJX3JxLTRIRHlFWmxFWGFXWDVRcXY2SE1JT3IzUGJHamJvWnJaUHU5MUpMNE5LYzdVSkZHTUdpTnVyOHFETmI3cl9ZWWYtUlVHaUViMDFlUGhTM1hpdjBibHpMLWh3UC1sZnhFWWVPNHpFckJ5dXlCTzZpeGJROFVzcXhRNlZUNDhiOUtwNVJrem05cnFzc0N2TkFCaTQwaHBLdTNhTUlWeFJZXy1zTTgzc1F6ZXpHR2h6dHNkSUwzYjktdw?oc=5",
@@ -1139,6 +1119,26 @@
       ],
       "publishedAt": "2026-08-05T07:00:00.000Z",
       "excerpt": "I deputati Avs in Aula si bendano gli occhi per protesta sul caso Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ansa.it__ansa__no all uso chat delmastro bagarre camera__2026-08-05T07:00:00.000Z",
+      "title": "No all'uso delle chat di Delmastro, bagarre alla Camera",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMUg1RGM3R0llUEFMdlBaNGFMeG1yM3NWZDVmS1pLbXZINkVvS2puVjM1T1BCaDJOd1VxRnNvR2gxcmRaRnVleUd3M3VPckJZWDAyZVFEOHVyS2NtR0NpS0R5emdhOGlGLWRZbnltbGpyN3RxdHNxSVRtbjRERzMtN1BoNXphVUZWd1NzOTNrNDlQSjJqRC1FVm4yQzZKellDa0NtN1FZa014LXg1RmVIcnZSQVRKOUh4YWNFRjlqdDFMM1dzMGFPMEJoRUprMHhndE9JMDJEenZvakFvVlNod09UYXg4RFR5YlY3aw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMUg1RGM3R0llUEFMdlBaNGFMeG1yM3NWZDVmS1pLbXZINkVvS2puVjM1T1BCaDJOd1VxRnNvR2gxcmRaRnVleUd3M3VPckJZWDAyZVFEOHVyS2NtR0NpS0R5emdhOGlGLWRZbnltbGpyN3RxdHNxSVRtbjRERzMtN1BoNXphVUZWd1NzOTNrNDlQSjJqRC1FVm4yQzZKellDa0NtN1FZa014LXg1RmVIcnZSQVRKOUh4YWNFRjlqdDFMM1dzMGFPMEJoRUprMHhndE9JMDJEenZvakFvVlNod09UYXg4RFR5YlY3aw?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "excerpt": "No all'uso delle chat di Delmastro, bagarre alla Camera",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1544,6 +1544,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "liberoquotidiano.it__libero quotidiano__chat delmastro bagarre aula camera durante intervento conte deputato fdi allontanato libero quotidiano it__2026-08-05T07:00:00.000Z",
+      "title": "Chat Delmastro, Bagarre in Aula alla Camera durante intervento Conte, deputato di FdI allontanato | Libero Quotidiano.it",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZFBvWHJkWDJ6Y1JVNGdtYmJJRll0dy1SN3BSeHllcWdfWHp4OFFHWmRtLTVxTWk0Wkd4c1lHVktRcmExVzVlNTczNmZZenNWXzZnT0pSNW1KTHNoNUhvVFFfd3d6blZrZUVUcldHbWgySFJKZTlWT1BaLUdHV2xLbDlJR2tyYTBxNE5DdTNFdUxCb3lnQ0o3V3FaRVlaWHJsQXM1eGRFaFdSXzhEdE1ENlBJVGlwZ0cybS1IY0VfSVJsRkdhU3IydENlaHpnTkxnaEV3X0x3S0lLSzFQeU1GLURWWHlzQnN5V2lueUVnd3Fqd2lZ0gH4AUFVX3lxTE05Z1c3X2pHZmdJQkpRWEZ6U3BfbVAyWHVCV2NwS3FEWUU0eGdac0RFMDgxbU5wUkc2WTZYWmU1TENBQS1pekdsMGRDLTN4elh5RVMzd1R6XzR5Vk1YQlR5ZmpUamxyczdUWnZESEFBM2VKTTQzbmVUc1lWbUlyZDVEeldwTlJ1aThrYlh3MVI5N1BMM0M4ZjNfOWVsRVA5bnp4Mnlva205UTZSM0VUTzFTdGxFZWx4SUQ3SFpfckpUU25tUm1UOGc1WHpMT3Mtc0Q2QjJaVUhmMjRybkZrRGlQd2dhdi1VX2lqZHpYOHdJSzRqVzI3RnpK?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZFBvWHJkWDJ6Y1JVNGdtYmJJRll0dy1SN3BSeHllcWdfWHp4OFFHWmRtLTVxTWk0Wkd4c1lHVktRcmExVzVlNTczNmZZenNWXzZnT0pSNW1KTHNoNUhvVFFfd3d6blZrZUVUcldHbWgySFJKZTlWT1BaLUdHV2xLbDlJR2tyYTBxNE5DdTNFdUxCb3lnQ0o3V3FaRVlaWHJsQXM1eGRFaFdSXzhEdE1ENlBJVGlwZ0cybS1IY0VfSVJsRkdhU3IydENlaHpnTkxnaEV3X0x3S0lLSzFQeU1GLURWWHlzQnN5V2lueUVnd3Fqd2lZ0gH4AUFVX3lxTE05Z1c3X2pHZmdJQkpRWEZ6U3BfbVAyWHVCV2NwS3FEWUU0eGdac0RFMDgxbU5wUkc2WTZYWmU1TENBQS1pekdsMGRDLTN4elh5RVMzd1R6XzR5Vk1YQlR5ZmpUamxyczdUWnZESEFBM2VKTTQzbmVUc1lWbUlyZDVEeldwTlJ1aThrYlh3MVI5N1BMM0M4ZjNfOWVsRVA5bnp4Mnlva205UTZSM0VUTzFTdGxFZWx4SUQ3SFpfckpUU25tUm1UOGc1WHpMT3Mtc0Q2QjJaVUhmMjRybkZrRGlQd2dhdi1VX2lqZHpYOHdJSzRqVzI3RnpK?oc=5",
+      "source": "Libero Quotidiano",
+      "sourceHost": "liberoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica"
+      ],
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "excerpt": "Chat Delmastro, Bagarre in Aula alla Camera durante intervento Conte, deputato di FdI allontanato | Libero Quotidiano.it",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "liberoquotidiano.it__libero quotidiano__delmastro no all accesso chat sinistra insorge bende urla minacce libero quotidiano it__2026-08-05T07:00:00.000Z",
       "title": "Delmastro, no all'accesso alle chat. La sinistra insorge: bende, urla, minacce | Libero Quotidiano.it",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb0VNTFM3R2VmNklvNWFQTnpGeHdrZGRfU0FPY2tVeHZ3dWdvYVpsekttWWRzQkV4LWJYSERYdHBEbVhXblBZenhhOF9INExqTS1ycjRpWUhiYkpsU3cyRXRjMjFhUVlHaElsb3dwbzNDZk9FZFUzNEV5T3hDT1FPMzhLZmhranhHVmJxYUVjR2tldW1mVVhFeE1BZ29uNENueERMOGNXOFpPX3JXZFZVZ0I5a0xkNkVpYnY0eko2ZzZ3d9IBxgFBVV95cUxPTzlndXp2Nl9PN3lhTUdyYTlvelREaTk3QktsOERLNk44bFFFNUpDNkN5X1FLQW5PUlhTVFo0T3NWTGxWbzdpX0tSTlpMVHRMdndDTnNjVG5BUDJ3VmVSWGE1VzVVVEx3TFhEX0ZSSlVkTmg0Yi1tLXNwNWVhdklYaFRaeG5iZ1IyNlFmS3dadzBtSTRHZkNRdVNCR3pUb3Q1M3F5eEh0Qld6M1dtc0JDMS1WNnlOaTgzeDBqQWIwY2hrV2V5dHc?oc=5",
@@ -1640,27 +1660,6 @@
       ],
       "publishedAt": "2026-08-05T07:00:00.000Z",
       "excerpt": "Caso Delmastro, la Camera nega alla procura l'acquisizione delle chat. Voto a scrutinio segreto",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__chat delmastro dossier fdi negarle pm potrebbero esserci conversazioni personali politiche__2026-08-05T07:00:00.000Z",
-      "title": "Chat Delmastro, il dossier di FdI per negarle ai pm: “Potrebbero esserci conversazioni personali e politiche”",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU05IMHJjMXp0SmkyVWpldW1vem9jdF9wM0tDaTRqN0dWdGlNOWMwQ0xTb1BPS0dZdmdrMVJQa1doYzNVeUJGTG5RUW5Zb2FBazZpb2VJTmJlVkdVSWxFNUI0U3l6Q0djdzA5aFRfVWlTaXFvTXVZR0s3QUhydGF3V2lTUXVBWHZEVVM3azYwSnRUZTFpcUdR?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU05IMHJjMXp0SmkyVWpldW1vem9jdF9wM0tDaTRqN0dWdGlNOWMwQ0xTb1BPS0dZdmdrMVJQa1doYzNVeUJGTG5RUW5Zb2FBazZpb2VJTmJlVkdVSWxFNUI0U3l6Q0djdzA5aFRfVWlTaXFvTXVZR0s3QUhydGF3V2lTUXVBWHZEVVM3azYwSnRUZTFpcUdR?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "politica",
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-08-05T07:00:00.000Z",
-      "excerpt": "Chat Delmastro, il dossier di FdI per negarle ai pm: “Potrebbero esserci conversazioni personali e politiche”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1781,6 +1780,27 @@
       ],
       "publishedAt": "2026-08-05T07:00:00.000Z",
       "excerpt": "Conte a Meloni sul caso Delmastro: \"Scudate gli amici di partito\"",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__chat delmastro dossier fdi negarle pm potrebbero esserci conversazioni personali politiche__2026-08-05T07:00:00.000Z",
+      "title": "Chat Delmastro, il dossier di FdI per negarle ai pm: “Potrebbero esserci conversazioni personali e politiche”",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU05IMHJjMXp0SmkyVWpldW1vem9jdF9wM0tDaTRqN0dWdGlNOWMwQ0xTb1BPS0dZdmdrMVJQa1doYzNVeUJGTG5RUW5Zb2FBazZpb2VJTmJlVkdVSWxFNUI0U3l6Q0djdzA5aFRfVWlTaXFvTXVZR0s3QUhydGF3V2lTUXVBWHZEVVM3azYwSnRUZTFpcUdR?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU05IMHJjMXp0SmkyVWpldW1vem9jdF9wM0tDaTRqN0dWdGlNOWMwQ0xTb1BPS0dZdmdrMVJQa1doYzNVeUJGTG5RUW5Zb2FBazZpb2VJTmJlVkdVSWxFNUI0U3l6Q0djdzA5aFRfVWlTaXFvTXVZR0s3QUhydGF3V2lTUXVBWHZEVVM3azYwSnRUZTFpcUdR?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica",
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "excerpt": "Chat Delmastro, il dossier di FdI per negarle ai pm: “Potrebbero esserci conversazioni personali e politiche”",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2326,6 +2346,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__camera chat delmastro caroccia palla giunta autorizzazioni__2026-08-04T07:00:00.000Z",
+      "title": "Camera, chat Delmastro-Caroccia: palla alla Giunta per le Autorizzazioni",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTHVGd29lbmpqRTM0UnNQWi02UmVRZFprNGdaM3ZPb3hMOGNpNWF0WEd6ZmpSX2tBLV9OT0g3VGJwYlhQME81bmhRRWZzUTNWWWltTnJxWmVwVVhGOF80ZzFQcjV4cGt2S2pZYmx2ajRCYlVfdEthMWNzUlR5WllURzNuN1JHM2w4cnFoOEVhd193T1M3eVJNSTdBWG84cGJ5dzFkaTlCQmlxWXdpZkR3dnUyZ2xXWURaelpmQTVBWjRaZW9seUg0dTJEeHRJX0JoUE9sWGdNaUVJUXc?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTHVGd29lbmpqRTM0UnNQWi02UmVRZFprNGdaM3ZPb3hMOGNpNWF0WEd6ZmpSX2tBLV9OT0g3VGJwYlhQME81bmhRRWZzUTNWWWltTnJxWmVwVVhGOF80ZzFQcjV4cGt2S2pZYmx2ajRCYlVfdEthMWNzUlR5WllURzNuN1JHM2w4cnFoOEVhd193T1M3eVJNSTdBWG84cGJ5dzFkaTlCQmlxWXdpZkR3dnUyZ2xXWURaelpmQTVBWjRaZW9seUg0dTJEeHRJX0JoUE9sWGdNaUVJUXc?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-08-04T07:00:00.000Z",
+      "excerpt": "Camera, chat Delmastro-Caroccia: palla alla Giunta per le Autorizzazioni",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__chat delmastro bloccate non voto azione fa differenza__2026-08-04T07:00:00.000Z",
       "title": "Chat Delmastro bloccate: il non voto di Azione fa la differenza",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRTN2VnAwV04tdDBmZzg2WktMV0REUHRqYXl5QUtmcnB4ekFObEs1cjVtYUJ0OERpRGkzMHBid1dFZ1lneGd6UWRHaTJwd0xYamtKTUJFRnE3OFNLUGRJMGJFTDhlV18tTGo0ZHo1YU5fNzdNOThMV3Q0c0VUbDNBSlRMdVd3VWp6TUxodmMxMWlrNnRLZlB4ZVpn?oc=5",
@@ -2362,26 +2402,6 @@
       ],
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "excerpt": "Delmastro, la destra si oppone alla lettura delle chat: si va subito al voto in Aula",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__camera chat delmastro caroccia palla giunta autorizzazioni__2026-08-04T07:00:00.000Z",
-      "title": "Camera, chat Delmastro-Caroccia: palla alla Giunta per le Autorizzazioni",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTHVGd29lbmpqRTM0UnNQWi02UmVRZFprNGdaM3ZPb3hMOGNpNWF0WEd6ZmpSX2tBLV9OT0g3VGJwYlhQME81bmhRRWZzUTNWWWltTnJxWmVwVVhGOF80ZzFQcjV4cGt2S2pZYmx2ajRCYlVfdEthMWNzUlR5WllURzNuN1JHM2w4cnFoOEVhd193T1M3eVJNSTdBWG84cGJ5dzFkaTlCQmlxWXdpZkR3dnUyZ2xXWURaelpmQTVBWjRaZW9seUg0dTJEeHRJX0JoUE9sWGdNaUVJUXc?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTHVGd29lbmpqRTM0UnNQWi02UmVRZFprNGdaM3ZPb3hMOGNpNWF0WEd6ZmpSX2tBLV9OT0g3VGJwYlhQME81bmhRRWZzUTNWWWltTnJxWmVwVVhGOF80ZzFQcjV4cGt2S2pZYmx2ajRCYlVfdEthMWNzUlR5WllURzNuN1JHM2w4cnFoOEVhd193T1M3eVJNSTdBWG84cGJ5dzFkaTlCQmlxWXdpZkR3dnUyZ2xXWURaelpmQTVBWjRaZW9seUg0dTJEeHRJX0JoUE9sWGdNaUVJUXc?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-08-04T07:00:00.000Z",
-      "excerpt": "Camera, chat Delmastro-Caroccia: palla alla Giunta per le Autorizzazioni",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -6201,26 +6221,6 @@
       ],
       "publishedAt": "2026-07-17T07:00:00.000Z",
       "excerpt": "Chat con Delmastro. La destra affossa le richieste dei pm",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__mafia politica meno male che c delmastro__2026-07-17T07:00:00.000Z",
-      "title": "Mafia e politica, meno male che c’è Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeTJiY0t3QmNPTi1hVldtU2FLcTlWaWdmYWVybnhhZHR5QzFQZkgyTzhBd25oOE5oQ1l1SGdpVS03VTB1dXA2R2w0Q0I1Q2haNnh4UmlrNjNIeWdndzZxRUpqUTEwd1dGUGNSMXp3OGllTldJZnVPTDFDZ19oS2hFWk92b0l0Qm50WlZhVkNmcXBTZld2Q19tSUZhdlktSkxZQ3hjTXVPVEdrUjQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeTJiY0t3QmNPTi1hVldtU2FLcTlWaWdmYWVybnhhZHR5QzFQZkgyTzhBd25oOE5oQ1l1SGdpVS03VTB1dXA2R2w0Q0I1Q2haNnh4UmlrNjNIeWdndzZxRUpqUTEwd1dGUGNSMXp3OGllTldJZnVPTDFDZ19oS2hFWk92b0l0Qm50WlZhVkNmcXBTZld2Q19tSUZhdlktSkxZQ3hjTXVPVEdrUjQ?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-07-17T07:00:00.000Z",
-      "excerpt": "Mafia e politica, meno male che c’è Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

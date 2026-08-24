@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T19:34:51.818Z",
+  "generatedAt": "2026-08-24T20:38:29.865Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-07-10T19:34:51.818Z",
-    "to": "2026-08-24T19:34:51.818Z",
+    "from": "2026-07-10T20:38:29.865Z",
+    "to": "2026-08-24T20:38:29.865Z",
     "days": 45
   },
   "sources": [
@@ -109,11 +109,11 @@
     },
     {
       "label": "ansa.it",
-      "articleCount": 26
+      "articleCount": 25
     },
     {
       "label": "quotidiano.net",
-      "articleCount": 24
+      "articleCount": 23
     },
     {
       "label": "rainews.it",
@@ -183,13 +183,8 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 585,
-      "uniqueArticles": 292
-    },
-    {
-      "label": "Soci e societa'",
-      "fetchedArticles": 163,
-      "uniqueArticles": 2
+      "fetchedArticles": 583,
+      "uniqueArticles": 291
     },
     {
       "label": "Bisteccheria",
@@ -197,8 +192,13 @@
       "uniqueArticles": 1
     },
     {
+      "label": "Soci e societa'",
+      "fetchedArticles": 162,
+      "uniqueArticles": 1
+    },
+    {
       "label": "Filone giudiziario",
-      "fetchedArticles": 60,
+      "fetchedArticles": 59,
       "uniqueArticles": 1
     },
     {
@@ -210,7 +210,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 176
+      "count": 174
     },
     {
       "tag": "giudiziaria",
@@ -284,7 +284,7 @@
     },
     {
       "date": "2026-07-22",
-      "count": 45
+      "count": 44
     },
     {
       "date": "2026-07-23",
@@ -312,7 +312,7 @@
     },
     {
       "date": "2026-07-29",
-      "count": 8
+      "count": 7
     },
     {
       "date": "2026-07-30",
@@ -1063,26 +1063,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ansa.it__ansa__delmastro negato l uso chat proteste avs m5s__2026-08-05T07:00:00.000Z",
-      "title": "Delmastro, negato l'uso delle chat: le proteste di Avs e M5s",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdFlSQlp5NWZRR3dEUER4WDRWTE1hRFAtM0stQ2JTeWtjUXVMeDhvWUxiU0pzOS1PZDNFQ1VxSUxWaFVDQ3hKWVlvR3R5WXE0LXJ2VTQyQjhOTTV2RkZFVlVvRkk4dTJWR0FGRXViOFNua0c2ZWFOczBjWVFVZUJkYXdzX29XNTZqRXJ3ekVZUVdpZGVpcm01cDBWSWFjejVJMTBqX2xMQ1I0YlJpOFdUWWNkV0pOWlo3YldBRGx0UEpvdTQzUkFMRXVvbk5qaVdfSEtBWFFLUFluNnl4UkVDdEticmU2QkdwMW9N?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdFlSQlp5NWZRR3dEUER4WDRWTE1hRFAtM0stQ2JTeWtjUXVMeDhvWUxiU0pzOS1PZDNFQ1VxSUxWaFVDQ3hKWVlvR3R5WXE0LXJ2VTQyQjhOTTV2RkZFVlVvRkk4dTJWR0FGRXViOFNua0c2ZWFOczBjWVFVZUJkYXdzX29XNTZqRXJ3ekVZUVdpZGVpcm01cDBWSWFjejVJMTBqX2xMQ1I0YlJpOFdUWWNkV0pOWlo3YldBRGx0UEpvdTQzUkFMRXVvbk5qaVdfSEtBWFFLUFluNnl4UkVDdEticmU2QkdwMW9N?oc=5",
-      "source": "ANSA",
-      "sourceHost": "ansa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-08-05T07:00:00.000Z",
-      "excerpt": "Delmastro, negato l'uso delle chat: le proteste di Avs e M5s",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ansa.it__ansa__protesta m5s sul caso delmastro camera senato urla fuori chat__2026-08-05T07:00:00.000Z",
       "title": "Protesta M5s sul caso Delmastro, alla Camera e al Senato urla 'Fuori le chat'",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYXFSTGdWVFF0NkJMVC1mSTktOHRXM1V4X0xBWHVGWklaY1NTSVpmalNZRkVobzJfdmo5c2NvdV9JLUhGOXhnZlJ2bEtHWTA2dmJyMkNjMHhSTU1MaUxsZTRKSHZTbzlFUzZLM21MUTNzXzVaN1J4STFjbUF3aEFpdW5qWkt0UzRuXzlXQVo1bUs1ZDBSbng1TnE3UjNhNGlwNjIzLVRRUWVaN3VaNnJ0bTZucnk0UUVIeUxZWlVPV3ZSbGFYd0FiQVJWU3IzSUZVV2ZXeklWUGtfZUEwczFuVlRxbFZ1R2RGRUtmamFsemlxUQ?oc=5",
@@ -1099,6 +1079,26 @@
       ],
       "publishedAt": "2026-08-05T07:00:00.000Z",
       "excerpt": "Protesta M5s sul caso Delmastro, alla Camera e al Senato urla 'Fuori le chat'",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ansa.it__ansa__delmastro negato l uso chat proteste avs m5s__2026-08-05T07:00:00.000Z",
+      "title": "Delmastro, negato l'uso delle chat: le proteste di Avs e M5s",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdFlSQlp5NWZRR3dEUER4WDRWTE1hRFAtM0stQ2JTeWtjUXVMeDhvWUxiU0pzOS1PZDNFQ1VxSUxWaFVDQ3hKWVlvR3R5WXE0LXJ2VTQyQjhOTTV2RkZFVlVvRkk4dTJWR0FGRXViOFNua0c2ZWFOczBjWVFVZUJkYXdzX29XNTZqRXJ3ekVZUVdpZGVpcm01cDBWSWFjejVJMTBqX2xMQ1I0YlJpOFdUWWNkV0pOWlo3YldBRGx0UEpvdTQzUkFMRXVvbk5qaVdfSEtBWFFLUFluNnl4UkVDdEticmU2QkdwMW9N?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdFlSQlp5NWZRR3dEUER4WDRWTE1hRFAtM0stQ2JTeWtjUXVMeDhvWUxiU0pzOS1PZDNFQ1VxSUxWaFVDQ3hKWVlvR3R5WXE0LXJ2VTQyQjhOTTV2RkZFVlVvRkk4dTJWR0FGRXViOFNua0c2ZWFOczBjWVFVZUJkYXdzX29XNTZqRXJ3ekVZUVdpZGVpcm01cDBWSWFjejVJMTBqX2xMQ1I0YlJpOFdUWWNkV0pOWlo3YldBRGx0UEpvdTQzUkFMRXVvbk5qaVdfSEtBWFFLUFluNnl4UkVDdEticmU2QkdwMW9N?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "excerpt": "Delmastro, negato l'uso delle chat: le proteste di Avs e M5s",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -2286,26 +2286,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "rainews.it__rainews__alta tensione sulle chat delmastro__2026-08-04T07:00:00.000Z",
-      "title": "Alta tensione sulle chat di Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQczJfZkZva2cyRFRFZWQ1dkkwMzNhU0lnbmhieFNIazhJdm9mZnpTclY4VjgxcEZGa3ZCbmYtbWxmdzlXTW16SXBDZXl0RlhsYXVJdmphT0YzcUlmWjNMSEZYbnhFRzQzdEVkMlRUTzRubU1ObU03SWkwTFhnaTZzZkFSWmxsZTI4UDZwZXcyVXNEYkhrejljZG9kNk13Y0ZfUmxWaDJmSW1nZ3k5SkpzWFVoNjhzMFJFUWRKLTVvTjZNM1VJRWJJRjluVklqNUhscGN0cnkzVm9LRWFYOWE2eXhOXzhpQkM5aHh1Z0RWONIB9AFBVV95cUxNQ2hndTlzaXdRTVFHdmVSRTdmTFV4RF80NzVqbXhOamdBcXhURXNWLWtySWNRRUhlYTRjZlo3dFd4Y2JlVnBkaDc3c1p5clkyemtrWWp6VERzOWN5dWtqakFMR1c0djZtZ0Mwc1pDZ2dVTklrMHZvMEVpd2NMZkRRY1pRYXRZYXd0aFozczB0VHdZUXROX1dYTWh2VWlpWkVQSjEyeUxHYktid2w5TUY2alJuaUFBeFdPc2ZFZHViSF81SVphTVVjU3RoaEhzODI2R2NUcTd3a2tPSWViTTlfRjVwNmM2WWo0cGhOTVZYTzFncHFl?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQczJfZkZva2cyRFRFZWQ1dkkwMzNhU0lnbmhieFNIazhJdm9mZnpTclY4VjgxcEZGa3ZCbmYtbWxmdzlXTW16SXBDZXl0RlhsYXVJdmphT0YzcUlmWjNMSEZYbnhFRzQzdEVkMlRUTzRubU1ObU03SWkwTFhnaTZzZkFSWmxsZTI4UDZwZXcyVXNEYkhrejljZG9kNk13Y0ZfUmxWaDJmSW1nZ3k5SkpzWFVoNjhzMFJFUWRKLTVvTjZNM1VJRWJJRjluVklqNUhscGN0cnkzVm9LRWFYOWE2eXhOXzhpQkM5aHh1Z0RWONIB9AFBVV95cUxNQ2hndTlzaXdRTVFHdmVSRTdmTFV4RF80NzVqbXhOamdBcXhURXNWLWtySWNRRUhlYTRjZlo3dFd4Y2JlVnBkaDc3c1p5clkyemtrWWp6VERzOWN5dWtqakFMR1c0djZtZ0Mwc1pDZ2dVTklrMHZvMEVpd2NMZkRRY1pRYXRZYXd0aFozczB0VHdZUXROX1dYTWh2VWlpWkVQSjEyeUxHYktid2w5TUY2alJuaUFBeFdPc2ZFZHViSF81SVphTVVjU3RoaEhzODI2R2NUcTd3a2tPSWViTTlfRjVwNmM2WWo0cGhOTVZYTzFncHFl?oc=5",
-      "source": "RaiNews",
-      "sourceHost": "rainews.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-08-04T07:00:00.000Z",
-      "excerpt": "Alta tensione sulle chat di Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "rainews.it__rainews__chat delmastro giunta si va aula__2026-08-04T07:00:00.000Z",
       "title": "Chat Delmastro, Giunta: si va in Aula",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM0JaUjVzdy1ncEQtZDNuZDNwVWxEcUVGN2pxamNQN1J4azFZamdvaURPa25FUzZTb1JJT3pzVHRrX3RiR2xIVy1IZEZrM2JfeURxT2k4OFFMcW10UnNDSXBrY3ZCT2JxcnZxR2JiSml4Ylc1RFdvLVFKMTRqRDNfV3UzbFl0QlJKbDYxOWozbmhIdE1EVzV3SVhZb3RiSTMzZy1RMm5KLTdKQU15OVd4Rkl0QkFwOUVReFHSAb8BQVVfeXFMT1VpallqeUlrSWp5d2ZWdk9oZ2l5SlhXYXNta241S1dJcW1qYWJENWpmQVBHaFo3UGl0UEFJOThZaGp1TVFXaTg3cGFBc3BmWUF2empaOVhteU95T2lMTGM5cUZpYXJfVXVCaHgyZUsxWEJNTDJzQzlOZHRMTjBlRFcyMVhjdzhMcHdkQmU2dU9uT0ZmM2xLcG9kVnAzRUlpN3RTZ2ZsbEZQZ3BXMmZQNFRVTHN3R2JEd1pHS3hvdG8?oc=5",
@@ -2322,6 +2302,26 @@
       ],
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "excerpt": "Chat Delmastro, Giunta: si va in Aula",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "rainews.it__rainews__alta tensione sulle chat delmastro__2026-08-04T07:00:00.000Z",
+      "title": "Alta tensione sulle chat di Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQczJfZkZva2cyRFRFZWQ1dkkwMzNhU0lnbmhieFNIazhJdm9mZnpTclY4VjgxcEZGa3ZCbmYtbWxmdzlXTW16SXBDZXl0RlhsYXVJdmphT0YzcUlmWjNMSEZYbnhFRzQzdEVkMlRUTzRubU1ObU03SWkwTFhnaTZzZkFSWmxsZTI4UDZwZXcyVXNEYkhrejljZG9kNk13Y0ZfUmxWaDJmSW1nZ3k5SkpzWFVoNjhzMFJFUWRKLTVvTjZNM1VJRWJJRjluVklqNUhscGN0cnkzVm9LRWFYOWE2eXhOXzhpQkM5aHh1Z0RWONIB9AFBVV95cUxNQ2hndTlzaXdRTVFHdmVSRTdmTFV4RF80NzVqbXhOamdBcXhURXNWLWtySWNRRUhlYTRjZlo3dFd4Y2JlVnBkaDc3c1p5clkyemtrWWp6VERzOWN5dWtqakFMR1c0djZtZ0Mwc1pDZ2dVTklrMHZvMEVpd2NMZkRRY1pRYXRZYXd0aFozczB0VHdZUXROX1dYTWh2VWlpWkVQSjEyeUxHYktid2w5TUY2alJuaUFBeFdPc2ZFZHViSF81SVphTVVjU3RoaEhzODI2R2NUcTd3a2tPSWViTTlfRjVwNmM2WWo0cGhOTVZYTzFncHFl?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQczJfZkZva2cyRFRFZWQ1dkkwMzNhU0lnbmhieFNIazhJdm9mZnpTclY4VjgxcEZGa3ZCbmYtbWxmdzlXTW16SXBDZXl0RlhsYXVJdmphT0YzcUlmWjNMSEZYbnhFRzQzdEVkMlRUTzRubU1ObU03SWkwTFhnaTZzZkFSWmxsZTI4UDZwZXcyVXNEYkhrejljZG9kNk13Y0ZfUmxWaDJmSW1nZ3k5SkpzWFVoNjhzMFJFUWRKLTVvTjZNM1VJRWJJRjluVklqNUhscGN0cnkzVm9LRWFYOWE2eXhOXzhpQkM5aHh1Z0RWONIB9AFBVV95cUxNQ2hndTlzaXdRTVFHdmVSRTdmTFV4RF80NzVqbXhOamdBcXhURXNWLWtySWNRRUhlYTRjZlo3dFd4Y2JlVnBkaDc3c1p5clkyemtrWWp6VERzOWN5dWtqakFMR1c0djZtZ0Mwc1pDZ2dVTklrMHZvMEVpd2NMZkRRY1pRYXRZYXd0aFozczB0VHdZUXROX1dYTWh2VWlpWkVQSjEyeUxHYktid2w5TUY2alJuaUFBeFdPc2ZFZHViSF81SVphTVVjU3RoaEhzODI2R2NUcTd3a2tPSWViTTlfRjVwNmM2WWo0cGhOTVZYTzFncHFl?oc=5",
+      "source": "RaiNews",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-08-04T07:00:00.000Z",
+      "excerpt": "Alta tensione sulle chat di Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -3238,15 +3238,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2puZ01hV3dTTU03ZExEM2lDYmFqTkI3VUpqbVU5dkFEMGFyT3Badm1xcXYxeGNQVk1SWFY1UGsyUmljTEdDbzJzVlRwcXFwTzRGUGpGZjYteTJkODAza2VFT1plRkVJcUdjYTNXVDJVQW9GRmhPOVA2S1d4ZElkc3FhVFJ5RFI3eFdLUmRmdHZEMmZ1RGdPLWNFajJkdkVFTDZ6SkxBbVhoZVFVV1RuYjZR?oc=5",
       "source": "Il Foglio",
       "sourceHost": "ilfoglio.it",
-      "queryLabel": "Soci e societa'",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Caroccia",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl",
-        "clan Senese"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "altro"
@@ -3540,6 +3535,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "ansa.it__ansa__caso chat delmastro rinviato giunta autorizzazioni camera__2026-07-30T07:00:00.000Z",
+      "title": "Il caso delle chat di Delmastro rinviato in giunta delle autorizzazioni della Camera",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOQTA5cU1xdkFDQ0lITVZaS3NUYzgwZmt3d3JyaUVCSVU1bm1QYl8xYWlUa1ZhMHg0ZTNvMjBTSWozUkZYSnRzVk03MVd2ZXVjMmU2dk5rMi00ci14ZGFPb1JRdnhYYnJQS2xfXzVXeU5VWnd4dEMwbzhVOXY0WjByaUNjZHhjZnBhZ1otV1dHbnB1TDFYOFBKbDItWi1LSTFfUjJWbUswLUxTQWVzVTRGdHVBcTREd01tQkNIcnBsRVpIZG9XdC1ReWM5VEMyV0h4ZElUNzhtTTdJVzAxZjBPeUJlVFFLVGhkMS1UT1V1am0zaklQQjE5X3ByNkVXZmhnUGpMbU9FTExjQQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOQTA5cU1xdkFDQ0lITVZaS3NUYzgwZmt3d3JyaUVCSVU1bm1QYl8xYWlUa1ZhMHg0ZTNvMjBTSWozUkZYSnRzVk03MVd2ZXVjMmU2dk5rMi00ci14ZGFPb1JRdnhYYnJQS2xfXzVXeU5VWnd4dEMwbzhVOXY0WjByaUNjZHhjZnBhZ1otV1dHbnB1TDFYOFBKbDItWi1LSTFfUjJWbUswLUxTQWVzVTRGdHVBcTREd01tQkNIcnBsRVpIZG9XdC1ReWM5VEMyV0h4ZElUNzhtTTdJVzAxZjBPeUJlVFFLVGhkMS1UT1V1am0zaklQQjE5X3ByNkVXZmhnUGpMbU9FTExjQQ?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-07-30T07:00:00.000Z",
+      "excerpt": "Il caso delle chat di Delmastro rinviato in giunta delle autorizzazioni della Camera",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "ansa.it__ansa__delmastro dori maggioranza ok accesso chat mandate procura membri giunta__2026-07-30T07:00:00.000Z",
       "title": "++ Delmastro: Dori a maggioranza, ok accesso a chat mandate da Procura a membri giunta ++",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeUpvRHlYLUI0X0lUM0pnaUxXNlE5SV9yR2w3QWhPU1lIcGtuMlBNMERBQk8yNW90akVEZUl0MFFfYzFVa0luRGpWVmpBN3Vidm0takhRc0NVTENuMXpsWG9rcUVBSkt2SkNSV1kwVU5GWmN5ZEdKdWVZZFozbHF0akItZnhPN2U2TVdyS0hPd1hsTEVQQTdJNHZPVWpVVm9la0FqQzV6Zjc2SEpqdldPQTRzeHd0Qlh3c24xVFc1NzExY1JaVVlYZWxXb3RkZXlmeG1VZ2lqS0EzaGV6OUpiVVN1RGtnMWR0dTMyeG5ON2JDamYtOFAwN3pZdVpTa3JDS1cw?oc=5",
@@ -3596,26 +3611,6 @@
       ],
       "publishedAt": "2026-07-30T07:00:00.000Z",
       "excerpt": "Fontana chiede parere a Giunta regolamento, congelato accesso a chat Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ansa.it__ansa__caso chat delmastro rinviato giunta autorizzazioni camera__2026-07-30T07:00:00.000Z",
-      "title": "Il caso delle chat di Delmastro rinviato in giunta delle autorizzazioni della Camera",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOQTA5cU1xdkFDQ0lITVZaS3NUYzgwZmt3d3JyaUVCSVU1bm1QYl8xYWlUa1ZhMHg0ZTNvMjBTSWozUkZYSnRzVk03MVd2ZXVjMmU2dk5rMi00ci14ZGFPb1JRdnhYYnJQS2xfXzVXeU5VWnd4dEMwbzhVOXY0WjByaUNjZHhjZnBhZ1otV1dHbnB1TDFYOFBKbDItWi1LSTFfUjJWbUswLUxTQWVzVTRGdHVBcTREd01tQkNIcnBsRVpIZG9XdC1ReWM5VEMyV0h4ZElUNzhtTTdJVzAxZjBPeUJlVFFLVGhkMS1UT1V1am0zaklQQjE5X3ByNkVXZmhnUGpMbU9FTExjQQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOQTA5cU1xdkFDQ0lITVZaS3NUYzgwZmt3d3JyaUVCSVU1bm1QYl8xYWlUa1ZhMHg0ZTNvMjBTSWozUkZYSnRzVk03MVd2ZXVjMmU2dk5rMi00ci14ZGFPb1JRdnhYYnJQS2xfXzVXeU5VWnd4dEMwbzhVOXY0WjByaUNjZHhjZnBhZ1otV1dHbnB1TDFYOFBKbDItWi1LSTFfUjJWbUswLUxTQWVzVTRGdHVBcTREd01tQkNIcnBsRVpIZG9XdC1ReWM5VEMyV0h4ZElUNzhtTTdJVzAxZjBPeUJlVFFLVGhkMS1UT1V1am0zaklQQjE5X3ByNkVXZmhnUGpMbU9FTExjQQ?oc=5",
-      "source": "ANSA",
-      "sourceHost": "ansa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-07-30T07:00:00.000Z",
-      "excerpt": "Il caso delle chat di Delmastro rinviato in giunta delle autorizzazioni della Camera",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -4237,26 +4232,6 @@
       ],
       "publishedAt": "2026-07-29T07:00:00.000Z",
       "excerpt": "Chat Delmastro, Pd e M5S al voto con due relatori",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "quotidiano.net__quotidiano nazionale__nordio delmastro caso minetti non ha insegnato cautela notizie poi rivelatesi frottole__2026-07-29T07:00:00.000Z",
-      "title": "Nordio su Delmastro: Caso Minetti non ha insegnato cautela su notizie poi rivelatesi frottole",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRmUtdG5EYU53VC1MdU9Ja01qb2YySHRNUFB5ZF8wSW5pbVhxemVNbEZPOXZ1b3BwRWUxd3AwWGtlblBmdmlKOFdYZm9wYUZOaUR4T21BaGU5TmlGOGhad0RjekR6ZENzZ2loUEdSdGVWclRBZFpRck9yN2JqSTBvNmJVT2FEUnV3dUJUZGZwUXBhMGRvSDBkaFk5TFRMd093MnhheUExaWRWeE9NeGs1R3Zhd1k2WDU5clpMekFEMHgxNzFOcHg3dWM1RV9hSUIxYjd4Uml4RnlsSzg?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRmUtdG5EYU53VC1MdU9Ja01qb2YySHRNUFB5ZF8wSW5pbVhxemVNbEZPOXZ1b3BwRWUxd3AwWGtlblBmdmlKOFdYZm9wYUZOaUR4T21BaGU5TmlGOGhad0RjekR6ZENzZ2loUEdSdGVWclRBZFpRck9yN2JqSTBvNmJVT2FEUnV3dUJUZGZwUXBhMGRvSDBkaFk5TFRMd093MnhheUExaWRWeE9NeGs1R3Zhd1k2WDU5clpMekFEMHgxNzFOcHg3dWM1RV9hSUIxYjd4Uml4RnlsSzg?oc=5",
-      "source": "Quotidiano Nazionale",
-      "sourceHost": "quotidiano.net",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-07-29T07:00:00.000Z",
-      "excerpt": "Nordio su Delmastro: Caso Minetti non ha insegnato cautela su notizie poi rivelatesi frottole",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -5225,26 +5200,6 @@
       ],
       "publishedAt": "2026-07-22T07:00:00.000Z",
       "excerpt": "M5s occupano banchi del governo per il caso Delmastro: \"Fuori le chat\"",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ansa.it__ansa__camera no giunta richiesta magistrati acquisizione chat delmastro__2026-07-22T07:00:00.000Z",
-      "title": "++ Camera: no della giunta a richiesta magistrati su acquisizione chat Delmastro ++",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSWJZM19LY184VHREUmx5dk1WV3A3UjVTTmFUWWhVMW8yWktRczQzbVFFcFExSTdQUnBTanhVXzRMMUNYVzJmRUhqUUw5elRVY1lpQzczeDR1clRDQnRhQUNsdURsQVljMWNHcWNFWDJEaC1pUEk0ZE9VSE9lWjFwVG9UaHg3WklRNzdpa2xyVWhTaEI0endrcklEeTFVMnVGRndKeEFoTUJYMHFXNDRGMnQzMWdTdFFHcG1wWDVGZDVKb1hGVWc2MFlhQUhRQWR2Z09pMktYSDFpYmVRVldBYVZXeDcxWjB6OG9mc0tDNEhGVWxBbEFRYWVHTEw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSWJZM19LY184VHREUmx5dk1WV3A3UjVTTmFUWWhVMW8yWktRczQzbVFFcFExSTdQUnBTanhVXzRMMUNYVzJmRUhqUUw5elRVY1lpQzczeDR1clRDQnRhQUNsdURsQVljMWNHcWNFWDJEaC1pUEk0ZE9VSE9lWjFwVG9UaHg3WklRNzdpa2xyVWhTaEI0endrcklEeTFVMnVGRndKeEFoTUJYMHFXNDRGMnQzMWdTdFFHcG1wWDVGZDVKb1hGVWc2MFlhQUhRQWR2Z09pMktYSDFpYmVRVldBYVZXeDcxWjB6OG9mc0tDNEhGVWxBbEFRYWVHTEw?oc=5",
-      "source": "ANSA",
-      "sourceHost": "ansa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-07-22T07:00:00.000Z",
-      "excerpt": "++ Camera: no della giunta a richiesta magistrati su acquisizione chat Delmastro ++",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

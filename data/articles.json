@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T14:19:14.102Z",
+  "generatedAt": "2026-08-24T15:10:53.113Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-07-10T14:19:14.102Z",
-    "to": "2026-08-24T14:19:14.102Z",
+    "from": "2026-07-10T15:10:53.113Z",
+    "to": "2026-08-24T15:10:53.113Z",
     "days": 45
   },
   "sources": [
@@ -183,8 +183,13 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 586,
-      "uniqueArticles": 292
+      "fetchedArticles": 583,
+      "uniqueArticles": 291
+    },
+    {
+      "label": "Filone giudiziario",
+      "fetchedArticles": 60,
+      "uniqueArticles": 2
     },
     {
       "label": "Bisteccheria",
@@ -193,12 +198,7 @@
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 163,
-      "uniqueArticles": 1
-    },
-    {
-      "label": "Filone giudiziario",
-      "fetchedArticles": 59,
+      "fetchedArticles": 161,
       "uniqueArticles": 1
     },
     {
@@ -1103,26 +1103,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ansa.it__ansa__deputati avs aula si bendano occhi protesta sul caso delmastro__2026-08-05T07:00:00.000Z",
-      "title": "I deputati Avs in Aula si bendano gli occhi per protesta sul caso Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjlCVG5tZUhQcEZCYzJJX2xvRWNiVVMzM1Boc1JfMFRFUXFLQ2tzWE1HQ2dQUHJJX3JxLTRIRHlFWmxFWGFXWDVRcXY2SE1JT3IzUGJHamJvWnJaUHU5MUpMNE5LYzdVSkZHTUdpTnVyOHFETmI3cl9ZWWYtUlVHaUViMDFlUGhTM1hpdjBibHpMLWh3UC1sZnhFWWVPNHpFckJ5dXlCTzZpeGJROFVzcXhRNlZUNDhiOUtwNVJrem05cnFzc0N2TkFCaTQwaHBLdTNhTUlWeFJZXy1zTTgzc1F6ZXpHR2h6dHNkSUwzYjktdw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjlCVG5tZUhQcEZCYzJJX2xvRWNiVVMzM1Boc1JfMFRFUXFLQ2tzWE1HQ2dQUHJJX3JxLTRIRHlFWmxFWGFXWDVRcXY2SE1JT3IzUGJHamJvWnJaUHU5MUpMNE5LYzdVSkZHTUdpTnVyOHFETmI3cl9ZWWYtUlVHaUViMDFlUGhTM1hpdjBibHpMLWh3UC1sZnhFWWVPNHpFckJ5dXlCTzZpeGJROFVzcXhRNlZUNDhiOUtwNVJrem05cnFzc0N2TkFCaTQwaHBLdTNhTUlWeFJZXy1zTTgzc1F6ZXpHR2h6dHNkSUwzYjktdw?oc=5",
-      "source": "ANSA",
-      "sourceHost": "ansa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-08-05T07:00:00.000Z",
-      "excerpt": "I deputati Avs in Aula si bendano gli occhi per protesta sul caso Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ansa.it__ansa__no all uso chat delmastro bagarre camera__2026-08-05T07:00:00.000Z",
       "title": "No all'uso delle chat di Delmastro, bagarre alla Camera",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMUg1RGM3R0llUEFMdlBaNGFMeG1yM3NWZDVmS1pLbXZINkVvS2puVjM1T1BCaDJOd1VxRnNvR2gxcmRaRnVleUd3M3VPckJZWDAyZVFEOHVyS2NtR0NpS0R5emdhOGlGLWRZbnltbGpyN3RxdHNxSVRtbjRERzMtN1BoNXphVUZWd1NzOTNrNDlQSjJqRC1FVm4yQzZKellDa0NtN1FZa014LXg1RmVIcnZSQVRKOUh4YWNFRjlqdDFMM1dzMGFPMEJoRUprMHhndE9JMDJEenZvakFvVlNod09UYXg4RFR5YlY3aw?oc=5",
@@ -1139,6 +1119,26 @@
       ],
       "publishedAt": "2026-08-05T07:00:00.000Z",
       "excerpt": "No all'uso delle chat di Delmastro, bagarre alla Camera",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ansa.it__ansa__deputati avs aula si bendano occhi protesta sul caso delmastro__2026-08-05T07:00:00.000Z",
+      "title": "I deputati Avs in Aula si bendano gli occhi per protesta sul caso Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjlCVG5tZUhQcEZCYzJJX2xvRWNiVVMzM1Boc1JfMFRFUXFLQ2tzWE1HQ2dQUHJJX3JxLTRIRHlFWmxFWGFXWDVRcXY2SE1JT3IzUGJHamJvWnJaUHU5MUpMNE5LYzdVSkZHTUdpTnVyOHFETmI3cl9ZWWYtUlVHaUViMDFlUGhTM1hpdjBibHpMLWh3UC1sZnhFWWVPNHpFckJ5dXlCTzZpeGJROFVzcXhRNlZUNDhiOUtwNVJrem05cnFzc0N2TkFCaTQwaHBLdTNhTUlWeFJZXy1zTTgzc1F6ZXpHR2h6dHNkSUwzYjktdw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVjlCVG5tZUhQcEZCYzJJX2xvRWNiVVMzM1Boc1JfMFRFUXFLQ2tzWE1HQ2dQUHJJX3JxLTRIRHlFWmxFWGFXWDVRcXY2SE1JT3IzUGJHamJvWnJaUHU5MUpMNE5LYzdVSkZHTUdpTnVyOHFETmI3cl9ZWWYtUlVHaUViMDFlUGhTM1hpdjBibHpMLWh3UC1sZnhFWWVPNHpFckJ5dXlCTzZpeGJROFVzcXhRNlZUNDhiOUtwNVJrem05cnFzc0N2TkFCaTQwaHBLdTNhTUlWeFJZXy1zTTgzc1F6ZXpHR2h6dHNkSUwzYjktdw?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "excerpt": "I deputati Avs in Aula si bendano gli occhi per protesta sul caso Delmastro",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -3137,10 +3137,12 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNTRDTDhfSUMzNUVxT2t3Nm11ZXFyd1Nic3VxSV9HcnBOdEE0eEwtMEJFSXdqRGVtcVFQNktNSzVNNFAzQUo0RGJsRHJtOFpXT1liRWVxZlBDR2JQVkxTdGlVZGNYbTE0bDFmd3BOU1hCRFpiSDAzeTZ4dWgzejUzaWZOUUNJVjVhRWkwa0lzQTk5SHRYVVJjVlVHbS1PODBrME1zbG9jLXQ2bFVtQlRCbEtOS2M4MkRSc2U2UkhueDRhRy1CXzdIdkhnX2xpUjduVjVQM2JBSHk5UDZLbkZKeVk4SjZvZ0JMdkHSAe8BQVVfeXFMTkYyTGdFNVJsY09EYkJmNVJyb0pWeXRMZm5iNUxuSVpTMFh4b2dxcEE3Q2djdGxMTW9HNjkwNWFhWkFnd080M3p4U2pNNUtaQzAxNkZvSlRwRGhCbkNtdG1EUkUyekFwcnhzdW9haDRRZ3h1aVBWVV80RjhBUFFELV9fdjh5TDhEemlFVFYwQl9ib213d3cycDRqZC05QTROVjF3YUE1OUF2cHF0Yk1zV0I1Y2dxQ21iWFpCUFE2WUx0cGx4TTFmRmJNaUZNQ0tJdU50X2NpNjJNdjlsY1QzNk9MZ0ZhbVViY3BGR09TUTg?oc=5",
       "source": "Corriere Roma",
       "sourceHost": "corriere.it",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Filone giudiziario",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "intestazione fittizia di beni",
+        "antimafia",
+        "indagine Delmastro",
+        "pm Torino"
       ],
       "tags": [
         "altro"

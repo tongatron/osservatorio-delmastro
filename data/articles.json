@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T10:01:41.807Z",
+  "generatedAt": "2026-09-20T14:19:29.679Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,14 +94,14 @@
     ]
   },
   "window": {
-    "from": "2026-08-06T10:01:41.807Z",
-    "to": "2026-09-20T10:01:41.807Z",
+    "from": "2026-08-06T14:19:29.679Z",
+    "to": "2026-09-20T14:19:29.679Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 11
+      "articleCount": 10
     },
     {
       "label": "repubblica.it",
@@ -151,23 +151,23 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 54,
-      "uniqueArticles": 27
-    },
-    {
-      "label": "Bisteccheria",
-      "fetchedArticles": 15,
-      "uniqueArticles": 1
+      "fetchedArticles": 52,
+      "uniqueArticles": 26
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 16,
-      "uniqueArticles": 1
+      "fetchedArticles": 17,
+      "uniqueArticles": 2
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 22,
+      "fetchedArticles": 21,
       "uniqueArticles": 1
+    },
+    {
+      "label": "Bisteccheria",
+      "fetchedArticles": 14,
+      "uniqueArticles": 0
     },
     {
       "label": "Persone collegate",
@@ -182,7 +182,7 @@
     },
     {
       "tag": "altro",
-      "count": 9
+      "count": 8
     },
     {
       "tag": "politica",
@@ -208,7 +208,7 @@
     },
     {
       "date": "2026-08-09",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-08-10",
@@ -503,6 +503,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "repubblica.it__la repubblica__delmastro procura ricorre consulta ottenere chat caroccia__2026-09-12T07:00:00.000Z",
+      "title": "Delmastro, la Procura ricorre alla Consulta per ottenere le chat con Caroccia",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0lqeVo0ekpZb1ZSWDdNUnB5ZkhqbUVaczRkSmJhV2o4empFSS16QUpHZ2dYUDFtTXlSX09XbXI3YVBldGR4bXZjeXZ6RXNMc193ZkI3aC1TeHRBOFZhVlhaa0hDRnViMEtBWnQ1TGYzODQ5dWNNb041YTMxRHVkWmpiRjhSUWNad0JqZDV6UmgwR00tMnhjc19PSnk4NUlwdlRHc0haaUoyRHJIM05XV9IBtgFBVV95cUxPdEF0V2pkV0ItUldCMlJMdjgzeG8yMjE4Q05zUXRLcGllU1NNWFdiMDZEXzFnaWxvT2xIMmVNTUpsY2EySUVZazd4X0dDTmNvMGRRUDdCZFZtaWRXNkVNUkR0OGtBZ0E4QjJiU0xDeUdBT09MOEVubjBLcDV5M3dvN1pTS3dWZmFsbTUwdzVZOWtjMTBNN3RBQlVqTk5ETWphbHNuaGxZMWUzcHdwU0hlSXhLeGRBZw?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0lqeVo0ekpZb1ZSWDdNUnB5ZkhqbUVaczRkSmJhV2o4empFSS16QUpHZ2dYUDFtTXlSX09XbXI3YVBldGR4bXZjeXZ6RXNMc193ZkI3aC1TeHRBOFZhVlhaa0hDRnViMEtBWnQ1TGYzODQ5dWNNb041YTMxRHVkWmpiRjhSUWNad0JqZDV6UmgwR00tMnhjc19PSnk4NUlwdlRHc0haaUoyRHJIM05XV9IBtgFBVV95cUxPdEF0V2pkV0ItUldCMlJMdjgzeG8yMjE4Q05zUXRLcGllU1NNWFdiMDZEXzFnaWxvT2xIMmVNTUpsY2EySUVZazd4X0dDTmNvMGRRUDdCZFZtaWRXNkVNUkR0OGtBZ0E4QjJiU0xDeUdBT09MOEVubjBLcDV5M3dvN1pTS3dWZmFsbTUwdzVZOWtjMTBNN3RBQlVqTk5ETWphbHNuaGxZMWUzcHdwU0hlSXhLeGRBZw?oc=5",
+      "source": "la Repubblica",
+      "sourceHost": "repubblica.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-09-12T07:00:00.000Z",
+      "excerpt": "Delmastro, la Procura ricorre alla Consulta per ottenere le chat con Caroccia",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__chat delmastro ricorso pm corte costituzionale contro no camera__2026-09-12T07:00:00.000Z",
       "title": "Chat Delmastro, ricorso dei pm alla Corte costituzionale contro il “no” della Camera",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcjRlSmtlTXE3dVRPYzMxUFdsTmhhTGpsTkwwQnQtV3NqWFlZTWEzampENkozUU5DZ1UyUTRucHJQVU5sYklnUW9zbW1IVHFyQjBGSVI5aENnRG9tQUpDdWdWYkVqcDhZMDBuT3JyQmkzZEVwTTRLZWJFeHY2MHExNHlGWGtJbTQxaXEyNkg0LXNHT3MzWUJpSV9NREpCUG40NTBUTFV4dFc4VFFtSmVyWlVoUno2WFAxYnhIejh5N0lWR0dwQURjeG4tekowNlRXR3IxcVdZRlRIZ25PdlJhTEIzRnd3RWM2aWc?oc=5",
@@ -519,26 +539,6 @@
       ],
       "publishedAt": "2026-09-12T07:00:00.000Z",
       "excerpt": "Chat Delmastro, ricorso dei pm alla Corte costituzionale contro il “no” della Camera",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "repubblica.it__la repubblica__delmastro procura ricorre consulta ottenere chat caroccia__2026-09-11T23:00:00.000Z",
-      "title": "Delmastro, la Procura ricorre alla Consulta per ottenere le chat con Caroccia",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdEF0V2pkV0ItUldCMlJMdjgzeG8yMjE4Q05zUXRLcGllU1NNWFdiMDZEXzFnaWxvT2xIMmVNTUpsY2EySUVZazd4X0dDTmNvMGRRUDdCZFZtaWRXNkVNUkR0OGtBZ0E4QjJiU0xDeUdBT09MOEVubjBLcDV5M3dvN1pTS3dWZmFsbTUwdzVZOWtjMTBNN3RBQlVqTk5ETWphbHNuaGxZMWUzcHdwU0hlSXhLeGRBZ9IBtgFBVV95cUxPdEF0V2pkV0ItUldCMlJMdjgzeG8yMjE4Q05zUXRLcGllU1NNWFdiMDZEXzFnaWxvT2xIMmVNTUpsY2EySUVZazd4X0dDTmNvMGRRUDdCZFZtaWRXNkVNUkR0OGtBZ0E4QjJiU0xDeUdBT09MOEVubjBLcDV5M3dvN1pTS3dWZmFsbTUwdzVZOWtjMTBNN3RBQlVqTk5ETWphbHNuaGxZMWUzcHdwU0hlSXhLeGRBZw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdEF0V2pkV0ItUldCMlJMdjgzeG8yMjE4Q05zUXRLcGllU1NNWFdiMDZEXzFnaWxvT2xIMmVNTUpsY2EySUVZazd4X0dDTmNvMGRRUDdCZFZtaWRXNkVNUkR0OGtBZ0E4QjJiU0xDeUdBT09MOEVubjBLcDV5M3dvN1pTS3dWZmFsbTUwdzVZOWtjMTBNN3RBQlVqTk5ETWphbHNuaGxZMWUzcHdwU0hlSXhLeGRBZ9IBtgFBVV95cUxPdEF0V2pkV0ItUldCMlJMdjgzeG8yMjE4Q05zUXRLcGllU1NNWFdiMDZEXzFnaWxvT2xIMmVNTUpsY2EySUVZazd4X0dDTmNvMGRRUDdCZFZtaWRXNkVNUkR0OGtBZ0E4QjJiU0xDeUdBT09MOEVubjBLcDV5M3dvN1pTS3dWZmFsbTUwdzVZOWtjMTBNN3RBQlVqTk5ETWphbHNuaGxZMWUzcHdwU0hlSXhLeGRBZw?oc=5",
-      "source": "la Repubblica",
-      "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-09-11T23:00:00.000Z",
-      "excerpt": "Delmastro, la Procura ricorre alla Consulta per ottenere le chat con Caroccia",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -563,46 +563,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "lastampa.it__la stampa__delmastro procura ricorre consulta chat__2026-09-11T14:36:00.000Z",
-      "title": "Delmastro, la Procura ricorre alla Consulta per le chat",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOW5iZXk0SGEwLWM1VVVvSl9YN2NGQ0JKUW9YOW9HVGlmc2psZEVwOUZUdnFRYnZPMUJwaUhBNy1JZzZVc1pJN0ItVkdRVGdVQVdXaVlWU1NyUWN6b3pVeWJfdFNyaTlheDZKdDcwa0FzU3BJLU1sTTdoVmlUZGlPYm9ucjZGUThGb1JyajZ6azBxYUtyOXdER3I3dl9mdzg3RHZZSEpSVE5jcjhZRl95RTFCQdIBuAFBVV95cUxOMS1YbUhyNUVxdk9uRXdnMnAxTW5ERVJSSy1qYnBnVHNwVkNPSFdtd2l2LXBFZUFXQ21jZjY3RHF5TllGT2FocnZkMTNOdUdnT19INnJHQlNXcHhlNWxHMFkyTWdIVTY0OGlLZHZVSW10THhhUElDdkFJMk5ma1VxbGRkSW9zRjViejcxS3luZGExMXFvc0tISldCUFRUaHNtQzBkcEpsbkxKOW9adWZDWUd5dWpsQXRx?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOW5iZXk0SGEwLWM1VVVvSl9YN2NGQ0JKUW9YOW9HVGlmc2psZEVwOUZUdnFRYnZPMUJwaUhBNy1JZzZVc1pJN0ItVkdRVGdVQVdXaVlWU1NyUWN6b3pVeWJfdFNyaTlheDZKdDcwa0FzU3BJLU1sTTdoVmlUZGlPYm9ucjZGUThGb1JyajZ6azBxYUtyOXdER3I3dl9mdzg3RHZZSEpSVE5jcjhZRl95RTFCQdIBuAFBVV95cUxOMS1YbUhyNUVxdk9uRXdnMnAxTW5ERVJSSy1qYnBnVHNwVkNPSFdtd2l2LXBFZUFXQ21jZjY3RHF5TllGT2FocnZkMTNOdUdnT19INnJHQlNXcHhlNWxHMFkyTWdIVTY0OGlLZHZVSW10THhhUElDdkFJMk5ma1VxbGRkSW9zRjViejcxS3luZGExMXFvc0tISldCUFRUaHNtQzBkcEpsbkxKOW9adWZDWUd5dWpsQXRx?oc=5",
-      "source": "La Stampa",
-      "sourceHost": "lastampa.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-09-11T14:36:00.000Z",
-      "excerpt": "Delmastro, la Procura ricorre alla Consulta per le chat",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "quotidiano.net__quotidiano nazionale__chat delmastro procura roma pronta sollevare conflitto attribuzione cos perche pm faranno ricorso consulta__2026-09-11T12:53:14.000Z",
-      "title": "Chat Delmastro, la procura di Roma pronta a sollevare il conflitto di attribuzione. Cos’è e perché i pm faranno ricorso alla Consulta",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYXBjaktjcUFnNFd4WXl0RmNmOFNoQjBmeWY5LUJIQW9RaktsTXVoazJZN1BVYVUzcDVrejZTbE9aVDFVTHNVT2xkWDJQZU1ORnc4Tm1YQmlGUXFQOW1QaHkxT25remdVRzFFSDlfeTMtczJwSlVEeFF5Mk5PaXpfcUdVVmJ3VU9vSGhXY0ZrREZrNXhIR1E?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYXBjaktjcUFnNFd4WXl0RmNmOFNoQjBmeWY5LUJIQW9RaktsTXVoazJZN1BVYVUzcDVrejZTbE9aVDFVTHNVT2xkWDJQZU1ORnc4Tm1YQmlGUXFQOW1QaHkxT25remdVRzFFSDlfeTMtczJwSlVEeFF5Mk5PaXpfcUdVVmJ3VU9vSGhXY0ZrREZrNXhIR1E?oc=5",
-      "source": "Quotidiano Nazionale",
-      "sourceHost": "quotidiano.net",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-09-11T12:53:14.000Z",
-      "excerpt": "Chat Delmastro, la procura di Roma pronta a sollevare il conflitto di attribuzione. Cos’è e perché i pm faranno ricorso alla Consulta",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ilgiornale.it__il giornale__caso delmastro scontro sulle chat procura solleva conflitto attribuzione__2026-09-11T12:35:23.000Z",
       "title": "Caso Delmastro, scontro sulle chat: la Procura solleva un conflitto di attribuzione",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcVptSWxXNWhKWjlpVWZIR0U4cmxrTTdmdjY3bEp6Z0t3cERORG5nelhDLWotRmZMdDNXYmNGSkpjdFdoWHFiQlpaV00tbFBRUm1ZTDIzMzhzNVduckMzUVJSdHdpMk52WEV1cmhvekZtbUt6REFfaXJfa05oclJFLWY2YmFFOGdheHAyaVRuRXNMR0hRcFNzLTZ6blNGMHpRX0F1QXZ5UWZiMHdUYVNoMVEwREhjV3FMalhIZWowbzFJSWl6ckxWZkFrNDIzUQ?oc=5",
@@ -623,16 +583,16 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ansa.it__ansa__chat delmastro procura roma solleva conflitto attribuzione__2026-09-11T12:29:22.000Z",
+      "id": "ansa.it__ansa.it__chat delmastro procura roma solleva conflitto attribuzione__2026-09-11T12:29:22.000Z",
       "title": "Le chat di Delmastro, la Procura di Roma solleva un conflitto di attribuzione",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNU5SVHREWkNDOFJKQnhaR0wxY1ZhZThJdkxVZ0RlSjBoRXA5WklnSnVrckFBVElRSFdoZXc3Y1gtM25SQmN5bVNjNHl3RU9Rem5wWDRpX2JrU1oweTJaMkJIb0t6RjNSVlZURkszMFpVcURpNTVaX1ROSS1pTVlZSkdUVXJiTE56bUNHc2YxUXpEdFF5TDFFZTZNRWh0VmNsdncweklTR0pjbE9ENWVmWW5NR3daamtuSmRBZUg0Z2JvOGxLcHdPTVVoQms0SHZPWkFOVnJHMm5ac2tiZ2huVmF2a1VjTklrLVRralMyZEdXdHZJeVR4U3l4T0poVEszRVHSAYICQVVfeXFMTTVOUlR0RFpDQzhSSkJ4WkdMMWNWYWU4SXZMVWdEZUowaEVwOVpJZ0p1a3JBQVRJUUhXaGV3N2NYLTNuUkJjeW1TYzR5d0VPUXpucFg0aV9ia1NaMHkyWjJCSG9LekYzUlZWVEZLMzBaVXFEaTU1Wl9UTkktaU1ZWUpHVFVyYkxOem1DR3NmMVF6RHRReUwxRWU2TUVodFZjbHZ3MHpJU0dKY2xPRDVlZlluTUd3WmprbkpkQWVINGdibzhsS3B3T01VaEJrNEh2T1pBTlZyRzJuWnNrYmdoblZhdmtVY05Jay1Ua2pTMmRHV3R2SXlUeFN5eE9KaFRLM0VR?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNU5SVHREWkNDOFJKQnhaR0wxY1ZhZThJdkxVZ0RlSjBoRXA5WklnSnVrckFBVElRSFdoZXc3Y1gtM25SQmN5bVNjNHl3RU9Rem5wWDRpX2JrU1oweTJaMkJIb0t6RjNSVlZURkszMFpVcURpNTVaX1ROSS1pTVlZSkdUVXJiTE56bUNHc2YxUXpEdFF5TDFFZTZNRWh0VmNsdncweklTR0pjbE9ENWVmWW5NR3daamtuSmRBZUg0Z2JvOGxLcHdPTVVoQms0SHZPWkFOVnJHMm5ac2tiZ2huVmF2a1VjTklrLVRralMyZEdXdHZJeVR4U3l4T0poVEszRVHSAYICQVVfeXFMTTVOUlR0RFpDQzhSSkJ4WkdMMWNWYWU4SXZMVWdEZUowaEVwOVpJZ0p1a3JBQVRJUUhXaGV3N2NYLTNuUkJjeW1TYzR5d0VPUXpucFg0aV9ia1NaMHkyWjJCSG9LekYzUlZWVEZLMzBaVXFEaTU1Wl9UTkktaU1ZWUpHVFVyYkxOem1DR3NmMVF6RHRReUwxRWU2TUVodFZjbHZ3MHpJU0dKY2xPRDVlZlluTUd3WmprbkpkQWVINGdibzhsS3B3T01VaEJrNEh2T1pBTlZyRzJuWnNrYmdoblZhdmtVY05Jay1Ua2pTMmRHV3R2SXlUeFN5eE9KaFRLM0VR?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "giudiziaria"
@@ -679,6 +639,26 @@
       ],
       "publishedAt": "2026-09-11T07:00:00.000Z",
       "excerpt": "Caso Delmastro, la Procura di Roma ricorre alla Consulta: conflitto di attribuzione con la Camera sulle chat",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "lastampa.it__la stampa__delmastro procura ricorre consulta chat__2026-09-11T07:00:00.000Z",
+      "title": "Delmastro, la Procura ricorre alla Consulta per le chat",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOW5iZXk0SGEwLWM1VVVvSl9YN2NGQ0JKUW9YOW9HVGlmc2psZEVwOUZUdnFRYnZPMUJwaUhBNy1JZzZVc1pJN0ItVkdRVGdVQVdXaVlWU1NyUWN6b3pVeWJfdFNyaTlheDZKdDcwa0FzU3BJLU1sTTdoVmlUZGlPYm9ucjZGUThGb1JyajZ6azBxYUtyOXdER3I3dl9mdzg3RHZZSEpSVE5jcjhZRl95RTFCQdIBuAFBVV95cUxOMS1YbUhyNUVxdk9uRXdnMnAxTW5ERVJSSy1qYnBnVHNwVkNPSFdtd2l2LXBFZUFXQ21jZjY3RHF5TllGT2FocnZkMTNOdUdnT19INnJHQlNXcHhlNWxHMFkyTWdIVTY0OGlLZHZVSW10THhhUElDdkFJMk5ma1VxbGRkSW9zRjViejcxS3luZGExMXFvc0tISldCUFRUaHNtQzBkcEpsbkxKOW9adWZDWUd5dWpsQXRx?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOW5iZXk0SGEwLWM1VVVvSl9YN2NGQ0JKUW9YOW9HVGlmc2psZEVwOUZUdnFRYnZPMUJwaUhBNy1JZzZVc1pJN0ItVkdRVGdVQVdXaVlWU1NyUWN6b3pVeWJfdFNyaTlheDZKdDcwa0FzU3BJLU1sTTdoVmlUZGlPYm9ucjZGUThGb1JyajZ6azBxYUtyOXdER3I3dl9mdzg3RHZZSEpSVE5jcjhZRl95RTFCQdIBuAFBVV95cUxOMS1YbUhyNUVxdk9uRXdnMnAxTW5ERVJSSy1qYnBnVHNwVkNPSFdtd2l2LXBFZUFXQ21jZjY3RHF5TllGT2FocnZkMTNOdUdnT19INnJHQlNXcHhlNWxHMFkyTWdIVTY0OGlLZHZVSW10THhhUElDdkFJMk5ma1VxbGRkSW9zRjViejcxS3luZGExMXFvc0tISldCUFRUaHNtQzBkcEpsbkxKOW9adWZDWUd5dWpsQXRx?oc=5",
+      "source": "La Stampa",
+      "sourceHost": "lastampa.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-09-11T07:00:00.000Z",
+      "excerpt": "Delmastro, la Procura ricorre alla Consulta per le chat",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -739,6 +719,26 @@
       ],
       "publishedAt": "2026-09-11T07:00:00.000Z",
       "excerpt": "Chat Delmastro-Caroccia, la Procura di Roma solleva un conflitto di attribuzione alla Corte Costituzionale",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "quotidiano.net__quotidiano nazionale__chat delmastro procura roma pronta sollevare conflitto attribuzione cos perche pm faranno ricorso consulta__2026-09-11T07:00:00.000Z",
+      "title": "Chat Delmastro, la procura di Roma pronta a sollevare il conflitto di attribuzione. Cos’è e perché i pm faranno ricorso alla Consulta",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYXBjaktjcUFnNFd4WXl0RmNmOFNoQjBmeWY5LUJIQW9RaktsTXVoazJZN1BVYVUzcDVrejZTbE9aVDFVTHNVT2xkWDJQZU1ORnc4Tm1YQmlGUXFQOW1QaHkxT25remdVRzFFSDlfeTMtczJwSlVEeFF5Mk5PaXpfcUdVVmJ3VU9vSGhXY0ZrREZrNXhIR1E?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYXBjaktjcUFnNFd4WXl0RmNmOFNoQjBmeWY5LUJIQW9RaktsTXVoazJZN1BVYVUzcDVrejZTbE9aVDFVTHNVT2xkWDJQZU1ORnc4Tm1YQmlGUXFQOW1QaHkxT25remdVRzFFSDlfeTMtczJwSlVEeFF5Mk5PaXpfcUdVVmJ3VU9vSGhXY0ZrREZrNXhIR1E?oc=5",
+      "source": "Quotidiano Nazionale",
+      "sourceHost": "quotidiano.net",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-09-11T07:00:00.000Z",
+      "excerpt": "Chat Delmastro, la procura di Roma pronta a sollevare il conflitto di attribuzione. Cos’è e perché i pm faranno ricorso alla Consulta",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -884,26 +884,6 @@
       ],
       "publishedAt": "2026-08-18T07:00:00.000Z",
       "excerpt": "Caso Delmastro: le chat tornano in procura, la maggioranza le blocca",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro torna l arroganza potere__2026-08-09T07:00:00.000Z",
-      "title": "Caso Delmastro, torna l’arroganza del potere",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORFdrSGRfRXdnc19TaF9YR1pxM1FFbTZadURnZ2xCbHgtMkMwRS12VkEySUFnbmtEOGx1eVNSaWF6V2hURmUzYlBjNFpPeWFmdTlfbkNDQkhoam9GTzR2cHkwa0s1cElIRl8xcDZReW9hY19mZGZpbndZdlJaNF81SVNrbGVlN2I2OEpGOC14Tnd2cVFXRUZNTzBCWDFQTkhwUmN0ZWV5d0xUc0dwVHE5UEdJY0xfQQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORFdrSGRfRXdnc19TaF9YR1pxM1FFbTZadURnZ2xCbHgtMkMwRS12VkEySUFnbmtEOGx1eVNSaWF6V2hURmUzYlBjNFpPeWFmdTlfbkNDQkhoam9GTzR2cHkwa0s1cElIRl8xcDZReW9hY19mZGZpbndZdlJaNF81SVNrbGVlN2I2OEpGOC14Tnd2cVFXRUZNTzBCWDFQTkhwUmN0ZWV5d0xUc0dwVHE5UEdJY0xfQQ?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-08-09T07:00:00.000Z",
-      "excerpt": "Caso Delmastro, torna l’arroganza del potere",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

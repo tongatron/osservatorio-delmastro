@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T01:46:02.984Z",
+  "generatedAt": "2026-09-22T07:36:52.894Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,14 +94,14 @@
     ]
   },
   "window": {
-    "from": "2026-08-08T01:46:02.984Z",
-    "to": "2026-09-22T01:46:02.984Z",
+    "from": "2026-08-08T07:36:52.894Z",
+    "to": "2026-09-22T07:36:52.894Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 10
+      "articleCount": 8
     },
     {
       "label": "repubblica.it",
@@ -118,10 +118,6 @@
     {
       "label": "quotidiano.net",
       "articleCount": 2
-    },
-    {
-      "label": "rainews.it",
-      "articleCount": 1
     },
     {
       "label": "ilgiornale.it",
@@ -144,6 +140,10 @@
       "articleCount": 1
     },
     {
+      "label": "rainews.it",
+      "articleCount": 1
+    },
+    {
       "label": "affaritaliani.it",
       "articleCount": 1
     },
@@ -155,12 +155,12 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 54,
-      "uniqueArticles": 27
+      "fetchedArticles": 50,
+      "uniqueArticles": 25
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 21,
+      "fetchedArticles": 19,
       "uniqueArticles": 1
     },
     {
@@ -175,7 +175,7 @@
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 12,
+      "fetchedArticles": 11,
       "uniqueArticles": 0
     }
   ],
@@ -186,7 +186,7 @@
     },
     {
       "tag": "altro",
-      "count": 9
+      "count": 7
     },
     {
       "tag": "politica",
@@ -200,7 +200,7 @@
   "timeline": [
     {
       "date": "2026-08-08",
-      "count": 2
+      "count": 0
     },
     {
       "date": "2026-08-09",
@@ -547,26 +547,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "rainews.it__rainews__chat delmastro caroccia procura roma solleva conflitto attribuzione__2026-09-11T20:35:00.000Z",
-      "title": "Chat Delmastro-Caroccia, la Procura di Roma solleva un conflitto di attribuzione",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPS0tTaHJUaW92T3JielZDZWZFOUVzUVNMMEZZTnVmOGNsTnN1ME9hYTFPdmlzLXplUERJRGk2a3pUOTBHVVpTcUJNLUdsTkxuc0NLNGNwWmRZY29CTVNDWEtsUWJmM0JxQWM3TUc5cFN6UWszT3o1Y0t0RzJLbU0zMWhQa3NTMWdSazc1Y2kyeGpkVV9kQkF4aDVFUzhUTDBKam9pVUx5TFVIZXNhLXVRSGl5dDVpVWROQkRSRGR2TkZsS202bGh1S0hpR1FVekUxMW5nRnROZTI1YjE0SVYzRE1GVlpXaVBQVUUzWC1pdXNuOF8wLWV0czRIYXk2ZEp4V0F0cdIBigJBVV95cUxOUTZGQ0kzNkRPTkRfOV9vajlYaWxWY3VLY3BBRjZWWmRYVWl6TVZyUk5oTGdkbkxJeEhoYXVPWjBSWTZoYlJvdWctWTUzUDgtYm9fbmFDRnl0dlNnQ1Znb1Q5Q0VDemZ2bHVjUjZxREhvY0FzemkySkdHZDlqakthNzh2Q1hIUmFIQzRJQTBWdy1YOThOQWY5TU8yUE03S3kyVXpkOGFpSElmR3hEOGZfc2FfbkxzRzBiaENGbzNiYjk3bWtETFBOTzFPTW9IalhDbTNRZHB3NTFxS2Y1SDJJZDZRN29LMl9zWmF1bi1IOGhpYUY3T0tqdVZ1QWRlX29tWF93NGN6OTZNUQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPS0tTaHJUaW92T3JielZDZWZFOUVzUVNMMEZZTnVmOGNsTnN1ME9hYTFPdmlzLXplUERJRGk2a3pUOTBHVVpTcUJNLUdsTkxuc0NLNGNwWmRZY29CTVNDWEtsUWJmM0JxQWM3TUc5cFN6UWszT3o1Y0t0RzJLbU0zMWhQa3NTMWdSazc1Y2kyeGpkVV9kQkF4aDVFUzhUTDBKam9pVUx5TFVIZXNhLXVRSGl5dDVpVWROQkRSRGR2TkZsS202bGh1S0hpR1FVekUxMW5nRnROZTI1YjE0SVYzRE1GVlpXaVBQVUUzWC1pdXNuOF8wLWV0czRIYXk2ZEp4V0F0cdIBigJBVV95cUxOUTZGQ0kzNkRPTkRfOV9vajlYaWxWY3VLY3BBRjZWWmRYVWl6TVZyUk5oTGdkbkxJeEhoYXVPWjBSWTZoYlJvdWctWTUzUDgtYm9fbmFDRnl0dlNnQ1Znb1Q5Q0VDemZ2bHVjUjZxREhvY0FzemkySkdHZDlqakthNzh2Q1hIUmFIQzRJQTBWdy1YOThOQWY5TU8yUE03S3kyVXpkOGFpSElmR3hEOGZfc2FfbkxzRzBiaENGbzNiYjk3bWtETFBOTzFPTW9IalhDbTNRZHB3NTFxS2Y1SDJJZDZRN29LMl9zWmF1bi1IOGhpYUY3T0tqdVZ1QWRlX29tWF93NGN6OTZNUQ?oc=5",
-      "source": "RaiNews",
-      "sourceHost": "rainews.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-09-11T20:35:00.000Z",
-      "excerpt": "Chat Delmastro-Caroccia, la Procura di Roma solleva un conflitto di attribuzione",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "ilgiornale.it__il giornale__caso delmastro scontro sulle chat procura solleva conflitto attribuzione__2026-09-11T12:35:23.000Z",
       "title": "Caso Delmastro, scontro sulle chat: la Procura solleva un conflitto di attribuzione",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcVptSWxXNWhKWjlpVWZIR0U4cmxrTTdmdjY3bEp6Z0t3cERORG5nelhDLWotRmZMdDNXYmNGSkpjdFdoWHFiQlpaV00tbFBRUm1ZTDIzMzhzNVduckMzUVJSdHdpMk52WEV1cmhvekZtbUt6REFfaXJfa05oclJFLWY2YmFFOGdheHAyaVRuRXNMR0hRcFNzLTZ6blNGMHpRX0F1QXZ5UWZiMHdUYVNoMVEwREhjV3FMalhIZWowbzFJSWl6ckxWZkFrNDIzUQ?oc=5",
@@ -703,6 +683,26 @@
       ],
       "publishedAt": "2026-09-11T07:00:00.000Z",
       "excerpt": "Chat Delmastro, la Procura di Roma solleva un conflitto di attribuzione contro la Camera",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "rainews.it__rainews__chat delmastro caroccia procura roma solleva conflitto attribuzione__2026-09-11T07:00:00.000Z",
+      "title": "Chat Delmastro-Caroccia, la Procura di Roma solleva un conflitto di attribuzione",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPS0tTaHJUaW92T3JielZDZWZFOUVzUVNMMEZZTnVmOGNsTnN1ME9hYTFPdmlzLXplUERJRGk2a3pUOTBHVVpTcUJNLUdsTkxuc0NLNGNwWmRZY29CTVNDWEtsUWJmM0JxQWM3TUc5cFN6UWszT3o1Y0t0RzJLbU0zMWhQa3NTMWdSazc1Y2kyeGpkVV9kQkF4aDVFUzhUTDBKam9pVUx5TFVIZXNhLXVRSGl5dDVpVWROQkRSRGR2TkZsS202bGh1S0hpR1FVekUxMW5nRnROZTI1YjE0SVYzRE1GVlpXaVBQVUUzWC1pdXNuOF8wLWV0czRIYXk2ZEp4V0F0cdIBigJBVV95cUxOUTZGQ0kzNkRPTkRfOV9vajlYaWxWY3VLY3BBRjZWWmRYVWl6TVZyUk5oTGdkbkxJeEhoYXVPWjBSWTZoYlJvdWctWTUzUDgtYm9fbmFDRnl0dlNnQ1Znb1Q5Q0VDemZ2bHVjUjZxREhvY0FzemkySkdHZDlqakthNzh2Q1hIUmFIQzRJQTBWdy1YOThOQWY5TU8yUE03S3kyVXpkOGFpSElmR3hEOGZfc2FfbkxzRzBiaENGbzNiYjk3bWtETFBOTzFPTW9IalhDbTNRZHB3NTFxS2Y1SDJJZDZRN29LMl9zWmF1bi1IOGhpYUY3T0tqdVZ1QWRlX29tWF93NGN6OTZNUQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPS0tTaHJUaW92T3JielZDZWZFOUVzUVNMMEZZTnVmOGNsTnN1ME9hYTFPdmlzLXplUERJRGk2a3pUOTBHVVpTcUJNLUdsTkxuc0NLNGNwWmRZY29CTVNDWEtsUWJmM0JxQWM3TUc5cFN6UWszT3o1Y0t0RzJLbU0zMWhQa3NTMWdSazc1Y2kyeGpkVV9kQkF4aDVFUzhUTDBKam9pVUx5TFVIZXNhLXVRSGl5dDVpVWROQkRSRGR2TkZsS202bGh1S0hpR1FVekUxMW5nRnROZTI1YjE0SVYzRE1GVlpXaVBQVUUzWC1pdXNuOF8wLWV0czRIYXk2ZEp4V0F0cdIBigJBVV95cUxOUTZGQ0kzNkRPTkRfOV9vajlYaWxWY3VLY3BBRjZWWmRYVWl6TVZyUk5oTGdkbkxJeEhoYXVPWjBSWTZoYlJvdWctWTUzUDgtYm9fbmFDRnl0dlNnQ1Znb1Q5Q0VDemZ2bHVjUjZxREhvY0FzemkySkdHZDlqakthNzh2Q1hIUmFIQzRJQTBWdy1YOThOQWY5TU8yUE03S3kyVXpkOGFpSElmR3hEOGZfc2FfbkxzRzBiaENGbzNiYjk3bWtETFBOTzFPTW9IalhDbTNRZHB3NTFxS2Y1SDJJZDZRN29LMl9zWmF1bi1IOGhpYUY3T0tqdVZ1QWRlX29tWF93NGN6OTZNUQ?oc=5",
+      "source": "RaiNews",
+      "sourceHost": "rainews.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "giudiziaria"
+      ],
+      "publishedAt": "2026-09-11T07:00:00.000Z",
+      "excerpt": "Chat Delmastro-Caroccia, la Procura di Roma solleva un conflitto di attribuzione",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -908,46 +908,6 @@
       ],
       "publishedAt": "2026-08-18T07:00:00.000Z",
       "excerpt": "Caso Delmastro: le chat tornano in procura, la maggioranza le blocca",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__delirio nordio brinda delmastro poi scambia chat caroccia quelle meloni__2026-08-08T07:00:00.000Z",
-      "title": "Il delirio di Nordio: brinda con Delmastro, poi scambia le chat di Caroccia per quelle di Meloni",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPT0gwR3RKR0EyZmc3V08zcVd6aS15MHlWSnRUR0d5Zm54MjNSaDNTSHNmZDV3OFdHS0ZXS2lZXzBCUVlSSzV5SlduVVh6OVJoRUhPQ2p6elpya2ZIQUR1MHgzMG84TGktMU1TcGI5akhBTGIyS3ZyR09RejVPTllzSkZwTW1UYVZQdlozVWpLXzZNYXN2LXVnN01YbUtRcTFIRXJrYlFYSXhScTN4UUltVEs3R2ZaLWN5STRUU1d5TWJxUU5qU1Ytano4cHp6Y2lQemEtTVpsR0NBVl9pRDMtaWNrY21hRDFzR1V5R1ozOFhIQjlMazVIWFZSWQ?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPT0gwR3RKR0EyZmc3V08zcVd6aS15MHlWSnRUR0d5Zm54MjNSaDNTSHNmZDV3OFdHS0ZXS2lZXzBCUVlSSzV5SlduVVh6OVJoRUhPQ2p6elpya2ZIQUR1MHgzMG84TGktMU1TcGI5akhBTGIyS3ZyR09RejVPTllzSkZwTW1UYVZQdlozVWpLXzZNYXN2LXVnN01YbUtRcTFIRXJrYlFYSXhScTN4UUltVEs3R2ZaLWN5STRUU1d5TWJxUU5qU1Ytano4cHp6Y2lQemEtTVpsR0NBVl9pRDMtaWNrY21hRDFzR1V5R1ozOFhIQjlMazVIWFZSWQ?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-08-08T07:00:00.000Z",
-      "excerpt": "Il delirio di Nordio: brinda con Delmastro, poi scambia le chat di Caroccia per quelle di Meloni",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro lite nevi onorato populisti inseguite m5s vergognatevi voi forza italia siete diventati camerieri vannacci meloni la7__2026-08-08T07:00:00.000Z",
-      "title": "Delmastro, lite Nevi-Onorato. “Populisti, inseguite il M5s”. “Vergognatevi, voi di Forza Italia siete diventati i camerieri di Vannacci e Meloni”. Su La7",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTmZ0VXd6XzZKcEhOaDJtZDMwYWRPdUI1d2l0bEliN00zLWIyNEoxeWRWMmtHQnVPOEdSN2RHa0dGUW5oZ2JaTC1PdGpTcThQTVNTTUpFSHMxQXV6WlVFTlBoSW9CeGZvUWdfaUlHWW9qWmRXbVhYcndHQ0VnVGRjODU3Wk9TcGhpNllfQ2x0V1c3SUI0amlsRFF4Z1hMaTRNb3ZEbGZjWjRtREhQTXc?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTmZ0VXd6XzZKcEhOaDJtZDMwYWRPdUI1d2l0bEliN00zLWIyNEoxeWRWMmtHQnVPOEdSN2RHa0dGUW5oZ2JaTC1PdGpTcThQTVNTTUpFSHMxQXV6WlVFTlBoSW9CeGZvUWdfaUlHWW9qWmRXbVhYcndHQ0VnVGRjODU3Wk9TcGhpNllfQ2x0V1c3SUI0amlsRFF4Z1hMaTRNb3ZEbGZjWjRtREhQTXc?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-08-08T07:00:00.000Z",
-      "excerpt": "Delmastro, lite Nevi-Onorato. “Populisti, inseguite il M5s”. “Vergognatevi, voi di Forza Italia siete diventati i camerieri di Vannacci e Meloni”. Su La7",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T09:29:32.140Z",
+  "generatedAt": "2026-09-23T14:23:19.908Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-08-09T09:29:32.140Z",
-    "to": "2026-09-23T09:29:32.140Z",
+    "from": "2026-08-09T14:23:19.908Z",
+    "to": "2026-09-23T14:23:19.908Z",
     "days": 45
   },
   "sources": [
@@ -106,6 +106,10 @@
     {
       "label": "repubblica.it",
       "articleCount": 5
+    },
+    {
+      "label": "ilgiornale.it",
+      "articleCount": 2
     },
     {
       "label": "rainews.it",
@@ -148,10 +152,6 @@
       "articleCount": 1
     },
     {
-      "label": "ilgiornale.it",
-      "articleCount": 1
-    },
-    {
       "label": "ilbiellese.it",
       "articleCount": 1
     }
@@ -173,24 +173,24 @@
       "uniqueArticles": 1
     },
     {
-      "label": "Filone giudiziario",
-      "fetchedArticles": 14,
-      "uniqueArticles": 0
+      "label": "Persone collegate",
+      "fetchedArticles": 12,
+      "uniqueArticles": 1
     },
     {
-      "label": "Persone collegate",
-      "fetchedArticles": 11,
+      "label": "Filone giudiziario",
+      "fetchedArticles": 14,
       "uniqueArticles": 0
     }
   ],
   "tagSummary": [
     {
-      "tag": "giudiziaria",
+      "tag": "altro",
       "count": 15
     },
     {
-      "tag": "altro",
-      "count": 14
+      "tag": "giudiziaria",
+      "count": 15
     },
     {
       "tag": "politica",
@@ -384,10 +384,30 @@
     },
     {
       "date": "2026-09-23",
-      "count": 0
+      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "ilgiornale.it__il giornale__uso caso cospito fini politici strana sentenza delmastro__2026-09-23T10:00:00.000Z",
+      "title": "“Usò il caso Cospito a fini politici”. La strana sentenza su Delmastro",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbG1vUzlzWlp2Zlg4amczVU9pVlhhT2RPd0tzU1RRako0V3NLWTVJVWpHMVA3VGVmRHE4c0R5elRQSkpTMWVLQUdoTGRhNWQ5RzAwM1FsZ0hVZ2tsTGJ4S19tbVRSUFhXaHNlVThpbVJxc1d3eS15cnZVUmJZUkw3QUhsWGNrU2I1Mzg2eVhrWE1YLUpBdXhuOWpTeDFJZnBtaWFEVm5TdE9HUlZwNlczZlZB?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbG1vUzlzWlp2Zlg4amczVU9pVlhhT2RPd0tzU1RRako0V3NLWTVJVWpHMVA3VGVmRHE4c0R5elRQSkpTMWVLQUdoTGRhNWQ5RzAwM1FsZ0hVZ2tsTGJ4S19tbVRSUFhXaHNlVThpbVJxc1d3eS15cnZVUmJZUkw3QUhsWGNrU2I1Mzg2eVhrWE1YLUpBdXhuOWpTeDFJZnBtaWFEVm5TdE9HUlZwNlczZlZB?oc=5",
+      "source": "il Giornale",
+      "sourceHost": "ilgiornale.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-09-23T10:00:00.000Z",
+      "excerpt": "“Usò il caso Cospito a fini politici”. La strana sentenza su Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
     {
       "id": "rainews.it__rainews__delmastro rivelo atti coperti segreto d ufficio ecco motivazioni corte d appello__2026-09-22T17:40:13.000Z",
       "title": "\"Delmastro rivelò atti coperti dal segreto d'ufficio\", ecco le motivazioni della Corte d'Appello",
@@ -491,8 +511,8 @@
     {
       "id": "ansa.it__ansa__giudici delmastro informazioni segrete donzelli finalita politica__2026-09-22T12:01:00.000Z",
       "title": "Giudici, da Delmastro informazioni segrete a Donzelli per finalità politica",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYjc2RDNrZTVvV0w1aVlfc0lhejRfTUxiZndTTk9VSnlYQktEd20zTVBNLWg5RjVCY0dEdXJCWVQwamZtcmNhQUZETF84NVN3Mnk0R2RxRDVtazZTLVJEMHo1SjZWSjdITmItRTRfVkxjYkRvNjAxcHJzSVU5aGJfd0cwNzZFZmpDc0JsOVpfX2tnTURlbEN2dm1zODVhckZEWnNjbWFnbE1HS3ZQNGVqQ0JSUjYtRFE4Q1R3QTVzaXRyMTluckNXa0c4b01nQ0U2cXg3WVoya1lKZ2lPU2w1YTExNV9naGFkd2RLZGcyX0NYM1d5MEFkTTFybE4?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYjc2RDNrZTVvV0w1aVlfc0lhejRfTUxiZndTTk9VSnlYQktEd20zTVBNLWg5RjVCY0dEdXJCWVQwamZtcmNhQUZETF84NVN3Mnk0R2RxRDVtazZTLVJEMHo1SjZWSjdITmItRTRfVkxjYkRvNjAxcHJzSVU5aGJfd0cwNzZFZmpDc0JsOVpfX2tnTURlbEN2dm1zODVhckZEWnNjbWFnbE1HS3ZQNGVqQ0JSUjYtRFE4Q1R3QTVzaXRyMTluckNXa0c4b01nQ0U2cXg3WVoya1lKZ2lPU2w1YTExNV9naGFkd2RLZGcyX0NYM1d5MEFkTTFybE4?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQndkUm9HSzctRTFHOV8zVVRPQkt3TEE0djk4UlY1ZnRLVy00YnVVR0paeXRmOEtUU0xuQkRPc0xkOFVaSXd0WnNpVGdMbW5zRWlJMTRBbkJfNHdSMl93UXB1UU1mYlQtcW0xZGdwaXpHN0RrZFYyb3M5MXY0LVFGcGR2QzA4WDdUOU5Nd2J1YWo4M2xtZXhZenB5b1ZXRE1IZ2phZTVBMnEtLXEwQndWaV9nS1ZuWXY3YTRETWtrMGFHczdyeWdPOS1XUlU4elh0SllsZ1BrdUsyV1lBcEt2MEZRRE9NeG9QTHRNVjZlOHUxMnPSAfgBQVVfeXFMUFhaY0NubF93cllCcmVMS2UzTFN0d3Z4eHdycDljUXhfWlN5RVBJSHNjQ1F0UlNiSEk0Z3ZpeFllLTNjWEtQZjQ4Z3NoaDhyRXJkVU9wdlB6TUYyUnM3Z3hZZGJvcG0tWlAxV3VVQ21mbzItY1FSc1N4ZzhxMldnR3k1U28yZUM1SkdFalZLOFFpNGFvTzJQTTJCVGRWM0VYSVFkQjdvWUhpcGhiaVVTYldwcVNHOENLdDZGTE10Zl9EMEJJYVNwa3M2Z1A3V1JTa1p4VDhIQmVwSXZRQ2h4aFZ1Umo1V2pBNkdaeDZ1Sk4zZFM1Rzh6bHk?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQndkUm9HSzctRTFHOV8zVVRPQkt3TEE0djk4UlY1ZnRLVy00YnVVR0paeXRmOEtUU0xuQkRPc0xkOFVaSXd0WnNpVGdMbW5zRWlJMTRBbkJfNHdSMl93UXB1UU1mYlQtcW0xZGdwaXpHN0RrZFYyb3M5MXY0LVFGcGR2QzA4WDdUOU5Nd2J1YWo4M2xtZXhZenB5b1ZXRE1IZ2phZTVBMnEtLXEwQndWaV9nS1ZuWXY3YTRETWtrMGFHczdyeWdPOS1XUlU4elh0SllsZ1BrdUsyV1lBcEt2MEZRRE9NeG9QTHRNVjZlOHUxMnPSAfgBQVVfeXFMUFhaY0NubF93cllCcmVMS2UzTFN0d3Z4eHdycDljUXhfWlN5RVBJSHNjQ1F0UlNiSEk0Z3ZpeFllLTNjWEtQZjQ4Z3NoaDhyRXJkVU9wdlB6TUYyUnM3Z3hZZGJvcG0tWlAxV3VVQ21mbzItY1FSc1N4ZzhxMldnR3k1U28yZUM1SkdFalZLOFFpNGFvTzJQTTJCVGRWM0VYSVFkQjdvWUhpcGhiaVVTYldwcVNHOENLdDZGTE10Zl9EMEJJYVNwa3M2Z1A3V1JTa1p4VDhIQmVwSXZRQ2h4aFZ1Umo1V2pBNkdaeDZ1Sk4zZFM1Rzh6bHk?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
@@ -942,10 +962,12 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVlnWkphanlTSnU2eU82bkdjQ1haVmVMdlpvZDVGdGFrNlV0LWhyZ0pIeHRsT2NHbkJ6SG0xQWhmeGdFTU9CNDMwbnBzZ0pBVGJSYVU5ZkJrbVE5cXhMdG93d0JYdXJJRk5JSXJkRmV3cVhhT1dqYVNuUUExTFJUbENrdV9yUENtN2pXNm9INDZ3NWp2LXFGcXZWTTNTa3M4YlJNOE8wblY1THd2MUE?oc=5",
       "source": "Quotidiano Nazionale",
       "sourceHost": "quotidiano.net",
-      "queryLabel": "Delmastro generale",
+      "queryLabel": "Persone collegate",
       "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
+        "Elena Chiorino",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "clan Senese"
       ],
       "tags": [
         "altro"

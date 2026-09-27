@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T07:00:43.660Z",
+  "generatedAt": "2026-09-27T13:13:58.236Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-08-13T07:00:43.660Z",
-    "to": "2026-09-27T07:00:43.660Z",
+    "from": "2026-08-13T13:13:58.236Z",
+    "to": "2026-09-27T13:13:58.236Z",
     "days": 45
   },
   "sources": [
@@ -140,6 +140,10 @@
       "articleCount": 1
     },
     {
+      "label": "newsbiella.it",
+      "articleCount": 1
+    },
+    {
       "label": "today.it",
       "articleCount": 1
     },
@@ -155,17 +159,17 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 59,
-      "uniqueArticles": 29
+      "fetchedArticles": 61,
+      "uniqueArticles": 30
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 12,
+      "fetchedArticles": 18,
       "uniqueArticles": 1
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 10,
+      "fetchedArticles": 11,
       "uniqueArticles": 1
     },
     {
@@ -190,7 +194,11 @@
     },
     {
       "tag": "politica",
-      "count": 2
+      "count": 3
+    },
+    {
+      "tag": "territorio",
+      "count": 1
     }
   ],
   "timeline": [
@@ -320,7 +328,7 @@
     },
     {
       "date": "2026-09-13",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-09-14",
@@ -401,11 +409,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "rainews.it__rainews.it__delmastro rivelo atti coperti segreto d ufficio ecco motivazioni corte d appello__2026-09-22T17:40:13.000Z",
+      "id": "rainews.it__rainews__delmastro rivelo atti coperti segreto d ufficio ecco motivazioni corte d appello__2026-09-22T17:40:13.000Z",
       "title": "\"Delmastro rivelò atti coperti dal segreto d'ufficio\", ecco le motivazioni della Corte d'Appello",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNa2NkYkhSYkRrM2Ziel8tcVBVSUphendrZEhZOUl0dE5QbUFCT2ZWOTNydy1HRVVxcF81WGwzSm9Md3lOWFBGTU8tQVhTLU1YY3hXVjJadjJsdndiS0NFZmN2ZkgtY3B5UDBPLVp3aHA4SFJ3SUx0MEFCb19Ua0NZU19ScHN3eEJfaXc1QzZlYWxIbkFMMWNpVlVYTE1kbE9uRlV0d2R1QkNMWFpIajVXQldjeFhhMktZMjZpWVlmcFNPRlN6ZUhfLVJuckRLUVB5MjRabXV3cnRSb1JObHRnS3JjS2RKQzkzOFJHVzE1eGhmVDB1bkVXV0o1cXhfelhUMXF0VUNIbjVmQdIBjwJBVV95cUxQWnVCSDJMME1qZG5RWHRzbUE3LU5QZlNJS0ZRUHlSOGRfQ2UzY0tJdk1Cc0I0eUcxTHhDMUw2SnhiWFp2ckt3eWR6NHI2QlJfdmxBUnNLNGZxdkFmREQzSHRrQ25TeTJaTGIwNEFrN0FHM3dvS2xmalFrNUktLTlzZ1lwRDlZMlhSV0p4a1NwMjNEREF5bllSZzNRTmozZVBmZy1JT1pRV0R5VDVnZnlkejRWSnRmUUVlZ19TTEkxYjNaRkk2aWQwSG5JbUYxUFZsQTROX0c4Q0RzX2FfaEZGS0IxR1AwTnNzbHBNZGJfb2xiQUhHYzRpWUt6R18wdGdvWmtDUXM2N3dobnFlT1Bz?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNa2NkYkhSYkRrM2Ziel8tcVBVSUphendrZEhZOUl0dE5QbUFCT2ZWOTNydy1HRVVxcF81WGwzSm9Md3lOWFBGTU8tQVhTLU1YY3hXVjJadjJsdndiS0NFZmN2ZkgtY3B5UDBPLVp3aHA4SFJ3SUx0MEFCb19Ua0NZU19ScHN3eEJfaXc1QzZlYWxIbkFMMWNpVlVYTE1kbE9uRlV0d2R1QkNMWFpIajVXQldjeFhhMktZMjZpWVlmcFNPRlN6ZUhfLVJuckRLUVB5MjRabXV3cnRSb1JObHRnS3JjS2RKQzkzOFJHVzE1eGhmVDB1bkVXV0o1cXhfelhUMXF0VUNIbjVmQdIBjwJBVV95cUxQWnVCSDJMME1qZG5RWHRzbUE3LU5QZlNJS0ZRUHlSOGRfQ2UzY0tJdk1Cc0I0eUcxTHhDMUw2SnhiWFp2ckt3eWR6NHI2QlJfdmxBUnNLNGZxdkFmREQzSHRrQ25TeTJaTGIwNEFrN0FHM3dvS2xmalFrNUktLTlzZ1lwRDlZMlhSV0p4a1NwMjNEREF5bllSZzNRTmozZVBmZy1JT1pRV0R5VDVnZnlkejRWSnRmUUVlZ19TTEkxYjNaRkk2aWQwSG5JbUYxUFZsQTROX0c4Q0RzX2FfaEZGS0IxR1AwTnNzbHBNZGJfb2xiQUhHYzRpWUt6R18wdGdvWmtDUXM2N3dobnFlT1Bz?oc=5",
-      "source": "rainews.it",
+      "source": "RaiNews",
       "sourceHost": "rainews.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -501,11 +509,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "adnkronos.com__adnkronos__caso cospito motivazioni sentenza delmastro cosa scrivono giudici d appello__2026-09-22T11:52:00.000Z",
+      "id": "adnkronos.com__adnkronos.com__caso cospito motivazioni sentenza delmastro cosa scrivono giudici d appello__2026-09-22T11:52:00.000Z",
       "title": "Caso Cospito, le motivazioni della sentenza su Delmastro: cosa scrivono i giudici d'appello",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVYwOUdWTU5seW1NVmZDd0psLTNOdGlEN0RlTms2YWtMbWhhdFdCcXJjcUhNckxSWXYwa3lHc0RzUWh5Y0V1SllzZC1SNWN5cExLLUNLaTYyUXNTd0tILVRiODMxM3BWcXdsMEpLLWFLYWpBYTVOXzRHbmY0RE5UNjVsWGZZeEhFajhNSkdoT1ZoQzVSTzF1V3J5cEtXU2xOSHc?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVYwOUdWTU5seW1NVmZDd0psLTNOdGlEN0RlTms2YWtMbWhhdFdCcXJjcUhNckxSWXYwa3lHc0RzUWh5Y0V1SllzZC1SNWN5cExLLUNLaTYyUXNTd0tILVRiODMxM3BWcXdsMEpLLWFLYWpBYTVOXzRHbmY0RE5UNjVsWGZZeEhFajhNSkdoT1ZoQzVSTzF1V3J5cEtXU2xOSHc?oc=5",
-      "source": "Adnkronos",
+      "source": "adnkronos.com",
       "sourceHost": "adnkronos.com",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -617,6 +625,27 @@
       ],
       "publishedAt": "2026-09-15T07:00:00.000Z",
       "excerpt": "FdI, Meloni va dai giovani e non all’Onu. Torna pure Delmastro",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "newsbiella.it__newsbiella.it__biella ministro cultura giuli visita oropa delmastro governo meloni mantiene l impegno santuario foto video__2026-09-13T07:00:00.000Z",
+      "title": "Biella, il ministro della Cultura Giuli in visita a Oropa. Delmastro: “Il Governo Meloni mantiene l’impegno per il Santuario” FOTO e VIDEO",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYzE3eUMzRWxQQ3NfeVhCSXNvYXUwT2N6Y1pkUDJoUzNWZ1ZLWTNzY19mV0p1OFR6VFVkN0xTc2JoMGxaZnlHS1lZTDROS1V0R1hEZllYb3RiaG40b19GV3M4d3RicGQ2TWUwMUt6aklHLU9EZHN0RE02bFZRSG1BWUlkSERNSk0xZ3pmSW5fTVRHRGVtS1ZiT05sdjNxczRnODBDa3N0MVFQcUFNNEdpVUZnS29GNzM5T2xIWDBFWEtiNUZ6eWcteFJtZVZrMFg5QklXalVvUVctaU9KY3JtOTRGbVRFcmpLdi1wLVJLa1hjejRvV0U4Rk8zMnhuaVNocHpXcW1ObzZueGc?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYzE3eUMzRWxQQ3NfeVhCSXNvYXUwT2N6Y1pkUDJoUzNWZ1ZLWTNzY19mV0p1OFR6VFVkN0xTc2JoMGxaZnlHS1lZTDROS1V0R1hEZllYb3RiaG40b19GV3M4d3RicGQ2TWUwMUt6aklHLU9EZHN0RE02bFZRSG1BWUlkSERNSk0xZ3pmSW5fTVRHRGVtS1ZiT05sdjNxczRnODBDa3N0MVFQcUFNNEdpVUZnS29GNzM5T2xIWDBFWEtiNUZ6eWcteFJtZVZrMFg5QklXalVvUVctaU9KY3JtOTRGbVRFcmpLdi1wLVJLa1hjejRvV0U4Rk8zMnhuaVNocHpXcW1ObzZueGc?oc=5",
+      "source": "Newsbiella.it",
+      "sourceHost": "newsbiella.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica",
+        "territorio"
+      ],
+      "publishedAt": "2026-09-13T07:00:00.000Z",
+      "excerpt": "Biella, il ministro della Cultura Giuli in visita a Oropa. Delmastro: “Il Governo Meloni mantiene l’impegno per il Santuario” FOTO e VIDEO",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -801,11 +830,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "rainews.it__rainews.it__chat delmastro caroccia procura roma solleva conflitto attribuzione__2026-09-11T07:00:00.000Z",
+      "id": "rainews.it__rainews__chat delmastro caroccia procura roma solleva conflitto attribuzione__2026-09-11T07:00:00.000Z",
       "title": "Chat Delmastro-Caroccia, la Procura di Roma solleva un conflitto di attribuzione",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPS0tTaHJUaW92T3JielZDZWZFOUVzUVNMMEZZTnVmOGNsTnN1ME9hYTFPdmlzLXplUERJRGk2a3pUOTBHVVpTcUJNLUdsTkxuc0NLNGNwWmRZY29CTVNDWEtsUWJmM0JxQWM3TUc5cFN6UWszT3o1Y0t0RzJLbU0zMWhQa3NTMWdSazc1Y2kyeGpkVV9kQkF4aDVFUzhUTDBKam9pVUx5TFVIZXNhLXVRSGl5dDVpVWROQkRSRGR2TkZsS202bGh1S0hpR1FVekUxMW5nRnROZTI1YjE0SVYzRE1GVlpXaVBQVUUzWC1pdXNuOF8wLWV0czRIYXk2ZEp4V0F0cdIBigJBVV95cUxOUTZGQ0kzNkRPTkRfOV9vajlYaWxWY3VLY3BBRjZWWmRYVWl6TVZyUk5oTGdkbkxJeEhoYXVPWjBSWTZoYlJvdWctWTUzUDgtYm9fbmFDRnl0dlNnQ1Znb1Q5Q0VDemZ2bHVjUjZxREhvY0FzemkySkdHZDlqakthNzh2Q1hIUmFIQzRJQTBWdy1YOThOQWY5TU8yUE03S3kyVXpkOGFpSElmR3hEOGZfc2FfbkxzRzBiaENGbzNiYjk3bWtETFBOTzFPTW9IalhDbTNRZHB3NTFxS2Y1SDJJZDZRN29LMl9zWmF1bi1IOGhpYUY3T0tqdVZ1QWRlX29tWF93NGN6OTZNUQ?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPS0tTaHJUaW92T3JielZDZWZFOUVzUVNMMEZZTnVmOGNsTnN1ME9hYTFPdmlzLXplUERJRGk2a3pUOTBHVVpTcUJNLUdsTkxuc0NLNGNwWmRZY29CTVNDWEtsUWJmM0JxQWM3TUc5cFN6UWszT3o1Y0t0RzJLbU0zMWhQa3NTMWdSazc1Y2kyeGpkVV9kQkF4aDVFUzhUTDBKam9pVUx5TFVIZXNhLXVRSGl5dDVpVWROQkRSRGR2TkZsS202bGh1S0hpR1FVekUxMW5nRnROZTI1YjE0SVYzRE1GVlpXaVBQVUUzWC1pdXNuOF8wLWV0czRIYXk2ZEp4V0F0cdIBigJBVV95cUxOUTZGQ0kzNkRPTkRfOV9vajlYaWxWY3VLY3BBRjZWWmRYVWl6TVZyUk5oTGdkbkxJeEhoYXVPWjBSWTZoYlJvdWctWTUzUDgtYm9fbmFDRnl0dlNnQ1Znb1Q5Q0VDemZ2bHVjUjZxREhvY0FzemkySkdHZDlqakthNzh2Q1hIUmFIQzRJQTBWdy1YOThOQWY5TU8yUE03S3kyVXpkOGFpSElmR3hEOGZfc2FfbkxzRzBiaENGbzNiYjk3bWtETFBOTzFPTW9IalhDbTNRZHB3NTFxS2Y1SDJJZDZRN29LMl9zWmF1bi1IOGhpYUY3T0tqdVZ1QWRlX29tWF93NGN6OTZNUQ?oc=5",
-      "source": "rainews.it",
+      "source": "RaiNews",
       "sourceHost": "rainews.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -841,11 +870,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "quotidiano.net__quotidiano nazionale__chat delmastro procura roma pronta sollevare conflitto attribuzione cos perche pm faranno ricorso consulta__2026-09-11T07:00:00.000Z",
+      "id": "quotidiano.net__quotidiano.net__chat delmastro procura roma pronta sollevare conflitto attribuzione cos perche pm faranno ricorso consulta__2026-09-11T07:00:00.000Z",
       "title": "Chat Delmastro, la procura di Roma pronta a sollevare il conflitto di attribuzione. Cos’è e perché i pm faranno ricorso alla Consulta",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYXBjaktjcUFnNFd4WXl0RmNmOFNoQjBmeWY5LUJIQW9RaktsTXVoazJZN1BVYVUzcDVrejZTbE9aVDFVTHNVT2xkWDJQZU1ORnc4Tm1YQmlGUXFQOW1QaHkxT25remdVRzFFSDlfeTMtczJwSlVEeFF5Mk5PaXpfcUdVVmJ3VU9vSGhXY0ZrREZrNXhIR1E?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYXBjaktjcUFnNFd4WXl0RmNmOFNoQjBmeWY5LUJIQW9RaktsTXVoazJZN1BVYVUzcDVrejZTbE9aVDFVTHNVT2xkWDJQZU1ORnc4Tm1YQmlGUXFQOW1QaHkxT25remdVRzFFSDlfeTMtczJwSlVEeFF5Mk5PaXpfcUdVVmJ3VU9vSGhXY0ZrREZrNXhIR1E?oc=5",
-      "source": "Quotidiano Nazionale",
+      "source": "quotidiano.net",
       "sourceHost": "quotidiano.net",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -886,11 +915,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "quotidiano.net__quotidiano nazionale__omicidio diabolik 7 arresti piscitelli ucciso clan senese essersi reso autonomo traffico droga__2026-09-09T07:00:00.000Z",
+      "id": "quotidiano.net__quotidiano.net__omicidio diabolik 7 arresti piscitelli ucciso clan senese essersi reso autonomo traffico droga__2026-09-09T07:00:00.000Z",
       "title": "Omicidio Diabolik, 7 arresti. “Piscitelli ucciso dal clan Senese per essersi reso autonomo nel traffico di droga”",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVlnWkphanlTSnU2eU82bkdjQ1haVmVMdlpvZDVGdGFrNlV0LWhyZ0pIeHRsT2NHbkJ6SG0xQWhmeGdFTU9CNDMwbnBzZ0pBVGJSYVU5ZkJrbVE5cXhMdG93d0JYdXJJRk5JSXJkRmV3cVhhT1dqYVNuUUExTFJUbENrdV9yUENtN2pXNm9INDZ3NWp2LXFGcXZWTTNTa3M4YlJNOE8wblY1THd2MUE?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVlnWkphanlTSnU2eU82bkdjQ1haVmVMdlpvZDVGdGFrNlV0LWhyZ0pIeHRsT2NHbkJ6SG0xQWhmeGdFTU9CNDMwbnBzZ0pBVGJSYVU5ZkJrbVE5cXhMdG93d0JYdXJJRk5JSXJkRmV3cVhhT1dqYVNuUUExTFJUbENrdV9yUENtN2pXNm9INDZ3NWp2LXFGcXZWTTNTa3M4YlJNOE8wblY1THd2MUE?oc=5",
-      "source": "Quotidiano Nazionale",
+      "source": "quotidiano.net",
       "sourceHost": "quotidiano.net",
       "queryLabel": "Persone collegate",
       "matchedTerms": [

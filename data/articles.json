@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T20:15:01.300Z",
+  "generatedAt": "2026-10-01T00:07:07.274Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,14 +94,14 @@
     ]
   },
   "window": {
-    "from": "2026-08-16T20:15:01.300Z",
-    "to": "2026-09-30T20:15:01.300Z",
+    "from": "2026-08-17T00:07:07.274Z",
+    "to": "2026-10-01T00:07:07.274Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 9
+      "articleCount": 10
     },
     {
       "label": "repubblica.it",
@@ -112,11 +112,11 @@
       "articleCount": 2
     },
     {
-      "label": "rainews.it",
+      "label": "ansa.it",
       "articleCount": 2
     },
     {
-      "label": "ansa.it",
+      "label": "rainews.it",
       "articleCount": 2
     },
     {
@@ -147,8 +147,8 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 54,
-      "uniqueArticles": 27
+      "fetchedArticles": 56,
+      "uniqueArticles": 28
     },
     {
       "label": "Soci e societa'",
@@ -174,7 +174,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 13
+      "count": 14
     },
     {
       "tag": "giudiziaria",
@@ -186,10 +186,6 @@
     }
   ],
   "timeline": [
-    {
-      "date": "2026-08-16",
-      "count": 0
-    },
     {
       "date": "2026-08-17",
       "count": 0
@@ -369,9 +365,33 @@
     {
       "date": "2026-09-30",
       "count": 0
+    },
+    {
+      "date": "2026-10-01",
+      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__scudo delmastro finisce consulta camera ha abusato propri poteri__2026-09-30T22:01:00.000Z",
+      "title": "Lo scudo a Delmastro finisce alla Consulta “La Camera ha abusato dei propri poteri”",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT0I1OWUyUFFWc1FrcU9VTEthUVV3ZlluZlI3N3hPVTFBVWY3ZEVHTjREVFkzSnNRZ3NHdjFDV3lxNmZpejdqTWp2Y1pYVWN1bDNVY3RmOS1tSW1QaDAwakVENTBZaEZxOE9Ya2tadVUwYVdNRlJMb0sxWmN3azVhSG1nYVNPQzBBbDQ1d25NSzJGNnRkdml0RE96ZzB0NmQydHVCb3BOYTRfbmdHdXFnSUV0S2NfSnNNbDY1RS1pdV9Eb2cxNnpTbHNGaXhQcmZsd1NLUEgwV3c4bTRhZFUzT3RXampWb2tKenc?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT0I1OWUyUFFWc1FrcU9VTEthUVV3ZlluZlI3N3hPVTFBVWY3ZEVHTjREVFkzSnNRZ3NHdjFDV3lxNmZpejdqTWp2Y1pYVWN1bDNVY3RmOS1tSW1QaDAwakVENTBZaEZxOE9Ya2tadVUwYVdNRlJMb0sxWmN3azVhSG1nYVNPQzBBbDQ1d25NSzJGNnRkdml0RE96ZzB0NmQydHVCb3BOYTRfbmdHdXFnSUV0S2NfSnNNbDY1RS1pdV9Eb2cxNnpTbHNGaXhQcmZsd1NLUEgwV3c4bTRhZFUzT3RXampWb2tKenc?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-09-30T22:01:00.000Z",
+      "excerpt": "Lo scudo a Delmastro finisce alla Consulta “La Camera ha abusato dei propri poteri”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
     {
       "id": "ilgiornale.it__il giornale__uso caso cospito fini politici strana sentenza delmastro__2026-09-23T10:00:00.000Z",
       "title": "“Usò il caso Cospito a fini politici”. La strana sentenza su Delmastro",
@@ -389,26 +409,6 @@
       ],
       "publishedAt": "2026-09-23T10:00:00.000Z",
       "excerpt": "“Usò il caso Cospito a fini politici”. La strana sentenza su Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "rainews.it__rainews.it__delmastro rivelo atti coperti segreto d ufficio ecco motivazioni corte d appello__2026-09-22T17:40:13.000Z",
-      "title": "\"Delmastro rivelò atti coperti dal segreto d'ufficio\", ecco le motivazioni della Corte d'Appello",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNa2NkYkhSYkRrM2Ziel8tcVBVSUphendrZEhZOUl0dE5QbUFCT2ZWOTNydy1HRVVxcF81WGwzSm9Md3lOWFBGTU8tQVhTLU1YY3hXVjJadjJsdndiS0NFZmN2ZkgtY3B5UDBPLVp3aHA4SFJ3SUx0MEFCb19Ua0NZU19ScHN3eEJfaXc1QzZlYWxIbkFMMWNpVlVYTE1kbE9uRlV0d2R1QkNMWFpIajVXQldjeFhhMktZMjZpWVlmcFNPRlN6ZUhfLVJuckRLUVB5MjRabXV3cnRSb1JObHRnS3JjS2RKQzkzOFJHVzE1eGhmVDB1bkVXV0o1cXhfelhUMXF0VUNIbjVmQdIBjwJBVV95cUxQWnVCSDJMME1qZG5RWHRzbUE3LU5QZlNJS0ZRUHlSOGRfQ2UzY0tJdk1Cc0I0eUcxTHhDMUw2SnhiWFp2ckt3eWR6NHI2QlJfdmxBUnNLNGZxdkFmREQzSHRrQ25TeTJaTGIwNEFrN0FHM3dvS2xmalFrNUktLTlzZ1lwRDlZMlhSV0p4a1NwMjNEREF5bllSZzNRTmozZVBmZy1JT1pRV0R5VDVnZnlkejRWSnRmUUVlZ19TTEkxYjNaRkk2aWQwSG5JbUYxUFZsQTROX0c4Q0RzX2FfaEZGS0IxR1AwTnNzbHBNZGJfb2xiQUhHYzRpWUt6R18wdGdvWmtDUXM2N3dobnFlT1Bz?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNa2NkYkhSYkRrM2Ziel8tcVBVSUphendrZEhZOUl0dE5QbUFCT2ZWOTNydy1HRVVxcF81WGwzSm9Md3lOWFBGTU8tQVhTLU1YY3hXVjJadjJsdndiS0NFZmN2ZkgtY3B5UDBPLVp3aHA4SFJ3SUx0MEFCb19Ua0NZU19ScHN3eEJfaXc1QzZlYWxIbkFMMWNpVlVYTE1kbE9uRlV0d2R1QkNMWFpIajVXQldjeFhhMktZMjZpWVlmcFNPRlN6ZUhfLVJuckRLUVB5MjRabXV3cnRSb1JObHRnS3JjS2RKQzkzOFJHVzE1eGhmVDB1bkVXV0o1cXhfelhUMXF0VUNIbjVmQdIBjwJBVV95cUxQWnVCSDJMME1qZG5RWHRzbUE3LU5QZlNJS0ZRUHlSOGRfQ2UzY0tJdk1Cc0I0eUcxTHhDMUw2SnhiWFp2ckt3eWR6NHI2QlJfdmxBUnNLNGZxdkFmREQzSHRrQ25TeTJaTGIwNEFrN0FHM3dvS2xmalFrNUktLTlzZ1lwRDlZMlhSV0p4a1NwMjNEREF5bllSZzNRTmozZVBmZy1JT1pRV0R5VDVnZnlkejRWSnRmUUVlZ19TTEkxYjNaRkk2aWQwSG5JbUYxUFZsQTROX0c4Q0RzX2FfaEZGS0IxR1AwTnNzbHBNZGJfb2xiQUhHYzRpWUt6R18wdGdvWmtDUXM2N3dobnFlT1Bz?oc=5",
-      "source": "rainews.it",
-      "sourceHost": "rainews.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-09-22T17:40:13.000Z",
-      "excerpt": "\"Delmastro rivelò atti coperti dal segreto d'ufficio\", ecco le motivazioni della Corte d'Appello",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -473,11 +473,31 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ansa.it__ansa__giudici delmastro informazioni segrete donzelli finalita politica__2026-09-22T11:47:00.000Z",
+      "id": "adnkronos.com__adnkronos.com__caso cospito motivazioni sentenza delmastro cosa scrivono giudici d appello__2026-09-22T11:52:00.000Z",
+      "title": "Caso Cospito, le motivazioni della sentenza su Delmastro: cosa scrivono i giudici d'appello",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVYwOUdWTU5seW1NVmZDd0psLTNOdGlEN0RlTms2YWtMbWhhdFdCcXJjcUhNckxSWXYwa3lHc0RzUWh5Y0V1SllzZC1SNWN5cExLLUNLaTYyUXNTd0tILVRiODMxM3BWcXdsMEpLLWFLYWpBYTVOXzRHbmY0RE5UNjVsWGZZeEhFajhNSkdoT1ZoQzVSTzF1V3J5cEtXU2xOSHc?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVYwOUdWTU5seW1NVmZDd0psLTNOdGlEN0RlTms2YWtMbWhhdFdCcXJjcUhNckxSWXYwa3lHc0RzUWh5Y0V1SllzZC1SNWN5cExLLUNLaTYyUXNTd0tILVRiODMxM3BWcXdsMEpLLWFLYWpBYTVOXzRHbmY0RE5UNjVsWGZZeEhFajhNSkdoT1ZoQzVSTzF1V3J5cEtXU2xOSHc?oc=5",
+      "source": "adnkronos.com",
+      "sourceHost": "adnkronos.com",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-09-22T11:52:00.000Z",
+      "excerpt": "Caso Cospito, le motivazioni della sentenza su Delmastro: cosa scrivono i giudici d'appello",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ansa.it__ansa.it__giudici delmastro informazioni segrete donzelli finalita politica__2026-09-22T11:47:00.000Z",
       "title": "Giudici, da Delmastro informazioni segrete a Donzelli per finalità politica",
       "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPZkdaTnBpTFplWDgwa3RxTzUwTm9jcTVSSmdUOTRaOF9aMXZja2V4Z1YxS0JZZlJDelBqcmVxQzBQYm5ZclZReTFSc25oWktVTm1WeW0xQllyeFp2eEF5LVM2MklRY19aM3hJT25fUnUtR0JIWGZfV3pQOHVEVVVPeDM3X2F6M3pCTEt1WFBlNVlXQ0JDY1NtbXJJSXRlUXU2NmpmZ3Q5b09neWZfRE5PVGp6VjlvcFJfUnUxVXlTVHljbllxU1pNVTV3M1BQc0hHeDF4MUFiaFVma1VjOXBvZzlodTU1THMwc0YwTU5SSlVJU29iZW9YLUU4M1JSdXZva1lhVlJzREFzZHdnZ0tVMWprYkNoQjFWZl9DbEFJMDgyMlFvakt3U0x2eDVaWUlHblU0ZDVrdnhGUUs4QXZUdVB3aDRfQkVwa1RUd0tsdEhRRWpwLVNVV2xvN29MeUxJMmFtZDVjdUFlcE9kTlo3eGVNeFVQMUV1dnBoZFA5OE5ZWGVJYVZsR19EY1hWQ0N2VGtyeURhZEJkdkNJMEstTUFBd3hYZURmbTJBVU5GejUyZ2EtRWpXeGVlN2d0YUNEQ2RsVVZrNmtONlRQaWFPeVgxdmsxSEpVRFHSAYMCQVVfeXFMT0xkdGpQSDNJVmx4QUw2SkYxdnI5NzlCRS0yY2NPQmFTbW1sTlozVnlnMmN4dVNpRHVVaFlGSERjYzY5Z1pFeEZFU0NnS0swRG1jSWJpZjYxQ3RKNzN4cXJfeGNCTXZmTnhlMXFWYnBfT2I4MGhXdTdqMnAzLUVsNFlVZGpnc1hvcnV0T3I5UWFWVVUzd2pQWFF0aVNzM2VtcjNjMzROQ2N5SlBLU18yS2lwV0FGYVp6TzNJRllzeXREQzhQcE5WdWJHeVdzV1lkaVl2R3JDTno2Mks2OTRNZVBBY0h3ZG5ZbUJOZnJNYW50V0ZTX2xFT2FwbHdjVlZFS0tHUQ?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPZkdaTnBpTFplWDgwa3RxTzUwTm9jcTVSSmdUOTRaOF9aMXZja2V4Z1YxS0JZZlJDelBqcmVxQzBQYm5ZclZReTFSc25oWktVTm1WeW0xQllyeFp2eEF5LVM2MklRY19aM3hJT25fUnUtR0JIWGZfV3pQOHVEVVVPeDM3X2F6M3pCTEt1WFBlNVlXQ0JDY1NtbXJJSXRlUXU2NmpmZ3Q5b09neWZfRE5PVGp6VjlvcFJfUnUxVXlTVHljbllxU1pNVTV3M1BQc0hHeDF4MUFiaFVma1VjOXBvZzlodTU1THMwc0YwTU5SSlVJU29iZW9YLUU4M1JSdXZva1lhVlJzREFzZHdnZ0tVMWprYkNoQjFWZl9DbEFJMDgyMlFvakt3U0x2eDVaWUlHblU0ZDVrdnhGUUs4QXZUdVB3aDRfQkVwa1RUd0tsdEhRRWpwLVNVV2xvN29MeUxJMmFtZDVjdUFlcE9kTlo3eGVNeFVQMUV1dnBoZFA5OE5ZWGVJYVZsR19EY1hWQ0N2VGtyeURhZEJkdkNJMEstTUFBd3hYZURmbTJBVU5GejUyZ2EtRWpXeGVlN2d0YUNEQ2RsVVZrNmtONlRQaWFPeVgxdmsxSEpVRFHSAYMCQVVfeXFMT0xkdGpQSDNJVmx4QUw2SkYxdnI5NzlCRS0yY2NPQmFTbW1sTlozVnlnMmN4dVNpRHVVaFlGSERjYzY5Z1pFeEZFU0NnS0swRG1jSWJpZjYxQ3RKNzN4cXJfeGNCTXZmTnhlMXFWYnBfT2I4MGhXdTdqMnAzLUVsNFlVZGpnc1hvcnV0T3I5UWFWVVUzd2pQWFF0aVNzM2VtcjNjMzROQ2N5SlBLU18yS2lwV0FGYVp6TzNJRllzeXREQzhQcE5WdWJHeVdzV1lkaVl2R3JDTno2Mks2OTRNZVBBY0h3ZG5ZbUJOZnJNYW50V0ZTX2xFT2FwbHdjVlZFS0tHUQ?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -493,12 +513,12 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "adnkronos.com__adnkronos__caso cospito motivazioni sentenza delmastro cosa scrivono giudici d appello__2026-09-22T07:00:00.000Z",
-      "title": "Caso Cospito, le motivazioni della sentenza su Delmastro: cosa scrivono i giudici d'appello",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVYwOUdWTU5seW1NVmZDd0psLTNOdGlEN0RlTms2YWtMbWhhdFdCcXJjcUhNckxSWXYwa3lHc0RzUWh5Y0V1SllzZC1SNWN5cExLLUNLaTYyUXNTd0tILVRiODMxM3BWcXdsMEpLLWFLYWpBYTVOXzRHbmY0RE5UNjVsWGZZeEhFajhNSkdoT1ZoQzVSTzF1V3J5cEtXU2xOSHc?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVYwOUdWTU5seW1NVmZDd0psLTNOdGlEN0RlTms2YWtMbWhhdFdCcXJjcUhNckxSWXYwa3lHc0RzUWh5Y0V1SllzZC1SNWN5cExLLUNLaTYyUXNTd0tILVRiODMxM3BWcXdsMEpLLWFLYWpBYTVOXzRHbmY0RE5UNjVsWGZZeEhFajhNSkdoT1ZoQzVSTzF1V3J5cEtXU2xOSHc?oc=5",
-      "source": "Adnkronos",
-      "sourceHost": "adnkronos.com",
+      "id": "rainews.it__rainews__delmastro rivelo atti coperti segreto d ufficio ecco motivazioni corte d appello__2026-09-22T07:00:00.000Z",
+      "title": "\"Delmastro rivelò atti coperti dal segreto d'ufficio\", ecco le motivazioni della Corte d'Appello",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNa2NkYkhSYkRrM2Ziel8tcVBVSUphendrZEhZOUl0dE5QbUFCT2ZWOTNydy1HRVVxcF81WGwzSm9Md3lOWFBGTU8tQVhTLU1YY3hXVjJadjJsdndiS0NFZmN2ZkgtY3B5UDBPLVp3aHA4SFJ3SUx0MEFCb19Ua0NZU19ScHN3eEJfaXc1QzZlYWxIbkFMMWNpVlVYTE1kbE9uRlV0d2R1QkNMWFpIajVXQldjeFhhMktZMjZpWVlmcFNPRlN6ZUhfLVJuckRLUVB5MjRabXV3cnRSb1JObHRnS3JjS2RKQzkzOFJHVzE1eGhmVDB1bkVXV0o1cXhfelhUMXF0VUNIbjVmQdIBjwJBVV95cUxQWnVCSDJMME1qZG5RWHRzbUE3LU5QZlNJS0ZRUHlSOGRfQ2UzY0tJdk1Cc0I0eUcxTHhDMUw2SnhiWFp2ckt3eWR6NHI2QlJfdmxBUnNLNGZxdkFmREQzSHRrQ25TeTJaTGIwNEFrN0FHM3dvS2xmalFrNUktLTlzZ1lwRDlZMlhSV0p4a1NwMjNEREF5bllSZzNRTmozZVBmZy1JT1pRV0R5VDVnZnlkejRWSnRmUUVlZ19TTEkxYjNaRkk2aWQwSG5JbUYxUFZsQTROX0c4Q0RzX2FfaEZGS0IxR1AwTnNzbHBNZGJfb2xiQUhHYzRpWUt6R18wdGdvWmtDUXM2N3dobnFlT1Bz?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNa2NkYkhSYkRrM2Ziel8tcVBVSUphendrZEhZOUl0dE5QbUFCT2ZWOTNydy1HRVVxcF81WGwzSm9Md3lOWFBGTU8tQVhTLU1YY3hXVjJadjJsdndiS0NFZmN2ZkgtY3B5UDBPLVp3aHA4SFJ3SUx0MEFCb19Ua0NZU19ScHN3eEJfaXc1QzZlYWxIbkFMMWNpVlVYTE1kbE9uRlV0d2R1QkNMWFpIajVXQldjeFhhMktZMjZpWVlmcFNPRlN6ZUhfLVJuckRLUVB5MjRabXV3cnRSb1JObHRnS3JjS2RKQzkzOFJHVzE1eGhmVDB1bkVXV0o1cXhfelhUMXF0VUNIbjVmQdIBjwJBVV95cUxQWnVCSDJMME1qZG5RWHRzbUE3LU5QZlNJS0ZRUHlSOGRfQ2UzY0tJdk1Cc0I0eUcxTHhDMUw2SnhiWFp2ckt3eWR6NHI2QlJfdmxBUnNLNGZxdkFmREQzSHRrQ25TeTJaTGIwNEFrN0FHM3dvS2xmalFrNUktLTlzZ1lwRDlZMlhSV0p4a1NwMjNEREF5bllSZzNRTmozZVBmZy1JT1pRV0R5VDVnZnlkejRWSnRmUUVlZ19TTEkxYjNaRkk2aWQwSG5JbUYxUFZsQTROX0c4Q0RzX2FfaEZGS0IxR1AwTnNzbHBNZGJfb2xiQUhHYzRpWUt6R18wdGdvWmtDUXM2N3dobnFlT1Bz?oc=5",
+      "source": "RaiNews",
+      "sourceHost": "rainews.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
         "Delmastro",
@@ -508,7 +528,7 @@
         "altro"
       ],
       "publishedAt": "2026-09-22T07:00:00.000Z",
-      "excerpt": "Caso Cospito, le motivazioni della sentenza su Delmastro: cosa scrivono i giudici d'appello",
+      "excerpt": "\"Delmastro rivelò atti coperti dal segreto d'ufficio\", ecco le motivazioni della Corte d'Appello",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -533,7 +553,7 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "repubblica.it__la repubblica__complotto contro lotito l ombra clan senese dietro raccolta fondi protesta ultra__2026-09-17T15:26:24.000Z",
+      "id": "repubblica.it__la repubblica__complotto contro lotito l ombra clan senese dietro raccolta fondi protesta ultra__2026-09-17T07:00:00.000Z",
       "title": "Complotto contro Lotito, l’ombra del clan Senese dietro alla raccolta fondi per la protesta ultrà",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdjFWV2tVNUFoZ1ZVMTNPY2lBV19oVmtLYmNfWTZPVGhvNFFlM1VEYmpuMUg4Ny1xU3pBWVM0UjFMdXc5d2ZaLXVmLURhaWstcEFxMkdjOGUtV0pyVXNmakdfbUV4WWw1TUp2di1wSDNFTHpQWDRWYklsNzRnSWY4REYxRjdYM21HTXBTMUtPMjNOclBGVk9PWVA0bzZDMWpfdFZRM2VtV0lRNDZaUnpNaW1lc2xkNmdPR2xNWUFxSdIBxAFBVV95cUxOX3QxdU10OW9qZUQ5OFN5Nm1SckU1M3NyZTk5Y2NoV3JiR01BdzZEc0NQQ1F2Q0J0VFZoQTNrb0ZIQ0JQUTdEdGZKbk1ZRy1RanktTFFENFo0a0Y3TGdvS3k3T3Vxa2lJSnQyRUlVdXBjQ1lhQVZMRVYtSElQa2thMk9TWEZsZFYwNXVJUUtfTlE0emtJWjVFei1zaU9jTi1nYlVlVHUxVHhUeWgwR1FXdjF3Z21Va2o5NWtiVlpFTTVsbWxM?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdjFWV2tVNUFoZ1ZVMTNPY2lBV19oVmtLYmNfWTZPVGhvNFFlM1VEYmpuMUg4Ny1xU3pBWVM0UjFMdXc5d2ZaLXVmLURhaWstcEFxMkdjOGUtV0pyVXNmakdfbUV4WWw1TUp2di1wSDNFTHpQWDRWYklsNzRnSWY4REYxRjdYM21HTXBTMUtPMjNOclBGVk9PWVA0bzZDMWpfdFZRM2VtV0lRNDZaUnpNaW1lc2xkNmdPR2xNWUFxSdIBxAFBVV95cUxOX3QxdU10OW9qZUQ5OFN5Nm1SckU1M3NyZTk5Y2NoV3JiR01BdzZEc0NQQ1F2Q0J0VFZoQTNrb0ZIQ0JQUTdEdGZKbk1ZRy1RanktTFFENFo0a0Y3TGdvS3k3T3Vxa2lJSnQyRUlVdXBjQ1lhQVZMRVYtSElQa2thMk9TWEZsZFYwNXVJUUtfTlE0emtJWjVFei1zaU9jTi1nYlVlVHUxVHhUeWgwR1FXdjF3Z21Va2o5NWtiVlpFTTVsbWxM?oc=5",
@@ -547,7 +567,7 @@
       "tags": [
         "altro"
       ],
-      "publishedAt": "2026-09-17T15:26:24.000Z",
+      "publishedAt": "2026-09-17T07:00:00.000Z",
       "excerpt": "Complotto contro Lotito, l’ombra del clan Senese dietro alla raccolta fondi per la protesta ultrà",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
@@ -633,11 +653,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ansa.it__ansa__chat delmastro procura roma solleva conflitto attribuzione__2026-09-11T07:00:00.000Z",
+      "id": "ansa.it__ansa.it__chat delmastro procura roma solleva conflitto attribuzione__2026-09-11T07:00:00.000Z",
       "title": "Le chat di Delmastro, la Procura Roma solleva un conflitto di attribuzione",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUGtHOURrVzJ4ZENqMlJlS2lZUGFDVjVoM0tTU2IxNHFxM2c1OXh0X0NzSThyVEYzcnFBMG1lYUNfMEpFT2locTdfdjJPOUEyLW9WM0pZV0g0TWtoQzBiVkxBanVhV0xFaE5HbEdOcXU1ZDNLbzJVYWlySVdJcTJ6RGRsTmZDSE9BMm9PRUxVa0NnNDNxM2ktaGZlY0ZuaW9VZjVNQW9FN0dsQ0xfOXJLOFpkdWRiY0xzcjRpakQwOVY3Vm43YjI2X3FWMVZjLXdwVy1sR0k1Ul81MUMxRTBXUWJrWmxCN3oxNTZ2V04yTTlPUVNJUVNBU2dQMA?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUGtHOURrVzJ4ZENqMlJlS2lZUGFDVjVoM0tTU2IxNHFxM2c1OXh0X0NzSThyVEYzcnFBMG1lYUNfMEpFT2locTdfdjJPOUEyLW9WM0pZV0g0TWtoQzBiVkxBanVhV0xFaE5HbEdOcXU1ZDNLbzJVYWlySVdJcTJ6RGRsTmZDSE9BMm9PRUxVa0NnNDNxM2ktaGZlY0ZuaW9VZjVNQW9FN0dsQ0xfOXJLOFpkdWRiY0xzcjRpakQwOVY3Vm43YjI2X3FWMVZjLXdwVy1sR0k1Ul81MUMxRTBXUWJrWmxCN3oxNTZ2V04yTTlPUVNJUVNBU2dQMA?oc=5",
-      "source": "ANSA",
+      "source": "ansa.it",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
@@ -753,11 +773,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "rainews.it__rainews.it__chat delmastro caroccia procura roma solleva conflitto attribuzione__2026-09-11T07:00:00.000Z",
+      "id": "rainews.it__rainews__chat delmastro caroccia procura roma solleva conflitto attribuzione__2026-09-11T07:00:00.000Z",
       "title": "Chat Delmastro-Caroccia, la Procura di Roma solleva un conflitto di attribuzione",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPS0tTaHJUaW92T3JielZDZWZFOUVzUVNMMEZZTnVmOGNsTnN1ME9hYTFPdmlzLXplUERJRGk2a3pUOTBHVVpTcUJNLUdsTkxuc0NLNGNwWmRZY29CTVNDWEtsUWJmM0JxQWM3TUc5cFN6UWszT3o1Y0t0RzJLbU0zMWhQa3NTMWdSazc1Y2kyeGpkVV9kQkF4aDVFUzhUTDBKam9pVUx5TFVIZXNhLXVRSGl5dDVpVWROQkRSRGR2TkZsS202bGh1S0hpR1FVekUxMW5nRnROZTI1YjE0SVYzRE1GVlpXaVBQVUUzWC1pdXNuOF8wLWV0czRIYXk2ZEp4V0F0cdIBigJBVV95cUxOUTZGQ0kzNkRPTkRfOV9vajlYaWxWY3VLY3BBRjZWWmRYVWl6TVZyUk5oTGdkbkxJeEhoYXVPWjBSWTZoYlJvdWctWTUzUDgtYm9fbmFDRnl0dlNnQ1Znb1Q5Q0VDemZ2bHVjUjZxREhvY0FzemkySkdHZDlqakthNzh2Q1hIUmFIQzRJQTBWdy1YOThOQWY5TU8yUE03S3kyVXpkOGFpSElmR3hEOGZfc2FfbkxzRzBiaENGbzNiYjk3bWtETFBOTzFPTW9IalhDbTNRZHB3NTFxS2Y1SDJJZDZRN29LMl9zWmF1bi1IOGhpYUY3T0tqdVZ1QWRlX29tWF93NGN6OTZNUQ?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPS0tTaHJUaW92T3JielZDZWZFOUVzUVNMMEZZTnVmOGNsTnN1ME9hYTFPdmlzLXplUERJRGk2a3pUOTBHVVpTcUJNLUdsTkxuc0NLNGNwWmRZY29CTVNDWEtsUWJmM0JxQWM3TUc5cFN6UWszT3o1Y0t0RzJLbU0zMWhQa3NTMWdSazc1Y2kyeGpkVV9kQkF4aDVFUzhUTDBKam9pVUx5TFVIZXNhLXVRSGl5dDVpVWROQkRSRGR2TkZsS202bGh1S0hpR1FVekUxMW5nRnROZTI1YjE0SVYzRE1GVlpXaVBQVUUzWC1pdXNuOF8wLWV0czRIYXk2ZEp4V0F0cdIBigJBVV95cUxOUTZGQ0kzNkRPTkRfOV9vajlYaWxWY3VLY3BBRjZWWmRYVWl6TVZyUk5oTGdkbkxJeEhoYXVPWjBSWTZoYlJvdWctWTUzUDgtYm9fbmFDRnl0dlNnQ1Znb1Q5Q0VDemZ2bHVjUjZxREhvY0FzemkySkdHZDlqakthNzh2Q1hIUmFIQzRJQTBWdy1YOThOQWY5TU8yUE03S3kyVXpkOGFpSElmR3hEOGZfc2FfbkxzRzBiaENGbzNiYjk3bWtETFBOTzFPTW9IalhDbTNRZHB3NTFxS2Y1SDJJZDZRN29LMl9zWmF1bi1IOGhpYUY3T0tqdVZ1QWRlX29tWF93NGN6OTZNUQ?oc=5",
-      "source": "rainews.it",
+      "source": "RaiNews",
       "sourceHost": "rainews.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T02:30:40.745Z",
+  "generatedAt": "2026-10-02T09:36:00.331Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,14 +94,14 @@
     ]
   },
   "window": {
-    "from": "2026-08-18T02:30:40.745Z",
-    "to": "2026-10-02T02:30:40.745Z",
+    "from": "2026-08-18T09:36:00.331Z",
+    "to": "2026-10-02T09:36:00.331Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 10
+      "articleCount": 9
     },
     {
       "label": "repubblica.it",
@@ -147,22 +147,22 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 55,
-      "uniqueArticles": 27
+      "fetchedArticles": 53,
+      "uniqueArticles": 26
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 16,
+      "fetchedArticles": 14,
       "uniqueArticles": 1
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 10,
+      "fetchedArticles": 9,
       "uniqueArticles": 1
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 13,
+      "fetchedArticles": 12,
       "uniqueArticles": 0
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "tag": "giudiziaria",
-      "count": 13
+      "count": 12
     },
     {
       "tag": "politica",
@@ -188,7 +188,7 @@
   "timeline": [
     {
       "date": "2026-08-18",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-08-19",
@@ -413,6 +413,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__divulgo informazioni segrete fini politici motivazioni condanna d appello delmastro caso cospito__2026-09-22T15:13:20.000Z",
+      "title": "\"Divulgò informazioni segrete per fini politici\": le motivazioni della condanna d'Appello a Delmastro per il caso Cospito",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX3c3aEliODdicV9OTW5malRIUndVU002Q1pCLUphYVdENGlzSF9XRXRHNllRLXZwVXJDb1VTejU2ckxGUXRZOVBjdHIzSERRelRfalVNM3B4ejIyOWdMVHlrMUQ3Z25vWmk5d1dNVE1FYkZ1SzYyV3hzZzFQOVlwVDZ3UnJ1QVppWHY4SWd4RDV6d3RtSXE1YTVEdTFqUHctOVE?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX3c3aEliODdicV9OTW5malRIUndVU002Q1pCLUphYVdENGlzSF9XRXRHNllRLXZwVXJDb1VTejU2ckxGUXRZOVBjdHIzSERRelRfalVNM3B4ejIyOWdMVHlrMUQ3Z25vWmk5d1dNVE1FYkZ1SzYyV3hzZzFQOVlwVDZ3UnJ1QVppWHY4SWd4RDV6d3RtSXE1YTVEdTFqUHctOVE?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-09-22T15:13:20.000Z",
+      "excerpt": "\"Divulgò informazioni segrete per fini politici\": le motivazioni della condanna d'Appello a Delmastro per il caso Cospito",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "corriere.it__corriere roma__cospito motivazioni condanna otto mesi delmastro rivelo informazioni segrete finalita politiche__2026-09-22T13:32:10.000Z",
       "title": "Cospito, le motivazioni della condanna a otto mesi di Delmastro: «Rivelò informazioni segrete con finalità politiche»",
       "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPYlBhTnlVajA2MDdfVHhEMElCNHlTRy0yNURQRHpxbExVb2NLV1pVWWEzMDg2dkNBa0dBazl5YmZ0U3lmTElHYkVub1lfMEtqSW5pOUtTUVcyakgyT1F5VkJvVk1rNnNQc28xM01RLTZrMk9GOVpfbmNEZlRSTndublBHTjViMmQ0T1puS3JjNWpyR212WGlVOGg2X1ZvQUg2VGdaeHZyOGhMM2FWUE1FMkxBM3NfWXJRa1VNbUEzb2N6SVF6ZjNCVlo2SGlGQm94V1JoNkR6NjFsMVZKSWdXd2pJdmZKTHJka0dEV3B5MlVrT185Mm9kcmlUalduYldVRERTZzR1eHZQd2lYbkpubUh2VzYxbVI5STJ0a3lVenhKS3RBVkVrLWNhN2hLaWRkUXcydTVCQUtfZ9IBvwJBVV95cUxQN3lRMWVWckZNQThhOHQwU2dCRzJVRGVHRW1WTi1pNWJmUXdtVzRCVGpubDkwR0x0MVRUWmpDeVJIa3VQYXA5di1XU3RUd01pdGFEeHBpaDF4NUUxcWpZWmlLM1MwVXdIamU2S0pvZ0pvVUxPNzRqXzNlV2I2a0ZuVVNFTTNkOE05LUtQOGt5UnltMmF2UDdHeU5BYXNFVjZPd3VLLVFFTlNXUFJqcF9ja0N5M3RnODF0ZHg5OHdpblEybVNja2J4b0loSXpZVE9sN2YwZlBsTnV2STk1YVlhbnpHV2Zudl83LXNQbldCbW9EMVVFelJ3Q3VUTy0tYVFiR203YnhRV09fSm5LZ0xyUWowOTZwZWNWSEdKdTlZeFRYcV8tdWpORC1ZZ1BITVBtRTM4VHQza1FvTi01bzJz?oc=5",
@@ -453,6 +473,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "adnkronos.com__adnkronos__caso cospito motivazioni sentenza delmastro cosa scrivono giudici d appello__2026-09-22T11:52:00.000Z",
+      "title": "Caso Cospito, le motivazioni della sentenza su Delmastro: cosa scrivono i giudici d'appello",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVYwOUdWTU5seW1NVmZDd0psLTNOdGlEN0RlTms2YWtMbWhhdFdCcXJjcUhNckxSWXYwa3lHc0RzUWh5Y0V1SllzZC1SNWN5cExLLUNLaTYyUXNTd0tILVRiODMxM3BWcXdsMEpLLWFLYWpBYTVOXzRHbmY0RE5UNjVsWGZZeEhFajhNSkdoT1ZoQzVSTzF1V3J5cEtXU2xOSHc?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVYwOUdWTU5seW1NVmZDd0psLTNOdGlEN0RlTms2YWtMbWhhdFdCcXJjcUhNckxSWXYwa3lHc0RzUWh5Y0V1SllzZC1SNWN5cExLLUNLaTYyUXNTd0tILVRiODMxM3BWcXdsMEpLLWFLYWpBYTVOXzRHbmY0RE5UNjVsWGZZeEhFajhNSkdoT1ZoQzVSTzF1V3J5cEtXU2xOSHc?oc=5",
+      "source": "Adnkronos",
+      "sourceHost": "adnkronos.com",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-09-22T11:52:00.000Z",
+      "excerpt": "Caso Cospito, le motivazioni della sentenza su Delmastro: cosa scrivono i giudici d'appello",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "ansa.it__ansa__giudici delmastro informazioni segrete donzelli finalita politica__2026-09-22T07:00:00.000Z",
       "title": "Giudici, da Delmastro informazioni segrete a Donzelli per finalità politica",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYjc2RDNrZTVvV0w1aVlfc0lhejRfTUxiZndTTk9VSnlYQktEd20zTVBNLWg5RjVCY0dEdXJCWVQwamZtcmNhQUZETF84NVN3Mnk0R2RxRDVtazZTLVJEMHo1SjZWSjdITmItRTRfVkxjYkRvNjAxcHJzSVU5aGJfd0cwNzZFZmpDc0JsOVpfX2tnTURlbEN2dm1zODVhckZEWnNjbWFnbE1HS3ZQNGVqQ0JSUjYtRFE4Q1R3QTVzaXRyMTluckNXa0c4b01nQ0U2cXg3WVoya1lKZ2lPU2w1YTExNV9naGFkd2RLZGcyX0NYM1d5MEFkTTFybE4?oc=5",
@@ -489,46 +529,6 @@
       ],
       "publishedAt": "2026-09-22T07:00:00.000Z",
       "excerpt": "\"Delmastro rivelò atti coperti dal segreto d'ufficio\", ecco le motivazioni della Corte d'Appello",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__divulgo informazioni segrete fini politici motivazioni condanna d appello delmastro caso cospito__2026-09-22T07:00:00.000Z",
-      "title": "\"Divulgò informazioni segrete per fini politici\": le motivazioni della condanna d'Appello a Delmastro per il caso Cospito",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX3c3aEliODdicV9OTW5malRIUndVU002Q1pCLUphYVdENGlzSF9XRXRHNllRLXZwVXJDb1VTejU2ckxGUXRZOVBjdHIzSERRelRfalVNM3B4ejIyOWdMVHlrMUQ3Z25vWmk5d1dNVE1FYkZ1SzYyV3hzZzFQOVlwVDZ3UnJ1QVppWHY4SWd4RDV6d3RtSXE1YTVEdTFqUHctOVE?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX3c3aEliODdicV9OTW5malRIUndVU002Q1pCLUphYVdENGlzSF9XRXRHNllRLXZwVXJDb1VTejU2ckxGUXRZOVBjdHIzSERRelRfalVNM3B4ejIyOWdMVHlrMUQ3Z25vWmk5d1dNVE1FYkZ1SzYyV3hzZzFQOVlwVDZ3UnJ1QVppWHY4SWd4RDV6d3RtSXE1YTVEdTFqUHctOVE?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-09-22T07:00:00.000Z",
-      "excerpt": "\"Divulgò informazioni segrete per fini politici\": le motivazioni della condanna d'Appello a Delmastro per il caso Cospito",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "adnkronos.com__adnkronos__caso cospito motivazioni sentenza delmastro cosa scrivono giudici d appello__2026-09-22T07:00:00.000Z",
-      "title": "Caso Cospito, le motivazioni della sentenza su Delmastro: cosa scrivono i giudici d'appello",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVYwOUdWTU5seW1NVmZDd0psLTNOdGlEN0RlTms2YWtMbWhhdFdCcXJjcUhNckxSWXYwa3lHc0RzUWh5Y0V1SllzZC1SNWN5cExLLUNLaTYyUXNTd0tILVRiODMxM3BWcXdsMEpLLWFLYWpBYTVOXzRHbmY0RE5UNjVsWGZZeEhFajhNSkdoT1ZoQzVSTzF1V3J5cEtXU2xOSHc?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVYwOUdWTU5seW1NVmZDd0psLTNOdGlEN0RlTms2YWtMbWhhdFdCcXJjcUhNckxSWXYwa3lHc0RzUWh5Y0V1SllzZC1SNWN5cExLLUNLaTYyUXNTd0tILVRiODMxM3BWcXdsMEpLLWFLYWpBYTVOXzRHbmY0RE5UNjVsWGZZeEhFajhNSkdoT1ZoQzVSTzF1V3J5cEtXU2xOSHc?oc=5",
-      "source": "Adnkronos",
-      "sourceHost": "adnkronos.com",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-09-22T07:00:00.000Z",
-      "excerpt": "Caso Cospito, le motivazioni della sentenza su Delmastro: cosa scrivono i giudici d'appello",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -936,26 +936,6 @@
       ],
       "publishedAt": "2026-08-19T07:00:00.000Z",
       "excerpt": "Fdi alla carica contro Ranucci: \"Comportamento da vergogna umana\". E Donzelli elogia Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__caso delmastro chat tornano procura maggioranza blocca__2026-08-18T07:00:00.000Z",
-      "title": "Caso Delmastro: le chat tornano in procura, la maggioranza le blocca",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFVUTUh0ZDY2SjRGM3hRZEZNNVJOZXhMY0ZMVm9PYU81d085aWRMZ1JMTlFPMVZpZi1hckJTSWRuTDJHWVd3TGRHS3dmSVdsQWtEMldkbUNZMnNUaUpCMmxYd1o5OUxRd0xiZGxLYlF1b3ByblpsS0QtV3JSRUxJMkxOaW9qNkZuN191UDM2ZGFCaXBPNXZHZ0NCN3U1SmM?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFVUTUh0ZDY2SjRGM3hRZEZNNVJOZXhMY0ZMVm9PYU81d085aWRMZ1JMTlFPMVZpZi1hckJTSWRuTDJHWVd3TGRHS3dmSVdsQWtEMldkbUNZMnNUaUpCMmxYd1o5OUxRd0xiZGxLYlF1b3ByblpsS0QtV3JSRUxJMkxOaW9qNkZuN191UDM2ZGFCaXBPNXZHZ0NCN3U1SmM?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-08-18T07:00:00.000Z",
-      "excerpt": "Caso Delmastro: le chat tornano in procura, la maggioranza le blocca",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     }

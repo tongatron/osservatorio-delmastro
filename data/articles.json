@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T14:18:27.922Z",
+  "generatedAt": "2026-10-04T18:18:25.441Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-08-20T14:18:27.922Z",
-    "to": "2026-10-04T14:18:27.922Z",
+    "from": "2026-08-20T18:18:25.441Z",
+    "to": "2026-10-04T18:18:25.441Z",
     "days": 45
   },
   "sources": [
@@ -124,6 +124,10 @@
       "articleCount": 2
     },
     {
+      "label": "fanpage.it",
+      "articleCount": 1
+    },
+    {
       "label": "ilgiornale.it",
       "articleCount": 1
     },
@@ -147,17 +151,17 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 46,
+      "fetchedArticles": 47,
       "uniqueArticles": 23
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 15,
-      "uniqueArticles": 2
+      "fetchedArticles": 17,
+      "uniqueArticles": 3
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 9,
+      "fetchedArticles": 10,
       "uniqueArticles": 1
     },
     {
@@ -167,14 +171,14 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 10,
+      "fetchedArticles": 11,
       "uniqueArticles": 0
     }
   ],
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 14
+      "count": 15
     },
     {
       "tag": "giudiziaria",
@@ -368,10 +372,35 @@
     },
     {
       "date": "2026-10-04",
-      "count": 1
+      "count": 2
     }
   ],
   "articles": [
+    {
+      "id": "fanpage.it__fanpage.it__esplosione all autonoleggio borghesiana titolari erano gia finiti mirino clan senese__2026-10-04T15:45:57.000Z",
+      "title": "Esplosione all'autonoleggio della Borghesiana: i titolari erano già finiti nel mirino del clan Senese",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ2tqUmtGUktKQUhOTDdNWFE4SzhfZVdJajYzbU1XYVdJcDhfdlRqZ2FuWEFtclBBaXY0aDdaU2NvV2cxRHBHUGtBSmlYVUVUNFFxdFhRNEFuQjRWcjB5VXNiWTI1d2ZIUlkycUc5bWQ4cVRXbjhuUTVfdHBOQ0lXMUpDcFdGa0REbE12ZTA0dzJyVzNhWVJ3UE91UTh2N21aM3B6Nm1XcjI1cEhla0hUWkZObWhGUy1VUU9sZjZ2OHRCNlh2cjRJ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ2tqUmtGUktKQUhOTDdNWFE4SzhfZVdJajYzbU1XYVdJcDhfdlRqZ2FuWEFtclBBaXY0aDdaU2NvV2cxRHBHUGtBSmlYVUVUNFFxdFhRNEFuQjRWcjB5VXNiWTI1d2ZIUlkycUc5bWQ4cVRXbjhuUTVfdHBOQ0lXMUpDcFdGa0REbE12ZTA0dzJyVzNhWVJ3UE91UTh2N21aM3B6Nm1XcjI1cEhla0hUWkZObWhGUy1VUU9sZjZ2OHRCNlh2cjRJ?oc=5",
+      "source": "fanpage.it",
+      "sourceHost": "fanpage.it",
+      "queryLabel": "Soci e societa'",
+      "matchedTerms": [
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-10-04T15:45:57.000Z",
+      "excerpt": "Esplosione all'autonoleggio della Borghesiana: i titolari erano già finiti nel mirino del clan Senese",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
     {
       "id": "repubblica.it__la repubblica__tentato omicidio l intimidazione l ombra clan senese dietro bomba all autonoleggio__2026-10-04T08:25:19.000Z",
       "title": "Il tentato omicidio e l’intimidazione: l’ombra del clan Senese dietro la bomba all’autonoleggio",
@@ -478,11 +507,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "corriere.it__roma.corriere.it__cospito motivazioni condanna otto mesi delmastro rivelo informazioni segrete finalita politiche__2026-09-22T07:00:00.000Z",
+      "id": "corriere.it__corriere roma__cospito motivazioni condanna otto mesi delmastro rivelo informazioni segrete finalita politiche__2026-09-22T07:00:00.000Z",
       "title": "Cospito, le motivazioni della condanna a otto mesi di Delmastro: «Rivelò informazioni segrete con finalità politiche»",
       "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPYlBhTnlVajA2MDdfVHhEMElCNHlTRy0yNURQRHpxbExVb2NLV1pVWWEzMDg2dkNBa0dBazl5YmZ0U3lmTElHYkVub1lfMEtqSW5pOUtTUVcyakgyT1F5VkJvVk1rNnNQc28xM01RLTZrMk9GOVpfbmNEZlRSTndublBHTjViMmQ0T1puS3JjNWpyR212WGlVOGg2X1ZvQUg2VGdaeHZyOGhMM2FWUE1FMkxBM3NfWXJRa1VNbUEzb2N6SVF6ZjNCVlo2SGlGQm94V1JoNkR6NjFsMVZKSWdXd2pJdmZKTHJka0dEV3B5MlVrT185Mm9kcmlUalduYldVRERTZzR1eHZQd2lYbkpubUh2VzYxbVI5STJ0a3lVenhKS3RBVkVrLWNhN2hLaWRkUXcydTVCQUtfZ9IBvwJBVV95cUxQN3lRMWVWckZNQThhOHQwU2dCRzJVRGVHRW1WTi1pNWJmUXdtVzRCVGpubDkwR0x0MVRUWmpDeVJIa3VQYXA5di1XU3RUd01pdGFEeHBpaDF4NUUxcWpZWmlLM1MwVXdIamU2S0pvZ0pvVUxPNzRqXzNlV2I2a0ZuVVNFTTNkOE05LUtQOGt5UnltMmF2UDdHeU5BYXNFVjZPd3VLLVFFTlNXUFJqcF9ja0N5M3RnODF0ZHg5OHdpblEybVNja2J4b0loSXpZVE9sN2YwZlBsTnV2STk1YVlhbnpHV2Zudl83LXNQbldCbW9EMVVFelJ3Q3VUTy0tYVFiR203YnhRV09fSm5LZ0xyUWowOTZwZWNWSEdKdTlZeFRYcV8tdWpORC1ZZ1BITVBtRTM4VHQza1FvTi01bzJz?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPYlBhTnlVajA2MDdfVHhEMElCNHlTRy0yNURQRHpxbExVb2NLV1pVWWEzMDg2dkNBa0dBazl5YmZ0U3lmTElHYkVub1lfMEtqSW5pOUtTUVcyakgyT1F5VkJvVk1rNnNQc28xM01RLTZrMk9GOVpfbmNEZlRSTndublBHTjViMmQ0T1puS3JjNWpyR212WGlVOGg2X1ZvQUg2VGdaeHZyOGhMM2FWUE1FMkxBM3NfWXJRa1VNbUEzb2N6SVF6ZjNCVlo2SGlGQm94V1JoNkR6NjFsMVZKSWdXd2pJdmZKTHJka0dEV3B5MlVrT185Mm9kcmlUalduYldVRERTZzR1eHZQd2lYbkpubUh2VzYxbVI5STJ0a3lVenhKS3RBVkVrLWNhN2hLaWRkUXcydTVCQUtfZ9IBvwJBVV95cUxQN3lRMWVWckZNQThhOHQwU2dCRzJVRGVHRW1WTi1pNWJmUXdtVzRCVGpubDkwR0x0MVRUWmpDeVJIa3VQYXA5di1XU3RUd01pdGFEeHBpaDF4NUUxcWpZWmlLM1MwVXdIamU2S0pvZ0pvVUxPNzRqXzNlV2I2a0ZuVVNFTTNkOE05LUtQOGt5UnltMmF2UDdHeU5BYXNFVjZPd3VLLVFFTlNXUFJqcF9ja0N5M3RnODF0ZHg5OHdpblEybVNja2J4b0loSXpZVE9sN2YwZlBsTnV2STk1YVlhbnpHV2Zudl83LXNQbldCbW9EMVVFelJ3Q3VUTy0tYVFiR203YnhRV09fSm5LZ0xyUWowOTZwZWNWSEdKdTlZeFRYcV8tdWpORC1ZZ1BITVBtRTM4VHQza1FvTi01bzJz?oc=5",
-      "source": "roma.corriere.it",
+      "source": "Corriere Roma",
       "sourceHost": "corriere.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [

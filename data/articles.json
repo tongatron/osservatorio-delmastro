@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T15:49:09.923Z",
+  "generatedAt": "2026-10-05T22:28:52.507Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,14 +94,14 @@
     ]
   },
   "window": {
-    "from": "2026-08-21T15:49:09.923Z",
-    "to": "2026-10-05T15:49:09.923Z",
+    "from": "2026-08-21T22:28:52.507Z",
+    "to": "2026-10-05T22:28:52.507Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 8
+      "articleCount": 9
     },
     {
       "label": "repubblica.it",
@@ -151,17 +151,17 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 49,
-      "uniqueArticles": 24
+      "fetchedArticles": 50,
+      "uniqueArticles": 25
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 14,
+      "fetchedArticles": 17,
       "uniqueArticles": 3
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 10,
+      "fetchedArticles": 11,
       "uniqueArticles": 1
     },
     {
@@ -171,14 +171,14 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 12,
+      "fetchedArticles": 13,
       "uniqueArticles": 0
     }
   ],
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 15
+      "count": 16
     },
     {
       "tag": "giudiziaria",
@@ -190,10 +190,6 @@
     }
   ],
   "timeline": [
-    {
-      "date": "2026-08-21",
-      "count": 0
-    },
     {
       "date": "2026-08-22",
       "count": 0
@@ -373,9 +369,33 @@
     {
       "date": "2026-10-05",
       "count": 1
+    },
+    {
+      "date": "2026-10-06",
+      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__delmastro senza piu vergogna vuole cacciata scarpinato__2026-10-05T22:01:00.000Z",
+      "title": "Delmastro senza più vergogna: vuole la cacciata di Scarpinato",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa2lHRkxzUEhkd0FHNzh0cmRTQlRvbWFqM0k2bkFJdmNiMGFiX3ktRm5QcjFxdmhfbTBOQ3IyQW5ET2NYNENvT1NSNlVXODJQN3d1VUI3MWRkZHFIRGJZeW5acFdwVVd3aFd0SDc0WVo2bDlVUTY5LVdzcmN5NjNXTEwzbjhta1hVeExrdzd2Y01fRC1BeWItX1RFT2ZMbkowYWZUbVFjV1RHcmZyU2JaS2ZqZ1ZWUVV5RHBIa2xLdGYxU21GUUJpSlVDOVp1UQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa2lHRkxzUEhkd0FHNzh0cmRTQlRvbWFqM0k2bkFJdmNiMGFiX3ktRm5QcjFxdmhfbTBOQ3IyQW5ET2NYNENvT1NSNlVXODJQN3d1VUI3MWRkZHFIRGJZeW5acFdwVVd3aFd0SDc0WVo2bDlVUTY5LVdzcmN5NjNXTEwzbjhta1hVeExrdzd2Y01fRC1BeWItX1RFT2ZMbkowYWZUbVFjV1RHcmZyU2JaS2ZqZ1ZWUVV5RHBIa2xLdGYxU21GUUJpSlVDOVp1UQ?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-10-05T22:01:00.000Z",
+      "excerpt": "Delmastro senza più vergogna: vuole la cacciata di Scarpinato",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
     {
       "id": "ilfattoquotidiano.it__il fatto quotidiano__scarpinato fdi punta dritto all epurazione conte avete scudato chat delmastro caroccia__2026-10-04T22:01:00.000Z",
       "title": "Scarpinato, FdI punta dritto all’epurazione. Conte: “Avete scudato le chat di Delmastro e Caroccia”",
@@ -587,11 +607,11 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "adnkronos.com__adnkronos.com__caso cospito motivazioni sentenza delmastro cosa scrivono giudici d appello__2026-09-22T07:00:00.000Z",
+      "id": "adnkronos.com__adnkronos__caso cospito motivazioni sentenza delmastro cosa scrivono giudici d appello__2026-09-22T07:00:00.000Z",
       "title": "Caso Cospito, le motivazioni della sentenza su Delmastro: cosa scrivono i giudici d'appello",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVYwOUdWTU5seW1NVmZDd0psLTNOdGlEN0RlTms2YWtMbWhhdFdCcXJjcUhNckxSWXYwa3lHc0RzUWh5Y0V1SllzZC1SNWN5cExLLUNLaTYyUXNTd0tILVRiODMxM3BWcXdsMEpLLWFLYWpBYTVOXzRHbmY0RE5UNjVsWGZZeEhFajhNSkdoT1ZoQzVSTzF1V3J5cEtXU2xOSHc?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVYwOUdWTU5seW1NVmZDd0psLTNOdGlEN0RlTms2YWtMbWhhdFdCcXJjcUhNckxSWXYwa3lHc0RzUWh5Y0V1SllzZC1SNWN5cExLLUNLaTYyUXNTd0tILVRiODMxM3BWcXdsMEpLLWFLYWpBYTVOXzRHbmY0RE5UNjVsWGZZeEhFajhNSkdoT1ZoQzVSTzF1V3J5cEtXU2xOSHc?oc=5",
-      "source": "adnkronos.com",
+      "source": "Adnkronos",
       "sourceHost": "adnkronos.com",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [

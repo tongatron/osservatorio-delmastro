@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T05:03:30.299Z",
+  "generatedAt": "2026-10-15T10:14:09.611Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-08-31T05:03:30.299Z",
-    "to": "2026-10-15T05:03:30.299Z",
+    "from": "2026-08-31T10:14:09.611Z",
+    "to": "2026-10-15T10:14:09.611Z",
     "days": 45
   },
   "sources": [
@@ -116,6 +116,10 @@
       "articleCount": 4
     },
     {
+      "label": "corriere.it",
+      "articleCount": 3
+    },
+    {
       "label": "lastampa.it",
       "articleCount": 3
     },
@@ -129,10 +133,6 @@
     },
     {
       "label": "liberoquotidiano.it",
-      "articleCount": 2
-    },
-    {
-      "label": "corriere.it",
       "articleCount": 2
     },
     {
@@ -175,8 +175,8 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 88,
-      "uniqueArticles": 44
+      "fetchedArticles": 92,
+      "uniqueArticles": 46
     },
     {
       "label": "Soci e societa'",
@@ -184,14 +184,14 @@
       "uniqueArticles": 6
     },
     {
-      "label": "Bisteccheria",
-      "fetchedArticles": 17,
-      "uniqueArticles": 1
-    },
-    {
       "label": "Persone collegate",
       "fetchedArticles": 20,
       "uniqueArticles": 1
+    },
+    {
+      "label": "Bisteccheria",
+      "fetchedArticles": 16,
+      "uniqueArticles": 0
     },
     {
       "label": "Filone giudiziario",
@@ -202,7 +202,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 31
+      "count": 32
     },
     {
       "tag": "giudiziaria",
@@ -308,7 +308,7 @@
     },
     {
       "date": "2026-09-22",
-      "count": 5
+      "count": 6
     },
     {
       "date": "2026-09-23",
@@ -795,7 +795,7 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "repubblica.it__la repubblica__dieci bombe tre mesi guerra clan senese estorsioni cocaina ordigni__2026-10-06T09:39:31.000Z",
+      "id": "repubblica.it__la repubblica__dieci bombe tre mesi guerra clan senese estorsioni cocaina ordigni__2026-10-06T07:00:00.000Z",
       "title": "Dieci bombe in tre mesi, è la guerra del clan Senese: estorsioni, cocaina e ordigni",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHRka0VTcVZLT2lnaFRfZksxN2FhdmNoeFAzcjZmVFgtaWJQamZmcjY5aG84OTFybFFKMF9rODd3bG5jUk4xR3dyOUNJbFNFbTFxRHBtYWtlOVhhQ0toSnBKUDFuQTlVaXBKVkNWaEdFVXpNU1ljbnJyd29YSloxYU82NjNkd2ZFTkx5SFBrWXkxQmxub3hPZ09HOFoxbmFJdjZ3T3B6STNqM1Mx0gGyAUFVX3lxTFBNOEUxN1pYeDhodFQ1bzU5MWhJSGdSaU13ZDhiUDFmdXlSZGYteHZQYzgtcXNhWG9RSEZIMkd3YTc1LVZVYmROQ0hzMm9VdFZPam5fa2ljVXZBUGVMeDQ3ck90cHlQNzZJcWIwNlZIZUpXeXNyMW4tdjdGeXFhSDV3R0FoQUxTSlAwVEdIdjVFeU1FeXk5TloyVFZHVDNWZVJERXY3WlhVLURUSUd1U1N3aGc?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHRka0VTcVZLT2lnaFRfZksxN2FhdmNoeFAzcjZmVFgtaWJQamZmcjY5aG84OTFybFFKMF9rODd3bG5jUk4xR3dyOUNJbFNFbTFxRHBtYWtlOVhhQ0toSnBKUDFuQTlVaXBKVkNWaEdFVXpNU1ljbnJyd29YSloxYU82NjNkd2ZFTkx5SFBrWXkxQmxub3hPZ09HOFoxbmFJdjZ3T3B6STNqM1Mx0gGyAUFVX3lxTFBNOEUxN1pYeDhodFQ1bzU5MWhJSGdSaU13ZDhiUDFmdXlSZGYteHZQYzgtcXNhWG9RSEZIMkd3YTc1LVZVYmROQ0hzMm9VdFZPam5fa2ljVXZBUGVMeDQ3ck90cHlQNzZJcWIwNlZIZUpXeXNyMW4tdjdGeXFhSDV3R0FoQUxTSlAwVEdIdjVFeU1FeXk5TloyVFZHVDNWZVJERXY3WlhVLURUSUd1U1N3aGc?oc=5",
@@ -814,7 +814,7 @@
       "tags": [
         "altro"
       ],
-      "publishedAt": "2026-10-06T09:39:31.000Z",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
       "excerpt": "Dieci bombe in tre mesi, è la guerra del clan Senese: estorsioni, cocaina e ordigni",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
@@ -932,8 +932,8 @@
     {
       "id": "ansa.it__ansa__giudici delmastro informazioni segrete donzelli finalita politica__2026-09-22T07:00:00.000Z",
       "title": "Giudici, da Delmastro informazioni segrete a Donzelli per finalità politica",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdlNkVlI5dDhGNF94OXNZU3pEWUpvNnhfb1Rzdkg1ZG9ZSzVNeG5VbmFjbVZuamZHc29sdm81dEdjWmVQcWpCOXpMUWJ6WWZFWHZnMTA5UzhkZ3NSeXo0UmhMampJV1FwZ2tTR0dqb3JJdUFMQzJuQVA5b2ZrUnNNUE8wa3p5VWVOS1lfdF9FQm1hNU92MTJaOEE4ZWhQT20yZmlsbGNzWE5zbW03S1lKVmZLUVY2U1ZBeWpobWY0akdyM2hXRGFGbVYtX3ZlVmJaT0NVcklEWXdmTUVZYmJral9vd0VQMzBTdWxvRlA3QzVNRnpmODJRVzFrbmhmZ9IBgwJBVV95cUxPTGR0alBIM0lWbHhBTDZKRjF2cjk3OUJFLTJjY09CYVNtbWxOWjNWeWcyY3h1U2lEdVVoWUZIRGNjNjlnWkV4RkVTQ2dLSzBEbWNJYmlmNjFDdEo3M3hxcl94Y0JNdmZOeGUxcVZicF9PYjgwaFd1N2oycDMtRWw0WVVkamdzWG9ydXRPcjlRYVZVVTN3alBYUXRpU3MzZW1yM2MzNE5DY3lKUEtTXzJLaXBXQUZhWnpPM0lGWXN5dERDOFBwTlZ1Ykd5V3NXWWRpWXZHckNOejYySzY5NE1lUEFjSHdkblltQk5mck1hbnRXRlNfbEVPYXBsd2NWVkVLS0dR?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdlNkVlI5dDhGNF94OXNZU3pEWUpvNnhfb1Rzdkg1ZG9ZSzVNeG5VbmFjbVZuamZHc29sdm81dEdjWmVQcWpCOXpMUWJ6WWZFWHZnMTA5UzhkZ3NSeXo0UmhMampJV1FwZ2tTR0dqb3JJdUFMQzJuQVA5b2ZrUnNNUE8wa3p5VWVOS1lfdF9FQm1hNU92MTJaOEE4ZWhQT20yZmlsbGNzWE5zbW03S1lKVmZLUVY2U1ZBeWpobWY0akdyM2hXRGFGbVYtX3ZlVmJaT0NVcklEWXdmTUVZYmJral9vd0VQMzBTdWxvRlA3QzVNRnpmODJRVzFrbmhmZ9IBgwJBVV95cUxPTGR0alBIM0lWbHhBTDZKRjF2cjk3OUJFLTJjY09CYVNtbWxOWjNWeWcyY3h1U2lEdVVoWUZIRGNjNjlnWkV4RkVTQ2dLSzBEbWNJYmlmNjFDdEo3M3hxcl94Y0JNdmZOeGUxcVZicF9PYjgwaFd1N2oycDMtRWw0WVVkamdzWG9ydXRPcjlRYVZVVTN3alBYUXRpU3MzZW1yM2MzNE5DY3lKUEtTXzJLaXBXQUZhWnpPM0lGWXN5dERDOFBwTlZ1Ykd5V3NXWWRpWXZHckNOejYySzY5NE1lUEFjSHdkblltQk5mck1hbnRXRlNfbEVPYXBsd2NWVkVLS0dR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPZkdaTnBpTFplWDgwa3RxTzUwTm9jcTVSSmdUOTRaOF9aMXZja2V4Z1YxS0JZZlJDelBqcmVxQzBQYm5ZclZReTFSc25oWktVTm1WeW0xQllyeFp2eEF5LVM2MklRY19aM3hJT25fUnUtR0JIWGZfV3pQOHVEVVVPeDM3X2F6M3pCTEt1WFBlNVlXQ0JDY1NtbXJJSXRlUXU2NmpmZ3Q5b09neWZfRE5PVGp6VjlvcFJfUnUxVXlTVHljbllxU1pNVTV3M1BQc0hHeDF4MUFiaFVma1VjOXBvZzlodTU1THMwc0YwTU5SSlVJU29iZW9YLUU4M1JSdXZva1lhVlJzREFzZHdnZ0tVMWprYkNoQjFWZl9DbEFJMDgyMlFvakt3U0x2eDVaWUlHblU0ZDVrdnhGUUs4QXZUdVB3aDRfQkVwa1RUd0tsdEhRRWpwLVNVV2xvN29MeUxJMmFtZDVjdUFlcE9kTlo3eGVNeFVQMUV1dnBoZFA5OE5ZWGVJYVZsR19EY1hWQ0N2VGtyeURhZEJkdkNJMEstTUFBd3hYZURmbTJBVU5GejUyZ2EtRWpXeGVlN2d0YUNEQ2RsVVZrNmtONlRQaWFPeVgxdmsxSEpVRFHSAYMCQVVfeXFMT0xkdGpQSDNJVmx4QUw2SkYxdnI5NzlCRS0yY2NPQmFTbW1sTlozVnlnMmN4dVNpRHVVaFlGSERjYzY5Z1pFeEZFU0NnS0swRG1jSWJpZjYxQ3RKNzN4cXJfeGNCTXZmTnhlMXFWYnBfT2I4MGhXdTdqMnAzLUVsNFlVZGpnc1hvcnV0T3I5UWFWVVUzd2pQWFF0aVNzM2VtcjNjMzROQ2N5SlBLU18yS2lwV0FGYVp6TzNJRllzeXREQzhQcE5WdWJHeVdzV1lkaVl2R3JDTno2Mks2OTRNZVBBY0h3ZG5ZbUJOZnJNYW50V0ZTX2xFT2FwbHdjVlZFS0tHUQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPZkdaTnBpTFplWDgwa3RxTzUwTm9jcTVSSmdUOTRaOF9aMXZja2V4Z1YxS0JZZlJDelBqcmVxQzBQYm5ZclZReTFSc25oWktVTm1WeW0xQllyeFp2eEF5LVM2MklRY19aM3hJT25fUnUtR0JIWGZfV3pQOHVEVVVPeDM3X2F6M3pCTEt1WFBlNVlXQ0JDY1NtbXJJSXRlUXU2NmpmZ3Q5b09neWZfRE5PVGp6VjlvcFJfUnUxVXlTVHljbllxU1pNVTV3M1BQc0hHeDF4MUFiaFVma1VjOXBvZzlodTU1THMwc0YwTU5SSlVJU29iZW9YLUU4M1JSdXZva1lhVlJzREFzZHdnZ0tVMWprYkNoQjFWZl9DbEFJMDgyMlFvakt3U0x2eDVaWUlHblU0ZDVrdnhGUUs4QXZUdVB3aDRfQkVwa1RUd0tsdEhRRWpwLVNVV2xvN29MeUxJMmFtZDVjdUFlcE9kTlo3eGVNeFVQMUV1dnBoZFA5OE5ZWGVJYVZsR19EY1hWQ0N2VGtyeURhZEJkdkNJMEstTUFBd3hYZURmbTJBVU5GejUyZ2EtRWpXeGVlN2d0YUNEQ2RsVVZrNmtONlRQaWFPeVgxdmsxSEpVRFHSAYMCQVVfeXFMT0xkdGpQSDNJVmx4QUw2SkYxdnI5NzlCRS0yY2NPQmFTbW1sTlozVnlnMmN4dVNpRHVVaFlGSERjYzY5Z1pFeEZFU0NnS0swRG1jSWJpZjYxQ3RKNzN4cXJfeGNCTXZmTnhlMXFWYnBfT2I4MGhXdTdqMnAzLUVsNFlVZGpnc1hvcnV0T3I5UWFWVVUzd2pQWFF0aVNzM2VtcjNjMzROQ2N5SlBLU18yS2lwV0FGYVp6TzNJRllzeXREQzhQcE5WdWJHeVdzV1lkaVl2R3JDTno2Mks2OTRNZVBBY0h3ZG5ZbUJOZnJNYW50V0ZTX2xFT2FwbHdjVlZFS0tHUQ?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
@@ -966,6 +966,26 @@
       ],
       "publishedAt": "2026-09-22T07:00:00.000Z",
       "excerpt": "Caso Cospito, i giudici: “Delmastro sapeva che le informazioni erano segrete”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "corriere.it__corriere roma__cospito motivazioni condanna otto mesi delmastro rivelo informazioni segrete finalita politiche__2026-09-22T07:00:00.000Z",
+      "title": "Cospito, le motivazioni della condanna a otto mesi di Delmastro: «Rivelò informazioni segrete con finalità politiche»",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPYlBhTnlVajA2MDdfVHhEMElCNHlTRy0yNURQRHpxbExVb2NLV1pVWWEzMDg2dkNBa0dBazl5YmZ0U3lmTElHYkVub1lfMEtqSW5pOUtTUVcyakgyT1F5VkJvVk1rNnNQc28xM01RLTZrMk9GOVpfbmNEZlRSTndublBHTjViMmQ0T1puS3JjNWpyR212WGlVOGg2X1ZvQUg2VGdaeHZyOGhMM2FWUE1FMkxBM3NfWXJRa1VNbUEzb2N6SVF6ZjNCVlo2SGlGQm94V1JoNkR6NjFsMVZKSWdXd2pJdmZKTHJka0dEV3B5MlVrT185Mm9kcmlUalduYldVRERTZzR1eHZQd2lYbkpubUh2VzYxbVI5STJ0a3lVenhKS3RBVkVrLWNhN2hLaWRkUXcydTVCQUtfZ9IBvwJBVV95cUxQN3lRMWVWckZNQThhOHQwU2dCRzJVRGVHRW1WTi1pNWJmUXdtVzRCVGpubDkwR0x0MVRUWmpDeVJIa3VQYXA5di1XU3RUd01pdGFEeHBpaDF4NUUxcWpZWmlLM1MwVXdIamU2S0pvZ0pvVUxPNzRqXzNlV2I2a0ZuVVNFTTNkOE05LUtQOGt5UnltMmF2UDdHeU5BYXNFVjZPd3VLLVFFTlNXUFJqcF9ja0N5M3RnODF0ZHg5OHdpblEybVNja2J4b0loSXpZVE9sN2YwZlBsTnV2STk1YVlhbnpHV2Zudl83LXNQbldCbW9EMVVFelJ3Q3VUTy0tYVFiR203YnhRV09fSm5LZ0xyUWowOTZwZWNWSEdKdTlZeFRYcV8tdWpORC1ZZ1BITVBtRTM4VHQza1FvTi01bzJz?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPYlBhTnlVajA2MDdfVHhEMElCNHlTRy0yNURQRHpxbExVb2NLV1pVWWEzMDg2dkNBa0dBazl5YmZ0U3lmTElHYkVub1lfMEtqSW5pOUtTUVcyakgyT1F5VkJvVk1rNnNQc28xM01RLTZrMk9GOVpfbmNEZlRSTndublBHTjViMmQ0T1puS3JjNWpyR212WGlVOGg2X1ZvQUg2VGdaeHZyOGhMM2FWUE1FMkxBM3NfWXJRa1VNbUEzb2N6SVF6ZjNCVlo2SGlGQm94V1JoNkR6NjFsMVZKSWdXd2pJdmZKTHJka0dEV3B5MlVrT185Mm9kcmlUalduYldVRERTZzR1eHZQd2lYbkpubUh2VzYxbVI5STJ0a3lVenhKS3RBVkVrLWNhN2hLaWRkUXcydTVCQUtfZ9IBvwJBVV95cUxQN3lRMWVWckZNQThhOHQwU2dCRzJVRGVHRW1WTi1pNWJmUXdtVzRCVGpubDkwR0x0MVRUWmpDeVJIa3VQYXA5di1XU3RUd01pdGFEeHBpaDF4NUUxcWpZWmlLM1MwVXdIamU2S0pvZ0pvVUxPNzRqXzNlV2I2a0ZuVVNFTTNkOE05LUtQOGt5UnltMmF2UDdHeU5BYXNFVjZPd3VLLVFFTlNXUFJqcF9ja0N5M3RnODF0ZHg5OHdpblEybVNja2J4b0loSXpZVE9sN2YwZlBsTnV2STk1YVlhbnpHV2Zudl83LXNQbldCbW9EMVVFelJ3Q3VUTy0tYVFiR203YnhRV09fSm5LZ0xyUWowOTZwZWNWSEdKdTlZeFRYcV8tdWpORC1ZZ1BITVBtRTM4VHQza1FvTi01bzJz?oc=5",
+      "source": "Corriere Roma",
+      "sourceHost": "corriere.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-09-22T07:00:00.000Z",
+      "excerpt": "Cospito, le motivazioni della condanna a otto mesi di Delmastro: «Rivelò informazioni segrete con finalità politiche»",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1217,10 +1237,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXc5SmFhM0UxenZpb0VZbzZyei03WDFHMFJZNWp5S2t2cUVnMmhPaXE3dUY0ZlJ3QnRoenFTQTROR2w0WnlPT3BCTU00TTZrTkNIUnh4YmpEcmNlaEtrQnpuUm5yWVg2d2h0WE9zaUFEejJoS3Z2OWxXVFdURzAxSUNjdC14UTRwMFRKSVVINlBiTG5icTZ2ZEVVb2xkTWpIVWRmbGdPenFOUGZDcTJtLW9EcWh3UUZlUGZWa3NBazBBckxMcnMtUF9pT1pSZEE0emfSAdcBQVVfeXFMUG9DWDVNTFlLTWt2ektuSkpzNFdXaDIyR1J5Z0RyWDJqaHZmSDRZbkJuZXc5aVF5QUZqVUtRbDRWLUVnU2pFMjZsN3piUmVuaDFfVER4M2JIM0xxcm5zd3YyeHYxcC1EREdSS3JKYWpCV3Jtd1RDVC1odFBCbzhtRTZuaUMta2RqSzVoeDdQR1Z2ZFgzOTIyd2tPU1A2SnFUd0w1aW5lV0VFY0FmeDRCSExJNl8zVEtBZUZ5QnliX2hXN3V4ak5JUFc0VzJhS3BERTBvSkhlMU0?oc=5",
       "source": "Corriere Roma",
       "sourceHost": "corriere.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "giudiziaria"

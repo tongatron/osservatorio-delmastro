@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T06:28:25.944Z",
+  "generatedAt": "2026-10-20T12:01:50.668Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-09-05T06:28:25.944Z",
-    "to": "2026-10-20T06:28:25.944Z",
+    "from": "2026-09-05T12:01:50.668Z",
+    "to": "2026-10-20T12:01:50.668Z",
     "days": 45
   },
   "sources": [
@@ -114,6 +114,10 @@
     {
       "label": "quotidiano.net",
       "articleCount": 4
+    },
+    {
+      "label": "newsbiella.it",
+      "articleCount": 3
     },
     {
       "label": "fanpage.it",
@@ -137,10 +141,6 @@
     },
     {
       "label": "rainews.it",
-      "articleCount": 2
-    },
-    {
-      "label": "newsbiella.it",
       "articleCount": 2
     },
     {
@@ -175,8 +175,8 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 84,
-      "uniqueArticles": 42
+      "fetchedArticles": 86,
+      "uniqueArticles": 43
     },
     {
       "label": "Soci e societa'",
@@ -197,6 +197,11 @@
       "label": "Filone giudiziario",
       "fetchedArticles": 19,
       "uniqueArticles": 0
+    },
+    {
+      "label": "Territorio",
+      "fetchedArticles": 1,
+      "uniqueArticles": 0
     }
   ],
   "tagSummary": [
@@ -214,7 +219,7 @@
     },
     {
       "tag": "territorio",
-      "count": 2
+      "count": 3
     }
   ],
   "timeline": [
@@ -400,10 +405,30 @@
     },
     {
       "date": "2026-10-20",
-      "count": 0
+      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "newsbiella.it__newsbiella.it__biella delmastro annuncia salgono 10 milioni euro finanziamento oropa__2026-10-20T11:00:00.000Z",
+      "title": "Biella, Delmastro annuncia: “Salgono a 10 i milioni di euro per il finanziamento a Oropa”",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNR1pHMkNLOU1DTVRidUNSajRmTzVoVU5UVjRDemZ3aVdyT19XdW95ZTI4Tm80V3lxNEYxejBZMmhlQzdVTmpsXzhTWEo0OE9OR0h1bjBvUzFXOWdncVhIbTNEaEdWMlFFbUxhMEtwVkFhYm5PU0hDVFFia3gtWG9fa3VNMUpmdjBCa1FBVlNnYUFvMXdXTl9vbTZfa281TEQ3MlR2MDBBdzVyZ2VWRlRHeHMybTg1LVNIeG1DNmVBNWZhMmlYMGE1ZnZkVlNYSExLSFBmTXRxLWJMRF95VEpETjN0a2dnWVNuNHVxUHJZU2NkUHpPcm9DTnNIVEZiZnpNV0HSAfQBQVVfeXFMT0I2VlY2VGhYZTVBR1lmc3VDNEtPUG92bUVPLXRaX09RNFFRZTRITWk4eXl1WHIxQXdtNlg3Z2RxVW1Za3dmU0ZMVDV0ZWdla3hSVkRnN2t4VTg3RHc3WE84eXdBRENNRHEtNHczeDh0NDJqRWJWVFpxTHk0Q19KVnd2Z1lPU3c5ekpqbmdkcEduWWxBaUxLRnpmYVNCODZYMThkRkdZT3ZGd3dlZVdmQWJRRUdSX1hXZVgyNFFEQW5tVVh4bk8yN0NMVVROaEVVZTVISzJ0TmNTdFlTZ0NuMmhqVWg2cjJ6cE1wV2ljQzdiTWNGbA?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNR1pHMkNLOU1DTVRidUNSajRmTzVoVU5UVjRDemZ3aVdyT19XdW95ZTI4Tm80V3lxNEYxejBZMmhlQzdVTmpsXzhTWEo0OE9OR0h1bjBvUzFXOWdncVhIbTNEaEdWMlFFbUxhMEtwVkFhYm5PU0hDVFFia3gtWG9fa3VNMUpmdjBCa1FBVlNnYUFvMXdXTl9vbTZfa281TEQ3MlR2MDBBdzVyZ2VWRlRHeHMybTg1LVNIeG1DNmVBNWZhMmlYMGE1ZnZkVlNYSExLSFBmTXRxLWJMRF95VEpETjN0a2dnWVNuNHVxUHJZU2NkUHpPcm9DTnNIVEZiZnpNV0HSAfQBQVVfeXFMT0I2VlY2VGhYZTVBR1lmc3VDNEtPUG92bUVPLXRaX09RNFFRZTRITWk4eXl1WHIxQXdtNlg3Z2RxVW1Za3dmU0ZMVDV0ZWdla3hSVkRnN2t4VTg3RHc3WE84eXdBRENNRHEtNHczeDh0NDJqRWJWVFpxTHk0Q19KVnd2Z1lPU3c5ekpqbmdkcEduWWxBaUxLRnpmYVNCODZYMThkRkdZT3ZGd3dlZVdmQWJRRUdSX1hXZVgyNFFEQW5tVVh4bk8yN0NMVVROaEVVZTVISzJ0TmNTdFlTZ0NuMmhqVWg2cjJ6cE1wV2ljQzdiTWNGbA?oc=5",
+      "source": "Newsbiella.it",
+      "sourceHost": "newsbiella.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "territorio"
+      ],
+      "publishedAt": "2026-10-20T11:00:00.000Z",
+      "excerpt": "Biella, Delmastro annuncia: “Salgono a 10 i milioni di euro per il finanziamento a Oropa”",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
     {
       "id": "ansa.it__ansa__dori inizio anno primo step ricorso delmastro consulta__2026-10-13T17:53:54.000Z",
       "title": "Dori: 'A inizio anno primo step del ricorso su Delmastro alla Consulta'",

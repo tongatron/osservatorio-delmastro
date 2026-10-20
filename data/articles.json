@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T20:48:15.994Z",
+  "generatedAt": "2026-10-20T23:44:54.675Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-09-05T20:48:15.994Z",
-    "to": "2026-10-20T20:48:15.994Z",
+    "from": "2026-09-05T23:44:54.675Z",
+    "to": "2026-10-20T23:44:54.675Z",
     "days": 45
   },
   "sources": [
@@ -175,13 +175,13 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 84,
-      "uniqueArticles": 42
+      "fetchedArticles": 86,
+      "uniqueArticles": 43
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 36,
-      "uniqueArticles": 7
+      "fetchedArticles": 34,
+      "uniqueArticles": 6
     },
     {
       "label": "Persone collegate",
@@ -223,10 +223,6 @@
     }
   ],
   "timeline": [
-    {
-      "date": "2026-09-05",
-      "count": 0
-    },
     {
       "date": "2026-09-06",
       "count": 0
@@ -406,6 +402,10 @@
     {
       "date": "2026-10-20",
       "count": 1
+    },
+    {
+      "date": "2026-10-21",
+      "count": 0
     }
   ],
   "articles": [
@@ -490,7 +490,7 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "repubblica.it__la repubblica__chat delmastro scontro giunta fdi attacca presidente sul ricorso__2026-10-12T09:45:39.000Z",
+      "id": "repubblica.it__la repubblica__chat delmastro scontro giunta fdi attacca presidente sul ricorso__2026-10-12T07:00:00.000Z",
       "title": "Chat Delmastro, scontro in giunta. FdI attacca il presidente sul ricorso",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFhtdDFOOGR2MGdWRUwyUFJlbFJ3MnljeHlJbTlzQlZKSzVweWxfVS1vZ0FsUW9sWVFjNEpSUGxSNzFWVVk5U254cjlVbEdCeHFwSHllWmF3YzRTWTdhbDBMMVFkNkI5clVOclNYN1pRbnRHUW16cG15bWtnM0xJcnRfSnA2VjA0dlNmWFRUQ0dLWjVNbm4zaF9DcUdzM2JYYkxvcnJfSThWUVZodWV3U2VXQ3pkOFItYjVXN0xwZ01tUdIBxwFBVV95cUxNMkxyNlNIWS1nQnZlbVJxckR5WUwyLVRaX0ltYkhSRjB4YlV5T1VXVnRKdDUySWF3UHVJQlE4YXRlVFlRZ0cxWTFqOWt6YmUyLWRLZERNOHkzdHVvcUxDRU5kckxScXhLQmF4cWdobkN6UVNTWXFLZjlhZTRxSHZpa3VsNkwzWUZjUHh5eGJtRHpudC1aelBiNDYzb3gzNHo5bDc0SHNVQ0JqOUczZ3RJMTNoUWpEbmk5cDN1QkJwT1liQ2JDOGEw?oc=5",
       "googleNewsLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFhtdDFOOGR2MGdWRUwyUFJlbFJ3MnljeHlJbTlzQlZKSzVweWxfVS1vZ0FsUW9sWVFjNEpSUGxSNzFWVVk5U254cjlVbEdCeHFwSHllWmF3YzRTWTdhbDBMMVFkNkI5clVOclNYN1pRbnRHUW16cG15bWtnM0xJcnRfSnA2VjA0dlNmWFRUQ0dLWjVNbm4zaF9DcUdzM2JYYkxvcnJfSThWUVZodWV3U2VXQ3pkOFItYjVXN0xwZ01tUdIBxwFBVV95cUxNMkxyNlNIWS1nQnZlbVJxckR5WUwyLVRaX0ltYkhSRjB4YlV5T1VXVnRKdDUySWF3UHVJQlE4YXRlVFlRZ0cxWTFqOWt6YmUyLWRLZERNOHkzdHVvcUxDRU5kckxScXhLQmF4cWdobkN6UVNTWXFLZjlhZTRxSHZpa3VsNkwzWUZjUHh5eGJtRHpudC1aelBiNDYzb3gzNHo5bDc0SHNVQ0JqOUczZ3RJMTNoUWpEbmk5cDN1QkJwT1liQ2JDOGEw?oc=5",
@@ -504,7 +504,7 @@
       "tags": [
         "politica"
       ],
-      "publishedAt": "2026-10-12T09:45:39.000Z",
+      "publishedAt": "2026-10-12T07:00:00.000Z",
       "excerpt": "Chat Delmastro, scontro in giunta. FdI attacca il presidente sul ricorso",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
@@ -598,15 +598,10 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNlFZcktrR01EV2ROTW1tM01EbnpNZXdxZmRGMmw0SV9rWm4zN1N0MmprYk8ybVpUNEFlcnRjdWlNVWtEd215WmF0WmVqMTIzeTk2azdlaTljcm5ZWEdmdUlBMkhrYVVtQjZpTVF2Q05LNTZCdDdfQTdjZXczeHhsdjZIZG94ZlJQcjZvUlhselE3MDRKTVdyYUFiWS1KRlBaeU1LUTFkcEMycDhDTWZlb3hGQ1UyT1VTT000TmdHS0RXVzA5dTJ5Nmd0UDNkUjdENHFIRWFmRTlUTm5wbzZfUElvZ2vSAeoBQVVfeXFMTVNhOEc4bFZCZldkT3g3MEtJV1FCeWJYX2hRUWw0dExHYXduYXd1TDA1d2RiMzg1OHpMaTBlb2ptU1NSYkxiQ2F2c0RHbnJoWHhpQjNjeXVMaVUxWW9xb3B6LVNOcXFEWFpwUFFIUWMxVnFkT3Q4UU4xNlVzRmJJNjBBd1ROM3FaZFc5QTdGUFNtNm1nbzllbTNvSW10bl9CRm1rd0VRdkJETTNuNkc2VFVyMnJZZEVRM0RienplSXktQWhmU1hySTBzZG5rTmRXdkNLeU1FTmJnY05rUTltTEx4d2lCWmdoUnBB?oc=5",
       "source": "AGI",
       "sourceHost": "agi.it",
-      "queryLabel": "Soci e societa'",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Caroccia",
-        "Cristiano Franceschini",
-        "Davide Zappalà",
-        "soci Delmastro",
-        "soci bisteccheria",
-        "srl",
-        "clan Senese"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "altro"
@@ -964,8 +959,8 @@
     {
       "id": "ansa.it__ansa__giudici delmastro informazioni segrete donzelli finalita politica__2026-09-22T07:00:00.000Z",
       "title": "Giudici, da Delmastro informazioni segrete a Donzelli per finalità politica",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdlNkVlI5dDhGNF94OXNZU3pEWUpvNnhfb1Rzdkg1ZG9ZSzVNeG5VbmFjbVZuamZHc29sdm81dEdjWmVQcWpCOXpMUWJ6WWZFWHZnMTA5UzhkZ3NSeXo0UmhMampJV1FwZ2tTR0dqb3JJdUFMQzJuQVA5b2ZrUnNNUE8wa3p5VWVOS1lfdF9FQm1hNU92MTJaOEE4ZWhQT20yZmlsbGNzWE5zbW03S1lKVmZLUVY2U1ZBeWpobWY0akdyM2hXRGFGbVYtX3ZlVmJaT0NVcklEWXdmTUVZYmJral9vd0VQMzBTdWxvRlA3QzVNRnpmODJRVzFrbmhmZ9IBgwJBVV95cUxPTGR0alBIM0lWbHhBTDZKRjF2cjk3OUJFLTJjY09CYVNtbWxOWjNWeWcyY3h1U2lEdVVoWUZIRGNjNjlnWkV4RkVTQ2dLSzBEbWNJYmlmNjFDdEo3M3hxcl94Y0JNdmZOeGUxcVZicF9PYjgwaFd1N2oycDMtRWw0WVVkamdzWG9ydXRPcjlRYVZVVTN3alBYUXRpU3MzZW1yM2MzNE5DY3lKUEtTXzJLaXBXQUZhWnpPM0lGWXN5dERDOFBwTlZ1Ykd5V3NXWWRpWXZHckNOejYySzY5NE1lUEFjSHdkblltQk5mck1hbnRXRlNfbEVPYXBsd2NWVkVLS0dR?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdlNkVlI5dDhGNF94OXNZU3pEWUpvNnhfb1Rzdkg1ZG9ZSzVNeG5VbmFjbVZuamZHc29sdm81dEdjWmVQcWpCOXpMUWJ6WWZFWHZnMTA5UzhkZ3NSeXo0UmhMampJV1FwZ2tTR0dqb3JJdUFMQzJuQVA5b2ZrUnNNUE8wa3p5VWVOS1lfdF9FQm1hNU92MTJaOEE4ZWhQT20yZmlsbGNzWE5zbW03S1lKVmZLUVY2U1ZBeWpobWY0akdyM2hXRGFGbVYtX3ZlVmJaT0NVcklEWXdmTUVZYmJral9vd0VQMzBTdWxvRlA3QzVNRnpmODJRVzFrbmhmZ9IBgwJBVV95cUxPTGR0alBIM0lWbHhBTDZKRjF2cjk3OUJFLTJjY09CYVNtbWxOWjNWeWcyY3h1U2lEdVVoWUZIRGNjNjlnWkV4RkVTQ2dLSzBEbWNJYmlmNjFDdEo3M3hxcl94Y0JNdmZOeGUxcVZicF9PYjgwaFd1N2oycDMtRWw0WVVkamdzWG9ydXRPcjlRYVZVVTN3alBYUXRpU3MzZW1yM2MzNE5DY3lKUEtTXzJLaXBXQUZhWnpPM0lGWXN5dERDOFBwTlZ1Ykd5V3NXWWRpWXZHckNOejYySzY5NE1lUEFjSHdkblltQk5mck1hbnRXRlNfbEVPYXBsd2NWVkVLS0dR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbHcwRU9xb3ZUd25zM3J2eHlpOUFjQmdVb1ZFUm1TR1hQZDFPRW8td0RtLWljdlJRRWNMNkdpcnVFMGRsbzdwZHBfdHlVUlVCb0cxYlBBbkU5NnRoakdaWVJOOVd0Y2ZjRXRLTlNfNkFEX0ZzM3dTWnk0a09BWTlkVmVKb2c5OFBwZExHRXQtQTZ6c1JuTUZLLXJFOXpmSDdlVnNkYkpXdUJ6WEpfRkQ3VVVrZzBoNUVCTEVZb19yQ0lDalVLdUl1cHB4eF9CR0UzQlM5aXhnZjZyaXFVSnRPMFVSSkNZbmxMR3ZNTXRVamo1a2JBTFpuUlJlbzfSAYICQVVfeXFMTTdvc1NJcm9xd3ZpVjlvTGVIXy1JZmdUdFR3dFRseDJuN0daUE1mcG80Qk1KV0dqTnp2SVZudDhJQzE5bzJfcWgzelJqM1o3RXdQV0FycHF5U3Y0X1pzVk1BSmRFTFFPUF9UNkhTY3lFaDFkRFF6dnRKdUcybGNiYXJTQXhLaEJRdXd4Nk94LWotMDhfRXR5NTE5ckNTbFZ6LWdBWmpPQnVWd0RCN004VFZWVG5ObzBha09CNlZEN1VCWk1lZF82bHlmM2pkMHpUbUZFczBhQ1RYNHY1Y2RvaHpHcjRQaEhZUWpBTjhwWUJiMHlIX0paUFVfUXBUSVVSUlpB?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbHcwRU9xb3ZUd25zM3J2eHlpOUFjQmdVb1ZFUm1TR1hQZDFPRW8td0RtLWljdlJRRWNMNkdpcnVFMGRsbzdwZHBfdHlVUlVCb0cxYlBBbkU5NnRoakdaWVJOOVd0Y2ZjRXRLTlNfNkFEX0ZzM3dTWnk0a09BWTlkVmVKb2c5OFBwZExHRXQtQTZ6c1JuTUZLLXJFOXpmSDdlVnNkYkpXdUJ6WEpfRkQ3VVVrZzBoNUVCTEVZb19yQ0lDalVLdUl1cHB4eF9CR0UzQlM5aXhnZjZyaXFVSnRPMFVSSkNZbmxMR3ZNTXRVamo1a2JBTFpuUlJlbzfSAYICQVVfeXFMTTdvc1NJcm9xd3ZpVjlvTGVIXy1JZmdUdFR3dFRseDJuN0daUE1mcG80Qk1KV0dqTnp2SVZudDhJQzE5bzJfcWgzelJqM1o3RXdQV0FycHF5U3Y0X1pzVk1BSmRFTFFPUF9UNkhTY3lFaDFkRFF6dnRKdUcybGNiYXJTQXhLaEJRdXd4Nk94LWotMDhfRXR5NTE5ckNTbFZ6LWdBWmpPQnVWd0RCN004VFZWVG5ObzBha09CNlZEN1VCWk1lZF82bHlmM2pkMHpUbUZFczBhQ1RYNHY1Y2RvaHpHcjRQaEhZUWpBTjhwWUJiMHlIX0paUFVfUXBUSVVSUlpB?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",

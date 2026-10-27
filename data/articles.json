@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T05:28:08.799Z",
+  "generatedAt": "2026-10-27T10:52:39.292Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,18 +94,22 @@
     ]
   },
   "window": {
-    "from": "2026-09-12T05:28:08.799Z",
-    "to": "2026-10-27T05:28:08.799Z",
+    "from": "2026-09-12T10:52:39.292Z",
+    "to": "2026-10-27T10:52:39.292Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
-      "articleCount": 12
+      "articleCount": 11
     },
     {
       "label": "repubblica.it",
-      "articleCount": 7
+      "articleCount": 6
+    },
+    {
+      "label": "affaritaliani.it",
+      "articleCount": 3
     },
     {
       "label": "fanpage.it",
@@ -114,6 +118,10 @@
     {
       "label": "ansa.it",
       "articleCount": 3
+    },
+    {
+      "label": "ilgiornale.it",
+      "articleCount": 2
     },
     {
       "label": "open.online",
@@ -136,46 +144,34 @@
       "articleCount": 1
     },
     {
-      "label": "affaritaliani.it",
-      "articleCount": 1
-    },
-    {
-      "label": "ilgiornale.it",
-      "articleCount": 1
-    },
-    {
       "label": "rainews.it",
-      "articleCount": 1
-    },
-    {
-      "label": "adnkronos.com",
       "articleCount": 1
     }
   ],
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 63,
+      "fetchedArticles": 62,
       "uniqueArticles": 31
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 24,
+      "fetchedArticles": 23,
       "uniqueArticles": 5
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 13,
+      "fetchedArticles": 12,
       "uniqueArticles": 1
     },
     {
       "label": "Bisteccheria",
-      "fetchedArticles": 5,
+      "fetchedArticles": 3,
       "uniqueArticles": 0
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 12,
+      "fetchedArticles": 9,
       "uniqueArticles": 0
     },
     {
@@ -187,25 +183,25 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 27
+      "count": 29
     },
     {
       "tag": "politica",
       "count": 6
     },
     {
-      "tag": "giudiziaria",
-      "count": 3
+      "tag": "territorio",
+      "count": 1
     },
     {
-      "tag": "territorio",
+      "tag": "giudiziaria",
       "count": 1
     }
   ],
   "timeline": [
     {
       "date": "2026-09-12",
-      "count": 2
+      "count": 0
     },
     {
       "date": "2026-09-13",
@@ -385,10 +381,50 @@
     },
     {
       "date": "2026-10-27",
-      "count": 0
+      "count": 2
     }
   ],
   "articles": [
+    {
+      "id": "affaritaliani.it__affaritaliani__attacco hacker camera deputati mirino caselle mail meloni delmastro formentini__2026-10-27T10:39:06.000Z",
+      "title": "Attacco hacker alla Camera dei deputati, nel mirino le caselle e-mail di Meloni, Delmastro e Formentini",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUGFhSlVnVTVuSmdKNW1wSm9UcXE5UzJlSkxYTHVXUHl5aTAyRjVVUFdLOExQQWdzQkl4cjNCU1BhYzhZbFJZS1UtbndGSENwRWx6Mm1tbjJYYXFzd25MMG5qQXhkZEVlYVBGTkRpOE9ha0tKQ0dtNGZYeEFlSlI5ZENINXhVMW9vS2lqVnJpUTMzdUhpSklTNUJXaURqT2ROSTdTVncwQUlTYy1pYnZHQU8wZ2xsQzJsLXppWFNxM1dFbElLbHEyV0ozWi1mc0c1bHpySXZiaVdlN3Nf?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUGFhSlVnVTVuSmdKNW1wSm9UcXE5UzJlSkxYTHVXUHl5aTAyRjVVUFdLOExQQWdzQkl4cjNCU1BhYzhZbFJZS1UtbndGSENwRWx6Mm1tbjJYYXFzd25MMG5qQXhkZEVlYVBGTkRpOE9ha0tKQ0dtNGZYeEFlSlI5ZENINXhVMW9vS2lqVnJpUTMzdUhpSklTNUJXaURqT2ROSTdTVncwQUlTYy1pYnZHQU8wZ2xsQzJsLXppWFNxM1dFbElLbHEyV0ozWi1mc0c1bHpySXZiaVdlN3Nf?oc=5",
+      "source": "Affaritaliani",
+      "sourceHost": "affaritaliani.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-10-27T10:39:06.000Z",
+      "excerpt": "Attacco hacker alla Camera dei deputati, nel mirino le caselle e-mail di Meloni, Delmastro e Formentini",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilgiornale.it__il giornale__attacco hacker camera violate mail meloni delmastro formentini__2026-10-27T10:28:46.000Z",
+      "title": "Attacco hacker alla Camera, violate le mail di Meloni, Delmastro e Formentini",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONVhzMHhrVDVCeV9obF9YVFc1NkphenFwQ01ZWS16eGpBT2tLSWM3VmJ2bTZ3aWp2ZEV1RzF0bzRORFpKb2ZQdjU4NGJRMU9UbktMY195dlkwLVFwRzJpS0hldm9QaWFoQmJVaUhuNzhTc29OMU1IT3lJTjhLRTRkRXI2S25lTEJ1YUZNNlpXN0xCZG1WeWlqUHA5VHpKRFE0eVFHNTJGQVV0MHNTN3lOSjBndDl2TkxXUVE?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONVhzMHhrVDVCeV9obF9YVFc1NkphenFwQ01ZWS16eGpBT2tLSWM3VmJ2bTZ3aWp2ZEV1RzF0bzRORFpKb2ZQdjU4NGJRMU9UbktMY195dlkwLVFwRzJpS0hldm9QaWFoQmJVaUhuNzhTc29OMU1IT3lJTjhLRTRkRXI2S25lTEJ1YUZNNlpXN0xCZG1WeWlqUHA5VHpKRFE0eVFHNTJGQVV0MHNTN3lOSjBndDl2TkxXUVE?oc=5",
+      "source": "il Giornale",
+      "sourceHost": "ilgiornale.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-10-27T10:28:46.000Z",
+      "excerpt": "Attacco hacker alla Camera, violate le mail di Meloni, Delmastro e Formentini",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
     {
       "id": "fanpage.it__fanpage__bombe esplose roma est cosi si riorganizza criminalita capitale dopo arresti clan senese__2026-10-24T04:30:04.000Z",
       "title": "Bombe esplose a Roma Est: così si riorganizza la criminalità della Capitale dopo gli arresti al clan Senese",
@@ -918,9 +954,9 @@
     },
     {
       "id": "ansa.it__ansa__giudici delmastro informazioni segrete donzelli finalita politica__2026-09-22T07:00:00.000Z",
-      "title": "++ Giudici, da Delmastro informazioni segrete a Donzelli per finalità politica ++",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONU9oR0dpOUs0SEtwbnlvU3FWWkQ5dFdKSEF1LXIzYUh6SkVoVS1kUmFILUxfaUtkN2JxTjZRZGVSZG83dmNuTkJneXU3NmY4QkJXYko2RXhXUmpXUUhuVlVqOVI5Vy1wZXo2Z3pfc1Z4QThnZllPMEg0anB2S1hQck1mZDZIZEt2Qk5UZDVEX2JSbXZBNTUwMXM1Mmo2OWNDV2JtUVUtNHJ6aDEtdk1EQW9PMms4QVdQYkY3RkM0RG5GZWZNYzhtWFlTQ1UwQ1RFcXpUMlVTdldrUVpFcVktTV94VkdNQUdudjB2ZkIzWXdyaFJvQk9DWnBjOXY?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONU9oR0dpOUs0SEtwbnlvU3FWWkQ5dFdKSEF1LXIzYUh6SkVoVS1kUmFILUxfaUtkN2JxTjZRZGVSZG83dmNuTkJneXU3NmY4QkJXYko2RXhXUmpXUUhuVlVqOVI5Vy1wZXo2Z3pfc1Z4QThnZllPMEg0anB2S1hQck1mZDZIZEt2Qk5UZDVEX2JSbXZBNTUwMXM1Mmo2OWNDV2JtUVUtNHJ6aDEtdk1EQW9PMms4QVdQYkY3RkM0RG5GZWZNYzhtWFlTQ1UwQ1RFcXpUMlVTdldrUVpFcVktTV94VkdNQUdudjB2ZkIzWXdyaFJvQk9DWnBjOXY?oc=5",
+      "title": "Giudici, da Delmastro informazioni segrete a Donzelli per finalità politica",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdlNkVlI5dDhGNF94OXNZU3pEWUpvNnhfb1Rzdkg1ZG9ZSzVNeG5VbmFjbVZuamZHc29sdm81dEdjWmVQcWpCOXpMUWJ6WWZFWHZnMTA5UzhkZ3NSeXo0UmhMampJV1FwZ2tTR0dqb3JJdUFMQzJuQVA5b2ZrUnNNUE8wa3p5VWVOS1lfdF9FQm1hNU92MTJaOEE4ZWhQT20yZmlsbGNzWE5zbW03S1lKVmZLUVY2U1ZBeWpobWY0akdyM2hXRGFGbVYtX3ZlVmJaT0NVcklEWXdmTUVZYmJral9vd0VQMzBTdWxvRlA3QzVNRnpmODJRVzFrbmhmZ9IBgwJBVV95cUxPTGR0alBIM0lWbHhBTDZKRjF2cjk3OUJFLTJjY09CYVNtbWxOWjNWeWcyY3h1U2lEdVVoWUZIRGNjNjlnWkV4RkVTQ2dLSzBEbWNJYmlmNjFDdEo3M3hxcl94Y0JNdmZOeGUxcVZicF9PYjgwaFd1N2oycDMtRWw0WVVkamdzWG9ydXRPcjlRYVZVVTN3alBYUXRpU3MzZW1yM2MzNE5DY3lKUEtTXzJLaXBXQUZhWnpPM0lGWXN5dERDOFBwTlZ1Ykd5V3NXWWRpWXZHckNOejYySzY5NE1lUEFjSHdkblltQk5mck1hbnRXRlNfbEVPYXBsd2NWVkVLS0dR?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdlNkVlI5dDhGNF94OXNZU3pEWUpvNnhfb1Rzdkg1ZG9ZSzVNeG5VbmFjbVZuamZHc29sdm81dEdjWmVQcWpCOXpMUWJ6WWZFWHZnMTA5UzhkZ3NSeXo0UmhMampJV1FwZ2tTR0dqb3JJdUFMQzJuQVA5b2ZrUnNNUE8wa3p5VWVOS1lfdF9FQm1hNU92MTJaOEE4ZWhQT20yZmlsbGNzWE5zbW03S1lKVmZLUVY2U1ZBeWpobWY0akdyM2hXRGFGbVYtX3ZlVmJaT0NVcklEWXdmTUVZYmJral9vd0VQMzBTdWxvRlA3QzVNRnpmODJRVzFrbmhmZ9IBgwJBVV95cUxPTGR0alBIM0lWbHhBTDZKRjF2cjk3OUJFLTJjY09CYVNtbWxOWjNWeWcyY3h1U2lEdVVoWUZIRGNjNjlnWkV4RkVTQ2dLSzBEbWNJYmlmNjFDdEo3M3hxcl94Y0JNdmZOeGUxcVZicF9PYjgwaFd1N2oycDMtRWw0WVVkamdzWG9ydXRPcjlRYVZVVTN3alBYUXRpU3MzZW1yM2MzNE5DY3lKUEtTXzJLaXBXQUZhWnpPM0lGWXN5dERDOFBwTlZ1Ykd5V3NXWWRpWXZHckNOejYySzY5NE1lUEFjSHdkblltQk5mck1hbnRXRlNfbEVPYXBsd2NWVkVLS0dR?oc=5",
       "source": "ANSA",
       "sourceHost": "ansa.it",
       "queryLabel": "Delmastro generale",
@@ -932,7 +968,7 @@
         "altro"
       ],
       "publishedAt": "2026-09-22T07:00:00.000Z",
-      "excerpt": "++ Giudici, da Delmastro informazioni segrete a Donzelli per finalità politica ++",
+      "excerpt": "Giudici, da Delmastro informazioni segrete a Donzelli per finalità politica",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1017,12 +1053,12 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "adnkronos.com__adnkronos__caso cospito motivazioni sentenza delmastro cosa scrivono giudici d appello__2026-09-22T07:00:00.000Z",
-      "title": "Caso Cospito, le motivazioni della sentenza su Delmastro: cosa scrivono i giudici d'appello",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVYwOUdWTU5seW1NVmZDd0psLTNOdGlEN0RlTms2YWtMbWhhdFdCcXJjcUhNckxSWXYwa3lHc0RzUWh5Y0V1SllzZC1SNWN5cExLLUNLaTYyUXNTd0tILVRiODMxM3BWcXdsMEpLLWFLYWpBYTVOXzRHbmY0RE5UNjVsWGZZeEhFajhNSkdoT1ZoQzVSTzF1V3J5cEtXU2xOSHc?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVYwOUdWTU5seW1NVmZDd0psLTNOdGlEN0RlTms2YWtMbWhhdFdCcXJjcUhNckxSWXYwa3lHc0RzUWh5Y0V1SllzZC1SNWN5cExLLUNLaTYyUXNTd0tILVRiODMxM3BWcXdsMEpLLWFLYWpBYTVOXzRHbmY0RE5UNjVsWGZZeEhFajhNSkdoT1ZoQzVSTzF1V3J5cEtXU2xOSHc?oc=5",
-      "source": "Adnkronos",
-      "sourceHost": "adnkronos.com",
+      "id": "affaritaliani.it__affaritaliani__caso cospito giudici d appello delmastro violo segreto informazioni finalita politica__2026-09-22T07:00:00.000Z",
+      "title": "Caso Cospito, per i giudici d'appello Delmastro violò il segreto: \"Informazioni per finalità politica\"",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcEtEaVBxTGpJUE1FWUVhY3hPVzNuSnhaREVNdmo0cVB6MEtkX3EtcTc4VV8tUFdnYUZJQzJHMXlUY202WUl1OS1pMU1xMEdCVDdqbm1EU05DMkdUak5iZG9wV0J5ZF9mSGRuV1ZGZ2g4RlVkREZWdEhlaVNKZ3FERm9TWDZXenQ1SEFkR2VXWXBZUDJXVUZOZVFWRVBHTzluWlVTWkFETjdkWEFvOW5aNXR6dU9fSVF5SkpyVGFCaFRyelVFMGVXbnFOSFJWUG5vS0RXRUJnUQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcEtEaVBxTGpJUE1FWUVhY3hPVzNuSnhaREVNdmo0cVB6MEtkX3EtcTc4VV8tUFdnYUZJQzJHMXlUY202WUl1OS1pMU1xMEdCVDdqbm1EU05DMkdUak5iZG9wV0J5ZF9mSGRuV1ZGZ2g4RlVkREZWdEhlaVNKZ3FERm9TWDZXenQ1SEFkR2VXWXBZUDJXVUZOZVFWRVBHTzluWlVTWkFETjdkWEFvOW5aNXR6dU9fSVF5SkpyVGFCaFRyelVFMGVXbnFOSFJWUG5vS0RXRUJnUQ?oc=5",
+      "source": "Affaritaliani",
+      "sourceHost": "affaritaliani.it",
       "queryLabel": "Delmastro generale",
       "matchedTerms": [
         "Delmastro",
@@ -1032,7 +1068,7 @@
         "altro"
       ],
       "publishedAt": "2026-09-22T07:00:00.000Z",
-      "excerpt": "Caso Cospito, le motivazioni della sentenza su Delmastro: cosa scrivono i giudici d'appello",
+      "excerpt": "Caso Cospito, per i giudici d'appello Delmastro violò il segreto: \"Informazioni per finalità politica\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -1113,46 +1149,6 @@
       ],
       "publishedAt": "2026-09-15T07:00:00.000Z",
       "excerpt": "FdI, Meloni va dai giovani e non all’Onu. Torna pure Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "repubblica.it__la repubblica__delmastro procura ricorre consulta ottenere chat caroccia__2026-09-12T07:00:00.000Z",
-      "title": "Delmastro, la Procura ricorre alla Consulta per ottenere le chat con Caroccia",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0lqeVo0ekpZb1ZSWDdNUnB5ZkhqbUVaczRkSmJhV2o4empFSS16QUpHZ2dYUDFtTXlSX09XbXI3YVBldGR4bXZjeXZ6RXNMc193ZkI3aC1TeHRBOFZhVlhaa0hDRnViMEtBWnQ1TGYzODQ5dWNNb041YTMxRHVkWmpiRjhSUWNad0JqZDV6UmgwR00tMnhjc19PSnk4NUlwdlRHc0haaUoyRHJIM05XV9IBtgFBVV95cUxPdEF0V2pkV0ItUldCMlJMdjgzeG8yMjE4Q05zUXRLcGllU1NNWFdiMDZEXzFnaWxvT2xIMmVNTUpsY2EySUVZazd4X0dDTmNvMGRRUDdCZFZtaWRXNkVNUkR0OGtBZ0E4QjJiU0xDeUdBT09MOEVubjBLcDV5M3dvN1pTS3dWZmFsbTUwdzVZOWtjMTBNN3RBQlVqTk5ETWphbHNuaGxZMWUzcHdwU0hlSXhLeGRBZw?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0lqeVo0ekpZb1ZSWDdNUnB5ZkhqbUVaczRkSmJhV2o4empFSS16QUpHZ2dYUDFtTXlSX09XbXI3YVBldGR4bXZjeXZ6RXNMc193ZkI3aC1TeHRBOFZhVlhaa0hDRnViMEtBWnQ1TGYzODQ5dWNNb041YTMxRHVkWmpiRjhSUWNad0JqZDV6UmgwR00tMnhjc19PSnk4NUlwdlRHc0haaUoyRHJIM05XV9IBtgFBVV95cUxPdEF0V2pkV0ItUldCMlJMdjgzeG8yMjE4Q05zUXRLcGllU1NNWFdiMDZEXzFnaWxvT2xIMmVNTUpsY2EySUVZazd4X0dDTmNvMGRRUDdCZFZtaWRXNkVNUkR0OGtBZ0E4QjJiU0xDeUdBT09MOEVubjBLcDV5M3dvN1pTS3dWZmFsbTUwdzVZOWtjMTBNN3RBQlVqTk5ETWphbHNuaGxZMWUzcHdwU0hlSXhLeGRBZw?oc=5",
-      "source": "la Repubblica",
-      "sourceHost": "repubblica.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-09-12T07:00:00.000Z",
-      "excerpt": "Delmastro, la Procura ricorre alla Consulta per ottenere le chat con Caroccia",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
-      "id": "ilfattoquotidiano.it__il fatto quotidiano__chat delmastro ricorso pm corte costituzionale contro no camera__2026-09-12T07:00:00.000Z",
-      "title": "Chat Delmastro, ricorso dei pm alla Corte costituzionale contro il “no” della Camera",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcjRlSmtlTXE3dVRPYzMxUFdsTmhhTGpsTkwwQnQtV3NqWFlZTWEzampENkozUU5DZ1UyUTRucHJQVU5sYklnUW9zbW1IVHFyQjBGSVI5aENnRG9tQUpDdWdWYkVqcDhZMDBuT3JyQmkzZEVwTTRLZWJFeHY2MHExNHlGWGtJbTQxaXEyNkg0LXNHT3MzWUJpSV9NREpCUG40NTBUTFV4dFc4VFFtSmVyWlVoUno2WFAxYnhIejh5N0lWR0dwQURjeG4tekowNlRXR3IxcVdZRlRIZ25PdlJhTEIzRnd3RWM2aWc?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcjRlSmtlTXE3dVRPYzMxUFdsTmhhTGpsTkwwQnQtV3NqWFlZTWEzampENkozUU5DZ1UyUTRucHJQVU5sYklnUW9zbW1IVHFyQjBGSVI5aENnRG9tQUpDdWdWYkVqcDhZMDBuT3JyQmkzZEVwTTRLZWJFeHY2MHExNHlGWGtJbTQxaXEyNkg0LXNHT3MzWUJpSV9NREpCUG40NTBUTFV4dFc4VFFtSmVyWlVoUno2WFAxYnhIejh5N0lWR0dwQURjeG4tekowNlRXR3IxcVdZRlRIZ25PdlJhTEIzRnd3RWM2aWc?oc=5",
-      "source": "Il Fatto Quotidiano",
-      "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "giudiziaria"
-      ],
-      "publishedAt": "2026-09-12T07:00:00.000Z",
-      "excerpt": "Chat Delmastro, ricorso dei pm alla Corte costituzionale contro il “no” della Camera",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T18:33:59.775Z",
+  "generatedAt": "2026-11-20T01:09:03.768Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,8 +94,8 @@
     ]
   },
   "window": {
-    "from": "2026-10-05T18:33:59.775Z",
-    "to": "2026-11-19T18:33:59.775Z",
+    "from": "2026-10-06T01:09:03.768Z",
+    "to": "2026-11-20T01:09:03.768Z",
     "days": 45
   },
   "sources": [
@@ -120,10 +120,6 @@
       "articleCount": 2
     },
     {
-      "label": "ilgiornale.it",
-      "articleCount": 2
-    },
-    {
       "label": "fanpage.it",
       "articleCount": 2
     },
@@ -144,6 +140,10 @@
       "articleCount": 1
     },
     {
+      "label": "ilgiornale.it",
+      "articleCount": 1
+    },
+    {
       "label": "affaritaliani.it",
       "articleCount": 1
     },
@@ -159,18 +159,18 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 42,
-      "uniqueArticles": 21
+      "fetchedArticles": 40,
+      "uniqueArticles": 20
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 18,
-      "uniqueArticles": 7
+      "fetchedArticles": 22,
+      "uniqueArticles": 8
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 23,
-      "uniqueArticles": 6
+      "fetchedArticles": 22,
+      "uniqueArticles": 5
     },
     {
       "label": "Bisteccheria",
@@ -179,7 +179,7 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 7,
+      "fetchedArticles": 9,
       "uniqueArticles": 0
     },
     {
@@ -191,7 +191,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 27
+      "count": 26
     },
     {
       "tag": "politica",
@@ -207,10 +207,6 @@
     }
   ],
   "timeline": [
-    {
-      "date": "2026-10-05",
-      "count": 0
-    },
     {
       "date": "2026-10-06",
       "count": 2
@@ -301,7 +297,7 @@
     },
     {
       "date": "2026-10-28",
-      "count": 9
+      "count": 8
     },
     {
       "date": "2026-10-29",
@@ -389,6 +385,10 @@
     },
     {
       "date": "2026-11-19",
+      "count": 0
+    },
+    {
+      "date": "2026-11-20",
       "count": 0
     }
   ],
@@ -555,26 +555,6 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
-      "id": "ilgiornale.it__il giornale__violate mail deputata meloni delmastro__2026-10-28T07:00:00.000Z",
-      "title": "Violate le mail della “deputata” Meloni e di Delmastro",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYUpNOXJKOVdrQUlWcmRlcUxDcnBMUGl3ZTNWcHN4MFg0Tk9KOGYxeDY1SlhZR0FESVZnbmV3bnBMZEFaQ1RHY1g5cWVKRmRLbll3cGdSU0Jsc1lRREs1eGdGcEJnRXd4emVNU0JmM252cjJBSGZlYjRiT3p5ZHlzQlJMNE1FaEVlaWJYRFo3X19peHc5LWNXc01iMA?oc=5",
-      "googleNewsLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYUpNOXJKOVdrQUlWcmRlcUxDcnBMUGl3ZTNWcHN4MFg0Tk9KOGYxeDY1SlhZR0FESVZnbmV3bnBMZEFaQ1RHY1g5cWVKRmRLbll3cGdSU0Jsc1lRREs1eGdGcEJnRXd4emVNU0JmM252cjJBSGZlYjRiT3p5ZHlzQlJMNE1FaEVlaWJYRFo3X19peHc5LWNXc01iMA?oc=5",
-      "source": "il Giornale",
-      "sourceHost": "ilgiornale.it",
-      "queryLabel": "Delmastro generale",
-      "matchedTerms": [
-        "Delmastro",
-        "Andrea Delmastro"
-      ],
-      "tags": [
-        "altro"
-      ],
-      "publishedAt": "2026-10-28T07:00:00.000Z",
-      "excerpt": "Violate le mail della “deputata” Meloni e di Delmastro",
-      "originalLink": null,
-      "decoderError": "Google News decoder response missing garturlres"
-    },
-    {
       "id": "rainews.it__rainews__caso hydra si pente referente clan senese lombardia__2026-10-28T07:00:00.000Z",
       "title": "Caso Hydra, si pente il referente del clan Senese in Lombardia",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWVNSSDJyUThUQnF4dmc2RTc4b2RiQ3I3YVNMYTEycTNjMFdmcTlwbEFFSDVWSjVpcy13WDR6c0lwMnZ1WlF0MGo0d1V5LWhzUGhSSGFhaFZwUlQ0dTluUE5WS3plQ0FlcmROUjVfbktndjNHTXpSOFMxYkxuYUNtYVdVSnVrSmRZVVlGQVVMMXZTVDBVOE54Y3VqYy05RjJDaG1wcl9FeHZFWXp5bmM2dC1JbWVGTk9jOE5zV24yMFRyT00zcFllM0RJOGo2QzdCWTBjRVQ3T3RHRjFyM0d5a3llc0pqNkprRy1KX0tB0gHzAUFVX3lxTE41Q2hZTDg4U012eHlxV2ZzVUJuZnhHTnM0d2NtNzJYbDRWSjVFMEY5REZPb3RQOHI0M09zdjBNMnNiMHV1RUV6ZFJWVFg2dDdpWmJiZ1RwZndBSlNyNDVxdUxKeVlpU0wzd3JlekRpYUZPMWhYMkRKTWdlSUJUVDJYQlNqVWxBeEdxY1dCNEFKTmpoaFY5U2s3eDZnMFpuYkNhdGQwRk5FVGJSbUpjUjNvc2tDMXJ4ZG92WVNGTjVYLXZ1eHJlcC05OXFLdE1SWlB0SU5LUktYaHBfQ3hGQVZPOEhHeURiMUxPdGlOMGN3LTBTZw?oc=5",
@@ -606,11 +586,14 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTHJoM2gyRTNwdlZ1c29KdlFCOUFmU2RMWXZLd01fYlJ6VWVlTmZhRXJobUdnbjhuM0dfUHE1MmNBQ2dvZkM3cTRhWmUyU2c5UURXUnFRSGhEeHo3b3BnOE9ZRU92ZDhQSEl3TjFieGFOXzNHRkxWTXdTWE9icW5qa1RoMWF0V1dtQXdRQ1haUFV1TnptNmc?oc=5",
       "source": "Il Fatto Quotidiano",
       "sourceHost": "ilfattoquotidiano.it",
-      "queryLabel": "Persone collegate",
+      "queryLabel": "Soci e societa'",
       "matchedTerms": [
-        "Elena Chiorino",
+        "Caroccia",
         "Cristiano Franceschini",
         "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
         "clan Senese"
       ],
       "tags": [

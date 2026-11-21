@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T06:53:29.545Z",
+  "generatedAt": "2026-11-21T15:14:20.417Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,14 +94,18 @@
     ]
   },
   "window": {
-    "from": "2026-10-07T06:53:29.545Z",
-    "to": "2026-11-21T06:53:29.545Z",
+    "from": "2026-10-07T15:14:20.417Z",
+    "to": "2026-11-21T15:14:20.417Z",
     "days": 45
   },
   "sources": [
     {
       "label": "ilfattoquotidiano.it",
       "articleCount": 5
+    },
+    {
+      "label": "repubblica.it",
+      "articleCount": 4
     },
     {
       "label": "quotidiano.net",
@@ -112,12 +116,20 @@
       "articleCount": 2
     },
     {
+      "label": "ansa.it",
+      "articleCount": 2
+    },
+    {
       "label": "fanpage.it",
       "articleCount": 2
     },
     {
       "label": "open.online",
       "articleCount": 2
+    },
+    {
+      "label": "adnkronos.com",
+      "articleCount": 1
     },
     {
       "label": "tg24.sky.it",
@@ -140,6 +152,10 @@
       "articleCount": 1
     },
     {
+      "label": "corriere.it",
+      "articleCount": 1
+    },
+    {
       "label": "lastampa.it",
       "articleCount": 1
     }
@@ -147,27 +163,27 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 24,
-      "uniqueArticles": 12
+      "fetchedArticles": 32,
+      "uniqueArticles": 16
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 12,
-      "uniqueArticles": 4
+      "fetchedArticles": 20,
+      "uniqueArticles": 7
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 11,
-      "uniqueArticles": 3
+      "fetchedArticles": 19,
+      "uniqueArticles": 5
     },
     {
       "label": "Bisteccheria",
       "fetchedArticles": 4,
-      "uniqueArticles": 1
+      "uniqueArticles": 0
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 6,
+      "fetchedArticles": 7,
       "uniqueArticles": 0
     },
     {
@@ -179,11 +195,11 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 14
+      "count": 21
     },
     {
       "tag": "politica",
-      "count": 3
+      "count": 4
     },
     {
       "tag": "territorio",
@@ -201,7 +217,7 @@
     },
     {
       "date": "2026-10-08",
-      "count": 4
+      "count": 5
     },
     {
       "date": "2026-10-09",
@@ -217,7 +233,7 @@
     },
     {
       "date": "2026-10-12",
-      "count": 3
+      "count": 4
     },
     {
       "date": "2026-10-13",
@@ -277,11 +293,11 @@
     },
     {
       "date": "2026-10-27",
-      "count": 2
+      "count": 3
     },
     {
       "date": "2026-10-28",
-      "count": 5
+      "count": 8
     },
     {
       "date": "2026-10-29",
@@ -357,7 +373,7 @@
     },
     {
       "date": "2026-11-16",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-11-17",
@@ -377,10 +393,60 @@
     },
     {
       "date": "2026-11-21",
-      "count": 0
+      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "adnkronos.com__adnkronos__clan senese carcere duro michele o pazz disposto 41bis__2026-11-21T10:29:00.000Z",
+      "title": "Clan Senese, carcere duro per Michele ‘O’ Pazz’: disposto il 41bis",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbUZCU1dOd1hmUjVoMDJFQTFtNC0wcWdzVEVHay1tRUNOdVNlQUlDNzlIMkNlaGlQeC1KNEk0RkNBRVVoZEFpVmhZMFM0TUQ0S0VyR2EtRUFtaUh3ZVhHeWRsSXZDc29fRWFiRUliX2c5MUp4TjZaY0QxbDV3OENRQzNTWkhBM3pDSlRnZ3NTU2FaUQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbUZCU1dOd1hmUjVoMDJFQTFtNC0wcWdzVEVHay1tRUNOdVNlQUlDNzlIMkNlaGlQeC1KNEk0RkNBRVVoZEFpVmhZMFM0TUQ0S0VyR2EtRUFtaUh3ZVhHeWRsSXZDc29fRWFiRUliX2c5MUp4TjZaY0QxbDV3OENRQzNTWkhBM3pDSlRnZ3NTU2FaUQ?oc=5",
+      "source": "Adnkronos",
+      "sourceHost": "adnkronos.com",
+      "queryLabel": "Soci e societa'",
+      "matchedTerms": [
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-11-21T10:29:00.000Z",
+      "excerpt": "Clan Senese, carcere duro per Michele ‘O’ Pazz’: disposto il 41bis",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "repubblica.it__la repubblica__occhi ghiaccio bomba sotto casa l ombra clan senese dietro l ordigno san basilio__2026-11-16T13:35:02.000Z",
+      "title": "«Occhi di Ghiaccio» e la bomba sotto casa: l'ombra del clan Senese dietro l’ordigno di San Basilio",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdnIycXZ2UktpZkVqOERxTVBHTHN0UjVSa0JPTEFtR0RrbWlFTXppUURLaTQtVHlZVndXbDl1VzFjSG1VbHZwYlFBeTYxcjlhZkVSWHhSV1Z0RDJvbk01WnVZVTljbE82VVBkNW9kbThEVlFoY09nMkdKOEZ4X2tWRFBVN09OamxFY3dNYXBjQXlDcDJfTkJjMURoWU9LSGoxX3ZaeDRqcG9LODE2eEE?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdnIycXZ2UktpZkVqOERxTVBHTHN0UjVSa0JPTEFtR0RrbWlFTXppUURLaTQtVHlZVndXbDl1VzFjSG1VbHZwYlFBeTYxcjlhZkVSWHhSV1Z0RDJvbk01WnVZVTljbE82VVBkNW9kbThEVlFoY09nMkdKOEZ4X2tWRFBVN09OamxFY3dNYXBjQXlDcDJfTkJjMURoWU9LSGoxX3ZaeDRqcG9LODE2eEE?oc=5",
+      "source": "la Repubblica",
+      "sourceHost": "repubblica.it",
+      "queryLabel": "Soci e societa'",
+      "matchedTerms": [
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-11-16T13:35:02.000Z",
+      "excerpt": "«Occhi di Ghiaccio» e la bomba sotto casa: l'ombra del clan Senese dietro l’ordigno di San Basilio",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
     {
       "id": "newsbiella.it__newsbiella.it__montecitorio sotto attacco violate email meloni delmastro formentini__2026-10-29T07:00:00.000Z",
       "title": "Montecitorio sotto attacco: violate le email di Meloni, Delmastro e Formentini",
@@ -398,6 +464,75 @@
       ],
       "publishedAt": "2026-10-29T07:00:00.000Z",
       "excerpt": "Montecitorio sotto attacco: violate le email di Meloni, Delmastro e Formentini",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ansa.it__ansa__caso hydra si pente referente clan senese lombardia__2026-10-28T07:00:00.000Z",
+      "title": "Caso Hydra, si pente il referente del clan Senese in Lombardia",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT2NfVmQ0SjBuYXBkdXRSRnN1WlBjSW5wd1owN0dncWJRRjhxN0xoMDJBVXdOQ1lyRkNoeHY0cWRXWlR6cGh6VlMzT0FKNGFiSEczRnNkbmpHMjJMWldKSF9UV0tySUZCZEE4UUpqcVhORDZIUF9zWlF4c0FZSWxNZ3J0cWY3dDhYVnBvSFo2TjRaZG0zMjZNdmtwWUJOS1I0Rm1uaXFmanpGVExJb19RYWtBS1MxZFhiZVYxOVdiTm5KaTNabmZIMTU3SHMxTVN6T2V4aG5obTF3N3BGY2drWXlBSkN5di1mYTJz?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT2NfVmQ0SjBuYXBkdXRSRnN1WlBjSW5wd1owN0dncWJRRjhxN0xoMDJBVXdOQ1lyRkNoeHY0cWRXWlR6cGh6VlMzT0FKNGFiSEczRnNkbmpHMjJMWldKSF9UV0tySUZCZEE4UUpqcVhORDZIUF9zWlF4c0FZSWxNZ3J0cWY3dDhYVnBvSFo2TjRaZG0zMjZNdmtwWUJOS1I0Rm1uaXFmanpGVExJb19RYWtBS1MxZFhiZVYxOVdiTm5KaTNabmZIMTU3SHMxTVN6T2V4aG5obTF3N3BGY2drWXlBSkN5di1mYTJz?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
+      "queryLabel": "Persone collegate",
+      "matchedTerms": [
+        "Elena Chiorino",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "clan Senese"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-10-28T07:00:00.000Z",
+      "excerpt": "Caso Hydra, si pente il referente del clan Senese in Lombardia",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ansa.it__ansa__caso hydra si pente luogotenente clan senese lombardia__2026-10-28T07:00:00.000Z",
+      "title": "Caso Hydra, si pente il 'luogotenente' del clan Senese in Lombardia",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOGZLbzNHNW1JeWhWR2Nnd0hNelBZSFk4ZW1BT2RzN0VrVktBR0NON1l2Ukk3c1djT3VWNXJPMzNqa1JjN2RxUnJxb1RXNUdJRWZxTXlkVjVYcnRCR1QwVEhHQ0VZdVhDN3IxdHMwMl8zaHlYR0ZCVW4xMkJ6MjZtYmdBTDE5anMzeTl3blRXdWVuaFJwVGJiUDdiamdvYWhBdjY5blRYRzdyNVNVdjYyMFR4LWJ0cWs0RTRsb2YtcmltSWRXUmF1R0RXWUNoX3NVMDZBem1zU25scnpfUHNGUHlRbmtpVDl5OU9aRWZid9IB9AFBVV95cUxQS2ZDOW1PNnpMdEQ5VGJqcl9rX3hyRWo0blh1eFUwd1Rsc2lYWHkyaV9UQkw0bjVrVEFLaG1idFFFaFhjSlBKQ096UmlOU1hOcTNJOVpHMUhja1VUTlRCTlBhU2JuXzZRWmtnaU40WF8zUHZFVjdyN0lkVnNGdm9CbUNFXzViT2lmSk1mY3gybkprVmtHUmxwU0VmNXVCTndKNDlHNEZxZW10ZnBPeVFlbmpBbDQ0QzgxelJmdl9HSk93YnN5N19oSC1QdHZrdnNyRGc5Y1JaTWFjMVo0R2Zfa0N4YlE2cjJDcERyYTNIV1RMNExj?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOGZLbzNHNW1JeWhWR2Nnd0hNelBZSFk4ZW1BT2RzN0VrVktBR0NON1l2Ukk3c1djT3VWNXJPMzNqa1JjN2RxUnJxb1RXNUdJRWZxTXlkVjVYcnRCR1QwVEhHQ0VZdVhDN3IxdHMwMl8zaHlYR0ZCVW4xMkJ6MjZtYmdBTDE5anMzeTl3blRXdWVuaFJwVGJiUDdiamdvYWhBdjY5blRYRzdyNVNVdjYyMFR4LWJ0cWs0RTRsb2YtcmltSWRXUmF1R0RXWUNoX3NVMDZBem1zU25scnpfUHNGUHlRbmtpVDl5OU9aRWZid9IB9AFBVV95cUxQS2ZDOW1PNnpMdEQ5VGJqcl9rX3hyRWo0blh1eFUwd1Rsc2lYWHkyaV9UQkw0bjVrVEFLaG1idFFFaFhjSlBKQ096UmlOU1hOcTNJOVpHMUhja1VUTlRCTlBhU2JuXzZRWmtnaU40WF8zUHZFVjdyN0lkVnNGdm9CbUNFXzViT2lmSk1mY3gybkprVmtHUmxwU0VmNXVCTndKNDlHNEZxZW10ZnBPeVFlbmpBbDQ0QzgxelJmdl9HSk93YnN5N19oSC1QdHZrdnNyRGc5Y1JaTWFjMVo0R2Zfa0N4YlE2cjJDcERyYTNIV1RMNExj?oc=5",
+      "source": "ANSA",
+      "sourceHost": "ansa.it",
+      "queryLabel": "Persone collegate",
+      "matchedTerms": [
+        "Elena Chiorino",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "clan Senese"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-10-28T07:00:00.000Z",
+      "excerpt": "Caso Hydra, si pente il 'luogotenente' del clan Senese in Lombardia",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "repubblica.it__la repubblica__inchiesta hydra si pente referente clan senese lombardia giancarlo vestiti__2026-10-28T07:00:00.000Z",
+      "title": "Inchiesta Hydra, si pente il referente del clan Senese in Lombardia Giancarlo Vestiti",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNEcwNFFVZWVGU3p4NGJhZUhSM3JWcW9yMDBjMFpKV0dMcHJsUi04N082SkpQMTZ1VFdfdTFuaUItQVoyMlpXY1VVUFFwRng5aWdvQnZseVFYaVlUWVNJMTI0TE5naDlCWkNyZ1VOa0hHYWVHUUQ0eGlxbjlMUjRyWUpoNGxBTkdib0dJcmNqdmxSRzg4OFhtQlM2THNzM1ppcDRteEFtVXQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNEcwNFFVZWVGU3p4NGJhZUhSM3JWcW9yMDBjMFpKV0dMcHJsUi04N082SkpQMTZ1VFdfdTFuaUItQVoyMlpXY1VVUFFwRng5aWdvQnZseVFYaVlUWVNJMTI0TE5naDlCWkNyZ1VOa0hHYWVHUUQ0eGlxbjlMUjRyWUpoNGxBTkdib0dJcmNqdmxSRzg4OFhtQlM2THNzM1ppcDRteEFtVXQ?oc=5",
+      "source": "la Repubblica",
+      "sourceHost": "repubblica.it",
+      "queryLabel": "Soci e societa'",
+      "matchedTerms": [
+        "Caroccia",
+        "Cristiano Franceschini",
+        "Davide Zappalà",
+        "soci Delmastro",
+        "soci bisteccheria",
+        "srl",
+        "clan Senese"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-10-28T07:00:00.000Z",
+      "excerpt": "Inchiesta Hydra, si pente il referente del clan Senese in Lombardia Giancarlo Vestiti",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -521,6 +656,26 @@
       "decoderError": "Google News decoder response missing garturlres"
     },
     {
+      "id": "repubblica.it__la repubblica__attacchi hacker camera lette mail meloni delmastro leghista formentini__2026-10-27T07:00:00.000Z",
+      "title": "Attacchi hacker alla Camera: lette le mail di Meloni, Delmastro e del leghista Formentini",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHd5UXdsSThaemdrakpUeWR0RnRJQlBzcnhtSU5QbTd6T1ZnVU1nRl92RXM3Ui1zUUFZV2daNWxsTlN4N2FHVjMyNWRrcG9FMmxOdUJyNnNrQngyYTRoY1czUWdZdzg3dWhSR1Fra1RqWHM1QVczZVRuS3VTMEN5dmhNZkFJZkNwRmp3c25WbzgxV0xycm52N2pmLUNPbVZwSHc?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHd5UXdsSThaemdrakpUeWR0RnRJQlBzcnhtSU5QbTd6T1ZnVU1nRl92RXM3Ui1zUUFZV2daNWxsTlN4N2FHVjMyNWRrcG9FMmxOdUJyNnNrQngyYTRoY1czUWdZdzg3dWhSR1Fra1RqWHM1QVczZVRuS3VTMEN5dmhNZkFJZkNwRmp3c25WbzgxV0xycm52N2pmLUNPbVZwSHc?oc=5",
+      "source": "la Repubblica",
+      "sourceHost": "repubblica.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "excerpt": "Attacchi hacker alla Camera: lette le mail di Meloni, Delmastro e del leghista Formentini",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
       "id": "ilgiornale.it__il giornale__attacco hacker camera violate mail meloni delmastro formentini__2026-10-27T07:00:00.000Z",
       "title": "Attacco hacker alla Camera, violate le mail di Meloni, Delmastro e Formentini",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONVhzMHhrVDVCeV9obF9YVFc1NkphenFwQ01ZWS16eGpBT2tLSWM3VmJ2bTZ3aWp2ZEV1RzF0bzRORFpKb2ZQdjU4NGJRMU9UbktMY195dlkwLVFwRzJpS0hldm9QaWFoQmJVaUhuNzhTc29OMU1IT3lJTjhLRTRkRXI2S25lTEJ1YUZNNlpXN0xCZG1WeWlqUHA5VHpKRFE0eVFHNTJGQVV0MHNTN3lOSjBndDl2TkxXUVE?oc=5",
@@ -632,16 +787,36 @@
       "googleNewsLink": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTU54a0UxRVhiMmVmanl3VVl6YVR4MG5BQXRtN3pNS1hSaXpNTHRITHVleHRHd1VQM0xtaV9iQnhkVDhSVFBpVTdYOFM0TnVZUi1UdlBFcnRxNnp3elgxVkdyNll6SHRtWnVEUVpCSXZKZjBHYWRlRFhWNVE2dng5ejFwQl9MWjB2ekxpMmd4QndQNUtJUzlnMUJNbkQybUFObzc3MGk3clJZOW5zQXd3SEdLU0FDcDRnVHFIbE5NdjJ3X1lkbjF5cUpBTlVmSkY5bmZYSDhB?oc=5",
       "source": "Fanpage",
       "sourceHost": "fanpage.it",
-      "queryLabel": "Bisteccheria",
+      "queryLabel": "Delmastro generale",
       "matchedTerms": [
-        "Bisteccheria d'Italia",
-        "bisteccheria"
+        "Delmastro",
+        "Andrea Delmastro"
       ],
       "tags": [
         "altro"
       ],
       "publishedAt": "2026-10-13T07:00:00.000Z",
       "excerpt": "Chat Delmastro-Caroccia, Dori presenta ricorso alla Consulta e riapre il caso per conflitto di attribuzioni",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "repubblica.it__la repubblica__chat delmastro scontro giunta fdi attacca presidente sul ricorso__2026-10-12T07:00:00.000Z",
+      "title": "Chat Delmastro, scontro in giunta. FdI attacca il presidente sul ricorso",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFhtdDFOOGR2MGdWRUwyUFJlbFJ3MnljeHlJbTlzQlZKSzVweWxfVS1vZ0FsUW9sWVFjNEpSUGxSNzFWVVk5U254cjlVbEdCeHFwSHllWmF3YzRTWTdhbDBMMVFkNkI5clVOclNYN1pRbnRHUW16cG15bWtnM0xJcnRfSnA2VjA0dlNmWFRUQ0dLWjVNbm4zaF9DcUdzM2JYYkxvcnJfSThWUVZodWV3U2VXQ3pkOFItYjVXN0xwZ01tUQ?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFhtdDFOOGR2MGdWRUwyUFJlbFJ3MnljeHlJbTlzQlZKSzVweWxfVS1vZ0FsUW9sWVFjNEpSUGxSNzFWVVk5U254cjlVbEdCeHFwSHllWmF3YzRTWTdhbDBMMVFkNkI5clVOclNYN1pRbnRHUW16cG15bWtnM0xJcnRfSnA2VjA0dlNmWFRUQ0dLWjVNbm4zaF9DcUdzM2JYYkxvcnJfSThWUVZodWV3U2VXQ3pkOFItYjVXN0xwZ01tUQ?oc=5",
+      "source": "la Repubblica",
+      "sourceHost": "repubblica.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "politica"
+      ],
+      "publishedAt": "2026-10-12T07:00:00.000Z",
+      "excerpt": "Chat Delmastro, scontro in giunta. FdI attacca il presidente sul ricorso",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
@@ -724,6 +899,26 @@
       ],
       "publishedAt": "2026-10-10T07:00:00.000Z",
       "excerpt": "Dietro la bomba a Centocelle c'è una guerra di mafia a Roma Est: 13 ordigni da maggio dopo il vuoto nel clan Senese",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "corriere.it__corriere della sera__conte mostra foto scarpinato falcone borsellino delmastro invece avvinghiato caroccia__2026-10-08T07:00:00.000Z",
+      "title": "Conte mostra foto Scarpinato con Falcone e Borsellino: \"Delmastro invece avvinghiato con Caroccia\"",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOFhJZlpPRjNlN3VwbXl1QkFJYllHUE9TanRUdnI2UmNtd0hQQnpQdVZCSkFlazJrUG1MUTVhLTBCa3c1SHpnU2RtdTlzSUJGSmtmeHNWbmRhMTU1LWRma25Ja1pzcWpOTEtDaUl5dEItaFZtUmduQVZZQW5pOEpVNUhHa0pjY0F5VlhCNHNOWVFDWENZbHg4eVdZRzVIbTRZcUpxYVVRVDlGMlpqMjJGcTJKMHRlNmIwX2xVenVpS2ZrY3ZrYnFfTm1keHY2X1g0UzRnYkQ1MlJQd0JDNXUwcTdUN3dCWjBhOTZxNzIwTWxiVUxkbWkyTG9MMWdiUlZaYThlempPQ1M?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOFhJZlpPRjNlN3VwbXl1QkFJYllHUE9TanRUdnI2UmNtd0hQQnpQdVZCSkFlazJrUG1MUTVhLTBCa3c1SHpnU2RtdTlzSUJGSmtmeHNWbmRhMTU1LWRma25Ja1pzcWpOTEtDaUl5dEItaFZtUmduQVZZQW5pOEpVNUhHa0pjY0F5VlhCNHNOWVFDWENZbHg4eVdZRzVIbTRZcUpxYVVRVDlGMlpqMjJGcTJKMHRlNmIwX2xVenVpS2ZrY3ZrYnFfTm1keHY2X1g0UzRnYkQ1MlJQd0JDNXUwcTdUN3dCWjBhOTZxNzIwTWxiVUxkbWkyTG9MMWdiUlZaYThlempPQ1M?oc=5",
+      "source": "Corriere della Sera",
+      "sourceHost": "corriere.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-10-08T07:00:00.000Z",
+      "excerpt": "Conte mostra foto Scarpinato con Falcone e Borsellino: \"Delmastro invece avvinghiato con Caroccia\"",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },

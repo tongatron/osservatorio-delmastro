@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T14:23:47.656Z",
+  "generatedAt": "2026-11-24T01:49:54.299Z",
   "topic": {
     "title": "Osservatorio Caso Delmastro",
     "subtitle": "Articoli, spunti e riassunti sul caso Delmastro, i soci e la bisteccheria",
@@ -94,17 +94,17 @@
     ]
   },
   "window": {
-    "from": "2026-10-09T14:23:47.656Z",
-    "to": "2026-11-23T14:23:47.656Z",
+    "from": "2026-10-10T01:49:54.299Z",
+    "to": "2026-11-24T01:49:54.299Z",
     "days": 45
   },
   "sources": [
     {
-      "label": "repubblica.it",
-      "articleCount": 4
+      "label": "ilfattoquotidiano.it",
+      "articleCount": 5
     },
     {
-      "label": "ilfattoquotidiano.it",
+      "label": "repubblica.it",
       "articleCount": 4
     },
     {
@@ -155,17 +155,17 @@
   "queries": [
     {
       "label": "Delmastro generale",
-      "fetchedArticles": 26,
-      "uniqueArticles": 13
+      "fetchedArticles": 28,
+      "uniqueArticles": 14
     },
     {
       "label": "Soci e societa'",
-      "fetchedArticles": 19,
+      "fetchedArticles": 20,
       "uniqueArticles": 8
     },
     {
       "label": "Persone collegate",
-      "fetchedArticles": 20,
+      "fetchedArticles": 21,
       "uniqueArticles": 5
     },
     {
@@ -175,7 +175,7 @@
     },
     {
       "label": "Filone giudiziario",
-      "fetchedArticles": 3,
+      "fetchedArticles": 5,
       "uniqueArticles": 0
     },
     {
@@ -187,7 +187,7 @@
   "tagSummary": [
     {
       "tag": "altro",
-      "count": 19
+      "count": 20
     },
     {
       "tag": "politica",
@@ -204,10 +204,6 @@
   ],
   "timeline": [
     {
-      "date": "2026-10-09",
-      "count": 0
-    },
-    {
       "date": "2026-10-10",
       "count": 1
     },
@@ -221,7 +217,7 @@
     },
     {
       "date": "2026-10-13",
-      "count": 1
+      "count": 2
     },
     {
       "date": "2026-10-14",
@@ -385,6 +381,10 @@
     },
     {
       "date": "2026-11-23",
+      "count": 0
+    },
+    {
+      "date": "2026-11-24",
       "count": 0
     }
   ],
@@ -829,6 +829,26 @@
       ],
       "publishedAt": "2026-10-13T07:00:00.000Z",
       "excerpt": "Chat Delmastro-Caroccia, Dori presenta ricorso alla Consulta e riapre il caso per conflitto di attribuzioni",
+      "originalLink": null,
+      "decoderError": "Google News decoder response missing garturlres"
+    },
+    {
+      "id": "ilfattoquotidiano.it__il fatto quotidiano__chat delmastro destra contro ricorso dori__2026-10-13T07:00:00.000Z",
+      "title": "Chat Delmastro, la destra contro il ricorso di Dori",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWThGWGlRUElsYnBKWGVEbjZsQjROYWJqZGJmMXRCMlBqcWFWOUdBSjVTajE0UnhEX0xqYVZUYVhmWV93anlfRGozS1hmQlkza2pieWVuejUzQ1hqTUFxdzhfNDI3SFhtUmU1dzNVVlVZVUNER0dLMFV3dUdjSzRCQkZyT2J3MTZmb0RlclJvYW5XY00xYy0xRnhCeWZqRzZLSnVTQ1RadDdBNHJfZFY2XzlfZzlNMWlvQkpnU0liVUg?oc=5",
+      "googleNewsLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWThGWGlRUElsYnBKWGVEbjZsQjROYWJqZGJmMXRCMlBqcWFWOUdBSjVTajE0UnhEX0xqYVZUYVhmWV93anlfRGozS1hmQlkza2pieWVuejUzQ1hqTUFxdzhfNDI3SFhtUmU1dzNVVlVZVUNER0dLMFV3dUdjSzRCQkZyT2J3MTZmb0RlclJvYW5XY00xYy0xRnhCeWZqRzZLSnVTQ1RadDdBNHJfZFY2XzlfZzlNMWlvQkpnU0liVUg?oc=5",
+      "source": "Il Fatto Quotidiano",
+      "sourceHost": "ilfattoquotidiano.it",
+      "queryLabel": "Delmastro generale",
+      "matchedTerms": [
+        "Delmastro",
+        "Andrea Delmastro"
+      ],
+      "tags": [
+        "altro"
+      ],
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "excerpt": "Chat Delmastro, la destra contro il ricorso di Dori",
       "originalLink": null,
       "decoderError": "Google News decoder response missing garturlres"
     },
